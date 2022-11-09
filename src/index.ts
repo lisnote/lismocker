@@ -1,15 +1,16 @@
-import express, { Express, Request, Response } from "express";
-import dotenv from "dotenv";
+import express from "express";
+import mocker from "./mocker";
+import recorder from "./recorder";
 
-dotenv.config();
+function startMocker(port: string) {
+  const app = express();
+  app.use(mocker());
+  app.use(recorder);
+  app.listen(port, () =>
+    console.log(`mocker started in \x1b[1;36mhttp://localhost:${port}\x1b[0m`)
+  );
+}
 
-const app = express();
-const port = process.env.PORT;
+export default startMocker;
 
-app.get("/", (req: Request, res: Response) => {
-  res.send("Express + TypeScript Server");
-});
-
-app.listen(port, () => {
-  console.log(`Server is running at http://localhost:${port}`);
-});
+startMocker("6930");
