@@ -7,6 +7,7 @@ import type { Request, Response, NextFunction } from "express";
 
 export default function (target: string) {
   return async function (req: Request, res: Response, next: NextFunction) {
+    console.log("recorder access", req.method, req.path);
     axios({
       baseURL: target,
       method: req.method,
