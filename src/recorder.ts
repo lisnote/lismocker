@@ -1,6 +1,7 @@
+import axios from "axios";
 import { writeFile, mkdir } from "fs/promises";
 import { join } from "path";
-import axios from "axios";
+import { dataLoader } from "./mocker";
 
 import type { Request, Response, NextFunction } from "express";
 
@@ -32,9 +33,15 @@ export default function (target: string) {
         const jsonData: Record<string, any> = {};
         jsonData[req.method] = {};
         jsonData[req.method][req.path] = proxyRes.data;
-        mkdir(dir, { recursive: true }).then(() => {
-          writeFile(join(dir, file), JSON.stringify(jsonData, null, 2), "utf8");
-        });
+        mkdir(dir, { recursive: true })
+          .then(() => {
+            return writeFile(
+              join(dir, file),
+              JSON.stringify(jsonData, null, 2),
+              "utf8"
+            );
+          })
+          .then(() => dataLoader());
       })
       .catch((e) => res.send(e));
   };
