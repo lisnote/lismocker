@@ -1,14 +1,32 @@
-// import {
-//   createProxyMiddleware,
-//   responseInterceptor,
-// } from 'http-proxy-middleware';
-import { writeFile, mkdir } from 'fs/promises';
-import { join } from 'path';
+import { writeFile, mkdir } from "fs/promises";
+import { join } from "path";
+import axios from "axios";
 
-import type { Request, Response, NextFunction } from 'express';
+import type { Request, Response, NextFunction } from "express";
 
-export default function (req: Request, res: Response, next: NextFunction) {
-  next();
+export default function (target: string) {
+  return async function (req: Request, res: Response, next: NextFunction) {
+    axios({
+      baseURL: target,
+      method: req.method,
+      url: req.originalUrl,
+      headers: {
+        ...req.headers,
+        host: target.replace(/https?:\/\//, ""),
+      },
+      data: req.body,
+    })
+      .catch((e) => e.response)
+      .then((proxyRes) => {
+        res.status(proxyRes.status);
+        Object.entries(proxyRes.headers).forEach(([key, value]) => {
+          res.setHeader(key, value as string);
+        });
+        res.setHeader("access-control-allow-origin", "*");
+        res.send(proxyRes.data);
+      })
+      .catch((e) => res.send(e));
+  };
 }
 
 // export default createProxyMiddleware({
