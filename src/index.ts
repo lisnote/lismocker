@@ -1,12 +1,18 @@
 import express from "express";
 import mocker from "./mocker";
 import recorder from "./recorder";
+import dotenv from "dotenv";
 
-function startMocker(port: string) {
+dotenv.config();
+
+const port = process.env.PORT as string;
+const proxyBackend = process.env.PROXY_BACKEND as string;
+
+function startMocker(port: string, proxy: string) {
   const app = express();
   app.use(express.json());
   app.use(mocker());
-  app.use(recorder("https://api.github.com"));
+  app.use(recorder(proxy));
   app.listen(port, () =>
     console.log(`mocker started in \x1b[1;36mhttp://localhost:${port}\x1b[0m`)
   );
@@ -14,4 +20,4 @@ function startMocker(port: string) {
 
 export default startMocker;
 
-startMocker("6930");
+startMocker(port, proxyBackend);
