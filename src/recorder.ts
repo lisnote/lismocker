@@ -2,6 +2,7 @@ import axios from "axios";
 import { writeFile, mkdir } from "fs/promises";
 import { join } from "path";
 import { dataLoader } from "./mocker";
+import qs from "qs";
 
 import type { Request, Response, NextFunction } from "express";
 
@@ -16,7 +17,12 @@ export default function (target: string) {
         ...req.headers,
         host: target.replace(/https?:\/\//, ""),
       },
-      data: req.body,
+      data:
+        req.headers["content-type"]?.indexOf(
+          "application/x-www-form-urlencoded"
+        ) === -1
+          ? req.body
+          : qs.stringify(req.body),
     })
       .catch((e) => e.response)
       .then((proxyRes) => {

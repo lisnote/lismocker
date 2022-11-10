@@ -13,6 +13,7 @@ const proxyBackend = process.env.PROXY_BACKEND as string;
 function startMocker(port: string, proxy: string) {
   const app = express();
   app.use(express.json());
+  app.use(express.urlencoded({ extended: true }));
   app.use(cors);
   app.options("*", options);
   app.use(mocker());
