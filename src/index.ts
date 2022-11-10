@@ -1,6 +1,7 @@
 import dotenv from "dotenv";
 import express from "express";
 import cors from "./cors";
+import options from "./options";
 import mocker from "./mocker";
 import recorder from "./recorder";
 
@@ -13,6 +14,7 @@ function startMocker(port: string, proxy: string) {
   const app = express();
   app.use(express.json());
   app.use(cors);
+  app.options("*", options);
   app.use(mocker());
   app.use(recorder(proxy));
   app.listen(port, () =>
