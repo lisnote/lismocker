@@ -1,14 +1,12 @@
-import dotenv from "dotenv";
+import { config } from "dotenv-flow";
 import express from "express";
 import cors from "./cors";
 import options from "./options";
 import mocker from "./mocker";
 import recorder from "./recorder";
 
-dotenv.config();
-
-const port = process.env.PORT as string;
-const proxyBackend = process.env.PROXY_BACKEND as string;
+config();
+const { PORT, PROXY_BACKEND } = process.env as Record<string, string>;
 
 function startMocker(port: string, proxy: string) {
   const app = express();
@@ -25,4 +23,4 @@ function startMocker(port: string, proxy: string) {
 
 export default startMocker;
 
-startMocker(port, proxyBackend);
+startMocker(PORT, PROXY_BACKEND);

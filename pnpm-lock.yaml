@@ -1,12 +1,13 @@
 lockfileVersion: 5.4
 
 specifiers:
+  '@types/dotenv-flow': ^3.2.0
   '@types/express': ^4.17.14
   '@types/node': ^18.11.9
   '@types/qs': ^6.9.7
   axios: ^1.1.3
   concurrently: ^7.5.0
-  dotenv: ^16.0.3
+  dotenv-flow: ^3.2.0
   express: ^4.18.2
   json5: ^2.2.1
   nodemon: ^2.0.20
@@ -16,12 +17,13 @@ specifiers:
 
 dependencies:
   axios: 1.1.3
-  dotenv: 16.0.3
+  dotenv-flow: 3.2.0
   express: 4.18.2
   json5: 2.2.1
   qs: 6.11.0
 
 devDependencies:
+  '@types/dotenv-flow': 3.2.0
   '@types/express': 4.17.14
   '@types/node': 18.11.9
   '@types/qs': 6.9.7
@@ -82,6 +84,10 @@ packages:
     resolution: {integrity: sha512-cdeYyv4KWoEgpBISTxWvqYsVy444DOqehiF3fM3ne10AmJ62RSyNkUnxMJXHQWRQQX2eR94m5y1IZyDwBjV9FQ==}
     dependencies:
       '@types/node': 18.11.9
+    dev: true
+
+  /@types/dotenv-flow/3.2.0:
+    resolution: {integrity: sha512-A79hbPwocbYkcTwGcDOFbKDuqyVo5mLAz/6Iq465YZ7R7Go5bT1PIM8I2jlPQkaD9u9fbotGVLkUPhX+9XUHfw==}
     dev: true
 
   /@types/express-serve-static-core/4.17.31:
@@ -387,9 +393,16 @@ packages:
     engines: {node: '>=0.3.1'}
     dev: true
 
-  /dotenv/16.0.3:
-    resolution: {integrity: sha512-7GO6HghkA5fYG9TYnNxi14/7K9f5occMlp3zXAuSxn7CKCxt9xbNWG7yF8hTCSUchlfWSe3uLmlPfigevRItzQ==}
-    engines: {node: '>=12'}
+  /dotenv-flow/3.2.0:
+    resolution: {integrity: sha512-GEB6RrR4AbqDJvNSFrYHqZ33IKKbzkvLYiD5eo4+9aFXr4Y4G+QaFrB/fNp0y6McWBmvaPn3ZNjIufnj8irCtg==}
+    engines: {node: '>= 8.0.0'}
+    dependencies:
+      dotenv: 8.6.0
+    dev: false
+
+  /dotenv/8.6.0:
+    resolution: {integrity: sha512-IrPdXQsk2BbzvCBGBOTmmSH5SodmqZNt4ERAZDmW4CT+tL8VtvinqywuANaFu4bOMWki16nqf0e4oC0QIaDr/g==}
+    engines: {node: '>=10'}
     dev: false
 
   /ee-first/1.1.1:
