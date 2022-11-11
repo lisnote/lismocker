@@ -1,5 +1,5 @@
 import { stat } from "fs/promises";
-import { readdirSync, readFileSync } from "fs";
+import { existsSync, mkdirSync, readdirSync, readFileSync } from "fs";
 import { join } from "path";
 import json5 from "json5";
 
@@ -19,7 +19,13 @@ export default function mocker() {
 }
 
 // 加载 mock 数据到 data 对象
-export async function dataLoader(dir = join(__dirname, "data")) {
+export async function dataLoader(
+  dir = (() => {
+    const dir = join(__dirname, "data");
+    if (!existsSync(dir)) mkdirSync(dir, { recursive: true });
+    return dir;
+  })()
+) {
   readdirSync(dir).forEach(async (file) => {
     const fullPath = join(dir, file);
     stat(fullPath).then((state) => {
