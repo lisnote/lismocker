@@ -2,6 +2,7 @@ import { config } from "dotenv-flow";
 import express from "express";
 import cors from "./cors";
 import options from "./options";
+import update from "./update";
 import mocker from "./mocker";
 import recorder from "./recorder";
 
@@ -14,6 +15,7 @@ function startMocker(port: string, proxy: string) {
   app.use(express.urlencoded({ extended: true }));
   app.use(cors);
   app.options("*", options);
+  app.use(update);
   app.use(mocker());
   app.use(recorder(proxy));
   app.listen(port, () =>
