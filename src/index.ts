@@ -9,7 +9,7 @@ import recorder from "./recorder";
 config();
 const { PORT, PROXY_BACKEND } = process.env as Record<string, string>;
 
-function startMocker(port: string, proxy: string) {
+function startServer(port: string, proxy: string) {
   const app = express();
   app.use(express.json());
   app.use(express.urlencoded({ extended: true }));
@@ -23,6 +23,6 @@ function startMocker(port: string, proxy: string) {
   );
 }
 
-export default startMocker;
+export default startServer;
 
-startMocker(PORT, PROXY_BACKEND);
+startServer(PORT, PROXY_BACKEND);
