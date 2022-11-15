@@ -1,8 +1,10 @@
 import type { Request, Response, NextFunction } from "express";
-import { dataLoader } from "./mocker";
+import { initMocker } from "./mocker";
+import { initRecorder } from "./recorder";
 
 const pathMapper: Record<string, Function> = {
-  mocker: dataLoader,
+  mocker: initMocker,
+  recorder: initRecorder,
 };
 
 export default function (req: Request, res: Response, next: NextFunction) {

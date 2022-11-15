@@ -1,12 +1,15 @@
 import axios from "axios";
 import { mkdirSync, writeFileSync } from "fs";
 import { join } from "path";
-import { dataLoader } from "./mocker";
+import { initMocker } from "./mocker";
 import qs from "qs";
+import { config } from "dotenv-flow";
 
 import type { Request, Response, NextFunction } from "express";
 
-export default function (target: string) {
+let target: string;
+function recorder(proxy: string) {
+  target = proxy;
   return async function (req: Request, res: Response, next: NextFunction) {
     console.log("recorder access", req.method, req.path);
     axios({
@@ -46,8 +49,16 @@ export default function (target: string) {
           JSON.stringify(jsonData, null, 2),
           "utf8"
         );
-        dataLoader();
+        initMocker();
       })
       .catch((e) => res.send(e));
   };
 }
+function initRecorder() {
+  const { PROXY_BACKEND } = config({ silent: true }).parsed as Record<
+    string,
+    string
+  >;
+  target = PROXY_BACKEND;
+}
+export { recorder as default, initRecorder };

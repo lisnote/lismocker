@@ -7,7 +7,7 @@ import type { Request, Response, NextFunction } from "express";
 
 const data: Record<string, any> = {};
 export default function mocker() {
-  dataLoader();
+  initMocker();
   return function (req: Request, res: Response, next: NextFunction) {
     if (data[req.method] && data[req.method][req.path] !== undefined) {
       console.log("mocker access", req.method, req.path);
@@ -19,7 +19,7 @@ export default function mocker() {
 }
 
 // 加载 mock 数据到 data 对象
-export async function dataLoader(
+export async function initMocker(
   dir = (() => {
     const dir = join(__dirname, "data");
     if (!existsSync(dir)) mkdirSync(dir, { recursive: true });
@@ -30,7 +30,7 @@ export async function dataLoader(
     const fullPath = join(dir, file);
     stat(fullPath).then((state) => {
       if (state.isDirectory()) {
-        dataLoader(fullPath);
+        initMocker(fullPath);
       } else if (/\.json5?$/.test(fullPath)) {
         const jsonData = json5.parse(readFileSync(fullPath).toString());
         Object.entries(jsonData).forEach(([key, value]) => {
