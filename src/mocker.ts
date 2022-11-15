@@ -11,7 +11,7 @@ export default function mocker() {
   return function (req: Request, res: Response, next: NextFunction) {
     if (data[req.method] && data[req.method][req.path] !== undefined) {
       console.log("mocker access", req.method, req.path);
-      res.send(data[req.method][req.path]);
+      res.proxySend(data[req.method][req.path]);
       return;
     }
     next();

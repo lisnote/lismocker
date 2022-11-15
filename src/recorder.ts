@@ -35,7 +35,7 @@ function recorder(proxy: string) {
           res.setHeader(key, value as string);
         });
         res.setHeader("access-control-allow-origin", "*");
-        res.send(proxyRes.data);
+        res.proxySend(proxyRes.data);
         // 创建 mocker 记录
         if (proxyRes.status != "200") return;
         const dir = join(__dirname, "data/recorder");
@@ -51,7 +51,7 @@ function recorder(proxy: string) {
         );
         initMocker();
       })
-      .catch((e) => res.send(e));
+      .catch((e) => res.proxySend(e));
   };
 }
 function initRecorder() {
