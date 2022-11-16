@@ -7,14 +7,16 @@ import update from "./update";
 import mocker from "./mocker";
 import recorder from "./recorder";
 
+import type { Express } from "express";
 import type { Server } from "http";
 
 config();
 const { PORT, PROXY_BACKEND } = process.env as Record<string, string>;
 
+let app: Express;
 let server: Server;
 function startServer(port: string, proxy: string) {
-  const app = express();
+  app = express();
   app.use(express.json());
   app.use(express.urlencoded({ extended: true }));
   app.use(destroyer);
@@ -28,6 +30,6 @@ function startServer(port: string, proxy: string) {
   );
 }
 
-export { startServer as default, server };
+export { startServer as default, app, server };
 
 startServer(PORT, PROXY_BACKEND);
