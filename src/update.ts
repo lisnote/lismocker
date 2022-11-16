@@ -7,7 +7,6 @@ import { config } from "dotenv-flow";
 const pathMapper: Record<string, (req: Request, res: Response) => void> = {
   init(req: Request, res: Response) {
     server.close();
-    res.destroy();
     const env = config({ silent: true }).parsed as Record<string, string>;
     Object.entries(env).forEach(([key, value]) => {
       process.env[key] = value;
@@ -36,7 +35,7 @@ function updateProxy(
 ) {
   if (path === "/update/" + key) {
     console.log("update access", req.method, req.path);
-    res.end("update: " + key);
+    res.proxySend("update: " + key);
     fn(req, res);
     return true;
   }
