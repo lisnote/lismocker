@@ -16,6 +16,7 @@ const pathMapper: Record<string, (req: Request, res: Response) => void> = {
   },
   mocker: () => initMocker(),
   recorder: () => initRecorder(),
+  stop: () => server.close(),
 };
 
 export default function (req: Request, res: Response, next: NextFunction) {
