@@ -1,7 +1,7 @@
 import type { Request, Response, NextFunction } from "express";
 import { initMocker } from "./mocker";
 import { initRecorder } from "./recorder";
-import startServer, { server } from "./index";
+import startServer, { app, server } from "./index";
 import { config } from "dotenv-flow";
 
 const pathMapper: Record<string, (req: Request, res: Response) => void> = {
@@ -14,8 +14,8 @@ const pathMapper: Record<string, (req: Request, res: Response) => void> = {
     const { PORT, PROXY_BACKEND } = env;
     startServer(PORT, PROXY_BACKEND);
   },
-  mocker: () => initMocker(),
-  recorder: () => initRecorder(),
+  initMocker: () => initMocker(),
+  initRecorder: () => initRecorder(),
   stop: () => server.close(),
 };
 
