@@ -5,7 +5,7 @@ import json5 from "json5";
 
 import type { Request, Response, NextFunction } from "express";
 
-const data: Record<string, any> = {};
+let data: Record<string, any> = {};
 export default function createMocker() {
   initMocker();
   return function mocker(req: Request, res: Response, next: NextFunction) {
@@ -21,6 +21,7 @@ export default function createMocker() {
 // 加载 mock 数据到 data 对象
 export async function initMocker(
   dir = (() => {
+    data = {};
     const dir = join(__dirname, "data");
     if (!existsSync(dir)) mkdirSync(dir, { recursive: true });
     return dir;
