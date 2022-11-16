@@ -5,7 +5,7 @@ import startServer, { app, server } from "./index";
 import { config } from "dotenv-flow";
 
 const pathMapper: Record<string, (req: Request, res: Response) => void> = {
-  init(req: Request, res: Response) {
+  init() {
     server.close();
     const env = config({ silent: true }).parsed as Record<string, string>;
     Object.entries(env).forEach(([key, value]) => {
