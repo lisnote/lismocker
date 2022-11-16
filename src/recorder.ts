@@ -10,16 +10,22 @@ import type { Request, Response, NextFunction } from "express";
 let target: string;
 function createRecorder(proxy: string) {
   target = proxy;
-  return async function recorder(req: Request, res: Response, next: NextFunction) {
+  return async function recorder(
+    req: Request,
+    res: Response,
+    next: NextFunction
+  ) {
     console.log("recorder access", req.method, req.path);
+    let headers = {
+      ...req.headers,
+      host: target.replace(/https?:\/\//, ""),
+    };
+    delete headers["if-none-match"];
     axios({
       baseURL: target,
       method: req.method,
       url: req.originalUrl,
-      headers: {
-        ...req.headers,
-        host: target.replace(/https?:\/\//, ""),
-      },
+      headers,
       data:
         req.headers["content-type"]?.indexOf(
           "application/x-www-form-urlencoded"
