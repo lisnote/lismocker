@@ -6,9 +6,9 @@ import json5 from "json5";
 import type { Request, Response, NextFunction } from "express";
 
 const data: Record<string, any> = {};
-export default function mocker() {
+export default function createMocker() {
   initMocker();
-  return function (req: Request, res: Response, next: NextFunction) {
+  return function mocker(req: Request, res: Response, next: NextFunction) {
     if (data[req.method] && data[req.method][req.path] !== undefined) {
       console.log("mocker access", req.method, req.path);
       res.proxySend(data[req.method][req.path]);

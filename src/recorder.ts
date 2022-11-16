@@ -8,9 +8,9 @@ import { config } from "dotenv-flow";
 import type { Request, Response, NextFunction } from "express";
 
 let target: string;
-function recorder(proxy: string) {
+function createRecorder(proxy: string) {
   target = proxy;
-  return async function (req: Request, res: Response, next: NextFunction) {
+  return async function recorder(req: Request, res: Response, next: NextFunction) {
     console.log("recorder access", req.method, req.path);
     axios({
       baseURL: target,
@@ -61,4 +61,4 @@ function initRecorder() {
   >;
   target = PROXY_BACKEND;
 }
-export { recorder as default, initRecorder };
+export { createRecorder as default, initRecorder };

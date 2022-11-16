@@ -4,8 +4,8 @@ import destroyer from "./destroyer";
 import cors from "./cors";
 import options from "./options";
 import update from "./update";
-import mocker from "./mocker";
-import recorder from "./recorder";
+import createMocker from "./mocker";
+import createRecorder from "./recorder";
 
 import type { Express } from "express";
 import type { Server } from "http";
@@ -23,8 +23,8 @@ function startServer(port: string, proxy: string) {
   app.use(cors);
   app.options("*", options);
   app.use(update);
-  app.use(mocker());
-  app.use(recorder(proxy));
+  app.use(createMocker());
+  app.use(createRecorder(proxy));
   server = app.listen(port, () =>
     console.log(`mocker started in \x1b[1;36mhttp://localhost:${port}\x1b[0m`)
   );

@@ -19,7 +19,7 @@ const pathMapper: Record<string, (req: Request, res: Response) => void> = {
   stop: () => server.close(),
 };
 
-export default function (req: Request, res: Response, next: NextFunction) {
+export default function update(req: Request, res: Response, next: NextFunction) {
   const path = req.path.replace(/\/$/, "");
   for (let key in pathMapper) {
     if (updateProxy(key, pathMapper[key], path, req, res)) return;
