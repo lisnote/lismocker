@@ -1,7 +1,11 @@
+# node
 /node_modules
+# build
 /dist
-
+# temp file
 temp.*
 temp
-
+# local file
 *.local
+# log
+*.log

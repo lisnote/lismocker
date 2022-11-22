@@ -3,6 +3,7 @@ import express from "express";
 import proxySend from "./proxySend";
 import cors from "./cors";
 import options from "./options";
+import logger from "./logger";
 import update from "./update";
 import createMocker from "./mocker";
 import createRecorder from "./recorder";
@@ -21,6 +22,7 @@ function startServer(port: string, proxy: string) {
   app.use(proxySend);
   app.use(cors);
   app.options("*", options);
+  app.use(logger);
   app.use(update);
   app.use(createMocker());
   app.use(createRecorder(proxy));
