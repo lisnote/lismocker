@@ -17,8 +17,7 @@ let app: Express;
 let server: Server;
 function startServer(port: string, proxy: string) {
   app = express();
-  app.use(express.json());
-  app.use(express.urlencoded({ extended: true }));
+  app.use(express.raw({ type: "*/*" }));
   app.use(destroyer);
   app.use(cors);
   app.options("*", options);
