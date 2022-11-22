@@ -1,6 +1,6 @@
 import { config } from "dotenv-flow";
 import express from "express";
-import destroyer from "./destroyer";
+import proxySend from "./proxySend";
 import cors from "./cors";
 import options from "./options";
 import update from "./update";
@@ -18,7 +18,7 @@ let server: Server;
 function startServer(port: string, proxy: string) {
   app = express();
   app.use(express.raw({ type: "*/*" }));
-  app.use(destroyer);
+  app.use(proxySend);
   app.use(cors);
   app.options("*", options);
   app.use(update);
