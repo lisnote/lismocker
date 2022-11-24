@@ -21,7 +21,6 @@ function createRecorder(proxy: string) {
         host: target.replace(/https?:\/\//, ""),
       },
       data: req.body,
-      responseType: "arraybuffer",
     })
       .catch((e) => e.response)
       .then((proxyRes) => {
