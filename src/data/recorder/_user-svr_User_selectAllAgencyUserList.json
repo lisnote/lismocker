@@ -1,0 +1,29 @@
+{
+  "POST": {
+    "/user-svr/User/selectAllAgencyUserList": {
+      "errorCode": 1,
+      "record": [
+        {
+          "agencyId": "7085d7e613734ac5b3826b6a11e1f0f2",
+          "userId": "49d828f411cc4c56abe9330cfd824c64",
+          "solutionType": "9",
+          "uname": "kyd_xjw",
+          "aname": "南宁轨道交通",
+          "phone": "18888888888",
+          "departmentId": "ff491078480748febc4eaf392ee29824",
+          "departmentName": "研发部"
+        },
+        {
+          "agencyId": "7085d7e613734ac5b3826b6a11e1f0f2",
+          "userId": "46fde51b467d4c7c95f39ab8728f7487",
+          "solutionType": "9",
+          "uname": "lisnsdfaaa",
+          "aname": "南宁轨道交通",
+          "phone": "18319135951",
+          "departmentId": "ff491078480748febc4eaf392ee29824",
+          "departmentName": "研发部"
+        }
+      ]
+    }
+  }
+}

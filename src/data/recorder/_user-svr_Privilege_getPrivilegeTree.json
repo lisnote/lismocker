@@ -1,0 +1,539 @@
+{
+  "GET": {
+    "/user-svr/Privilege/getPrivilegeTree": {
+      "errorCode": 1,
+      "record": [
+        {
+          "id": "db67a7ff70dd4310baa9d76fcff515c3",
+          "pid": "000000",
+          "prevId": "000000",
+          "child": [
+            {
+              "id": "19211e53b8784f03959fd9c9cf544931",
+              "pid": "db67a7ff70dd4310baa9d76fcff515c3",
+              "prevId": "db67a7ff70dd4310baa9d76fcff515c3",
+              "child": [
+                {
+                  "id": "d29684c848a7434f9f67311594614144",
+                  "pid": "19211e53b8784f03959fd9c9cf544931",
+                  "prevId": "19211e53b8784f03959fd9c9cf544931",
+                  "child": [],
+                  "name": "数据概览",
+                  "resource": "Overview/DataView",
+                  "solutionType": "9"
+                },
+                {
+                  "id": "755186e376db4171b1768fc8cc1d92da",
+                  "pid": "19211e53b8784f03959fd9c9cf544931",
+                  "prevId": "d29684c848a7434f9f67311594614144",
+                  "child": [],
+                  "name": "设备概览",
+                  "resource": "Overview/DeviceView",
+                  "solutionType": "9"
+                }
+              ],
+              "name": "首页",
+              "resource": "SmcsMenu/Overview",
+              "solutionType": "9"
+            },
+            {
+              "id": "396592f0d9b3469c9c2c4604f2d56a09",
+              "pid": "db67a7ff70dd4310baa9d76fcff515c3",
+              "prevId": "19211e53b8784f03959fd9c9cf544931",
+              "child": [
+                {
+                  "id": "3d39c01e6873463c8ca8314acf09c581",
+                  "pid": "396592f0d9b3469c9c2c4604f2d56a09",
+                  "prevId": "396592f0d9b3469c9c2c4604f2d56a09",
+                  "child": [],
+                  "name": "新增设备",
+                  "resource": "Device/createDevice",
+                  "solutionType": "9"
+                },
+                {
+                  "id": "5c5c51b0e5384ed98d60d44d4a797036",
+                  "pid": "396592f0d9b3469c9c2c4604f2d56a09",
+                  "prevId": "3d39c01e6873463c8ca8314acf09c581",
+                  "child": [],
+                  "name": "修改设备",
+                  "resource": "Device/updateDevice",
+                  "solutionType": "9"
+                },
+                {
+                  "id": "37440636367c409b9bb62eabc356a969",
+                  "pid": "396592f0d9b3469c9c2c4604f2d56a09",
+                  "prevId": "5c5c51b0e5384ed98d60d44d4a797036",
+                  "child": [],
+                  "name": "删除设备",
+                  "resource": "Device/deleteDevice",
+                  "solutionType": "9"
+                },
+                {
+                  "id": "42972cc84ad7442f962e3310d4092b98",
+                  "pid": "396592f0d9b3469c9c2c4604f2d56a09",
+                  "prevId": "37440636367c409b9bb62eabc356a969",
+                  "child": [],
+                  "name": "授权开锁",
+                  "resource": "Device/authorization",
+                  "solutionType": "9"
+                }
+              ],
+              "name": "设备管理",
+              "resource": "SmcsMenu/DeviceManager",
+              "solutionType": "9"
+            },
+            {
+              "id": "c493a03424c14336b79409b16443ba61",
+              "pid": "db67a7ff70dd4310baa9d76fcff515c3",
+              "prevId": "396592f0d9b3469c9c2c4604f2d56a09",
+              "child": [
+                {
+                  "id": "818eca966c374a6385b1c4601ddc1a44",
+                  "pid": "c493a03424c14336b79409b16443ba61",
+                  "prevId": "c493a03424c14336b79409b16443ba61",
+                  "child": [],
+                  "name": "实时数据",
+                  "resource": "Data/realData",
+                  "solutionType": "9"
+                },
+                {
+                  "id": "01a8bedfd5454d138ce4d50e7376f140",
+                  "pid": "c493a03424c14336b79409b16443ba61",
+                  "prevId": "818eca966c374a6385b1c4601ddc1a44",
+                  "child": [],
+                  "name": "历史数据",
+                  "resource": "Data/historyData",
+                  "solutionType": "9"
+                }
+              ],
+              "name": "数据管理",
+              "resource": "SmcsMenu/DataManager",
+              "solutionType": "9"
+            },
+            {
+              "id": "371631d89ff6485aa6d10b6104ded13a",
+              "pid": "db67a7ff70dd4310baa9d76fcff515c3",
+              "prevId": "c493a03424c14336b79409b16443ba61",
+              "child": [
+                {
+                  "id": "5f107d043e484755adfccbf69eb1a907",
+                  "pid": "371631d89ff6485aa6d10b6104ded13a",
+                  "prevId": "371631d89ff6485aa6d10b6104ded13a",
+                  "child": [
+                    {
+                      "id": "0804e6cd6f9a46c29c817de58e5f4c11",
+                      "pid": "5f107d043e484755adfccbf69eb1a907",
+                      "prevId": "5f107d043e484755adfccbf69eb1a907",
+                      "child": [],
+                      "name": "新增报警原因",
+                      "resource": "AlarmCause/createCause",
+                      "solutionType": "9"
+                    },
+                    {
+                      "id": "be63b146d482407cbaaa684cc40dc89f",
+                      "pid": "5f107d043e484755adfccbf69eb1a907",
+                      "prevId": "0804e6cd6f9a46c29c817de58e5f4c11",
+                      "child": [],
+                      "name": "编辑报警原因",
+                      "resource": "AlarmCause/updateCause",
+                      "solutionType": "9"
+                    },
+                    {
+                      "id": "e725c8f605304fb0a73cfe179ce1eb08",
+                      "pid": "5f107d043e484755adfccbf69eb1a907",
+                      "prevId": "be63b146d482407cbaaa684cc40dc89f",
+                      "child": [],
+                      "name": "删除报警原因",
+                      "resource": "AlarmCause/deleteCause",
+                      "solutionType": "9"
+                    }
+                  ],
+                  "name": "报警原因",
+                  "resource": "SmcsMenu/AlarmCause",
+                  "solutionType": "9"
+                },
+                {
+                  "id": "b5054d36a56b48f6b3e408660d621345",
+                  "pid": "371631d89ff6485aa6d10b6104ded13a",
+                  "prevId": "5f107d043e484755adfccbf69eb1a907",
+                  "child": [
+                    {
+                      "id": "e86fbd2ec8f3442684752ae67d297dc9",
+                      "pid": "b5054d36a56b48f6b3e408660d621345",
+                      "prevId": "b5054d36a56b48f6b3e408660d621345",
+                      "child": [],
+                      "name": "新增报警等级",
+                      "resource": "AlarmRank/createRank",
+                      "solutionType": "9"
+                    },
+                    {
+                      "id": "8a05caa4cae042e59d4ad34d4983b3ab",
+                      "pid": "b5054d36a56b48f6b3e408660d621345",
+                      "prevId": "e86fbd2ec8f3442684752ae67d297dc9",
+                      "child": [],
+                      "name": "编辑报警等级",
+                      "resource": "AlarmRank/updateRank",
+                      "solutionType": "9"
+                    },
+                    {
+                      "id": "2e818e3c866943c3b382d11f80d4398f",
+                      "pid": "b5054d36a56b48f6b3e408660d621345",
+                      "prevId": "8a05caa4cae042e59d4ad34d4983b3ab",
+                      "child": [],
+                      "name": "删除报警原因",
+                      "resource": "AlarmRank/deleteRank",
+                      "solutionType": "9"
+                    }
+                  ],
+                  "name": "报警等级",
+                  "resource": "SmcsMenu/AlarmRank",
+                  "solutionType": "9"
+                },
+                {
+                  "id": "493842de211c410aac579bb5e4bf70c1",
+                  "pid": "371631d89ff6485aa6d10b6104ded13a",
+                  "prevId": "b5054d36a56b48f6b3e408660d621345",
+                  "child": [
+                    {
+                      "id": "4a1d5ea960c04d06a083b1cac43884ff",
+                      "pid": "493842de211c410aac579bb5e4bf70c1",
+                      "prevId": "493842de211c410aac579bb5e4bf70c1",
+                      "child": [],
+                      "name": "新增报警记录",
+                      "resource": "AlarmHistory/createHistory",
+                      "solutionType": "9"
+                    },
+                    {
+                      "id": "587c6951bc0c40c39a5e847a2c1bffa6",
+                      "pid": "493842de211c410aac579bb5e4bf70c1",
+                      "prevId": "4a1d5ea960c04d06a083b1cac43884ff",
+                      "child": [],
+                      "name": "修改报警记录",
+                      "resource": "AlarmHistory/updateHistory",
+                      "solutionType": "9"
+                    },
+                    {
+                      "id": "1f15d18c7bc340008840600e4a281d2f",
+                      "pid": "493842de211c410aac579bb5e4bf70c1",
+                      "prevId": "587c6951bc0c40c39a5e847a2c1bffa6",
+                      "child": [],
+                      "name": "删除报警记录",
+                      "resource": "AlarmHistory/deleteHistory",
+                      "solutionType": "9"
+                    }
+                  ],
+                  "name": "报警记录",
+                  "resource": "SmcsMenu/AlarmHistory",
+                  "solutionType": "9"
+                },
+                {
+                  "id": "aa6ba1a6b75a4d609c7c771edd7fce49",
+                  "pid": "371631d89ff6485aa6d10b6104ded13a",
+                  "prevId": "493842de211c410aac579bb5e4bf70c1",
+                  "child": [
+                    {
+                      "id": "946bb2059a694b0eb0ee55751c867e08",
+                      "pid": "aa6ba1a6b75a4d609c7c771edd7fce49",
+                      "prevId": "aa6ba1a6b75a4d609c7c771edd7fce49",
+                      "child": [],
+                      "name": "新增报警配置",
+                      "resource": "AlarmConfig/createConfig",
+                      "solutionType": "9"
+                    },
+                    {
+                      "id": "8683a3f1504b4860a970ae2868fa18cb",
+                      "pid": "aa6ba1a6b75a4d609c7c771edd7fce49",
+                      "prevId": "946bb2059a694b0eb0ee55751c867e08",
+                      "child": [],
+                      "name": "修改报警配置",
+                      "resource": "AlarmConfig/updateConfig",
+                      "solutionType": "9"
+                    },
+                    {
+                      "id": "021d3dcb820b467d8d88144ec4cdcff1",
+                      "pid": "aa6ba1a6b75a4d609c7c771edd7fce49",
+                      "prevId": "8683a3f1504b4860a970ae2868fa18cb",
+                      "child": [],
+                      "name": "删除报警配置",
+                      "resource": "AlarmConfig/deleteConfig",
+                      "solutionType": "9"
+                    }
+                  ],
+                  "name": "报警配置",
+                  "resource": "SmcsMenu/AlarmConfig",
+                  "solutionType": "9"
+                }
+              ],
+              "name": "报警管理",
+              "resource": "SmcsMenu/AlarmManager",
+              "solutionType": "9"
+            },
+            {
+              "id": "39d6a13c83714cde864855ce4dbad676",
+              "pid": "db67a7ff70dd4310baa9d76fcff515c3",
+              "prevId": "371631d89ff6485aa6d10b6104ded13a",
+              "child": [
+                {
+                  "id": "af35cc61d66042dcb76d7cd3d43be610",
+                  "pid": "39d6a13c83714cde864855ce4dbad676",
+                  "prevId": "39d6a13c83714cde864855ce4dbad676",
+                  "child": [],
+                  "name": "新增工单",
+                  "resource": "WorkOrder/creaetOrder",
+                  "solutionType": "9"
+                },
+                {
+                  "id": "603acbc558db4905b4b16a018ec507e8",
+                  "pid": "39d6a13c83714cde864855ce4dbad676",
+                  "prevId": "af35cc61d66042dcb76d7cd3d43be610",
+                  "child": [],
+                  "name": "修改工单",
+                  "resource": "WorkOrder/updateOrder",
+                  "solutionType": "9"
+                },
+                {
+                  "id": "4791c57aacc0431c96f136ed0a771182",
+                  "pid": "39d6a13c83714cde864855ce4dbad676",
+                  "prevId": "603acbc558db4905b4b16a018ec507e8",
+                  "child": [],
+                  "name": "处理工单",
+                  "resource": "WorkOder/dealOrder",
+                  "solutionType": "9"
+                },
+                {
+                  "id": "ea84aa42fea5445ba1f5e36d94f18791",
+                  "pid": "39d6a13c83714cde864855ce4dbad676",
+                  "prevId": "4791c57aacc0431c96f136ed0a771182",
+                  "child": [],
+                  "name": "删除工单",
+                  "resource": "WorkOrder/deleteOrder",
+                  "solutionType": "9"
+                }
+              ],
+              "name": "工单管理",
+              "resource": "SmcsMenu/WorkOrder",
+              "solutionType": "9"
+            },
+            {
+              "id": "e259f8585b7d4b228450abcb5ac1653c",
+              "pid": "db67a7ff70dd4310baa9d76fcff515c3",
+              "prevId": "39d6a13c83714cde864855ce4dbad676",
+              "child": [
+                {
+                  "id": "bb386e83267e4cdeb17c749f04a6342a",
+                  "pid": "e259f8585b7d4b228450abcb5ac1653c",
+                  "prevId": "e259f8585b7d4b228450abcb5ac1653c",
+                  "child": [
+                    {
+                      "id": "20ee50cb83404d1791137d238b134801",
+                      "pid": "bb386e83267e4cdeb17c749f04a6342a",
+                      "prevId": "bb386e83267e4cdeb17c749f04a6342a",
+                      "child": [],
+                      "name": "邀请用户",
+                      "resource": "User/AddUser",
+                      "solutionType": "9"
+                    },
+                    {
+                      "id": "026d1d3c34ec47f2806047e4fd51a66e",
+                      "pid": "bb386e83267e4cdeb17c749f04a6342a",
+                      "prevId": "20ee50cb83404d1791137d238b134801",
+                      "child": [],
+                      "name": "删除成员",
+                      "resource": "User/deleteUser",
+                      "solutionType": "9"
+                    },
+                    {
+                      "id": "6252dba69766487a80728f542a3adbd1",
+                      "pid": "bb386e83267e4cdeb17c749f04a6342a",
+                      "prevId": "026d1d3c34ec47f2806047e4fd51a66e",
+                      "child": [],
+                      "name": "重置密码",
+                      "resource": "User/resetPassword",
+                      "solutionType": "9"
+                    },
+                    {
+                      "id": "6328b55b74704963b3f39aba2c86fd60",
+                      "pid": "bb386e83267e4cdeb17c749f04a6342a",
+                      "prevId": "6252dba69766487a80728f542a3adbd1",
+                      "child": [],
+                      "name": "用户绑定角色",
+                      "resource": "User/SetRole",
+                      "solutionType": "9"
+                    }
+                  ],
+                  "name": "成员管理",
+                  "resource": "System/Member",
+                  "solutionType": "9"
+                },
+                {
+                  "id": "5e25f6435fcd45099b9cc7de8709e92b",
+                  "pid": "e259f8585b7d4b228450abcb5ac1653c",
+                  "prevId": "bb386e83267e4cdeb17c749f04a6342a",
+                  "child": [
+                    {
+                      "id": "69db937f1b434443b3cc0fe1cf2e74c4",
+                      "pid": "5e25f6435fcd45099b9cc7de8709e92b",
+                      "prevId": "5e25f6435fcd45099b9cc7de8709e92b",
+                      "child": [],
+                      "name": "新增角色",
+                      "resource": "Role/addRole",
+                      "solutionType": "9"
+                    },
+                    {
+                      "id": "7dd0774a773b40deb2a43271c05c3ce3",
+                      "pid": "5e25f6435fcd45099b9cc7de8709e92b",
+                      "prevId": "69db937f1b434443b3cc0fe1cf2e74c4",
+                      "child": [],
+                      "name": "修改角色",
+                      "resource": "Role/updateRole",
+                      "solutionType": "9"
+                    },
+                    {
+                      "id": "bd11fdf0a741447c937e7cbbd3b19a14",
+                      "pid": "5e25f6435fcd45099b9cc7de8709e92b",
+                      "prevId": "7dd0774a773b40deb2a43271c05c3ce3",
+                      "child": [],
+                      "name": "删除角色",
+                      "resource": "Role/deleteRole",
+                      "solutionType": "9"
+                    }
+                  ],
+                  "name": "角色管理",
+                  "resource": "System/Role",
+                  "solutionType": "9"
+                },
+                {
+                  "id": "5c3e58fc80d643208857ff50b9ac420e",
+                  "pid": "e259f8585b7d4b228450abcb5ac1653c",
+                  "prevId": "5e25f6435fcd45099b9cc7de8709e92b",
+                  "child": [
+                    {
+                      "id": "08a83f48fb1b43678b96eb2c5be47d96",
+                      "pid": "5c3e58fc80d643208857ff50b9ac420e",
+                      "prevId": "5c3e58fc80d643208857ff50b9ac420e",
+                      "child": [],
+                      "name": "角色绑定权限",
+                      "resource": "Role/setPrivilege",
+                      "solutionType": "9"
+                    }
+                  ],
+                  "name": "角色权限",
+                  "resource": "System/RolePrivilege",
+                  "solutionType": "9"
+                },
+                {
+                  "id": "51ac44573e6b417493f6b9949d245d0d",
+                  "pid": "e259f8585b7d4b228450abcb5ac1653c",
+                  "prevId": "5c3e58fc80d643208857ff50b9ac420e",
+                  "child": [],
+                  "name": "权限管理",
+                  "resource": "System/Privilege",
+                  "solutionType": "9"
+                },
+                {
+                  "id": "f60bccdcb1ad405588b8a55f1c7d94d6",
+                  "pid": "e259f8585b7d4b228450abcb5ac1653c",
+                  "prevId": "51ac44573e6b417493f6b9949d245d0d",
+                  "child": [
+                    {
+                      "id": "6f87f737a2d04f70a3304a02c2287baf",
+                      "pid": "f60bccdcb1ad405588b8a55f1c7d94d6",
+                      "prevId": "f60bccdcb1ad405588b8a55f1c7d94d6",
+                      "child": [],
+                      "name": "新增部门",
+                      "resource": "Department/createDepartment",
+                      "solutionType": "9"
+                    },
+                    {
+                      "id": "3e35bd44ff764f8b8f8223cb0d29cff9",
+                      "pid": "f60bccdcb1ad405588b8a55f1c7d94d6",
+                      "prevId": "6f87f737a2d04f70a3304a02c2287baf",
+                      "child": [],
+                      "name": "修改部门",
+                      "resource": "Department/updateDepartment",
+                      "solutionType": "9"
+                    },
+                    {
+                      "id": "4d6e1cac9f3d45629e38aa18cd1e0a9f",
+                      "pid": "f60bccdcb1ad405588b8a55f1c7d94d6",
+                      "prevId": "3e35bd44ff764f8b8f8223cb0d29cff9",
+                      "child": [],
+                      "name": "删除部门",
+                      "resource": "Department/deleteDepartment",
+                      "solutionType": "9"
+                    }
+                  ],
+                  "name": "部门管理",
+                  "resource": "System/Department",
+                  "solutionType": "9"
+                },
+                {
+                  "id": "4d0a01e5429840148dcd26b6da93ce2d",
+                  "pid": "e259f8585b7d4b228450abcb5ac1653c",
+                  "prevId": "f60bccdcb1ad405588b8a55f1c7d94d6",
+                  "child": [
+                    {
+                      "id": "3c7e0280a6db4ff9b52ee9d0b341c699",
+                      "pid": "4d0a01e5429840148dcd26b6da93ce2d",
+                      "prevId": "4d0a01e5429840148dcd26b6da93ce2d",
+                      "child": [],
+                      "name": "新增区域",
+                      "resource": "Area/createArea",
+                      "solutionType": "9"
+                    },
+                    {
+                      "id": "a892e862bc574964ab9d164b7bed2fb7",
+                      "pid": "4d0a01e5429840148dcd26b6da93ce2d",
+                      "prevId": "3c7e0280a6db4ff9b52ee9d0b341c699",
+                      "child": [],
+                      "name": "修改区域",
+                      "resource": "Area/updateArea",
+                      "solutionType": "9"
+                    },
+                    {
+                      "id": "3e67b20717974bed8d643ff841173bc8",
+                      "pid": "4d0a01e5429840148dcd26b6da93ce2d",
+                      "prevId": "a892e862bc574964ab9d164b7bed2fb7",
+                      "child": [],
+                      "name": "删除区域",
+                      "resource": "Area/deleteArea",
+                      "solutionType": "9"
+                    }
+                  ],
+                  "name": "区域管理",
+                  "resource": "System/Area",
+                  "solutionType": "9"
+                },
+                {
+                  "id": "3df666e509344e329196dbfa71f57f33",
+                  "pid": "e259f8585b7d4b228450abcb5ac1653c",
+                  "prevId": "4d0a01e5429840148dcd26b6da93ce2d",
+                  "child": [
+                    {
+                      "id": "6199b99a8a554a54a70b5ae5bbaefca3",
+                      "pid": "3df666e509344e329196dbfa71f57f33",
+                      "prevId": "3df666e509344e329196dbfa71f57f33",
+                      "child": [],
+                      "name": "激活许可证",
+                      "resource": "License/SettingLicense",
+                      "solutionType": "9"
+                    }
+                  ],
+                  "name": "许可证管理",
+                  "resource": "System/License",
+                  "solutionType": "9"
+                }
+              ],
+              "name": "系统管理",
+              "resource": "SmcsMenu/SystemManager",
+              "solutionType": "9"
+            }
+          ],
+          "name": "系统菜单",
+          "resource": "SmcsMenu",
+          "solutionType": "9"
+        }
+      ]
+    }
+  }
+}

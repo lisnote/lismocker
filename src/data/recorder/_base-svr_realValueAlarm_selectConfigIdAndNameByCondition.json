@@ -1,0 +1,8 @@
+{
+  "POST": {
+    "/base-svr/realValueAlarm/selectConfigIdAndNameByCondition": {
+      "errorCode": 1,
+      "record": []
+    }
+  }
+}

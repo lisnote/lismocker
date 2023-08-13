@@ -1,0 +1,26 @@
+{
+  "POST": {
+    "/user-svr/Department/getDepartmentTree": {
+      "errorCode": 1,
+      "record": [
+        {
+          "id": "ff491078480748febc4eaf392ee29824",
+          "name": "研发部",
+          "pid": "000000",
+          "orderNum": 0,
+          "agencyId": "7085d7e613734ac5b3826b6a11e1f0f2",
+          "child": [
+            {
+              "id": "a8648ff2d50249e7aa03dbb61f1ed9ca",
+              "name": "研发二部",
+              "pid": "ff491078480748febc4eaf392ee29824",
+              "orderNum": 1,
+              "agencyId": "7085d7e613734ac5b3826b6a11e1f0f2",
+              "child": null
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

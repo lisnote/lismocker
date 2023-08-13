@@ -1,0 +1,94 @@
+{
+  "GET": {
+    "/user-svr/User/getDeviceTreeList": {
+      "errorCode": 1,
+      "record": [
+        {
+          "id": "ffa4f403bd2d4276896e9a4b252f7ab2",
+          "pid": "7085d7e613734ac5b3826b6a11e1f0f2",
+          "prevId": "7085d7e613734ac5b3826b6a11e1f0f2",
+          "child": [
+            {
+              "id": "0d813c9e1e5745b7b769a58f1df915f9",
+              "pid": "ffa4f403bd2d4276896e9a4b252f7ab2",
+              "prevId": "ffa4f403bd2d4276896e9a4b252f7ab2",
+              "child": [],
+              "name": "A口",
+              "addr": null,
+              "color": null,
+              "addTime": {
+                "year": 123,
+                "month": 7,
+                "date": 9,
+                "day": 3,
+                "hours": 9,
+                "minutes": 5,
+                "seconds": 18,
+                "time": 1691543118000,
+                "timezoneOffset": -480
+              },
+              "mark": null
+            },
+            {
+              "id": "0c91aafbe5c54428a537d85e734bf84c",
+              "pid": "ffa4f403bd2d4276896e9a4b252f7ab2",
+              "prevId": "0d813c9e1e5745b7b769a58f1df915f9",
+              "child": [],
+              "name": "B口",
+              "addr": null,
+              "color": null,
+              "addTime": {
+                "year": 123,
+                "month": 7,
+                "date": 9,
+                "day": 3,
+                "hours": 9,
+                "minutes": 5,
+                "seconds": 25,
+                "time": 1691543125000,
+                "timezoneOffset": -480
+              },
+              "mark": null
+            }
+          ],
+          "name": "11号线",
+          "addr": null,
+          "color": null,
+          "addTime": {
+            "year": 123,
+            "month": 7,
+            "date": 9,
+            "day": 3,
+            "hours": 9,
+            "minutes": 4,
+            "seconds": 57,
+            "time": 1691543097000,
+            "timezoneOffset": -480
+          },
+          "mark": null
+        },
+        {
+          "id": "139e9398adcb4dd6bf33fc3d170e0735",
+          "pid": "7085d7e613734ac5b3826b6a11e1f0f2",
+          "prevId": "ffa4f403bd2d4276896e9a4b252f7ab2",
+          "child": [],
+          "name": "16号线",
+          "addr": null,
+          "color": null,
+          "addTime": {
+            "year": 123,
+            "month": 7,
+            "date": 9,
+            "day": 3,
+            "hours": 9,
+            "minutes": 5,
+            "seconds": 9,
+            "time": 1691543109000,
+            "timezoneOffset": -480
+          },
+          "mark": null
+        }
+      ]
+    }
+  }
+}

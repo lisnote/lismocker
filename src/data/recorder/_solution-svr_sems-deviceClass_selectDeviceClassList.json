@@ -1,0 +1,13 @@
+{
+  "POST": {
+    "/solution-svr/sems-deviceClass/selectDeviceClassList": {
+      "errorCode": 1,
+      "record": {
+        "code": 0,
+        "msg": "success",
+        "count": 0,
+        "data": []
+      }
+    }
+  }
+}

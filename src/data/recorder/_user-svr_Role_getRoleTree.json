@@ -1,0 +1,38 @@
+{
+  "GET": {
+    "/user-svr/Role/getRoleTree": {
+      "errorCode": 1,
+      "record": [
+        {
+          "id": "f8f44582e33e4f2b9b66e2e49bd94bbd",
+          "name": "Administrator",
+          "mark": "Administrator",
+          "pid": "000000",
+          "solutiontype": "9",
+          "agencyid": "7085d7e613734ac5b3826b6a11e1f0f2",
+          "child": [
+            {
+              "id": "02521ba0c3f34768ab1ad4b9d6b111b1",
+              "name": "管理员",
+              "mark": "管理员",
+              "pid": "f8f44582e33e4f2b9b66e2e49bd94bbd",
+              "solutiontype": "9",
+              "agencyid": "7085d7e613734ac5b3826b6a11e1f0f2",
+              "child": [
+                {
+                  "id": "3af33d5651504726a51bfe92721d3dfd",
+                  "name": "子管理员",
+                  "mark": "子管理员",
+                  "pid": "02521ba0c3f34768ab1ad4b9d6b111b1",
+                  "solutiontype": "9",
+                  "agencyid": "7085d7e613734ac5b3826b6a11e1f0f2",
+                  "child": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

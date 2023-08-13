@@ -1,0 +1,89 @@
+{
+  "POST": {
+    "/base-svr/proType/selectProTypeList": {
+      "errorCode": 1,
+      "record": [
+        {
+          "id": 29,
+          "type": 5000,
+          "dataType": 1,
+          "name": "面风速",
+          "unit": "--",
+          "mark": "面风速"
+        },
+        {
+          "id": 30,
+          "type": 5001,
+          "dataType": 1,
+          "name": "功率参数（高两位电压，低两位电流）",
+          "unit": "kw",
+          "mark": "功率参数（高两位电压，低两位电流）"
+        },
+        {
+          "id": 31,
+          "type": 5002,
+          "dataType": 1,
+          "name": "功率",
+          "unit": "kw",
+          "mark": "功率"
+        },
+        {
+          "id": 32,
+          "type": 5003,
+          "dataType": 1,
+          "name": "温度",
+          "unit": "℃",
+          "mark": "温度"
+        },
+        {
+          "id": 33,
+          "type": 5004,
+          "dataType": 1,
+          "name": "湿度",
+          "unit": "%RH",
+          "mark": "湿度"
+        },
+        {
+          "id": 34,
+          "type": 5005,
+          "dataType": 1,
+          "name": "CO2",
+          "unit": "mg/m³",
+          "mark": "CO2"
+        },
+        {
+          "id": 35,
+          "type": 5006,
+          "dataType": 1,
+          "name": "CO",
+          "unit": "mg/m³",
+          "mark": "CO"
+        },
+        {
+          "id": 36,
+          "type": 5007,
+          "dataType": 1,
+          "name": "TVOC",
+          "unit": "ppm",
+          "mark": "总挥发性有机物"
+        },
+        {
+          "id": 37,
+          "type": 5008,
+          "dataType": 1,
+          "name": "光照度",
+          "unit": "Lux",
+          "mark": "光照度"
+        },
+        {
+          "id": 38,
+          "type": 5009,
+          "dataType": 1,
+          "name": "水漏",
+          "unit": null,
+          "mark": "水漏"
+        }
+      ]
+    }
+  }
+}

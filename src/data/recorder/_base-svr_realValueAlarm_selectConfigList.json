@@ -1,0 +1,8 @@
+{
+  "POST": {
+    "/base-svr/realValueAlarm/selectConfigList": {
+      "errorCode": 1,
+      "record": []
+    }
+  }
+}

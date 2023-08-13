@@ -1,0 +1,65 @@
+{
+  "GET": {
+    "/user-svr/User/getAgencyListByUserId": {
+      "errorCode": 1,
+      "record": [
+        {
+          "id": "isdi1sk4das6o4z15y3ai1ga4jx3df9e",
+          "pid": "000000",
+          "prevId": null,
+          "child": null,
+          "name": "智慧井盖测试项目",
+          "addr": null,
+          "color": null,
+          "addTime": {
+            "year": 123,
+            "month": 7,
+            "date": 7,
+            "day": 1,
+            "hours": 16,
+            "minutes": 17,
+            "seconds": 17,
+            "time": 1691396237000,
+            "timezoneOffset": -480
+          },
+          "mark": null,
+          "cCount": 10,
+          "did": null,
+          "dName": null,
+          "deviceJsonType": null,
+          "creator": "49d828f411cc4c56abe9330cfd824c64",
+          "devCount": 0,
+          "onlineStatus": false
+        },
+        {
+          "id": "7085d7e613734ac5b3826b6a11e1f0f2",
+          "pid": "000000",
+          "prevId": null,
+          "child": null,
+          "name": "南宁轨道交通",
+          "addr": null,
+          "color": "#3DA5FA",
+          "addTime": {
+            "year": 123,
+            "month": 7,
+            "date": 7,
+            "day": 1,
+            "hours": 15,
+            "minutes": 3,
+            "seconds": 21,
+            "time": 1691391801000,
+            "timezoneOffset": -480
+          },
+          "mark": "主要项目，禁止删除",
+          "cCount": 9,
+          "did": null,
+          "dName": null,
+          "deviceJsonType": null,
+          "creator": "49d828f411cc4c56abe9330cfd824c64",
+          "devCount": 3,
+          "onlineStatus": false
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "POST": {
+    "/base-svr/alarmRank/selectAlarmRankList": {
+      "errorCode": 1,
+      "record": []
+    }
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "GET": {
+    "/base-svr/ConDeviceService/findDeviceListByAgencyId": {
+      "errorCode": 1,
+      "record": [
+        {
+          "id": "smcs_Device_01",
+          "name": "smcs_Device_01",
+          "macAddr": "xxxx",
+          "type": 10012,
+          "gatewayId": "smcs",
+          "subsystemId": null,
+          "netinTime": null,
+          "online": true,
+          "onlineTime": null,
+          "isFault": false,
+          "isDel": false,
+          "deviceJsonType": null,
+          "switchStatus": 0,
+          "isVirtual": null
+        },
+        {
+          "id": "smcs_Device_02",
+          "name": "smcs_Device_02",
+          "macAddr": "xxx",
+          "type": 10013,
+          "gatewayId": "smcs",
+          "subsystemId": null,
+          "netinTime": null,
+          "online": true,
+          "onlineTime": null,
+          "isFault": false,
+          "isDel": false,
+          "deviceJsonType": null,
+          "switchStatus": 0,
+          "isVirtual": null
+        },
+        {
+          "id": "867455055121774",
+          "name": "智慧井盖",
+          "macAddr": "xx-xx-xx-xx",
+          "type": 10012,
+          "gatewayId": "867455055121774",
+          "subsystemId": null,
+          "netinTime": {
+            "year": 123,
+            "month": 7,
+            "date": 10,
+            "day": 4,
+            "hours": 11,
+            "minutes": 27,
+            "seconds": 4,
+            "time": 1691638024000,
+            "timezoneOffset": -480
+          },
+          "online": false,
+          "onlineTime": null,
+          "isFault": false,
+          "isDel": false,
+          "deviceJsonType": null,
+          "switchStatus": 0,
+          "isVirtual": null
+        }
+      ]
+    }
+  }
+}

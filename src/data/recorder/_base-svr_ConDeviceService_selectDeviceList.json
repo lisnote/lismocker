@@ -1,0 +1,8 @@
+{
+  "GET": {
+    "/base-svr/ConDeviceService/selectDeviceList": {
+      "errorCode": 1,
+      "record": []
+    }
+  }
+}

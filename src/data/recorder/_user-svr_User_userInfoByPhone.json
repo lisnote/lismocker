@@ -1,0 +1,15 @@
+{
+  "GET": {
+    "/user-svr/User/userInfoByPhone": {
+      "errorCode": 1,
+      "record": {
+        "id": "49d828f411cc4c56abe9330cfd824c64",
+        "name": "kyd_xjw",
+        "phone": "18888888888",
+        "pwd": "7ka9e84e51n04ye6ob2db2a5218624b39448b5c46347ec86",
+        "headUrl": "http://keenyoda-iot-bucket.oss-cn-shenzhen.aliyuncs.com/QiWuIOT/userHead/9316e3d92eae474983419e20d715606b.jpg",
+        "solutiontype": null
+      }
+    }
+  }
+}
