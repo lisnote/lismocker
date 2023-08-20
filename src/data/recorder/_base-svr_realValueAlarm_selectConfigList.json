@@ -2,7 +2,284 @@
   "POST": {
     "/base-svr/realValueAlarm/selectConfigList": {
       "errorCode": 1,
-      "record": []
+      "record": [
+        {
+          "id": "5c4709d404fc42ffa84929fda4729cff",
+          "name": "井盖布防状态测试",
+          "agencyId": "7085d7e613734ac5b3826b6a11e1f0f2",
+          "deviceId": "867455055121774",
+          "proType": 5056,
+          "number": 1,
+          "rankId": "8e5fcfacb97744d198bfb7e89eddc296",
+          "conditionType": 3,
+          "firstValue": 1,
+          "secondValue": null,
+          "preCheck": 1,
+          "alarmInterval": 10,
+          "beDel": null,
+          "causeId": "0d60ee6281ed4f9b9eb5d7b8fa460f8c",
+          "createTime": {
+            "year": 123,
+            "month": 7,
+            "date": 18,
+            "day": 5,
+            "hours": 14,
+            "minutes": 13,
+            "seconds": 10,
+            "time": 1692339190000,
+            "timezoneOffset": -480
+          },
+          "enable": true,
+          "sendMode": 1,
+          "deviceName": "井盖",
+          "proTypeName": "布防状态",
+          "unit": null,
+          "sensorName": "布防状态#1",
+          "rank": 1,
+          "rankName": "1级",
+          "cause": "开锁异常",
+          "suggestion": "人工现场检查",
+          "userList": [
+            {
+              "id": "6990084e495a4e12aaf03cde19d1c4a1",
+              "configId": null,
+              "userId": "*",
+              "username": null,
+              "phone": null
+            }
+          ]
+        },
+        {
+          "id": "5005ff6a09164de6b6d3739dbd5db9c4",
+          "name": "井盖电池电压测试",
+          "agencyId": "7085d7e613734ac5b3826b6a11e1f0f2",
+          "deviceId": "867455055121774",
+          "proType": 5051,
+          "number": 1,
+          "rankId": "a5ab4828eba84ace8d185003d8228875",
+          "conditionType": 1,
+          "firstValue": 3320,
+          "secondValue": null,
+          "preCheck": 1,
+          "alarmInterval": 10,
+          "beDel": null,
+          "causeId": "271961f5d6f84892b8a79b11998611f8",
+          "createTime": {
+            "year": 123,
+            "month": 7,
+            "date": 18,
+            "day": 5,
+            "hours": 14,
+            "minutes": 5,
+            "seconds": 18,
+            "time": 1692338718000,
+            "timezoneOffset": -480
+          },
+          "enable": true,
+          "sendMode": 1,
+          "deviceName": "井盖",
+          "proTypeName": "电池电压",
+          "unit": null,
+          "sensorName": "信号强度#1",
+          "rank": 2,
+          "rankName": "2级报警",
+          "cause": "电池电压过小",
+          "suggestion": "更换电池",
+          "userList": [
+            {
+              "id": "41989cdfcf6c490893d237cf884fd64a",
+              "configId": null,
+              "userId": "*",
+              "username": null,
+              "phone": null
+            }
+          ]
+        },
+        {
+          "id": "dcd484e24a4148d1ac7014d277e0b0be",
+          "name": "井盖倾斜测试",
+          "agencyId": "7085d7e613734ac5b3826b6a11e1f0f2",
+          "deviceId": "867455055121774",
+          "proType": 5052,
+          "number": 1,
+          "rankId": "a5ab4828eba84ace8d185003d8228875",
+          "conditionType": 2,
+          "firstValue": 20,
+          "secondValue": null,
+          "preCheck": 1,
+          "alarmInterval": 10,
+          "beDel": null,
+          "causeId": "7e067802cdcb4bc09a661511949498fd",
+          "createTime": {
+            "year": 123,
+            "month": 7,
+            "date": 18,
+            "day": 5,
+            "hours": 14,
+            "minutes": 4,
+            "seconds": 16,
+            "time": 1692338656000,
+            "timezoneOffset": -480
+          },
+          "enable": true,
+          "sendMode": 1,
+          "deviceName": "井盖",
+          "proTypeName": "倾斜角度",
+          "unit": null,
+          "sensorName": "倾斜角度#1",
+          "rank": 2,
+          "rankName": "2级报警",
+          "cause": "井盖发生倾斜",
+          "suggestion": "安排监测人员现场处理",
+          "userList": [
+            {
+              "id": "585b0cc37e4f46c48c19f331ef37df94",
+              "configId": null,
+              "userId": "*",
+              "username": null,
+              "phone": null
+            }
+          ]
+        },
+        {
+          "id": "94aada17e314457693ffb3b557fda3b9",
+          "name": "报警测试3",
+          "agencyId": "7085d7e613734ac5b3826b6a11e1f0f2",
+          "deviceId": "867455055121774",
+          "proType": 5050,
+          "number": 1,
+          "rankId": "8e5fcfacb97744d198bfb7e89eddc296",
+          "conditionType": 2,
+          "firstValue": 1,
+          "secondValue": null,
+          "preCheck": 1,
+          "alarmInterval": 5,
+          "beDel": null,
+          "causeId": "10e05d38e2984b3e9213d39661a67e59",
+          "createTime": {
+            "year": 123,
+            "month": 7,
+            "date": 18,
+            "day": 5,
+            "hours": 10,
+            "minutes": 7,
+            "seconds": 35,
+            "time": 1692324455000,
+            "timezoneOffset": -480
+          },
+          "enable": true,
+          "sendMode": 1,
+          "deviceName": "井盖",
+          "proTypeName": "信号强度",
+          "unit": null,
+          "sensorName": "电池电压#1",
+          "rank": 1,
+          "rankName": "1级",
+          "cause": "信号强度过强",
+          "suggestion": "不建议处理",
+          "userList": [
+            {
+              "id": "0761739a8efc472b907380322841a771",
+              "configId": null,
+              "userId": "*",
+              "username": null,
+              "phone": null
+            }
+          ]
+        },
+        {
+          "id": "ac91f7b4879743df90779b3c5f449266",
+          "name": "报警测试2",
+          "agencyId": "7085d7e613734ac5b3826b6a11e1f0f2",
+          "deviceId": "smcs_Device_01",
+          "proType": 5003,
+          "number": 1,
+          "rankId": "8e5fcfacb97744d198bfb7e89eddc296",
+          "conditionType": 5,
+          "firstValue": 0,
+          "secondValue": 0.00001,
+          "preCheck": 1,
+          "alarmInterval": 5,
+          "beDel": null,
+          "causeId": "36b1ec56c978458d8ef94d2b75f49225",
+          "createTime": {
+            "year": 123,
+            "month": 7,
+            "date": 18,
+            "day": 5,
+            "hours": 9,
+            "minutes": 41,
+            "seconds": 13,
+            "time": 1692322873000,
+            "timezoneOffset": -480
+          },
+          "enable": true,
+          "sendMode": 1,
+          "deviceName": "南宁轨道交通2",
+          "proTypeName": "温度",
+          "unit": null,
+          "sensorName": "温度#1",
+          "rank": 1,
+          "rankName": "1级",
+          "cause": "温度测试",
+          "suggestion": "温度测试",
+          "userList": [
+            {
+              "id": "b4be7e0bac0b4a748a47d46dca066920",
+              "configId": null,
+              "userId": "*",
+              "username": null,
+              "phone": null
+            }
+          ]
+        },
+        {
+          "id": "41e82fe3b6d442dcb198cf7af57d1c2f",
+          "name": "报警测试",
+          "agencyId": "7085d7e613734ac5b3826b6a11e1f0f2",
+          "deviceId": "867455055121774",
+          "proType": 5003,
+          "number": 1,
+          "rankId": "8e5fcfacb97744d198bfb7e89eddc296",
+          "conditionType": 5,
+          "firstValue": 0,
+          "secondValue": 0.001,
+          "preCheck": 5,
+          "alarmInterval": 5,
+          "beDel": null,
+          "causeId": "3f198636c0de43ae970db309cd013711",
+          "createTime": {
+            "year": 123,
+            "month": 7,
+            "date": 18,
+            "day": 5,
+            "hours": 9,
+            "minutes": 36,
+            "seconds": 3,
+            "time": 1692322563000,
+            "timezoneOffset": -480
+          },
+          "enable": true,
+          "sendMode": 1,
+          "deviceName": "井盖",
+          "proTypeName": "温度",
+          "unit": null,
+          "sensorName": "温度#1",
+          "rank": 1,
+          "rankName": "1级",
+          "cause": "故障原因占位",
+          "suggestion": "处理建议占位",
+          "userList": [
+            {
+              "id": "351a58922109404dac479d8426ae8e7f",
+              "configId": null,
+              "userId": "*",
+              "username": null,
+              "phone": null
+            }
+          ]
+        }
+      ]
     }
   }
 }

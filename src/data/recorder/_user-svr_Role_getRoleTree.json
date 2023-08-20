@@ -12,6 +12,15 @@
           "agencyid": "7085d7e613734ac5b3826b6a11e1f0f2",
           "child": [
             {
+              "id": "d15918c509ff4d748ea3634bc06fe898",
+              "name": "权限测试角色",
+              "mark": "权限测试角色",
+              "pid": "f8f44582e33e4f2b9b66e2e49bd94bbd",
+              "solutiontype": "9",
+              "agencyid": "7085d7e613734ac5b3826b6a11e1f0f2",
+              "child": null
+            },
+            {
               "id": "02521ba0c3f34768ab1ad4b9d6b111b1",
               "name": "管理员",
               "mark": "管理员",

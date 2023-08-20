@@ -1,0 +1,63 @@
+{
+  "POST": {
+    "/base-svr/workOrder/selectWorkOderList": {
+      "errorCode": 1,
+      "record": [
+        {
+          "id": "1717a97c917b47d9b2c91735a73820c3",
+          "deviceId": "867455055121774",
+          "alarmId": "000000044444444",
+          "creatorUserId": "49d828f411cc4c56abe9330cfd824c64",
+          "type": 2,
+          "information": "报警创建工单",
+          "processingStatus": 0,
+          "processingResult": null,
+          "processingTime": null,
+          "processingUserId": null,
+          "pictureUrl": null,
+          "createTime": {
+            "year": 123,
+            "month": 7,
+            "date": 18,
+            "day": 5,
+            "hours": 15,
+            "minutes": 37,
+            "seconds": 37,
+            "time": 1692344257000,
+            "timezoneOffset": -480
+          },
+          "dName": "井盖",
+          "cName": "kyd_xjw",
+          "pName": null
+        },
+        {
+          "id": "31c9f6256df44b558c21c638f88f4a1c",
+          "deviceId": "867455055121774",
+          "alarmId": "5807ce68813c4e5eab8ebd4d287c2201",
+          "creatorUserId": "49d828f411cc4c56abe9330cfd824c64",
+          "type": 2,
+          "information": "报警创建废弃工单",
+          "processingStatus": 0,
+          "processingResult": null,
+          "processingTime": null,
+          "processingUserId": null,
+          "pictureUrl": null,
+          "createTime": {
+            "year": 123,
+            "month": 7,
+            "date": 18,
+            "day": 5,
+            "hours": 15,
+            "minutes": 38,
+            "seconds": 10,
+            "time": 1692344290000,
+            "timezoneOffset": -480
+          },
+          "dName": "井盖",
+          "cName": "kyd_xjw",
+          "pName": null
+        }
+      ]
+    }
+  }
+}

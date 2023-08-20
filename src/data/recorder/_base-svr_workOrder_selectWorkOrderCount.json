@@ -1,0 +1,8 @@
+{
+  "POST": {
+    "/base-svr/workOrder/selectWorkOrderCount": {
+      "errorCode": 1,
+      "record": 2
+    }
+  }
+}

@@ -44,7 +44,7 @@
                   "prevId": "396592f0d9b3469c9c2c4604f2d56a09",
                   "child": [],
                   "name": "新增设备",
-                  "hasSelected": 1
+                  "hasSelected": 0
                 },
                 {
                   "id": "5c5c51b0e5384ed98d60d44d4a797036",
@@ -68,6 +68,14 @@
                   "prevId": "37440636367c409b9bb62eabc356a969",
                   "child": [],
                   "name": "授权开锁",
+                  "hasSelected": 1
+                },
+                {
+                  "id": "bbb1a8d50bbd4208a61e77b3bfcbe717",
+                  "pid": "396592f0d9b3469c9c2c4604f2d56a09",
+                  "prevId": "42972cc84ad7442f962e3310d4092b98",
+                  "child": [],
+                  "name": "图片上传",
                   "hasSelected": 1
                 }
               ],
@@ -180,7 +188,7 @@
                       "pid": "493842de211c410aac579bb5e4bf70c1",
                       "prevId": "493842de211c410aac579bb5e4bf70c1",
                       "child": [],
-                      "name": "新增报警记录",
+                      "name": "处理报警记录",
                       "hasSelected": 1
                     },
                     {
@@ -188,7 +196,7 @@
                       "pid": "493842de211c410aac579bb5e4bf70c1",
                       "prevId": "4a1d5ea960c04d06a083b1cac43884ff",
                       "child": [],
-                      "name": "修改报警记录",
+                      "name": "删除报警记录",
                       "hasSelected": 1
                     },
                     {
@@ -196,7 +204,15 @@
                       "pid": "493842de211c410aac579bb5e4bf70c1",
                       "prevId": "587c6951bc0c40c39a5e847a2c1bffa6",
                       "child": [],
-                      "name": "删除报警记录",
+                      "name": "导出报警记录",
+                      "hasSelected": 1
+                    },
+                    {
+                      "id": "c79deffae5d74da4aab597972b15207c",
+                      "pid": "493842de211c410aac579bb5e4bf70c1",
+                      "prevId": "1f15d18c7bc340008840600e4a281d2f",
+                      "child": [],
+                      "name": "上传报警图片",
                       "hasSelected": 1
                     }
                   ],
@@ -275,6 +291,14 @@
                   "prevId": "4791c57aacc0431c96f136ed0a771182",
                   "child": [],
                   "name": "删除工单",
+                  "hasSelected": 1
+                },
+                {
+                  "id": "40b4f924b00548c893fed9c8db385b60",
+                  "pid": "39d6a13c83714cde864855ce4dbad676",
+                  "prevId": "ea84aa42fea5445ba1f5e36d94f18791",
+                  "child": [],
+                  "name": "上传工单图片",
                   "hasSelected": 1
                 }
               ],

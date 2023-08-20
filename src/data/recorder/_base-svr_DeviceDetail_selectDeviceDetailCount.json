@@ -1,0 +1,8 @@
+{
+  "POST": {
+    "/base-svr/DeviceDetail/selectDeviceDetailCount": {
+      "errorCode": 1,
+      "record": 5
+    }
+  }
+}

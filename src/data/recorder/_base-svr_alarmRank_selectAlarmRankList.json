@@ -2,7 +2,20 @@
   "POST": {
     "/base-svr/alarmRank/selectAlarmRankList": {
       "errorCode": 1,
-      "record": []
+      "record": [
+        {
+          "id": "a5ab4828eba84ace8d185003d8228875",
+          "rank": 2,
+          "name": "2级报警",
+          "agencyId": "7085d7e613734ac5b3826b6a11e1f0f2"
+        },
+        {
+          "id": "8e5fcfacb97744d198bfb7e89eddc296",
+          "rank": 1,
+          "name": "1级",
+          "agencyId": "7085d7e613734ac5b3826b6a11e1f0f2"
+        }
+      ]
     }
   }
 }

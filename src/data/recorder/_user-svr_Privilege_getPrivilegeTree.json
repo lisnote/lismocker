@@ -76,6 +76,15 @@
                   "name": "授权开锁",
                   "resource": "Device/authorization",
                   "solutionType": "9"
+                },
+                {
+                  "id": "bbb1a8d50bbd4208a61e77b3bfcbe717",
+                  "pid": "396592f0d9b3469c9c2c4604f2d56a09",
+                  "prevId": "42972cc84ad7442f962e3310d4092b98",
+                  "child": [],
+                  "name": "图片上传",
+                  "resource": "Device/uploadPic",
+                  "solutionType": "9"
                 }
               ],
               "name": "设备管理",
@@ -199,8 +208,8 @@
                       "pid": "493842de211c410aac579bb5e4bf70c1",
                       "prevId": "493842de211c410aac579bb5e4bf70c1",
                       "child": [],
-                      "name": "新增报警记录",
-                      "resource": "AlarmHistory/createHistory",
+                      "name": "处理报警记录",
+                      "resource": "RealValueAlarm/disposeHistory",
                       "solutionType": "9"
                     },
                     {
@@ -208,8 +217,8 @@
                       "pid": "493842de211c410aac579bb5e4bf70c1",
                       "prevId": "4a1d5ea960c04d06a083b1cac43884ff",
                       "child": [],
-                      "name": "修改报警记录",
-                      "resource": "AlarmHistory/updateHistory",
+                      "name": "删除报警记录",
+                      "resource": "RealValueAlarm/deleteHistory",
                       "solutionType": "9"
                     },
                     {
@@ -217,13 +226,22 @@
                       "pid": "493842de211c410aac579bb5e4bf70c1",
                       "prevId": "587c6951bc0c40c39a5e847a2c1bffa6",
                       "child": [],
-                      "name": "删除报警记录",
-                      "resource": "AlarmHistory/deleteHistory",
+                      "name": "导出报警记录",
+                      "resource": "RealValueAlarm/exportHistory",
+                      "solutionType": "9"
+                    },
+                    {
+                      "id": "c79deffae5d74da4aab597972b15207c",
+                      "pid": "493842de211c410aac579bb5e4bf70c1",
+                      "prevId": "1f15d18c7bc340008840600e4a281d2f",
+                      "child": [],
+                      "name": "上传报警图片",
+                      "resource": "RealValueAlarm/uploadPic",
                       "solutionType": "9"
                     }
                   ],
                   "name": "报警记录",
-                  "resource": "SmcsMenu/AlarmHistory",
+                  "resource": "SmcsMenu/RealValueAlarm",
                   "solutionType": "9"
                 },
                 {
@@ -308,6 +326,15 @@
                   "name": "删除工单",
                   "resource": "WorkOrder/deleteOrder",
                   "solutionType": "9"
+                },
+                {
+                  "id": "40b4f924b00548c893fed9c8db385b60",
+                  "pid": "39d6a13c83714cde864855ce4dbad676",
+                  "prevId": "ea84aa42fea5445ba1f5e36d94f18791",
+                  "child": [],
+                  "name": "上传工单图片",
+                  "resource": "WorkOrder/uploadPic",
+                  "solutionType": "9"
                 }
               ],
               "name": "工单管理",
@@ -330,7 +357,7 @@
                       "prevId": "bb386e83267e4cdeb17c749f04a6342a",
                       "child": [],
                       "name": "邀请用户",
-                      "resource": "User/AddUser",
+                      "resource": "User/addUserToAgency",
                       "solutionType": "9"
                     },
                     {
@@ -339,7 +366,7 @@
                       "prevId": "20ee50cb83404d1791137d238b134801",
                       "child": [],
                       "name": "删除成员",
-                      "resource": "User/deleteUser",
+                      "resource": "User/delAgencyUserRole",
                       "solutionType": "9"
                     },
                     {
@@ -357,7 +384,7 @@
                       "prevId": "6252dba69766487a80728f542a3adbd1",
                       "child": [],
                       "name": "用户绑定角色",
-                      "resource": "User/SetRole",
+                      "resource": "Role/addUserRole",
                       "solutionType": "9"
                     }
                   ],
@@ -413,7 +440,7 @@
                       "prevId": "5c3e58fc80d643208857ff50b9ac420e",
                       "child": [],
                       "name": "角色绑定权限",
-                      "resource": "Role/setPrivilege",
+                      "resource": "Role/addRolePrivilege",
                       "solutionType": "9"
                     }
                   ],
@@ -478,7 +505,7 @@
                       "prevId": "4d0a01e5429840148dcd26b6da93ce2d",
                       "child": [],
                       "name": "新增区域",
-                      "resource": "Area/createArea",
+                      "resource": "Agency/addNewAgencyGroup",
                       "solutionType": "9"
                     },
                     {
@@ -487,7 +514,7 @@
                       "prevId": "3c7e0280a6db4ff9b52ee9d0b341c699",
                       "child": [],
                       "name": "修改区域",
-                      "resource": "Area/updateArea",
+                      "resource": "Area/updateGroupInfo",
                       "solutionType": "9"
                     },
                     {
@@ -496,7 +523,7 @@
                       "prevId": "a892e862bc574964ab9d164b7bed2fb7",
                       "child": [],
                       "name": "删除区域",
-                      "resource": "Area/deleteArea",
+                      "resource": "Area/delAgencyGroup",
                       "solutionType": "9"
                     }
                   ],

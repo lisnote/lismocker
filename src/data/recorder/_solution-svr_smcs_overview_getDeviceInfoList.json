@@ -1,0 +1,54 @@
+{
+  "POST": {
+    "/solution-svr/smcs/overview/getDeviceInfoList": {
+      "errorCode": 1,
+      "record": [
+        {
+          "deviceId": "smcs_Device_01",
+          "deviceName": "南宁轨道交通2",
+          "deviceType": "10012",
+          "address": "广东省深圳市光明区",
+          "longitude": 10,
+          "latitude": 20,
+          "status": "2"
+        },
+        {
+          "deviceId": "smcs_Device_02",
+          "deviceName": "smcs_Device_02",
+          "deviceType": "10013",
+          "address": "广东省深圳市罗湖区",
+          "longitude": 2.333,
+          "latitude": 1.222,
+          "status": "0"
+        },
+        {
+          "deviceId": "smcs_Device_05",
+          "deviceName": "1",
+          "deviceType": "10012",
+          "address": "陕西省安康市汉滨区紫荆镇黑竹沟",
+          "longitude": 108.884139,
+          "latitude": 33.157344,
+          "status": "0"
+        },
+        {
+          "deviceId": "867455055121774",
+          "deviceName": "井盖",
+          "deviceType": "10012",
+          "address": "广东省深圳市光明区",
+          "longitude": 113.953007,
+          "latitude": 22.77901,
+          "status": "0"
+        },
+        {
+          "deviceId": "smcs_Device_08",
+          "deviceName": "南宁轨道交通666",
+          "deviceType": "10012",
+          "address": "广东省深圳市罗湖区",
+          "longitude": 10,
+          "latitude": 20,
+          "status": "0"
+        }
+      ]
+    }
+  }
+}
