@@ -1,0 +1,8 @@
+{
+  "POST": {
+    "/online-svr/ossStorage/ossStorage": {
+      "errorCode": 1,
+      "record": "ossStorage  success"
+    }
+  }
+}

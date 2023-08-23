@@ -1,0 +1,8 @@
+{
+  "POST": {
+    "/user-svr/User/updateheadurl": {
+      "errorCode": 45,
+      "record": "账号验证异常，请重新登录！"
+    }
+  }
+}
