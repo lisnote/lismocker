@@ -1,0 +1,17 @@
+{
+  "POST": {
+    "/solution-svr/smcs/overview/getDeviceStatusInfo": {
+      "errorCode": 1,
+      "record": [
+        {
+          "statusType": 0,
+          "value": 0
+        },
+        {
+          "statusType": 1,
+          "value": 0
+        }
+      ]
+    }
+  }
+}

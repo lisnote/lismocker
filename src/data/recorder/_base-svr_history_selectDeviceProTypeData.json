@@ -1,0 +1,627 @@
+{
+  "POST": {
+    "/base-svr/history/selectDeviceProTypeData": {
+      "errorCode": 1,
+      "record": {
+        "code": 0,
+        "message": null,
+        "count": 0,
+        "data": {
+          "unitList": [
+            {
+              "deviceId": null,
+              "proTypeId": "32",
+              "proType": 5003,
+              "num": 1,
+              "name": "温度",
+              "unit": "℃",
+              "subName": "温度#1"
+            },
+            {
+              "deviceId": null,
+              "proTypeId": "90",
+              "proType": 5050,
+              "num": 1,
+              "name": "信号强度",
+              "unit": "--",
+              "subName": "信号强度#1"
+            },
+            {
+              "deviceId": null,
+              "proTypeId": "91",
+              "proType": 5051,
+              "num": 1,
+              "name": "电池电压",
+              "unit": "mV",
+              "subName": "电池电压#1"
+            },
+            {
+              "deviceId": null,
+              "proTypeId": "92",
+              "proType": 5052,
+              "num": 1,
+              "name": "倾斜角度",
+              "unit": "°",
+              "subName": "倾斜角度#1"
+            },
+            {
+              "deviceId": null,
+              "proTypeId": "93",
+              "proType": 5053,
+              "num": 1,
+              "name": "经度",
+              "unit": "°",
+              "subName": "经度#1"
+            },
+            {
+              "deviceId": null,
+              "proTypeId": "94",
+              "proType": 5054,
+              "num": 1,
+              "name": "纬度",
+              "unit": "°",
+              "subName": "纬度#1"
+            },
+            {
+              "deviceId": null,
+              "proTypeId": "95",
+              "proType": 5055,
+              "num": 1,
+              "name": "定位结果",
+              "unit": "--",
+              "subName": "定位结果#1"
+            },
+            {
+              "deviceId": null,
+              "proTypeId": "96",
+              "proType": 5056,
+              "num": 1,
+              "name": "布防状态",
+              "unit": "--",
+              "subName": "布防状态#1"
+            },
+            {
+              "deviceId": null,
+              "proTypeId": "97",
+              "proType": 5057,
+              "num": 1,
+              "name": "液位状态",
+              "unit": "--",
+              "subName": "液位状态#1"
+            }
+          ],
+          "deviceData": [
+            {
+              "温度": null,
+              "定位结果": null,
+              "液位状态": null,
+              "信号强度": null,
+              "布防状态": null,
+              "纬度": null,
+              "经度": null,
+              "倾斜角度": null,
+              "time": {
+                "year": 123,
+                "month": 7,
+                "date": 29,
+                "day": 2,
+                "hours": 0,
+                "minutes": 0,
+                "seconds": 0,
+                "time": 1693238400000,
+                "timezoneOffset": -28800
+              },
+              "电池电压": null
+            },
+            {
+              "温度": null,
+              "定位结果": null,
+              "液位状态": null,
+              "信号强度": null,
+              "布防状态": null,
+              "纬度": null,
+              "经度": null,
+              "倾斜角度": null,
+              "time": {
+                "year": 123,
+                "month": 7,
+                "date": 29,
+                "day": 2,
+                "hours": 1,
+                "minutes": 0,
+                "seconds": 0,
+                "time": 1693242000000,
+                "timezoneOffset": -28800
+              },
+              "电池电压": null
+            },
+            {
+              "温度": null,
+              "定位结果": null,
+              "液位状态": null,
+              "信号强度": null,
+              "布防状态": null,
+              "纬度": null,
+              "经度": null,
+              "倾斜角度": null,
+              "time": {
+                "year": 123,
+                "month": 7,
+                "date": 29,
+                "day": 2,
+                "hours": 2,
+                "minutes": 0,
+                "seconds": 0,
+                "time": 1693245600000,
+                "timezoneOffset": -28800
+              },
+              "电池电压": null
+            },
+            {
+              "温度": null,
+              "定位结果": null,
+              "液位状态": null,
+              "信号强度": null,
+              "布防状态": null,
+              "纬度": null,
+              "经度": null,
+              "倾斜角度": null,
+              "time": {
+                "year": 123,
+                "month": 7,
+                "date": 29,
+                "day": 2,
+                "hours": 3,
+                "minutes": 0,
+                "seconds": 0,
+                "time": 1693249200000,
+                "timezoneOffset": -28800
+              },
+              "电池电压": null
+            },
+            {
+              "温度": null,
+              "定位结果": null,
+              "液位状态": null,
+              "信号强度": null,
+              "布防状态": null,
+              "纬度": null,
+              "经度": null,
+              "倾斜角度": null,
+              "time": {
+                "year": 123,
+                "month": 7,
+                "date": 29,
+                "day": 2,
+                "hours": 4,
+                "minutes": 0,
+                "seconds": 0,
+                "time": 1693252800000,
+                "timezoneOffset": -28800
+              },
+              "电池电压": null
+            },
+            {
+              "温度": null,
+              "定位结果": null,
+              "液位状态": null,
+              "信号强度": null,
+              "布防状态": null,
+              "纬度": null,
+              "经度": null,
+              "倾斜角度": null,
+              "time": {
+                "year": 123,
+                "month": 7,
+                "date": 29,
+                "day": 2,
+                "hours": 5,
+                "minutes": 0,
+                "seconds": 0,
+                "time": 1693256400000,
+                "timezoneOffset": -28800
+              },
+              "电池电压": null
+            },
+            {
+              "温度": null,
+              "定位结果": null,
+              "液位状态": null,
+              "信号强度": null,
+              "布防状态": null,
+              "纬度": null,
+              "经度": null,
+              "倾斜角度": null,
+              "time": {
+                "year": 123,
+                "month": 7,
+                "date": 29,
+                "day": 2,
+                "hours": 6,
+                "minutes": 0,
+                "seconds": 0,
+                "time": 1693260000000,
+                "timezoneOffset": -28800
+              },
+              "电池电压": null
+            },
+            {
+              "温度": null,
+              "定位结果": null,
+              "液位状态": null,
+              "信号强度": null,
+              "布防状态": null,
+              "纬度": null,
+              "经度": null,
+              "倾斜角度": null,
+              "time": {
+                "year": 123,
+                "month": 7,
+                "date": 29,
+                "day": 2,
+                "hours": 7,
+                "minutes": 0,
+                "seconds": 0,
+                "time": 1693263600000,
+                "timezoneOffset": -28800
+              },
+              "电池电压": null
+            },
+            {
+              "温度": null,
+              "定位结果": null,
+              "液位状态": null,
+              "信号强度": null,
+              "布防状态": null,
+              "纬度": null,
+              "经度": null,
+              "倾斜角度": null,
+              "time": {
+                "year": 123,
+                "month": 7,
+                "date": 29,
+                "day": 2,
+                "hours": 8,
+                "minutes": 0,
+                "seconds": 0,
+                "time": 1693267200000,
+                "timezoneOffset": -28800
+              },
+              "电池电压": null
+            },
+            {
+              "温度": null,
+              "定位结果": null,
+              "液位状态": null,
+              "信号强度": null,
+              "布防状态": null,
+              "纬度": null,
+              "经度": null,
+              "倾斜角度": null,
+              "time": {
+                "year": 123,
+                "month": 7,
+                "date": 29,
+                "day": 2,
+                "hours": 9,
+                "minutes": 0,
+                "seconds": 0,
+                "time": 1693270800000,
+                "timezoneOffset": -28800
+              },
+              "电池电压": null
+            },
+            {
+              "温度": null,
+              "定位结果": null,
+              "液位状态": null,
+              "信号强度": null,
+              "布防状态": null,
+              "纬度": null,
+              "经度": null,
+              "倾斜角度": null,
+              "time": {
+                "year": 123,
+                "month": 7,
+                "date": 29,
+                "day": 2,
+                "hours": 10,
+                "minutes": 0,
+                "seconds": 0,
+                "time": 1693274400000,
+                "timezoneOffset": -28800
+              },
+              "电池电压": null
+            },
+            {
+              "温度": null,
+              "定位结果": null,
+              "液位状态": null,
+              "信号强度": null,
+              "布防状态": null,
+              "纬度": null,
+              "经度": null,
+              "倾斜角度": null,
+              "time": {
+                "year": 123,
+                "month": 7,
+                "date": 29,
+                "day": 2,
+                "hours": 11,
+                "minutes": 0,
+                "seconds": 0,
+                "time": 1693278000000,
+                "timezoneOffset": -28800
+              },
+              "电池电压": null
+            },
+            {
+              "温度": null,
+              "定位结果": null,
+              "液位状态": null,
+              "信号强度": null,
+              "布防状态": null,
+              "纬度": null,
+              "经度": null,
+              "倾斜角度": null,
+              "time": {
+                "year": 123,
+                "month": 7,
+                "date": 29,
+                "day": 2,
+                "hours": 12,
+                "minutes": 0,
+                "seconds": 0,
+                "time": 1693281600000,
+                "timezoneOffset": -28800
+              },
+              "电池电压": null
+            },
+            {
+              "温度": null,
+              "定位结果": null,
+              "液位状态": null,
+              "信号强度": null,
+              "布防状态": null,
+              "纬度": null,
+              "经度": null,
+              "倾斜角度": null,
+              "time": {
+                "year": 123,
+                "month": 7,
+                "date": 29,
+                "day": 2,
+                "hours": 13,
+                "minutes": 0,
+                "seconds": 0,
+                "time": 1693285200000,
+                "timezoneOffset": -28800
+              },
+              "电池电压": null
+            },
+            {
+              "温度": 33.63,
+              "定位结果": 0,
+              "液位状态": 0,
+              "信号强度": 26,
+              "布防状态": 0,
+              "纬度": 33.36,
+              "经度": 47.49,
+              "倾斜角度": 25,
+              "time": {
+                "year": 123,
+                "month": 7,
+                "date": 29,
+                "day": 2,
+                "hours": 14,
+                "minutes": 0,
+                "seconds": 0,
+                "time": 1693288800000,
+                "timezoneOffset": -28800
+              },
+              "电池电压": 3316
+            },
+            {
+              "温度": 33.33,
+              "定位结果": 0,
+              "液位状态": 0,
+              "信号强度": 22.36,
+              "布防状态": 0,
+              "纬度": 40.87,
+              "经度": 52.68,
+              "倾斜角度": 28.91,
+              "time": {
+                "year": 123,
+                "month": 7,
+                "date": 29,
+                "day": 2,
+                "hours": 15,
+                "minutes": 0,
+                "seconds": 0,
+                "time": 1693292400000,
+                "timezoneOffset": -28800
+              },
+              "电池电压": 3324.18
+            },
+            {
+              "温度": 34.21,
+              "定位结果": 0,
+              "液位状态": 0,
+              "信号强度": 19.69,
+              "布防状态": 0,
+              "纬度": 41.81,
+              "经度": 53.79,
+              "倾斜角度": 28.31,
+              "time": {
+                "year": 123,
+                "month": 7,
+                "date": 29,
+                "day": 2,
+                "hours": 16,
+                "minutes": 0,
+                "seconds": 0,
+                "time": 1693296000000,
+                "timezoneOffset": -28800
+              },
+              "电池电压": 3325.92
+            },
+            {
+              "温度": null,
+              "定位结果": null,
+              "液位状态": null,
+              "信号强度": null,
+              "布防状态": null,
+              "纬度": null,
+              "经度": null,
+              "倾斜角度": null,
+              "time": {
+                "year": 123,
+                "month": 7,
+                "date": 29,
+                "day": 2,
+                "hours": 17,
+                "minutes": 0,
+                "seconds": 0,
+                "time": 1693299600000,
+                "timezoneOffset": -28800
+              },
+              "电池电压": null
+            },
+            {
+              "温度": null,
+              "定位结果": null,
+              "液位状态": null,
+              "信号强度": null,
+              "布防状态": null,
+              "纬度": null,
+              "经度": null,
+              "倾斜角度": null,
+              "time": {
+                "year": 123,
+                "month": 7,
+                "date": 29,
+                "day": 2,
+                "hours": 18,
+                "minutes": 0,
+                "seconds": 0,
+                "time": 1693303200000,
+                "timezoneOffset": -28800
+              },
+              "电池电压": null
+            },
+            {
+              "温度": null,
+              "定位结果": null,
+              "液位状态": null,
+              "信号强度": null,
+              "布防状态": null,
+              "纬度": null,
+              "经度": null,
+              "倾斜角度": null,
+              "time": {
+                "year": 123,
+                "month": 7,
+                "date": 29,
+                "day": 2,
+                "hours": 19,
+                "minutes": 0,
+                "seconds": 0,
+                "time": 1693306800000,
+                "timezoneOffset": -28800
+              },
+              "电池电压": null
+            },
+            {
+              "温度": null,
+              "定位结果": null,
+              "液位状态": null,
+              "信号强度": null,
+              "布防状态": null,
+              "纬度": null,
+              "经度": null,
+              "倾斜角度": null,
+              "time": {
+                "year": 123,
+                "month": 7,
+                "date": 29,
+                "day": 2,
+                "hours": 20,
+                "minutes": 0,
+                "seconds": 0,
+                "time": 1693310400000,
+                "timezoneOffset": -28800
+              },
+              "电池电压": null
+            },
+            {
+              "温度": null,
+              "定位结果": null,
+              "液位状态": null,
+              "信号强度": null,
+              "布防状态": null,
+              "纬度": null,
+              "经度": null,
+              "倾斜角度": null,
+              "time": {
+                "year": 123,
+                "month": 7,
+                "date": 29,
+                "day": 2,
+                "hours": 21,
+                "minutes": 0,
+                "seconds": 0,
+                "time": 1693314000000,
+                "timezoneOffset": -28800
+              },
+              "电池电压": null
+            },
+            {
+              "温度": null,
+              "定位结果": null,
+              "液位状态": null,
+              "信号强度": null,
+              "布防状态": null,
+              "纬度": null,
+              "经度": null,
+              "倾斜角度": null,
+              "time": {
+                "year": 123,
+                "month": 7,
+                "date": 29,
+                "day": 2,
+                "hours": 22,
+                "minutes": 0,
+                "seconds": 0,
+                "time": 1693317600000,
+                "timezoneOffset": -28800
+              },
+              "电池电压": null
+            },
+            {
+              "温度": null,
+              "定位结果": null,
+              "液位状态": null,
+              "信号强度": null,
+              "布防状态": null,
+              "纬度": null,
+              "经度": null,
+              "倾斜角度": null,
+              "time": {
+                "year": 123,
+                "month": 7,
+                "date": 29,
+                "day": 2,
+                "hours": 23,
+                "minutes": 0,
+                "seconds": 0,
+                "time": 1693321200000,
+                "timezoneOffset": -28800
+              },
+              "电池电压": null
+            }
+          ]
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "GET": {
+    "/base-svr/ConDeviceService/getDeviceInfoList": {
+      "errorCode": 1,
+      "record": "no data"
+    }
+  }
+}
