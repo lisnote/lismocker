@@ -1,0 +1,37 @@
+{
+  "GET": {
+    "/user-svr/User/getAgencyListByUserId": {
+      "errorCode": 1,
+      "record": [
+        {
+          "id": "083522bb70e14021aa8a9533c131c30e",
+          "pid": "000000",
+          "prevId": null,
+          "child": null,
+          "name": "通用智能化管理系统",
+          "addr": null,
+          "color": "#FEB23A",
+          "addTime": {
+            "year": 123,
+            "month": 11,
+            "date": 20,
+            "day": 3,
+            "hours": 15,
+            "minutes": 35,
+            "seconds": 56,
+            "time": 1703057756000,
+            "timezoneOffset": -480
+          },
+          "mark": "通用智能化管理系统",
+          "cCount": 3,
+          "did": null,
+          "dName": null,
+          "deviceJsonType": null,
+          "creator": "49d828f411cc4c56abe9330cfd824c64",
+          "devCount": 7,
+          "onlineStatus": false
+        }
+      ]
+    }
+  }
+}

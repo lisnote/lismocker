@@ -1,0 +1,39 @@
+{
+  "POST": {
+    "/user-svr/User/selectAllAgencyUserList": {
+      "errorCode": 1,
+      "record": [
+        {
+          "agencyId": "083522bb70e14021aa8a9533c131c30e",
+          "userId": "49d828f411cc4c56abe9330cfd824c64",
+          "solutionType": "10",
+          "uname": "kyd xjw",
+          "aname": "通用智能化管理系统",
+          "phone": "18888888888",
+          "departmentId": null,
+          "departmentName": null
+        },
+        {
+          "agencyId": "083522bb70e14021aa8a9533c131c30e",
+          "userId": "1739b39ce0df4837979c0894abe46a10",
+          "solutionType": "10",
+          "uname": "kyd-test",
+          "aname": "通用智能化管理系统",
+          "phone": "13333333333",
+          "departmentId": "9ce8861d7c684a74987b8bfd2d06f712",
+          "departmentName": "产品部"
+        },
+        {
+          "agencyId": "083522bb70e14021aa8a9533c131c30e",
+          "userId": "691ed49723164411800e1c1cdcb23fa2",
+          "solutionType": "10",
+          "uname": "kyd-test02",
+          "aname": "通用智能化管理系统",
+          "phone": "15555555555",
+          "departmentId": "154cac08cd79495bb73748d39063900b",
+          "departmentName": "销售部"
+        }
+      ]
+    }
+  }
+}

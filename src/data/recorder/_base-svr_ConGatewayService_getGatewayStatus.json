@@ -1,0 +1,13 @@
+{
+  "GET": {
+    "/base-svr/ConGatewayService/getGatewayStatus": {
+      "errorCode": 1,
+      "record": {
+        "isOnlineCount": 3,
+        "isOfflineCount": 0,
+        "Count": 3,
+        "count": 3
+      }
+    }
+  }
+}

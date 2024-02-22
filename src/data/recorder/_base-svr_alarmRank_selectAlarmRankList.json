@@ -1,0 +1,27 @@
+{
+  "POST": {
+    "/base-svr/alarmRank/selectAlarmRankList": {
+      "errorCode": 1,
+      "record": [
+        {
+          "id": "9068373f12ec498ab95dcca987ec82f9",
+          "rank": 3,
+          "name": "3级报警",
+          "agencyId": "083522bb70e14021aa8a9533c131c30e"
+        },
+        {
+          "id": "edcc2ad45e814ca6a70ae7e7047b38d4",
+          "rank": 2,
+          "name": "2级报警",
+          "agencyId": "083522bb70e14021aa8a9533c131c30e"
+        },
+        {
+          "id": "7441ab6bc071406780ee0fff4dc88902",
+          "rank": 1,
+          "name": "1级报警",
+          "agencyId": "083522bb70e14021aa8a9533c131c30e"
+        }
+      ]
+    }
+  }
+}

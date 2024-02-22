@@ -1,0 +1,10 @@
+{
+  "GET": {
+    "/user-svr/Privilege/getResourcesByUserId": {
+      "errorCode": 1,
+      "record": [
+        "*"
+      ]
+    }
+  }
+}

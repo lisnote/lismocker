@@ -1,0 +1,200 @@
+{
+  "POST": {
+    "/base-svr/realValueAlarm/selectConfigList": {
+      "errorCode": 1,
+      "record": [
+        {
+          "id": "2e387d5060844d2b8244d23dfedb731d",
+          "name": "报警配置5",
+          "agencyId": "083522bb70e14021aa8a9533c131c30e",
+          "deviceId": "GW-D-100",
+          "proType": 5004,
+          "number": 2,
+          "rankId": "edcc2ad45e814ca6a70ae7e7047b38d4",
+          "conditionType": 2,
+          "firstValue": 20,
+          "secondValue": null,
+          "preCheck": 1,
+          "alarmInterval": 300,
+          "beDel": null,
+          "causeId": "9fe530b95c05459892744fd6f9ccbd49",
+          "createTime": {
+            "year": 124,
+            "month": 1,
+            "date": 20,
+            "day": 2,
+            "hours": 16,
+            "minutes": 32,
+            "seconds": 43,
+            "time": 1708417963000,
+            "timezoneOffset": -480
+          },
+          "enable": false,
+          "sendMode": 1,
+          "deviceName": "温湿度传感器",
+          "proTypeName": "湿度",
+          "unit": null,
+          "sensorName": "湿度#2",
+          "rank": 2,
+          "rankName": "2级报警",
+          "cause": "温度过高影响设备",
+          "suggestion": "降温",
+          "userList": [
+            {
+              "id": "9a06c1c8700b4b9d81494885306803b6",
+              "configId": null,
+              "userId": "1739b39ce0df4837979c0894abe46a10",
+              "username": "kyd-test",
+              "phone": "13333333333"
+            },
+            {
+              "id": "59245d5877084a4eb1ef42dd38c83c79",
+              "configId": null,
+              "userId": "49d828f411cc4c56abe9330cfd824c64",
+              "username": "kyd xjw",
+              "phone": "18888888888"
+            }
+          ]
+        },
+        {
+          "id": "50fda5c51549458b9df0690ffd8b77b4",
+          "name": "报警配置110",
+          "agencyId": "083522bb70e14021aa8a9533c131c30e",
+          "deviceId": "GW-D-100",
+          "proType": 5003,
+          "number": 1,
+          "rankId": "7441ab6bc071406780ee0fff4dc88902",
+          "conditionType": 2,
+          "firstValue": 15,
+          "secondValue": null,
+          "preCheck": 1,
+          "alarmInterval": 100,
+          "beDel": null,
+          "causeId": "9fe530b95c05459892744fd6f9ccbd49",
+          "createTime": {
+            "year": 124,
+            "month": 1,
+            "date": 20,
+            "day": 2,
+            "hours": 16,
+            "minutes": 23,
+            "seconds": 14,
+            "time": 1708417394000,
+            "timezoneOffset": -480
+          },
+          "enable": false,
+          "sendMode": 1,
+          "deviceName": "温湿度传感器",
+          "proTypeName": "温度",
+          "unit": null,
+          "sensorName": "温度#1",
+          "rank": 1,
+          "rankName": "1级报警",
+          "cause": "温度过高影响设备",
+          "suggestion": "降温",
+          "userList": [
+            {
+              "id": "d467f3602062436a80e1511c21910ee9",
+              "configId": null,
+              "userId": "49d828f411cc4c56abe9330cfd824c64",
+              "username": "kyd xjw",
+              "phone": "18888888888"
+            }
+          ]
+        },
+        {
+          "id": "542fffe91b5946a9b14402b9bafbb257",
+          "name": "配置4",
+          "agencyId": "083522bb70e14021aa8a9533c131c30e",
+          "deviceId": "GW-D-101",
+          "proType": 5030,
+          "number": 1,
+          "rankId": "edcc2ad45e814ca6a70ae7e7047b38d4",
+          "conditionType": 2,
+          "firstValue": 10,
+          "secondValue": null,
+          "preCheck": 1,
+          "alarmInterval": 60,
+          "beDel": null,
+          "causeId": "9fe530b95c05459892744fd6f9ccbd49",
+          "createTime": {
+            "year": 124,
+            "month": 1,
+            "date": 19,
+            "day": 1,
+            "hours": 13,
+            "minutes": 57,
+            "seconds": 30,
+            "time": 1708322250000,
+            "timezoneOffset": -480
+          },
+          "enable": false,
+          "sendMode": 1,
+          "deviceName": "小型气象站",
+          "proTypeName": "PM10",
+          "unit": null,
+          "sensorName": "PM10#1",
+          "rank": 2,
+          "rankName": "2级报警",
+          "cause": "温度过高影响设备",
+          "suggestion": "降温",
+          "userList": [
+            {
+              "id": "63698509eab34003827a1829ed989301",
+              "configId": null,
+              "userId": "49d828f411cc4c56abe9330cfd824c64",
+              "username": "kyd xjw",
+              "phone": "18888888888"
+            }
+          ]
+        },
+        {
+          "id": "52e2a67153114f4fa56d652dbd679a76",
+          "name": "配置2",
+          "agencyId": "083522bb70e14021aa8a9533c131c30e",
+          "deviceId": "G-D-100",
+          "proType": 5022,
+          "number": 1,
+          "rankId": "7441ab6bc071406780ee0fff4dc88902",
+          "conditionType": 2,
+          "firstValue": 10,
+          "secondValue": null,
+          "preCheck": 1,
+          "alarmInterval": 60,
+          "beDel": null,
+          "causeId": "db5d019a0af74a8f89abf93ac6ece612",
+          "createTime": {
+            "year": 124,
+            "month": 0,
+            "date": 29,
+            "day": 1,
+            "hours": 11,
+            "minutes": 49,
+            "seconds": 21,
+            "time": 1706500161000,
+            "timezoneOffset": -480
+          },
+          "enable": false,
+          "sendMode": 1,
+          "deviceName": "智能电表",
+          "proTypeName": "Ia",
+          "unit": null,
+          "sensorName": "Ia#1",
+          "rank": 1,
+          "rankName": "1级报警",
+          "cause": "电量用量超标",
+          "suggestion": "节约电量的使用",
+          "userList": [
+            {
+              "id": "d89e304d98464234984d466521522625",
+              "configId": null,
+              "userId": "49d828f411cc4c56abe9330cfd824c64",
+              "username": "kyd xjw",
+              "phone": "18888888888"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

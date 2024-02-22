@@ -1,0 +1,21 @@
+{
+  "POST": {
+    "/user-svr/license/getLicenseDetail": {
+      "errorCode": 1,
+      "record": {
+        "sysTime": "2024-02-22 11:31:33",
+        "agencyId": "083522bb70e14021aa8a9533c131c30e",
+        "startTime": "2022-01-01 00:00:00",
+        "endTime": "2025-07-05 23:59:59",
+        "userCount": 66,
+        "deviceCount": 98,
+        "netWork": [
+          {
+            "ip": "all",
+            "macAddress": "all"
+          }
+        ]
+      }
+    }
+  }
+}

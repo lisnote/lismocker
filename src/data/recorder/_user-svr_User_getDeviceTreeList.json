@@ -1,0 +1,243 @@
+{
+  "POST": {
+    "/user-svr/User/getDeviceTreeList": {
+      "errorCode": 1,
+      "record": [
+        {
+          "id": "dc34856f01194f2787c85678e5ce3e0c",
+          "pid": "083522bb70e14021aa8a9533c131c30e",
+          "prevId": "083522bb70e14021aa8a9533c131c30e",
+          "child": [
+            {
+              "id": "b3b74dec2b384d6f83ba08d527b80adf",
+              "pid": "dc34856f01194f2787c85678e5ce3e0c",
+              "prevId": "dc34856f01194f2787c85678e5ce3e0c",
+              "child": [
+                {
+                  "id": "GW-D-101",
+                  "pid": "b3b74dec2b384d6f83ba08d527b80adf",
+                  "prevId": null,
+                  "child": null,
+                  "name": "小型气象站",
+                  "addr": null,
+                  "color": null,
+                  "addTime": null,
+                  "mark": null,
+                  "cCount": 0,
+                  "did": "GW-D-101",
+                  "dName": "小型气象站",
+                  "deviceJsonType": null,
+                  "creator": null,
+                  "devCount": 0,
+                  "onlineStatus": true
+                }
+              ],
+              "name": "总经办",
+              "addr": null,
+              "color": null,
+              "addTime": {
+                "year": 124,
+                "month": 0,
+                "date": 23,
+                "day": 2,
+                "hours": 14,
+                "minutes": 35,
+                "seconds": 40,
+                "time": 1705991740000,
+                "timezoneOffset": -480
+              },
+              "mark": null
+            },
+            {
+              "id": "75da00ee3ec041639352528df4a32cd5",
+              "pid": "dc34856f01194f2787c85678e5ce3e0c",
+              "prevId": "b3b74dec2b384d6f83ba08d527b80adf",
+              "child": [],
+              "name": "产品部",
+              "addr": null,
+              "color": null,
+              "addTime": {
+                "year": 124,
+                "month": 1,
+                "date": 5,
+                "day": 1,
+                "hours": 15,
+                "minutes": 10,
+                "seconds": 38,
+                "time": 1707117038000,
+                "timezoneOffset": -480
+              },
+              "mark": null
+            },
+            {
+              "id": "G-D-100",
+              "pid": "dc34856f01194f2787c85678e5ce3e0c",
+              "prevId": null,
+              "child": null,
+              "name": "智能电表",
+              "addr": null,
+              "color": null,
+              "addTime": null,
+              "mark": null,
+              "cCount": 0,
+              "did": "G-D-100",
+              "dName": "智能电表",
+              "deviceJsonType": null,
+              "creator": null,
+              "devCount": 0,
+              "onlineStatus": true
+            },
+            {
+              "id": "G-D-200",
+              "pid": "dc34856f01194f2787c85678e5ce3e0c",
+              "prevId": null,
+              "child": null,
+              "name": "keenyoda智能IO控制器1",
+              "addr": null,
+              "color": null,
+              "addTime": null,
+              "mark": null,
+              "cCount": 0,
+              "did": "G-D-200",
+              "dName": "keenyoda智能IO控制器1",
+              "deviceJsonType": null,
+              "creator": null,
+              "devCount": 0,
+              "onlineStatus": true
+            },
+            {
+              "id": "Gims-device-01",
+              "pid": "dc34856f01194f2787c85678e5ce3e0c",
+              "prevId": null,
+              "child": null,
+              "name": "设备1号",
+              "addr": null,
+              "color": null,
+              "addTime": null,
+              "mark": null,
+              "cCount": 0,
+              "did": "Gims-device-01",
+              "dName": "设备1号",
+              "deviceJsonType": null,
+              "creator": null,
+              "devCount": 0,
+              "onlineStatus": true
+            },
+            {
+              "id": "Gims-device-02",
+              "pid": "dc34856f01194f2787c85678e5ce3e0c",
+              "prevId": null,
+              "child": null,
+              "name": "单联智能窗帘触摸开关",
+              "addr": null,
+              "color": null,
+              "addTime": null,
+              "mark": null,
+              "cCount": 0,
+              "did": "Gims-device-02",
+              "dName": "单联智能窗帘触摸开关",
+              "deviceJsonType": null,
+              "creator": null,
+              "devCount": 0,
+              "onlineStatus": true
+            },
+            {
+              "id": "GW-D-100",
+              "pid": "dc34856f01194f2787c85678e5ce3e0c",
+              "prevId": null,
+              "child": null,
+              "name": "温湿度传感器",
+              "addr": null,
+              "color": null,
+              "addTime": null,
+              "mark": null,
+              "cCount": 0,
+              "did": "GW-D-100",
+              "dName": "温湿度传感器",
+              "deviceJsonType": null,
+              "creator": null,
+              "devCount": 0,
+              "onlineStatus": true
+            },
+            {
+              "id": "GW-D-102",
+              "pid": "dc34856f01194f2787c85678e5ce3e0c",
+              "prevId": null,
+              "child": null,
+              "name": "温控器",
+              "addr": null,
+              "color": null,
+              "addTime": null,
+              "mark": null,
+              "cCount": 0,
+              "did": "GW-D-102",
+              "dName": "温控器",
+              "deviceJsonType": null,
+              "creator": null,
+              "devCount": 0,
+              "onlineStatus": true
+            }
+          ],
+          "name": "KEENYODA",
+          "addr": null,
+          "color": null,
+          "addTime": {
+            "year": 124,
+            "month": 0,
+            "date": 23,
+            "day": 2,
+            "hours": 10,
+            "minutes": 34,
+            "seconds": 54,
+            "time": 1705977294000,
+            "timezoneOffset": -480
+          },
+          "mark": null
+        },
+        {
+          "id": "d60912eac7f04e0bb0b39464648aa688",
+          "pid": "083522bb70e14021aa8a9533c131c30e",
+          "prevId": "dc34856f01194f2787c85678e5ce3e0c",
+          "child": [
+            {
+              "id": "b9b644ff29c74dedb065f5aac7be1925",
+              "pid": "d60912eac7f04e0bb0b39464648aa688",
+              "prevId": "d60912eac7f04e0bb0b39464648aa688",
+              "child": [],
+              "name": "2",
+              "addr": null,
+              "color": null,
+              "addTime": {
+                "year": 124,
+                "month": 1,
+                "date": 20,
+                "day": 2,
+                "hours": 15,
+                "minutes": 40,
+                "seconds": 57,
+                "time": 1708414857000,
+                "timezoneOffset": -480
+              },
+              "mark": null
+            }
+          ],
+          "name": "1",
+          "addr": null,
+          "color": null,
+          "addTime": {
+            "year": 124,
+            "month": 1,
+            "date": 20,
+            "day": 2,
+            "hours": 15,
+            "minutes": 40,
+            "seconds": 53,
+            "time": 1708414853000,
+            "timezoneOffset": -480
+          },
+          "mark": null
+        }
+      ]
+    }
+  }
+}

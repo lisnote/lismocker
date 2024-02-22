@@ -1,0 +1,681 @@
+{
+  "POST": {
+    "/base-svr/realValueAlarm/selectAlarmCurve": {
+      "errorCode": 1,
+      "record": [
+        {
+          "time": {
+            "year": 124,
+            "month": 1,
+            "date": 22,
+            "day": 4,
+            "hours": 0,
+            "minutes": 0,
+            "seconds": 0,
+            "time": 1708531200000,
+            "timezoneOffset": -28800
+          },
+          "sum": 26,
+          "alarmTypeCounts": [
+            {
+              "type": 0,
+              "sum": 26
+            },
+            {
+              "type": 1,
+              "sum": 0
+            },
+            {
+              "type": 2,
+              "sum": 0
+            }
+          ]
+        },
+        {
+          "time": {
+            "year": 124,
+            "month": 1,
+            "date": 22,
+            "day": 4,
+            "hours": 1,
+            "minutes": 0,
+            "seconds": 0,
+            "time": 1708534800000,
+            "timezoneOffset": -28800
+          },
+          "sum": 28,
+          "alarmTypeCounts": [
+            {
+              "type": 0,
+              "sum": 28
+            },
+            {
+              "type": 1,
+              "sum": 0
+            },
+            {
+              "type": 2,
+              "sum": 0
+            }
+          ]
+        },
+        {
+          "time": {
+            "year": 124,
+            "month": 1,
+            "date": 22,
+            "day": 4,
+            "hours": 2,
+            "minutes": 0,
+            "seconds": 0,
+            "time": 1708538400000,
+            "timezoneOffset": -28800
+          },
+          "sum": 29,
+          "alarmTypeCounts": [
+            {
+              "type": 0,
+              "sum": 29
+            },
+            {
+              "type": 1,
+              "sum": 0
+            },
+            {
+              "type": 2,
+              "sum": 0
+            }
+          ]
+        },
+        {
+          "time": {
+            "year": 124,
+            "month": 1,
+            "date": 22,
+            "day": 4,
+            "hours": 3,
+            "minutes": 0,
+            "seconds": 0,
+            "time": 1708542000000,
+            "timezoneOffset": -28800
+          },
+          "sum": 32,
+          "alarmTypeCounts": [
+            {
+              "type": 0,
+              "sum": 32
+            },
+            {
+              "type": 1,
+              "sum": 0
+            },
+            {
+              "type": 2,
+              "sum": 0
+            }
+          ]
+        },
+        {
+          "time": {
+            "year": 124,
+            "month": 1,
+            "date": 22,
+            "day": 4,
+            "hours": 4,
+            "minutes": 0,
+            "seconds": 0,
+            "time": 1708545600000,
+            "timezoneOffset": -28800
+          },
+          "sum": 25,
+          "alarmTypeCounts": [
+            {
+              "type": 0,
+              "sum": 25
+            },
+            {
+              "type": 1,
+              "sum": 0
+            },
+            {
+              "type": 2,
+              "sum": 0
+            }
+          ]
+        },
+        {
+          "time": {
+            "year": 124,
+            "month": 1,
+            "date": 22,
+            "day": 4,
+            "hours": 5,
+            "minutes": 0,
+            "seconds": 0,
+            "time": 1708549200000,
+            "timezoneOffset": -28800
+          },
+          "sum": 29,
+          "alarmTypeCounts": [
+            {
+              "type": 0,
+              "sum": 29
+            },
+            {
+              "type": 1,
+              "sum": 0
+            },
+            {
+              "type": 2,
+              "sum": 0
+            }
+          ]
+        },
+        {
+          "time": {
+            "year": 124,
+            "month": 1,
+            "date": 22,
+            "day": 4,
+            "hours": 6,
+            "minutes": 0,
+            "seconds": 0,
+            "time": 1708552800000,
+            "timezoneOffset": -28800
+          },
+          "sum": 29,
+          "alarmTypeCounts": [
+            {
+              "type": 0,
+              "sum": 29
+            },
+            {
+              "type": 1,
+              "sum": 0
+            },
+            {
+              "type": 2,
+              "sum": 0
+            }
+          ]
+        },
+        {
+          "time": {
+            "year": 124,
+            "month": 1,
+            "date": 22,
+            "day": 4,
+            "hours": 7,
+            "minutes": 0,
+            "seconds": 0,
+            "time": 1708556400000,
+            "timezoneOffset": -28800
+          },
+          "sum": 31,
+          "alarmTypeCounts": [
+            {
+              "type": 0,
+              "sum": 31
+            },
+            {
+              "type": 1,
+              "sum": 0
+            },
+            {
+              "type": 2,
+              "sum": 0
+            }
+          ]
+        },
+        {
+          "time": {
+            "year": 124,
+            "month": 1,
+            "date": 22,
+            "day": 4,
+            "hours": 8,
+            "minutes": 0,
+            "seconds": 0,
+            "time": 1708560000000,
+            "timezoneOffset": -28800
+          },
+          "sum": 29,
+          "alarmTypeCounts": [
+            {
+              "type": 0,
+              "sum": 28
+            },
+            {
+              "type": 1,
+              "sum": 1
+            },
+            {
+              "type": 2,
+              "sum": 0
+            }
+          ]
+        },
+        {
+          "time": {
+            "year": 124,
+            "month": 1,
+            "date": 22,
+            "day": 4,
+            "hours": 9,
+            "minutes": 0,
+            "seconds": 0,
+            "time": 1708563600000,
+            "timezoneOffset": -28800
+          },
+          "sum": 33,
+          "alarmTypeCounts": [
+            {
+              "type": 0,
+              "sum": 33
+            },
+            {
+              "type": 1,
+              "sum": 0
+            },
+            {
+              "type": 2,
+              "sum": 0
+            }
+          ]
+        },
+        {
+          "time": {
+            "year": 124,
+            "month": 1,
+            "date": 22,
+            "day": 4,
+            "hours": 10,
+            "minutes": 0,
+            "seconds": 0,
+            "time": 1708567200000,
+            "timezoneOffset": -28800
+          },
+          "sum": 28,
+          "alarmTypeCounts": [
+            {
+              "type": 0,
+              "sum": 27
+            },
+            {
+              "type": 1,
+              "sum": 1
+            },
+            {
+              "type": 2,
+              "sum": 0
+            }
+          ]
+        },
+        {
+          "time": {
+            "year": 124,
+            "month": 1,
+            "date": 22,
+            "day": 4,
+            "hours": 11,
+            "minutes": 0,
+            "seconds": 0,
+            "time": 1708570800000,
+            "timezoneOffset": -28800
+          },
+          "sum": 8,
+          "alarmTypeCounts": [
+            {
+              "type": 0,
+              "sum": 8
+            },
+            {
+              "type": 1,
+              "sum": 0
+            },
+            {
+              "type": 2,
+              "sum": 0
+            }
+          ]
+        },
+        {
+          "time": {
+            "year": 124,
+            "month": 1,
+            "date": 22,
+            "day": 4,
+            "hours": 12,
+            "minutes": 0,
+            "seconds": 0,
+            "time": 1708574400000,
+            "timezoneOffset": -28800
+          },
+          "sum": 0,
+          "alarmTypeCounts": [
+            {
+              "type": 0,
+              "sum": 0
+            },
+            {
+              "type": 1,
+              "sum": 0
+            },
+            {
+              "type": 2,
+              "sum": 0
+            }
+          ]
+        },
+        {
+          "time": {
+            "year": 124,
+            "month": 1,
+            "date": 22,
+            "day": 4,
+            "hours": 13,
+            "minutes": 0,
+            "seconds": 0,
+            "time": 1708578000000,
+            "timezoneOffset": -28800
+          },
+          "sum": 0,
+          "alarmTypeCounts": [
+            {
+              "type": 0,
+              "sum": 0
+            },
+            {
+              "type": 1,
+              "sum": 0
+            },
+            {
+              "type": 2,
+              "sum": 0
+            }
+          ]
+        },
+        {
+          "time": {
+            "year": 124,
+            "month": 1,
+            "date": 22,
+            "day": 4,
+            "hours": 14,
+            "minutes": 0,
+            "seconds": 0,
+            "time": 1708581600000,
+            "timezoneOffset": -28800
+          },
+          "sum": 0,
+          "alarmTypeCounts": [
+            {
+              "type": 0,
+              "sum": 0
+            },
+            {
+              "type": 1,
+              "sum": 0
+            },
+            {
+              "type": 2,
+              "sum": 0
+            }
+          ]
+        },
+        {
+          "time": {
+            "year": 124,
+            "month": 1,
+            "date": 22,
+            "day": 4,
+            "hours": 15,
+            "minutes": 0,
+            "seconds": 0,
+            "time": 1708585200000,
+            "timezoneOffset": -28800
+          },
+          "sum": 0,
+          "alarmTypeCounts": [
+            {
+              "type": 0,
+              "sum": 0
+            },
+            {
+              "type": 1,
+              "sum": 0
+            },
+            {
+              "type": 2,
+              "sum": 0
+            }
+          ]
+        },
+        {
+          "time": {
+            "year": 124,
+            "month": 1,
+            "date": 22,
+            "day": 4,
+            "hours": 16,
+            "minutes": 0,
+            "seconds": 0,
+            "time": 1708588800000,
+            "timezoneOffset": -28800
+          },
+          "sum": 0,
+          "alarmTypeCounts": [
+            {
+              "type": 0,
+              "sum": 0
+            },
+            {
+              "type": 1,
+              "sum": 0
+            },
+            {
+              "type": 2,
+              "sum": 0
+            }
+          ]
+        },
+        {
+          "time": {
+            "year": 124,
+            "month": 1,
+            "date": 22,
+            "day": 4,
+            "hours": 17,
+            "minutes": 0,
+            "seconds": 0,
+            "time": 1708592400000,
+            "timezoneOffset": -28800
+          },
+          "sum": 0,
+          "alarmTypeCounts": [
+            {
+              "type": 0,
+              "sum": 0
+            },
+            {
+              "type": 1,
+              "sum": 0
+            },
+            {
+              "type": 2,
+              "sum": 0
+            }
+          ]
+        },
+        {
+          "time": {
+            "year": 124,
+            "month": 1,
+            "date": 22,
+            "day": 4,
+            "hours": 18,
+            "minutes": 0,
+            "seconds": 0,
+            "time": 1708596000000,
+            "timezoneOffset": -28800
+          },
+          "sum": 0,
+          "alarmTypeCounts": [
+            {
+              "type": 0,
+              "sum": 0
+            },
+            {
+              "type": 1,
+              "sum": 0
+            },
+            {
+              "type": 2,
+              "sum": 0
+            }
+          ]
+        },
+        {
+          "time": {
+            "year": 124,
+            "month": 1,
+            "date": 22,
+            "day": 4,
+            "hours": 19,
+            "minutes": 0,
+            "seconds": 0,
+            "time": 1708599600000,
+            "timezoneOffset": -28800
+          },
+          "sum": 0,
+          "alarmTypeCounts": [
+            {
+              "type": 0,
+              "sum": 0
+            },
+            {
+              "type": 1,
+              "sum": 0
+            },
+            {
+              "type": 2,
+              "sum": 0
+            }
+          ]
+        },
+        {
+          "time": {
+            "year": 124,
+            "month": 1,
+            "date": 22,
+            "day": 4,
+            "hours": 20,
+            "minutes": 0,
+            "seconds": 0,
+            "time": 1708603200000,
+            "timezoneOffset": -28800
+          },
+          "sum": 0,
+          "alarmTypeCounts": [
+            {
+              "type": 0,
+              "sum": 0
+            },
+            {
+              "type": 1,
+              "sum": 0
+            },
+            {
+              "type": 2,
+              "sum": 0
+            }
+          ]
+        },
+        {
+          "time": {
+            "year": 124,
+            "month": 1,
+            "date": 22,
+            "day": 4,
+            "hours": 21,
+            "minutes": 0,
+            "seconds": 0,
+            "time": 1708606800000,
+            "timezoneOffset": -28800
+          },
+          "sum": 0,
+          "alarmTypeCounts": [
+            {
+              "type": 0,
+              "sum": 0
+            },
+            {
+              "type": 1,
+              "sum": 0
+            },
+            {
+              "type": 2,
+              "sum": 0
+            }
+          ]
+        },
+        {
+          "time": {
+            "year": 124,
+            "month": 1,
+            "date": 22,
+            "day": 4,
+            "hours": 22,
+            "minutes": 0,
+            "seconds": 0,
+            "time": 1708610400000,
+            "timezoneOffset": -28800
+          },
+          "sum": 0,
+          "alarmTypeCounts": [
+            {
+              "type": 0,
+              "sum": 0
+            },
+            {
+              "type": 1,
+              "sum": 0
+            },
+            {
+              "type": 2,
+              "sum": 0
+            }
+          ]
+        },
+        {
+          "time": {
+            "year": 124,
+            "month": 1,
+            "date": 22,
+            "day": 4,
+            "hours": 23,
+            "minutes": 0,
+            "seconds": 0,
+            "time": 1708614000000,
+            "timezoneOffset": -28800
+          },
+          "sum": 0,
+          "alarmTypeCounts": [
+            {
+              "type": 0,
+              "sum": 0
+            },
+            {
+              "type": 1,
+              "sum": 0
+            },
+            {
+              "type": 2,
+              "sum": 0
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

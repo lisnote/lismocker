@@ -1,0 +1,21 @@
+{
+  "POST": {
+    "/solution-svr/smcs/overview/getAlarmStatus": {
+      "errorCode": 1,
+      "record": [
+        {
+          "statusType": 0,
+          "value": 575
+        },
+        {
+          "statusType": 1,
+          "value": 19
+        },
+        {
+          "statusType": 2,
+          "value": 9
+        }
+      ]
+    }
+  }
+}

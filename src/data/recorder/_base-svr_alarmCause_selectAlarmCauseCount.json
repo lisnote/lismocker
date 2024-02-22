@@ -1,0 +1,8 @@
+{
+  "POST": {
+    "/base-svr/alarmCause/selectAlarmCauseCount": {
+      "errorCode": 1,
+      "record": 4
+    }
+  }
+}

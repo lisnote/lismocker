@@ -1,0 +1,119 @@
+{
+  "GET": {
+    "/base-svr/ConGatewayService/getGatewayInfo": {
+      "errorCode": 1,
+      "record": {
+        "code": 0,
+        "msg": "",
+        "count": 3,
+        "data": [
+          {
+            "id": "G-EMS-10000",
+            "name": "G-EMS-10000",
+            "type": 15000,
+            "macAddr": "",
+            "online": true,
+            "onlineTime": {
+              "year": 124,
+              "month": 1,
+              "date": 5,
+              "day": 1,
+              "hours": 11,
+              "minutes": 39,
+              "seconds": 53,
+              "time": 1707104393000,
+              "timezoneOffset": -480
+            },
+            "offlineTime": {
+              "year": 124,
+              "month": 1,
+              "date": 5,
+              "day": 1,
+              "hours": 11,
+              "minutes": 39,
+              "seconds": 53,
+              "time": 1707104393000,
+              "timezoneOffset": -480
+            },
+            "isDel": false,
+            "agencyId": "75da00ee3ec041639352528df4a32cd5",
+            "agencyName": "KEENYODA,产品部",
+            "cCount": 2,
+            "mark": "有线网关",
+            "connectLiftCount": null
+          },
+          {
+            "id": "Gims-gateway-01",
+            "name": "Gims-gateway-01",
+            "type": 15000,
+            "macAddr": "",
+            "online": true,
+            "onlineTime": {
+              "year": 124,
+              "month": 1,
+              "date": 5,
+              "day": 1,
+              "hours": 11,
+              "minutes": 36,
+              "seconds": 15,
+              "time": 1707104175000,
+              "timezoneOffset": -480
+            },
+            "offlineTime": {
+              "year": 124,
+              "month": 1,
+              "date": 5,
+              "day": 1,
+              "hours": 11,
+              "minutes": 36,
+              "seconds": 15,
+              "time": 1707104175000,
+              "timezoneOffset": -480
+            },
+            "isDel": false,
+            "agencyId": "b3b74dec2b384d6f83ba08d527b80adf",
+            "agencyName": "KEENYODA,总经办",
+            "cCount": 2,
+            "mark": "有线网关",
+            "connectLiftCount": null
+          },
+          {
+            "id": "GW-MS-10000",
+            "name": "GW-MS-10000",
+            "type": 15001,
+            "macAddr": "",
+            "online": true,
+            "onlineTime": {
+              "year": 124,
+              "month": 0,
+              "date": 9,
+              "day": 2,
+              "hours": 15,
+              "minutes": 9,
+              "seconds": 34,
+              "time": 1704784174000,
+              "timezoneOffset": -480
+            },
+            "offlineTime": {
+              "year": 124,
+              "month": 0,
+              "date": 9,
+              "day": 2,
+              "hours": 11,
+              "minutes": 25,
+              "seconds": 34,
+              "time": 1704770734000,
+              "timezoneOffset": -480
+            },
+            "isDel": false,
+            "agencyId": "b3b74dec2b384d6f83ba08d527b80adf",
+            "agencyName": "KEENYODA,总经办",
+            "cCount": 3,
+            "mark": "无线网关",
+            "connectLiftCount": null
+          }
+        ]
+      }
+    }
+  }
+}

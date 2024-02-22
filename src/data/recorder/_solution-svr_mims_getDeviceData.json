@@ -1,0 +1,21 @@
+{
+  "POST": {
+    "/solution-svr/mims/getDeviceData": {
+      "errorCode": 1,
+      "record": [
+        {
+          "devId": "GW-D-100",
+          "name": "温度",
+          "unit": "℃",
+          "value": "--"
+        },
+        {
+          "devId": "GW-D-100",
+          "name": "湿度",
+          "unit": "%RH",
+          "value": "--"
+        }
+      ]
+    }
+  }
+}

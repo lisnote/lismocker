@@ -1,0 +1,41 @@
+{
+  "POST": {
+    "/base-svr/alarmCause/selectAlarmCauseList": {
+      "errorCode": 1,
+      "record": [
+        {
+          "id": "58ab823a26d04019b63aeb45d97a4def",
+          "agencyId": "083522bb70e14021aa8a9533c131c30e",
+          "proType": 3001,
+          "cause": "风速过快",
+          "suggestion": "降低风速",
+          "proTypeName": "风速"
+        },
+        {
+          "id": "9fe530b95c05459892744fd6f9ccbd49",
+          "agencyId": "083522bb70e14021aa8a9533c131c30e",
+          "proType": 5003,
+          "cause": "温度过高影响设备",
+          "suggestion": "降温",
+          "proTypeName": "温度"
+        },
+        {
+          "id": "cd6451883a994db6a237bdbd0a8a485c",
+          "agencyId": "083522bb70e14021aa8a9533c131c30e",
+          "proType": 5004,
+          "cause": "过于潮湿",
+          "suggestion": "降湿处理",
+          "proTypeName": "湿度"
+        },
+        {
+          "id": "db5d019a0af74a8f89abf93ac6ece612",
+          "agencyId": "083522bb70e14021aa8a9533c131c30e",
+          "proType": 5016,
+          "cause": "电量用量超标",
+          "suggestion": "节约电量的使用",
+          "proTypeName": "电量用量"
+        }
+      ]
+    }
+  }
+}

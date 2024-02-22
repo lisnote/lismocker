@@ -1,0 +1,81 @@
+{
+  "POST": {
+    "/base-svr/linkage-history/selectLinkageHistoryList": {
+      "errorCode": 1,
+      "record": [
+        {
+          "id": "1747d51b774a448e8f71cdd953f3000e",
+          "linkageId": null,
+          "linkageName": "电表联动",
+          "createTime": {
+            "year": 124,
+            "month": 1,
+            "date": 20,
+            "day": 2,
+            "hours": 14,
+            "minutes": 57,
+            "seconds": 47,
+            "time": 1708412267000,
+            "timezoneOffset": -28800
+          },
+          "agencyId": null,
+          "status": 0
+        },
+        {
+          "id": "c8dcd64e769c4cf8b4ba87f458585bd7",
+          "linkageId": null,
+          "linkageName": "电表联动",
+          "createTime": {
+            "year": 124,
+            "month": 1,
+            "date": 20,
+            "day": 2,
+            "hours": 14,
+            "minutes": 57,
+            "seconds": 16,
+            "time": 1708412236000,
+            "timezoneOffset": -28800
+          },
+          "agencyId": null,
+          "status": 0
+        },
+        {
+          "id": "8224a7a63a7e407c8b8dca9a4506d3be",
+          "linkageId": null,
+          "linkageName": "电表联动",
+          "createTime": {
+            "year": 124,
+            "month": 1,
+            "date": 20,
+            "day": 2,
+            "hours": 14,
+            "minutes": 56,
+            "seconds": 45,
+            "time": 1708412205000,
+            "timezoneOffset": -28800
+          },
+          "agencyId": null,
+          "status": 0
+        },
+        {
+          "id": "ac17b7b2ad08492d9260a4bca7190f62",
+          "linkageId": null,
+          "linkageName": "电表联动",
+          "createTime": {
+            "year": 124,
+            "month": 1,
+            "date": 20,
+            "day": 2,
+            "hours": 14,
+            "minutes": 29,
+            "seconds": 21,
+            "time": 1708410561000,
+            "timezoneOffset": -28800
+          },
+          "agencyId": null,
+          "status": 0
+        }
+      ]
+    }
+  }
+}

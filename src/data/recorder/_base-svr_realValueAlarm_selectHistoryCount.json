@@ -1,0 +1,8 @@
+{
+  "POST": {
+    "/base-svr/realValueAlarm/selectHistoryCount": {
+      "errorCode": 1,
+      "record": 558
+    }
+  }
+}

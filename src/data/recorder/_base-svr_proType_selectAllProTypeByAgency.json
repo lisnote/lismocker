@@ -1,0 +1,121 @@
+{
+  "POST": {
+    "/base-svr/proType/selectAllProTypeByAgency": {
+      "errorCode": 1,
+      "record": [
+        {
+          "id": 65,
+          "type": 3001,
+          "dataType": 1,
+          "name": "风速",
+          "unit": "m/s",
+          "mark": "风速"
+        },
+        {
+          "id": 61,
+          "type": 5030,
+          "dataType": 1,
+          "name": "PM10",
+          "unit": "ug/m³",
+          "mark": "PM10"
+        },
+        {
+          "id": 34,
+          "type": 5005,
+          "dataType": 1,
+          "name": "CO2",
+          "unit": "mg/m³",
+          "mark": "CO2"
+        },
+        {
+          "id": 33,
+          "type": 5004,
+          "dataType": 1,
+          "name": "湿度",
+          "unit": "%RH",
+          "mark": "湿度"
+        },
+        {
+          "id": 32,
+          "type": 5003,
+          "dataType": 1,
+          "name": "温度",
+          "unit": "℃",
+          "mark": "温度"
+        },
+        {
+          "id": 90,
+          "type": 5050,
+          "dataType": 1,
+          "name": "信号强度",
+          "unit": "--",
+          "mark": "信号强度"
+        },
+        {
+          "id": 54,
+          "type": 5025,
+          "dataType": 1,
+          "name": "总功率",
+          "unit": "kw",
+          "mark": "总功率"
+        },
+        {
+          "id": 53,
+          "type": 5024,
+          "dataType": 1,
+          "name": "Ic",
+          "unit": "A",
+          "mark": "Ic"
+        },
+        {
+          "id": 52,
+          "type": 5023,
+          "dataType": 1,
+          "name": "Ib",
+          "unit": "A",
+          "mark": "Ib"
+        },
+        {
+          "id": 51,
+          "type": 5022,
+          "dataType": 1,
+          "name": "Ia",
+          "unit": "A",
+          "mark": "Ia"
+        },
+        {
+          "id": 50,
+          "type": 5021,
+          "dataType": 1,
+          "name": "Uc",
+          "unit": "V",
+          "mark": "Uc"
+        },
+        {
+          "id": 49,
+          "type": 5020,
+          "dataType": 1,
+          "name": "Ub",
+          "unit": "V",
+          "mark": "Ub"
+        },
+        {
+          "id": 48,
+          "type": 5019,
+          "dataType": 1,
+          "name": "Ua",
+          "unit": "V",
+          "mark": "Ua"
+        },
+        {
+          "id": 45,
+          "type": 5016,
+          "dataType": 1,
+          "name": "电量用量",
+          "unit": "kW·h",
+          "mark": "电量用量"
+        }
+      ]
+    }
+  }
+}

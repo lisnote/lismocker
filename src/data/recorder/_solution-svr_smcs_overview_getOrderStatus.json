@@ -1,0 +1,21 @@
+{
+  "POST": {
+    "/solution-svr/smcs/overview/getOrderStatus": {
+      "errorCode": 1,
+      "record": [
+        {
+          "statusType": 0,
+          "value": 11
+        },
+        {
+          "statusType": 1,
+          "value": 4
+        },
+        {
+          "statusType": 2,
+          "value": 4
+        }
+      ]
+    }
+  }
+}

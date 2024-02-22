@@ -1,0 +1,8 @@
+{
+  "POST": {
+    "/base-svr/linkage-config/selectLinkageConfigCount": {
+      "errorCode": 1,
+      "record": 5
+    }
+  }
+}

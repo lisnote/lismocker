@@ -1,0 +1,24 @@
+{
+  "POST": {
+    "/base-svr/workOrder/selectWorkOrderTrend": {
+      "errorCode": 1,
+      "record": [
+        {
+          "statusType": 0,
+          "time": {
+            "year": 124,
+            "month": 1,
+            "date": 22,
+            "day": 4,
+            "hours": 10,
+            "minutes": 0,
+            "seconds": 0,
+            "time": 1708567200000,
+            "timezoneOffset": -28800
+          },
+          "count": 1
+        }
+      ]
+    }
+  }
+}

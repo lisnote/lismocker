@@ -1,0 +1,43 @@
+{
+  "POST": {
+    "/user-svr/Department/getDepartmentTree": {
+      "errorCode": 1,
+      "record": [
+        {
+          "id": "f01aa535b3a14a5ba652c19a4f2d7185",
+          "name": "KEENYODA",
+          "pid": "000000",
+          "orderNum": 0,
+          "agencyId": "083522bb70e14021aa8a9533c131c30e",
+          "child": [
+            {
+              "id": "154cac08cd79495bb73748d39063900b",
+              "name": "销售部",
+              "pid": "f01aa535b3a14a5ba652c19a4f2d7185",
+              "orderNum": 2,
+              "agencyId": "083522bb70e14021aa8a9533c131c30e",
+              "child": null
+            },
+            {
+              "id": "9ce8861d7c684a74987b8bfd2d06f712",
+              "name": "产品部",
+              "pid": "f01aa535b3a14a5ba652c19a4f2d7185",
+              "orderNum": 3,
+              "agencyId": "083522bb70e14021aa8a9533c131c30e",
+              "child": [
+                {
+                  "id": "1b94fc9e43994832829fbb901ea9f5e7",
+                  "name": "研发一部",
+                  "pid": "9ce8861d7c684a74987b8bfd2d06f712",
+                  "orderNum": -999,
+                  "agencyId": "083522bb70e14021aa8a9533c131c30e",
+                  "child": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "POST": {
+    "/base-svr/deviceCoordinate/deviceCoordinateList": {
+      "errorCode": 1,
+      "record": [
+        {
+          "deviceId": "G-D-100",
+          "deviceName": "智能电表",
+          "type": 10003,
+          "online": 1,
+          "hasBind": 0,
+          "longitude": null,
+          "latitude": null,
+          "address": null
+        },
+        {
+          "deviceId": "G-D-200",
+          "deviceName": "keenyoda智能IO控制器1",
+          "type": 5016,
+          "online": 1,
+          "hasBind": 0,
+          "longitude": null,
+          "latitude": null,
+          "address": null
+        },
+        {
+          "deviceId": "Gims-device-01",
+          "deviceName": "设备1号",
+          "type": 10009,
+          "online": 1,
+          "hasBind": 0,
+          "longitude": null,
+          "latitude": null,
+          "address": null
+        },
+        {
+          "deviceId": "Gims-device-02",
+          "deviceName": "单联智能窗帘触摸开关",
+          "type": 5004,
+          "online": 1,
+          "hasBind": 0,
+          "longitude": null,
+          "latitude": null,
+          "address": null
+        },
+        {
+          "deviceId": "GW-D-100",
+          "deviceName": "温湿度传感器",
+          "type": 10,
+          "online": 1,
+          "hasBind": 0,
+          "longitude": null,
+          "latitude": null,
+          "address": null
+        },
+        {
+          "deviceId": "GW-D-102",
+          "deviceName": "温控器",
+          "type": 5010,
+          "online": 1,
+          "hasBind": 0,
+          "longitude": null,
+          "latitude": null,
+          "address": null
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "GET": {
+    "/log-svr/ConLogSvr/queryOperationLogs": {
+      "errorCode": 1,
+      "record": {
+        "code": 0,
+        "msg": "",
+        "count": 341,
+        "data": [
+          {
+            "phone": "18888888888",
+            "optContent": "登录成功",
+            "name": "kyd xjw",
+            "id": "87f254c0d6ef403c8e5d41e49f00db08",
+            "optTime": "2024-02-22 11:31:33",
+            "userId": "49d828f411cc4c56abe9330cfd824c64"
+          },
+          {
+            "phone": "18888888888",
+            "optContent": "禁用了报警配置 配置2 成功",
+            "name": "kyd xjw",
+            "id": "95a047409ac14c34840bf85af857081e",
+            "optTime": "2024-02-22 11:15:34",
+            "userId": "49d828f411cc4c56abe9330cfd824c64"
+          },
+          {
+            "phone": "18888888888",
+            "optContent": "禁用了报警配置 报警配置110 成功",
+            "name": "kyd xjw",
+            "id": "48f7a4ddf9164aa8b3137f05f1208000",
+            "optTime": "2024-02-22 11:15:34",
+            "userId": "49d828f411cc4c56abe9330cfd824c64"
+          },
+          {
+            "phone": "18888888888",
+            "optContent": "禁用了报警配置 报警配置5 成功",
+            "name": "kyd xjw",
+            "id": "4f1427be64564451b0777d4bc707dd9a",
+            "optTime": "2024-02-22 11:15:33",
+            "userId": "49d828f411cc4c56abe9330cfd824c64"
+          },
+          {
+            "phone": "18888888888",
+            "optContent": "编辑了设备 小型气象站 成功",
+            "name": "kyd xjw",
+            "id": "96b33c63271044adbca2ad57886137eb",
+            "optTime": "2024-02-22 11:01:57",
+            "userId": "49d828f411cc4c56abe9330cfd824c64"
+          },
+          {
+            "phone": "18888888888",
+            "optContent": "创建了工单 111 成功",
+            "name": "kyd xjw",
+            "id": "e2e49732f43e48998bdce2c7abcc4b59",
+            "optTime": "2024-02-22 10:21:52",
+            "userId": "49d828f411cc4c56abe9330cfd824c64"
+          },
+          {
+            "phone": "18888888888",
+            "optContent": "处理了报警历史 2024-02-22 10:10:09 1级报警 成功",
+            "name": "kyd xjw",
+            "id": "3305a978c0f9429f81d48e0958436632",
+            "optTime": "2024-02-22 10:21:52",
+            "userId": "49d828f411cc4c56abe9330cfd824c64"
+          },
+          {
+            "phone": "18888888888",
+            "optContent": "删除了报警配置 报警配置5 失败",
+            "name": "kyd xjw",
+            "id": "00b51d69b9774b2aa262b1bf49c344d9",
+            "optTime": "2024-02-22 09:09:24",
+            "userId": "49d828f411cc4c56abe9330cfd824c64"
+          },
+          {
+            "phone": "18888888888",
+            "optContent": "删除了报警配置 配置2 失败",
+            "name": "kyd xjw",
+            "id": "b627781a38da48d2b899a838a51755f1",
+            "optTime": "2024-02-22 09:09:24",
+            "userId": "49d828f411cc4c56abe9330cfd824c64"
+          },
+          {
+            "phone": "18888888888",
+            "optContent": "删除了工单 111 成功",
+            "name": "kyd xjw",
+            "id": "c881ad243df54cc29826ce9162a97f22",
+            "optTime": "2024-02-22 08:50:29",
+            "userId": "49d828f411cc4c56abe9330cfd824c64"
+          }
+        ]
+      }
+    }
+  }
+}
