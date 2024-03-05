@@ -19,7 +19,7 @@
                   "prevId": "f35018b76b50414594f070870c409b61",
                   "child": [],
                   "name": "数据总览",
-                  "hasSelected": 0
+                  "hasSelected": 1
                 },
                 {
                   "id": "7c8e461f50374115bc46fd3479d60d85",
@@ -27,7 +27,7 @@
                   "prevId": "3fd8dbf5dc0e45d9964420c12160937a",
                   "child": [],
                   "name": "区域展示",
-                  "hasSelected": 0
+                  "hasSelected": 1
                 },
                 {
                   "id": "4ad3a726155f4c249613b80713eeef97",
@@ -35,7 +35,7 @@
                   "prevId": "7c8e461f50374115bc46fd3479d60d85",
                   "child": [],
                   "name": "3D总览",
-                  "hasSelected": 0
+                  "hasSelected": 1
                 },
                 {
                   "id": "e34c4891a37742d39aafb2b98bdb9ace",
@@ -43,11 +43,11 @@
                   "prevId": "4ad3a726155f4c249613b80713eeef97",
                   "child": [],
                   "name": "地图总览",
-                  "hasSelected": 0
+                  "hasSelected": 1
                 }
               ],
               "name": "项目总览",
-              "hasSelected": 0
+              "hasSelected": 1
             },
             {
               "id": "3397f8ef6b0e43b29846d477934d6f6c",
@@ -65,7 +65,7 @@
                       "prevId": "854a474ff7a54bc58b19b1102a37dce8",
                       "child": [],
                       "name": "修改设备",
-                      "hasSelected": 0
+                      "hasSelected": 1
                     },
                     {
                       "id": "1a628d789a0b461a9c599d112fedc446",
@@ -73,7 +73,7 @@
                       "prevId": "f18ff77fadd44ddf87bb82da1c4c0aa0",
                       "child": [],
                       "name": "删除设备",
-                      "hasSelected": 0
+                      "hasSelected": 1
                     },
                     {
                       "id": "e8276f57e3b947a7b426df5c005cf553",
@@ -81,7 +81,7 @@
                       "prevId": "1a628d789a0b461a9c599d112fedc446",
                       "child": [],
                       "name": "修改因子",
-                      "hasSelected": 0
+                      "hasSelected": 1
                     },
                     {
                       "id": "53ea828ec56611eeb9709af7abc654d6",
@@ -89,11 +89,11 @@
                       "prevId": "854a474ff7a54bc58b19b1102a37dce8",
                       "child": [],
                       "name": "上传设备图片",
-                      "hasSelected": 0
+                      "hasSelected": 1
                     }
                   ],
                   "name": "设备列表",
-                  "hasSelected": 0
+                  "hasSelected": 1
                 },
                 {
                   "id": "59b3f778466942c1bcea5401167d6fc9",
@@ -106,7 +106,7 @@
                       "prevId": "59b3f778466942c1bcea5401167d6fc9",
                       "child": [],
                       "name": "添加网关",
-                      "hasSelected": 0
+                      "hasSelected": 1
                     },
                     {
                       "id": "38c89ecc1c4540cda42b197354e8cbf8",
@@ -114,7 +114,7 @@
                       "prevId": "75b92a1851704fa2822c4578ac559990",
                       "child": [],
                       "name": "编辑网关",
-                      "hasSelected": 0
+                      "hasSelected": 1
                     },
                     {
                       "id": "b20480bd58e94aa88b429814c018b1b8",
@@ -122,15 +122,15 @@
                       "prevId": "38c89ecc1c4540cda42b197354e8cbf8",
                       "child": [],
                       "name": "删除网关",
-                      "hasSelected": 0
+                      "hasSelected": 1
                     }
                   ],
                   "name": "网关列表",
-                  "hasSelected": 0
+                  "hasSelected": 1
                 }
               ],
               "name": "设备管理",
-              "hasSelected": 0
+              "hasSelected": 1
             },
             {
               "id": "81c3d57b9e464512b381eac6162de452",
@@ -143,7 +143,7 @@
                   "prevId": "81c3d57b9e464512b381eac6162de452",
                   "child": [],
                   "name": "实时数据",
-                  "hasSelected": 0
+                  "hasSelected": 1
                 },
                 {
                   "id": "3d8c2f510c7a45c4a9cca9487393d1a1",
@@ -151,11 +151,11 @@
                   "prevId": "bfb83f5f929f4b1ab08ed0c3818bf6f8",
                   "child": [],
                   "name": "历史数据",
-                  "hasSelected": 0
+                  "hasSelected": 1
                 }
               ],
               "name": "数据管理",
-              "hasSelected": 0
+              "hasSelected": 1
             },
             {
               "id": "ba656577dd504a9f992a8da10acb2d8e",
@@ -173,7 +173,7 @@
                       "prevId": "7c13e9e6399b4f2a8ad1236f01eb85e1",
                       "child": [],
                       "name": "修改联动配置",
-                      "hasSelected": 0
+                      "hasSelected": 1
                     },
                     {
                       "id": "a8f2b91d5e93434187f8312a3d41f761",
@@ -181,7 +181,7 @@
                       "prevId": "9faf0859ca324b05b1f0b188adf47b6f",
                       "child": [],
                       "name": "开启/禁用联动配置",
-                      "hasSelected": 0
+                      "hasSelected": 1
                     },
                     {
                       "id": "ceda5e16e215473fa2f73f993e4d5708",
@@ -189,7 +189,7 @@
                       "prevId": "a8f2b91d5e93434187f8312a3d41f761",
                       "child": [],
                       "name": "新增联动配置",
-                      "hasSelected": 0
+                      "hasSelected": 1
                     },
                     {
                       "id": "1b45ebbfdc3c44b9a18d5941350b87b3",
@@ -197,11 +197,11 @@
                       "prevId": "ceda5e16e215473fa2f73f993e4d5708",
                       "child": [],
                       "name": "删除联动配置",
-                      "hasSelected": 0
+                      "hasSelected": 1
                     }
                   ],
                   "name": "联动配置",
-                  "hasSelected": 0
+                  "hasSelected": 1
                 },
                 {
                   "id": "c2481873905c48709ed3ac62e116b8de",
@@ -214,15 +214,15 @@
                       "prevId": "c2481873905c48709ed3ac62e116b8de",
                       "child": [],
                       "name": "开关执行器",
-                      "hasSelected": 0
+                      "hasSelected": 1
                     }
                   ],
                   "name": "联动记录",
-                  "hasSelected": 0
+                  "hasSelected": 1
                 }
               ],
               "name": "联动管理",
-              "hasSelected": 0
+              "hasSelected": 1
             },
             {
               "id": "1a9a74efbe8446e58d6b0c391ee14cd8",
@@ -240,7 +240,7 @@
                       "prevId": "e4f73e3fa4954c7b957c8908bca34868",
                       "child": [],
                       "name": "新增报警原因",
-                      "hasSelected": 0
+                      "hasSelected": 1
                     },
                     {
                       "id": "2d9cc239375942a6b094e190814737e1",
@@ -248,7 +248,7 @@
                       "prevId": "918892defe8f4f91a5c9bd0f80846068",
                       "child": [],
                       "name": "编辑报警原因",
-                      "hasSelected": 0
+                      "hasSelected": 1
                     },
                     {
                       "id": "69af578f211e4336810ab490aba42021",
@@ -256,11 +256,11 @@
                       "prevId": "2d9cc239375942a6b094e190814737e1",
                       "child": [],
                       "name": "删除报警原因",
-                      "hasSelected": 0
+                      "hasSelected": 1
                     }
                   ],
                   "name": "报警原因",
-                  "hasSelected": 0
+                  "hasSelected": 1
                 },
                 {
                   "id": "5440e4ec332a4fbb9faf022036eda884",
@@ -273,7 +273,7 @@
                       "prevId": "5440e4ec332a4fbb9faf022036eda884",
                       "child": [],
                       "name": "新增报警等级",
-                      "hasSelected": 0
+                      "hasSelected": 1
                     },
                     {
                       "id": "745318d5667041728276a2ab45edea2f",
@@ -281,7 +281,7 @@
                       "prevId": "ad1914c37c78484687bdb4309fc81616",
                       "child": [],
                       "name": "编辑报警等级",
-                      "hasSelected": 0
+                      "hasSelected": 1
                     },
                     {
                       "id": "7d7af0e3a9bf40b69399c9d7fec8affa",
@@ -289,11 +289,11 @@
                       "prevId": "745318d5667041728276a2ab45edea2f",
                       "child": [],
                       "name": "删除报警等级",
-                      "hasSelected": 0
+                      "hasSelected": 1
                     }
                   ],
                   "name": "报警等级",
-                  "hasSelected": 0
+                  "hasSelected": 1
                 },
                 {
                   "id": "fed26c15dd3f4c408c419bc37f3aabdc",
@@ -306,7 +306,7 @@
                       "prevId": "fed26c15dd3f4c408c419bc37f3aabdc",
                       "child": [],
                       "name": "处理报警记录",
-                      "hasSelected": 0
+                      "hasSelected": 1
                     },
                     {
                       "id": "91b3a91b3e344ec493b602d3b6b177a3",
@@ -314,7 +314,7 @@
                       "prevId": "e37af86178874afbbd86d4efb08bc5e0",
                       "child": [],
                       "name": "删除报警记录",
-                      "hasSelected": 0
+                      "hasSelected": 1
                     },
                     {
                       "id": "391b3041360b40f6aae8c2e215c81cb4",
@@ -322,11 +322,19 @@
                       "prevId": "91b3a91b3e344ec493b602d3b6b177a3",
                       "child": [],
                       "name": "导出报警记录",
+                      "hasSelected": 1
+                    },
+                    {
+                      "id": "97fe276881434d8e91704c7779dedfef",
+                      "pid": "fed26c15dd3f4c408c419bc37f3aabdc",
+                      "prevId": "391b3041360b40f6aae8c2e215c81cb4",
+                      "child": [],
+                      "name": "报警图片上传",
                       "hasSelected": 0
                     }
                   ],
                   "name": "报警记录",
-                  "hasSelected": 0
+                  "hasSelected": 1
                 },
                 {
                   "id": "847ecefde4d94cdeb10c789655f36dde",
@@ -339,7 +347,7 @@
                       "prevId": "847ecefde4d94cdeb10c789655f36dde",
                       "child": [],
                       "name": "新增报警配置",
-                      "hasSelected": 0
+                      "hasSelected": 1
                     },
                     {
                       "id": "79d0ce09e4f940dd9a3202dcceb33110",
@@ -347,7 +355,7 @@
                       "prevId": "754b2fd7569043e0892af7236fbd6ea3",
                       "child": [],
                       "name": "修改报警配置",
-                      "hasSelected": 0
+                      "hasSelected": 1
                     },
                     {
                       "id": "6efc379b099b41b5945c504b901cf06b",
@@ -355,7 +363,7 @@
                       "prevId": "79d0ce09e4f940dd9a3202dcceb33110",
                       "child": [],
                       "name": "删除报警配置",
-                      "hasSelected": 0
+                      "hasSelected": 1
                     },
                     {
                       "id": "4dab8b39c3fa11eeb9709af7abc654d6",
@@ -363,15 +371,15 @@
                       "prevId": "847ecefde4d94cdeb10c789655f36dde",
                       "child": [],
                       "name": "启用/禁用报警配置",
-                      "hasSelected": 0
+                      "hasSelected": 1
                     }
                   ],
                   "name": "报警配置",
-                  "hasSelected": 0
+                  "hasSelected": 1
                 }
               ],
               "name": "报警管理",
-              "hasSelected": 0
+              "hasSelected": 1
             },
             {
               "id": "f0c2e52fd0354ff98ecea85f2ff2bda9",
@@ -384,7 +392,7 @@
                   "prevId": "f0c2e52fd0354ff98ecea85f2ff2bda9",
                   "child": [],
                   "name": "修改工单",
-                  "hasSelected": 0
+                  "hasSelected": 1
                 },
                 {
                   "id": "a4373ae2150e45e6a634892b0b3e5243",
@@ -392,7 +400,7 @@
                   "prevId": "43897ba181fa44e1a6dc7faf920691d1",
                   "child": [],
                   "name": "处理工单",
-                  "hasSelected": 0
+                  "hasSelected": 1
                 },
                 {
                   "id": "8b08ffa7e13d43f693d17317723db063",
@@ -400,7 +408,7 @@
                   "prevId": "a4373ae2150e45e6a634892b0b3e5243",
                   "child": [],
                   "name": "删除工单",
-                  "hasSelected": 0
+                  "hasSelected": 1
                 },
                 {
                   "id": "172de7b4ec164defa21bd17cff5e2c14",
@@ -408,11 +416,11 @@
                   "prevId": "8b08ffa7e13d43f693d17317723db063",
                   "child": [],
                   "name": "上传工单图片",
-                  "hasSelected": 0
+                  "hasSelected": 1
                 }
               ],
               "name": "工单管理",
-              "hasSelected": 0
+              "hasSelected": 1
             },
             {
               "id": "edaa9b907cea45eda1a19ae44f2f7cc9",
@@ -430,7 +438,7 @@
                       "prevId": "9c594eb991264be29a0a47a7e0fff4df",
                       "child": [],
                       "name": "邀请用户",
-                      "hasSelected": 0
+                      "hasSelected": 1
                     },
                     {
                       "id": "673a6c3e83064484886e416c6a86bbb2",
@@ -438,7 +446,7 @@
                       "prevId": "1cdfad5ad84f4bab98529ecb5f076e86",
                       "child": [],
                       "name": "删除成员",
-                      "hasSelected": 0
+                      "hasSelected": 1
                     },
                     {
                       "id": "a29b67b29a0c4b2fa6c0135086025807",
@@ -446,7 +454,7 @@
                       "prevId": "673a6c3e83064484886e416c6a86bbb2",
                       "child": [],
                       "name": "重置密码",
-                      "hasSelected": 0
+                      "hasSelected": 1
                     },
                     {
                       "id": "17a7863a5e784b5ca284e59c8b7a5416",
@@ -454,7 +462,7 @@
                       "prevId": "a29b67b29a0c4b2fa6c0135086025807",
                       "child": [],
                       "name": "用户绑定角色",
-                      "hasSelected": 0
+                      "hasSelected": 1
                     },
                     {
                       "id": "632a9aa31f5f467d94984ce9e181c43e",
@@ -462,7 +470,7 @@
                       "prevId": "17a7863a5e784b5ca284e59c8b7a5416",
                       "child": [],
                       "name": "用户绑定部门",
-                      "hasSelected": 0
+                      "hasSelected": 1
                     },
                     {
                       "id": "70c329c9c4b311eeb9709af7abc654d6",
@@ -470,11 +478,11 @@
                       "prevId": "9c594eb991264be29a0a47a7e0fff4df",
                       "child": [],
                       "name": "添加成员",
-                      "hasSelected": 0
+                      "hasSelected": 1
                     }
                   ],
                   "name": "成员管理",
-                  "hasSelected": 0
+                  "hasSelected": 1
                 },
                 {
                   "id": "9951d72a433e425f8d86d465e1ed3f83",
@@ -487,7 +495,7 @@
                       "prevId": "9951d72a433e425f8d86d465e1ed3f83",
                       "child": [],
                       "name": "新增角色",
-                      "hasSelected": 0
+                      "hasSelected": 1
                     },
                     {
                       "id": "a8d10e672752459babca3dc5a0a25b0b",
@@ -495,7 +503,7 @@
                       "prevId": "82498adc5d3e4a06b4666e99a0188bd9",
                       "child": [],
                       "name": "修改角色",
-                      "hasSelected": 0
+                      "hasSelected": 1
                     },
                     {
                       "id": "e81cce655e05413c967ceea32c920768",
@@ -503,11 +511,11 @@
                       "prevId": "a8d10e672752459babca3dc5a0a25b0b",
                       "child": [],
                       "name": "删除角色",
-                      "hasSelected": 0
+                      "hasSelected": 1
                     }
                   ],
                   "name": "角色管理",
-                  "hasSelected": 0
+                  "hasSelected": 1
                 },
                 {
                   "id": "475f6d21ddf043b08df59453722cbd7d",
@@ -524,7 +532,7 @@
                     }
                   ],
                   "name": "角色权限",
-                  "hasSelected": 0
+                  "hasSelected": 1
                 },
                 {
                   "id": "c9aec332c1cb402f97aa58ef74cd67e6",
@@ -537,7 +545,7 @@
                       "prevId": "c9aec332c1cb402f97aa58ef74cd67e6",
                       "child": [],
                       "name": "新增部门",
-                      "hasSelected": 0
+                      "hasSelected": 1
                     },
                     {
                       "id": "6438ea8383dd44c29ee6d195764bd5b7",
@@ -545,7 +553,7 @@
                       "prevId": "dfc183bf20074684a3a53775eff9f330",
                       "child": [],
                       "name": "修改部门",
-                      "hasSelected": 0
+                      "hasSelected": 1
                     },
                     {
                       "id": "8fa1bca0631f4c0d81e0c20196cd4d10",
@@ -553,16 +561,33 @@
                       "prevId": "6438ea8383dd44c29ee6d195764bd5b7",
                       "child": [],
                       "name": "删除部门",
-                      "hasSelected": 0
+                      "hasSelected": 1
                     }
                   ],
                   "name": "部门管理",
+                  "hasSelected": 1
+                },
+                {
+                  "id": "d91feef7ea8d4e0aa77213fe7475ade5",
+                  "pid": "edaa9b907cea45eda1a19ae44f2f7cc9",
+                  "prevId": "c9aec332c1cb402f97aa58ef74cd67e6",
+                  "child": [
+                    {
+                      "id": "7d9d210ce4d24695a5db349fee1b1d3a",
+                      "pid": "d91feef7ea8d4e0aa77213fe7475ade5",
+                      "prevId": "d91feef7ea8d4e0aa77213fe7475ade5",
+                      "child": [],
+                      "name": "删除日志",
+                      "hasSelected": 0
+                    }
+                  ],
+                  "name": "系统日志",
                   "hasSelected": 0
                 },
                 {
                   "id": "ca38d7e599a3416580f8ee54e0eee1d9",
                   "pid": "edaa9b907cea45eda1a19ae44f2f7cc9",
-                  "prevId": "c9aec332c1cb402f97aa58ef74cd67e6",
+                  "prevId": "d91feef7ea8d4e0aa77213fe7475ade5",
                   "child": [
                     {
                       "id": "8107c3a57fe74b41b00c49823a5c7008",
@@ -570,7 +595,7 @@
                       "prevId": "ca38d7e599a3416580f8ee54e0eee1d9",
                       "child": [],
                       "name": "添加区域分组",
-                      "hasSelected": 0
+                      "hasSelected": 1
                     },
                     {
                       "id": "10b166f4a1ce4c42b53ce3bbfa58dd43",
@@ -578,7 +603,7 @@
                       "prevId": "8107c3a57fe74b41b00c49823a5c7008",
                       "child": [],
                       "name": "修改区域分组",
-                      "hasSelected": 0
+                      "hasSelected": 1
                     },
                     {
                       "id": "228addbe32994b4ea6db76e3f9fcfc16",
@@ -586,27 +611,36 @@
                       "prevId": "10b166f4a1ce4c42b53ce3bbfa58dd43",
                       "child": [],
                       "name": "删除区域分组",
-                      "hasSelected": 0
+                      "hasSelected": 1
                     }
                   ],
                   "name": "区域分组",
-                  "hasSelected": 0
+                  "hasSelected": 1
                 },
                 {
                   "id": "ade3137029ac443584521282500f191e",
                   "pid": "edaa9b907cea45eda1a19ae44f2f7cc9",
                   "prevId": "ca38d7e599a3416580f8ee54e0eee1d9",
-                  "child": [],
+                  "child": [
+                    {
+                      "id": "5c29a5c93efd46b0942296fbb9b90d45",
+                      "pid": "ade3137029ac443584521282500f191e",
+                      "prevId": "ade3137029ac443584521282500f191e",
+                      "child": [],
+                      "name": "激活许可证",
+                      "hasSelected": 0
+                    }
+                  ],
                   "name": "许可证管理",
-                  "hasSelected": 0
+                  "hasSelected": 1
                 }
               ],
               "name": "系统管理",
-              "hasSelected": 0
+              "hasSelected": 1
             }
           ],
           "name": "系统菜单",
-          "hasSelected": 0
+          "hasSelected": 1
         }
       ]
     }

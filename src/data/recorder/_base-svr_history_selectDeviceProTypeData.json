@@ -1,0 +1,398 @@
+{
+  "POST": {
+    "/base-svr/history/selectDeviceProTypeData": {
+      "errorCode": 1,
+      "record": {
+        "code": 0,
+        "message": null,
+        "count": 0,
+        "data": {
+          "unitList": [
+            {
+              "deviceId": null,
+              "deviceName": "智能能量表",
+              "proTypeId": "32",
+              "proType": 5003,
+              "num": 2,
+              "name": "温度",
+              "unit": "℃",
+              "subName": "温度#2"
+            },
+            {
+              "deviceId": null,
+              "deviceName": "智能能量表",
+              "proTypeId": "90",
+              "proType": 5050,
+              "num": 1,
+              "name": "信号强度",
+              "unit": "--",
+              "subName": "信号强度#1"
+            }
+          ],
+          "deviceData": [
+            {
+              "温度": null,
+              "信号强度": null,
+              "time": {
+                "year": 124,
+                "month": 2,
+                "date": 5,
+                "day": 2,
+                "hours": 0,
+                "minutes": 0,
+                "seconds": 0,
+                "time": 1709568000000,
+                "timezoneOffset": -28800
+              }
+            },
+            {
+              "温度": null,
+              "信号强度": null,
+              "time": {
+                "year": 124,
+                "month": 2,
+                "date": 5,
+                "day": 2,
+                "hours": 1,
+                "minutes": 0,
+                "seconds": 0,
+                "time": 1709571600000,
+                "timezoneOffset": -28800
+              }
+            },
+            {
+              "温度": null,
+              "信号强度": null,
+              "time": {
+                "year": 124,
+                "month": 2,
+                "date": 5,
+                "day": 2,
+                "hours": 2,
+                "minutes": 0,
+                "seconds": 0,
+                "time": 1709575200000,
+                "timezoneOffset": -28800
+              }
+            },
+            {
+              "温度": null,
+              "信号强度": null,
+              "time": {
+                "year": 124,
+                "month": 2,
+                "date": 5,
+                "day": 2,
+                "hours": 3,
+                "minutes": 0,
+                "seconds": 0,
+                "time": 1709578800000,
+                "timezoneOffset": -28800
+              }
+            },
+            {
+              "温度": null,
+              "信号强度": null,
+              "time": {
+                "year": 124,
+                "month": 2,
+                "date": 5,
+                "day": 2,
+                "hours": 4,
+                "minutes": 0,
+                "seconds": 0,
+                "time": 1709582400000,
+                "timezoneOffset": -28800
+              }
+            },
+            {
+              "温度": null,
+              "信号强度": null,
+              "time": {
+                "year": 124,
+                "month": 2,
+                "date": 5,
+                "day": 2,
+                "hours": 5,
+                "minutes": 0,
+                "seconds": 0,
+                "time": 1709586000000,
+                "timezoneOffset": -28800
+              }
+            },
+            {
+              "温度": null,
+              "信号强度": null,
+              "time": {
+                "year": 124,
+                "month": 2,
+                "date": 5,
+                "day": 2,
+                "hours": 6,
+                "minutes": 0,
+                "seconds": 0,
+                "time": 1709589600000,
+                "timezoneOffset": -28800
+              }
+            },
+            {
+              "温度": null,
+              "信号强度": null,
+              "time": {
+                "year": 124,
+                "month": 2,
+                "date": 5,
+                "day": 2,
+                "hours": 7,
+                "minutes": 0,
+                "seconds": 0,
+                "time": 1709593200000,
+                "timezoneOffset": -28800
+              }
+            },
+            {
+              "温度": null,
+              "信号强度": null,
+              "time": {
+                "year": 124,
+                "month": 2,
+                "date": 5,
+                "day": 2,
+                "hours": 8,
+                "minutes": 0,
+                "seconds": 0,
+                "time": 1709596800000,
+                "timezoneOffset": -28800
+              }
+            },
+            {
+              "温度": null,
+              "信号强度": null,
+              "time": {
+                "year": 124,
+                "month": 2,
+                "date": 5,
+                "day": 2,
+                "hours": 9,
+                "minutes": 0,
+                "seconds": 0,
+                "time": 1709600400000,
+                "timezoneOffset": -28800
+              }
+            },
+            {
+              "温度": "20.84",
+              "信号强度": "5.91",
+              "time": {
+                "year": 124,
+                "month": 2,
+                "date": 5,
+                "day": 2,
+                "hours": 10,
+                "minutes": 0,
+                "seconds": 0,
+                "time": 1709604000000,
+                "timezoneOffset": -28800
+              }
+            },
+            {
+              "温度": "18.12",
+              "信号强度": "5.36",
+              "time": {
+                "year": 124,
+                "month": 2,
+                "date": 5,
+                "day": 2,
+                "hours": 11,
+                "minutes": 0,
+                "seconds": 0,
+                "time": 1709607600000,
+                "timezoneOffset": -28800
+              }
+            },
+            {
+              "温度": "17.72",
+              "信号强度": "6.15",
+              "time": {
+                "year": 124,
+                "month": 2,
+                "date": 5,
+                "day": 2,
+                "hours": 12,
+                "minutes": 0,
+                "seconds": 0,
+                "time": 1709611200000,
+                "timezoneOffset": -28800
+              }
+            },
+            {
+              "温度": "17.76",
+              "信号强度": "6.41",
+              "time": {
+                "year": 124,
+                "month": 2,
+                "date": 5,
+                "day": 2,
+                "hours": 13,
+                "minutes": 0,
+                "seconds": 0,
+                "time": 1709614800000,
+                "timezoneOffset": -28800
+              }
+            },
+            {
+              "温度": "18.55",
+              "信号强度": "5.47",
+              "time": {
+                "year": 124,
+                "month": 2,
+                "date": 5,
+                "day": 2,
+                "hours": 14,
+                "minutes": 0,
+                "seconds": 0,
+                "time": 1709618400000,
+                "timezoneOffset": -28800
+              }
+            },
+            {
+              "温度": "18.32",
+              "信号强度": "5.35",
+              "time": {
+                "year": 124,
+                "month": 2,
+                "date": 5,
+                "day": 2,
+                "hours": 15,
+                "minutes": 0,
+                "seconds": 0,
+                "time": 1709622000000,
+                "timezoneOffset": -28800
+              }
+            },
+            {
+              "温度": "18.94",
+              "信号强度": "5.55",
+              "time": {
+                "year": 124,
+                "month": 2,
+                "date": 5,
+                "day": 2,
+                "hours": 16,
+                "minutes": 0,
+                "seconds": 0,
+                "time": 1709625600000,
+                "timezoneOffset": -28800
+              }
+            },
+            {
+              "温度": null,
+              "信号强度": null,
+              "time": {
+                "year": 124,
+                "month": 2,
+                "date": 5,
+                "day": 2,
+                "hours": 17,
+                "minutes": 0,
+                "seconds": 0,
+                "time": 1709629200000,
+                "timezoneOffset": -28800
+              }
+            },
+            {
+              "温度": null,
+              "信号强度": null,
+              "time": {
+                "year": 124,
+                "month": 2,
+                "date": 5,
+                "day": 2,
+                "hours": 18,
+                "minutes": 0,
+                "seconds": 0,
+                "time": 1709632800000,
+                "timezoneOffset": -28800
+              }
+            },
+            {
+              "温度": null,
+              "信号强度": null,
+              "time": {
+                "year": 124,
+                "month": 2,
+                "date": 5,
+                "day": 2,
+                "hours": 19,
+                "minutes": 0,
+                "seconds": 0,
+                "time": 1709636400000,
+                "timezoneOffset": -28800
+              }
+            },
+            {
+              "温度": null,
+              "信号强度": null,
+              "time": {
+                "year": 124,
+                "month": 2,
+                "date": 5,
+                "day": 2,
+                "hours": 20,
+                "minutes": 0,
+                "seconds": 0,
+                "time": 1709640000000,
+                "timezoneOffset": -28800
+              }
+            },
+            {
+              "温度": null,
+              "信号强度": null,
+              "time": {
+                "year": 124,
+                "month": 2,
+                "date": 5,
+                "day": 2,
+                "hours": 21,
+                "minutes": 0,
+                "seconds": 0,
+                "time": 1709643600000,
+                "timezoneOffset": -28800
+              }
+            },
+            {
+              "温度": null,
+              "信号强度": null,
+              "time": {
+                "year": 124,
+                "month": 2,
+                "date": 5,
+                "day": 2,
+                "hours": 22,
+                "minutes": 0,
+                "seconds": 0,
+                "time": 1709647200000,
+                "timezoneOffset": -28800
+              }
+            },
+            {
+              "温度": null,
+              "信号强度": null,
+              "time": {
+                "year": 124,
+                "month": 2,
+                "date": 5,
+                "day": 2,
+                "hours": 23,
+                "minutes": 0,
+                "seconds": 0,
+                "time": 1709650800000,
+                "timezoneOffset": -28800
+              }
+            }
+          ]
+        }
+      }
+    }
+  }
+}

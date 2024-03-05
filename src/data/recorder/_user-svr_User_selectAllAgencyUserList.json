@@ -5,6 +5,16 @@
       "record": [
         {
           "agencyId": "083522bb70e14021aa8a9533c131c30e",
+          "userId": "832853eaf5e0482196f1e90370a9ebf7",
+          "solutionType": "10",
+          "uname": "aaaaaa",
+          "aname": "通用智能化管理系统",
+          "phone": "18888888811",
+          "departmentId": null,
+          "departmentName": null
+        },
+        {
+          "agencyId": "083522bb70e14021aa8a9533c131c30e",
           "userId": "49d828f411cc4c56abe9330cfd824c64",
           "solutionType": "10",
           "uname": "kyd xjw",

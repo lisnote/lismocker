@@ -1,0 +1,48 @@
+{
+  "POST": {
+    "/base-svr/linkage-config/selectLinkageConfigInfo": {
+      "errorCode": 1,
+      "record": {
+        "id": "d8ace57ff46942869ca9c935a0b4c975",
+        "agencyId": null,
+        "name": "电表联动",
+        "description": "电表联动",
+        "createTime": null,
+        "conditionRule": 0,
+        "isOpen": 0,
+        "validity": 10,
+        "conditionList": [
+          {
+            "conditionID": "2756490ce53e4d56a9b9bfb6e13a02c3",
+            "deviceId": "G-D-100",
+            "deviceName": null,
+            "proTypeId": "51",
+            "proType": null,
+            "proTypeName": null,
+            "num": 1,
+            "subName": null,
+            "conditionType": 1,
+            "firstValue": 1,
+            "secondValue": null,
+            "configId": "d8ace57ff46942869ca9c935a0b4c975"
+          }
+        ],
+        "actionList": [
+          {
+            "actionID": "e14cbedf58a44ac8a07881b279f5aa14",
+            "gtwId": "G-EMS-10000",
+            "deviceId": "G-D-200",
+            "deviceName": "keenyoda智能IO控制器",
+            "proTypeId": "55",
+            "proType": null,
+            "proTypeName": "数字输出",
+            "num": 0,
+            "subName": "开关（写）#0",
+            "actionValue": 0,
+            "configId": null
+          }
+        ]
+      }
+    }
+  }
+}

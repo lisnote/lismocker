@@ -28,11 +28,19 @@
           "proTypeName": "湿度"
         },
         {
+          "id": "30564f1f5317478f931f534305d7354c",
+          "agencyId": "083522bb70e14021aa8a9533c131c30e",
+          "proType": 5005,
+          "cause": "二氧化碳浓度过高",
+          "suggestion": "开窗通风",
+          "proTypeName": "CO2"
+        },
+        {
           "id": "db5d019a0af74a8f89abf93ac6ece612",
           "agencyId": "083522bb70e14021aa8a9533c131c30e",
           "proType": 5016,
           "cause": "电量用量超标",
-          "suggestion": "节约电量的使用",
+          "suggestion": "节约电量的使用、检查是否存在偷电",
           "proTypeName": "电量用量"
         }
       ]

@@ -2,7 +2,7 @@
   "POST": {
     "/base-svr/realValueAlarm/selectConfigCount": {
       "errorCode": 1,
-      "record": 4
+      "record": 5
     }
   }
 }

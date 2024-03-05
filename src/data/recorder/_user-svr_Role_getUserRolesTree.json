@@ -1,0 +1,35 @@
+{
+  "GET": {
+    "/user-svr/Role/getUserRolesTree": {
+      "errorCode": 1,
+      "record": [
+        {
+          "id": "28ec272fd0d14573874e82beb5eae061",
+          "pid": "000000",
+          "prevId": null,
+          "child": [
+            {
+              "id": "e849a5c5dd5349939f040635da620d52",
+              "pid": "28ec272fd0d14573874e82beb5eae061",
+              "prevId": null,
+              "child": [
+                {
+                  "id": "ab15d72d20914f4f82e75cf3bfc24af6",
+                  "pid": "e849a5c5dd5349939f040635da620d52",
+                  "prevId": null,
+                  "child": [],
+                  "name": "网关管理员",
+                  "hasSelected": 1
+                }
+              ],
+              "name": "管理员",
+              "hasSelected": 0
+            }
+          ],
+          "name": "Administrator",
+          "hasSelected": 0
+        }
+      ]
+    }
+  }
+}

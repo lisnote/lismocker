@@ -8,30 +8,44 @@
           "deviceName": "智能电表",
           "type": 10003,
           "online": 1,
+          "hasBind": 1,
+          "longitude": 105.89392414828922,
+          "latitude": 34.38357563381161,
+          "address": "甘肃省天水市麦积镇蜂儿崖沟",
+          "status": 3
+        },
+        {
+          "deviceId": "Gims-device-04",
+          "deviceName": "扶梯监测传感器",
+          "type": 300000,
+          "online": 1,
           "hasBind": 0,
           "longitude": null,
           "latitude": null,
-          "address": null
+          "address": null,
+          "status": 0
         },
         {
           "deviceId": "G-D-200",
-          "deviceName": "keenyoda智能IO控制器1",
+          "deviceName": "keenyoda智能IO控制器",
           "type": 5016,
           "online": 1,
-          "hasBind": 0,
-          "longitude": null,
-          "latitude": null,
-          "address": null
+          "hasBind": 1,
+          "longitude": 95.62384966109107,
+          "latitude": 30.23691333429791,
+          "address": "西藏自治区林芝市波密县",
+          "status": 0
         },
         {
           "deviceId": "Gims-device-01",
-          "deviceName": "设备1号",
+          "deviceName": "智能能量表",
           "type": 10009,
           "online": 1,
-          "hasBind": 0,
-          "longitude": null,
-          "latitude": null,
-          "address": null
+          "hasBind": 1,
+          "longitude": 119.39105572691346,
+          "latitude": 42.63202821938731,
+          "address": "内蒙古自治区赤峰市松山区哈拉道口镇橙子山",
+          "status": 0
         },
         {
           "deviceId": "Gims-device-02",
@@ -41,27 +55,19 @@
           "hasBind": 0,
           "longitude": null,
           "latitude": null,
-          "address": null
+          "address": null,
+          "status": 0
         },
         {
-          "deviceId": "GW-D-100",
-          "deviceName": "温湿度传感器",
-          "type": 10,
+          "deviceId": "Gims-device-03",
+          "deviceName": "pm2.5传感器",
+          "type": 7,
           "online": 1,
-          "hasBind": 0,
-          "longitude": null,
-          "latitude": null,
-          "address": null
-        },
-        {
-          "deviceId": "GW-D-102",
-          "deviceName": "温控器",
-          "type": 5010,
-          "online": 1,
-          "hasBind": 0,
-          "longitude": null,
-          "latitude": null,
-          "address": null
+          "hasBind": 1,
+          "longitude": 96.97929796810865,
+          "latitude": 35.300311009970024,
+          "address": "青海省玉树藏族自治州曲麻莱县",
+          "status": 0
         }
       ]
     }

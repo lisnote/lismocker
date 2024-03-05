@@ -4,9 +4,69 @@
       "errorCode": 1,
       "record": [
         {
+          "id": "d8ace57ff46942869ca9c935a0b4c975",
+          "agencyId": "083522bb70e14021aa8a9533c131c30e",
+          "name": "电表联动",
+          "description": "电表联动",
+          "createTime": {
+            "year": 124,
+            "month": 2,
+            "date": 4,
+            "day": 1,
+            "hours": 10,
+            "minutes": 53,
+            "seconds": 31,
+            "time": 1709520811000,
+            "timezoneOffset": -28800
+          },
+          "conditionRule": null,
+          "isOpen": 0,
+          "validity": null
+        },
+        {
+          "id": "0b2c7749af604c5184421573d71b1d26",
+          "agencyId": "083522bb70e14021aa8a9533c131c30e",
+          "name": "智能电表联动",
+          "description": "智能电表联动",
+          "createTime": {
+            "year": 124,
+            "month": 2,
+            "date": 4,
+            "day": 1,
+            "hours": 10,
+            "minutes": 53,
+            "seconds": 6,
+            "time": 1709520786000,
+            "timezoneOffset": -28800
+          },
+          "conditionRule": null,
+          "isOpen": 0,
+          "validity": null
+        },
+        {
+          "id": "7f4760a6c3ad4c7cb2ecb0c349beb315",
+          "agencyId": "083522bb70e14021aa8a9533c131c30e",
+          "name": "能量表联动配置",
+          "description": "能量表联动",
+          "createTime": {
+            "year": 124,
+            "month": 1,
+            "date": 28,
+            "day": 3,
+            "hours": 14,
+            "minutes": 32,
+            "seconds": 20,
+            "time": 1709101940000,
+            "timezoneOffset": -28800
+          },
+          "conditionRule": null,
+          "isOpen": 0,
+          "validity": null
+        },
+        {
           "id": "363db9a343fe4f1db680a186c4aa6fa7",
           "agencyId": "083522bb70e14021aa8a9533c131c30e",
-          "name": "联动配置778",
+          "name": "IO控制器联动",
           "description": "满足其中一个条就触发IO控制器开启",
           "createTime": {
             "year": 124,
@@ -24,30 +84,10 @@
           "validity": null
         },
         {
-          "id": "1c653f364ab84fbe9c78ea4ed60ab150",
-          "agencyId": "083522bb70e14021aa8a9533c131c30e",
-          "name": "一级联动",
-          "description": "无",
-          "createTime": {
-            "year": 124,
-            "month": 1,
-            "date": 5,
-            "day": 1,
-            "hours": 11,
-            "minutes": 8,
-            "seconds": 24,
-            "time": 1707102504000,
-            "timezoneOffset": -28800
-          },
-          "conditionRule": null,
-          "isOpen": 0,
-          "validity": null
-        },
-        {
           "id": "28678ae57f9d4b8caffbadfd909f98e0",
           "agencyId": "083522bb70e14021aa8a9533c131c30e",
-          "name": "电表联动2",
-          "description": "电表联动2",
+          "name": "温控器联动",
+          "description": "温控器联动",
           "createTime": {
             "year": 124,
             "month": 1,
@@ -57,46 +97,6 @@
             "minutes": 14,
             "seconds": 25,
             "time": 1707027265000,
-            "timezoneOffset": -28800
-          },
-          "conditionRule": null,
-          "isOpen": 0,
-          "validity": null
-        },
-        {
-          "id": "4248617b4bdd4822945d997611029676",
-          "agencyId": "083522bb70e14021aa8a9533c131c30e",
-          "name": "电表联动",
-          "description": "电表联动",
-          "createTime": {
-            "year": 124,
-            "month": 1,
-            "date": 4,
-            "day": 7,
-            "hours": 14,
-            "minutes": 13,
-            "seconds": 51,
-            "time": 1707027231000,
-            "timezoneOffset": -28800
-          },
-          "conditionRule": null,
-          "isOpen": 0,
-          "validity": null
-        },
-        {
-          "id": "ebcdb547ef77475284720953d75fae3f",
-          "agencyId": "083522bb70e14021aa8a9533c131c30e",
-          "name": "智能电表联动温控器",
-          "description": "联动测试1",
-          "createTime": {
-            "year": 124,
-            "month": 1,
-            "date": 4,
-            "day": 7,
-            "hours": 14,
-            "minutes": 12,
-            "seconds": 23,
-            "time": 1707027143000,
             "timezoneOffset": -28800
           },
           "conditionRule": null,

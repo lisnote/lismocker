@@ -1,0 +1,32 @@
+{
+  "POST": {
+    "/base-svr/deviceParameter/selectDeviceContactList": {
+      "errorCode": 1,
+      "record": [
+        {
+          "id": "2e7e3bb7703a4976b006806e9977734e",
+          "devId": "Gims-device-04",
+          "proTypeId": "32",
+          "num": 2,
+          "subName": "温度#2",
+          "proTypeName": "温度",
+          "dataType": 1,
+          "proType": 5003,
+          "time": {
+            "year": 124,
+            "month": 2,
+            "date": 5,
+            "day": 2,
+            "hours": 17,
+            "minutes": 47,
+            "seconds": 6,
+            "time": 1709632026000,
+            "timezoneOffset": -480
+          },
+          "value": "16.84",
+          "unit": "℃"
+        }
+      ]
+    }
+  }
+}

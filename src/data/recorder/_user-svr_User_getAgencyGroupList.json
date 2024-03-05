@@ -72,44 +72,22 @@
             "mark": null
           },
           {
-            "id": "d60912eac7f04e0bb0b39464648aa688",
+            "id": "49258230bbdc4213ab4a075b6be3c663",
             "pid": "083522bb70e14021aa8a9533c131c30e",
             "prevId": "dc34856f01194f2787c85678e5ce3e0c",
-            "child": [
-              {
-                "id": "b9b644ff29c74dedb065f5aac7be1925",
-                "pid": "d60912eac7f04e0bb0b39464648aa688",
-                "prevId": "d60912eac7f04e0bb0b39464648aa688",
-                "child": [],
-                "name": "2",
-                "addr": null,
-                "color": null,
-                "addTime": {
-                  "year": 124,
-                  "month": 1,
-                  "date": 20,
-                  "day": 2,
-                  "hours": 15,
-                  "minutes": 40,
-                  "seconds": 57,
-                  "time": 1708414857000,
-                  "timezoneOffset": -480
-                },
-                "mark": null
-              }
-            ],
-            "name": "1",
+            "child": [],
+            "name": "生产车间",
             "addr": null,
             "color": null,
             "addTime": {
               "year": 124,
-              "month": 1,
-              "date": 20,
-              "day": 2,
-              "hours": 15,
-              "minutes": 40,
-              "seconds": 53,
-              "time": 1708414853000,
+              "month": 2,
+              "date": 4,
+              "day": 1,
+              "hours": 17,
+              "minutes": 42,
+              "seconds": 54,
+              "time": 1709545374000,
               "timezoneOffset": -480
             },
             "mark": null

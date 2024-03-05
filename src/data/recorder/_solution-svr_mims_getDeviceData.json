@@ -4,16 +4,11 @@
       "errorCode": 1,
       "record": [
         {
-          "devId": "GW-D-100",
-          "name": "温度",
-          "unit": "℃",
-          "value": "--"
-        },
-        {
-          "devId": "GW-D-100",
-          "name": "湿度",
-          "unit": "%RH",
-          "value": "--"
+          "devId": "Gims-device-03",
+          "name": "PM10",
+          "unit": "ug/m³",
+          "value": "--",
+          "subName": "PM10#3"
         }
       ]
     }

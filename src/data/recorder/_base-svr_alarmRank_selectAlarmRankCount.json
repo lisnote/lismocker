@@ -2,7 +2,7 @@
   "POST": {
     "/base-svr/alarmRank/selectAlarmRankCount": {
       "errorCode": 1,
-      "record": 3
+      "record": 4
     }
   }
 }

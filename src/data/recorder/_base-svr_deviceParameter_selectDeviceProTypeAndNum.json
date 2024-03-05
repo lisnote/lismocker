@@ -1,0 +1,105 @@
+{
+  "POST": {
+    "/base-svr/deviceParameter/selectDeviceProTypeAndNum": {
+      "errorCode": 1,
+      "record": [
+        {
+          "proTypeName": "Ia",
+          "proType": 5022,
+          "proTypeId": 51,
+          "subList": [
+            {
+              "subName": "a相电流",
+              "num": 1,
+              "hasSelected": false
+            }
+          ]
+        },
+        {
+          "proTypeName": "Ib",
+          "proType": 5023,
+          "proTypeId": 52,
+          "subList": [
+            {
+              "subName": "b相电流",
+              "num": 2,
+              "hasSelected": false
+            }
+          ]
+        },
+        {
+          "proTypeName": "Ic",
+          "proType": 5024,
+          "proTypeId": 53,
+          "subList": [
+            {
+              "subName": "c相电流",
+              "num": 3,
+              "hasSelected": false
+            }
+          ]
+        },
+        {
+          "proTypeName": "Ua",
+          "proType": 5019,
+          "proTypeId": 48,
+          "subList": [
+            {
+              "subName": "a相电压",
+              "num": 4,
+              "hasSelected": false
+            }
+          ]
+        },
+        {
+          "proTypeName": "Ub",
+          "proType": 5020,
+          "proTypeId": 49,
+          "subList": [
+            {
+              "subName": "Ub#5",
+              "num": 5,
+              "hasSelected": false
+            }
+          ]
+        },
+        {
+          "proTypeName": "Uc",
+          "proType": 5021,
+          "proTypeId": 50,
+          "subList": [
+            {
+              "subName": "Uc#6",
+              "num": 6,
+              "hasSelected": false
+            }
+          ]
+        },
+        {
+          "proTypeName": "电量用量",
+          "proType": 5016,
+          "proTypeId": 45,
+          "subList": [
+            {
+              "subName": "电量用量#7",
+              "num": 7,
+              "hasSelected": false
+            }
+          ]
+        },
+        {
+          "proTypeName": "总功率",
+          "proType": 5025,
+          "proTypeId": 54,
+          "subList": [
+            {
+              "subName": "总功率#8",
+              "num": 8,
+              "hasSelected": false
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
