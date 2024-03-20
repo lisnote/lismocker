@@ -1,0 +1,804 @@
+{
+  "POST": {
+    "/base-svr/regionModel/selectRegionDeviceTree": {
+      "errorCode": 1,
+      "record": [
+        {
+          "regionId": "dc34856f01194f2787c85678e5ce3e0c",
+          "parentRelateRegionId": "0",
+          "regionName": "KEENYODA",
+          "url": "https://keenyoda-iot-bucket.oss-cn-shenzhen.aliyuncs.com/QiWuIOT/GIMS/Dashboard/0.KEENYODA.glb",
+          "regionPid": "083522bb70e14021aa8a9533c131c30e",
+          "scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "position": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "deviceList": [
+            {
+              "regionId": "dc34856f01194f2787c85678e5ce3e0c",
+              "deviceId": "G-D-100",
+              "deviceName": "智能电表",
+              "url": "https://keenyoda-iot-bucket.oss-cn-shenzhen.aliyuncs.com/QiWuIOT/DeviceModel/默认设备.glb",
+              "scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+              },
+              "position": {
+                "x": 10,
+                "y": 2,
+                "z": 12
+              },
+              "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            },
+            {
+              "regionId": "dc34856f01194f2787c85678e5ce3e0c",
+              "deviceId": "Gims-device-01",
+              "deviceName": "智能能量表",
+              "url": "https://keenyoda-iot-bucket.oss-cn-shenzhen.aliyuncs.com/QiWuIOT/DeviceModel/默认设备.glb",
+              "scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+              },
+              "position": {
+                "x": 10,
+                "y": 2,
+                "z": 13
+              },
+              "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            },
+            {
+              "regionId": "dc34856f01194f2787c85678e5ce3e0c",
+              "deviceId": "Gims-device-02",
+              "deviceName": "单联智能窗帘触摸开关",
+              "url": null,
+              "scale": null,
+              "position": null,
+              "rotation": null
+            },
+            {
+              "regionId": "dc34856f01194f2787c85678e5ce3e0c",
+              "deviceId": "Gims-device-03",
+              "deviceName": "pm2.5传感器",
+              "url": null,
+              "scale": null,
+              "position": null,
+              "rotation": null
+            },
+            {
+              "regionId": "dc34856f01194f2787c85678e5ce3e0c",
+              "deviceId": "GW-D-101",
+              "deviceName": "小型气象站",
+              "url": null,
+              "scale": null,
+              "position": null,
+              "rotation": null
+            }
+          ],
+          "child": [
+            {
+              "regionId": "0e023ce6bf8f4935998018e5c561eb3b",
+              "parentRelateRegionId": "0-21",
+              "regionName": "电梯-西",
+              "url": "https://keenyoda-iot-bucket.oss-cn-shenzhen.aliyuncs.com/QiWuIOT/GIMS/Dashboard/0-21.电梯-西.glb",
+              "regionPid": "dc34856f01194f2787c85678e5ce3e0c",
+              "scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+              },
+              "position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "deviceList": [],
+              "child": []
+            },
+            {
+              "regionId": "2b4174e070c14e19ac93be5898e39e24",
+              "parentRelateRegionId": "0-12",
+              "regionName": "成品仓",
+              "url": "https://keenyoda-iot-bucket.oss-cn-shenzhen.aliyuncs.com/QiWuIOT/GIMS/Dashboard/0-12.成品仓.glb",
+              "regionPid": "dc34856f01194f2787c85678e5ce3e0c",
+              "scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+              },
+              "position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "deviceList": [],
+              "child": []
+            },
+            {
+              "regionId": "3386f2d2cb264beb8bd04945285a5678",
+              "parentRelateRegionId": "0-14",
+              "regionName": "楼梯-东",
+              "url": "https://keenyoda-iot-bucket.oss-cn-shenzhen.aliyuncs.com/QiWuIOT/GIMS/Dashboard/0-14.楼梯-东.glb",
+              "regionPid": "dc34856f01194f2787c85678e5ce3e0c",
+              "scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+              },
+              "position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "deviceList": [],
+              "child": []
+            },
+            {
+              "regionId": "4022759071f4482abafd1e2f03d6a679",
+              "parentRelateRegionId": "0-8",
+              "regionName": "喷油房",
+              "url": "https://keenyoda-iot-bucket.oss-cn-shenzhen.aliyuncs.com/QiWuIOT/GIMS/Dashboard/0-8.喷油房.glb",
+              "regionPid": "dc34856f01194f2787c85678e5ce3e0c",
+              "scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+              },
+              "position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "deviceList": [],
+              "child": []
+            },
+            {
+              "regionId": "4334e8ae51c3459f834beda0b6a88ec8",
+              "parentRelateRegionId": "0-5",
+              "regionName": "会议室",
+              "url": "https://keenyoda-iot-bucket.oss-cn-shenzhen.aliyuncs.com/QiWuIOT/GIMS/Dashboard/0-5.会议室.glb",
+              "regionPid": "dc34856f01194f2787c85678e5ce3e0c",
+              "scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+              },
+              "position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "deviceList": [],
+              "child": []
+            },
+            {
+              "regionId": "4ba3f2b66a3749d2a1595bb89e401114",
+              "parentRelateRegionId": "0-11",
+              "regionName": "总经理室",
+              "url": "https://keenyoda-iot-bucket.oss-cn-shenzhen.aliyuncs.com/QiWuIOT/GIMS/Dashboard/0-11.总经理室.glb",
+              "regionPid": "dc34856f01194f2787c85678e5ce3e0c",
+              "scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+              },
+              "position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "deviceList": [],
+              "child": []
+            },
+            {
+              "regionId": "4df184d847054b138819b734b88b7a1c",
+              "parentRelateRegionId": "0-25",
+              "regionName": "采购",
+              "url": "https://keenyoda-iot-bucket.oss-cn-shenzhen.aliyuncs.com/QiWuIOT/GIMS/Dashboard/0-25.采购.glb",
+              "regionPid": "dc34856f01194f2787c85678e5ce3e0c",
+              "scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+              },
+              "position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "deviceList": [],
+              "child": []
+            },
+            {
+              "regionId": "544afc80e7cd40f28a5b82aed44d6b9c",
+              "parentRelateRegionId": "0-2",
+              "regionName": "产品老化室",
+              "url": "https://keenyoda-iot-bucket.oss-cn-shenzhen.aliyuncs.com/QiWuIOT/GIMS/Dashboard/0-2.产品老化室.glb",
+              "regionPid": "dc34856f01194f2787c85678e5ce3e0c",
+              "scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+              },
+              "position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "deviceList": [
+                {
+                  "regionId": "544afc80e7cd40f28a5b82aed44d6b9c",
+                  "deviceId": "GW-D-102",
+                  "deviceName": "温控器",
+                  "url": null,
+                  "scale": null,
+                  "position": null,
+                  "rotation": null
+                }
+              ],
+              "child": []
+            },
+            {
+              "regionId": "58def5e6fdfa4e6385c559eb45b36f69",
+              "parentRelateRegionId": "0-1",
+              "regionName": "产品测试房",
+              "url": "https://keenyoda-iot-bucket.oss-cn-shenzhen.aliyuncs.com/QiWuIOT/GIMS/Dashboard/0-1.产品测试房.glb",
+              "regionPid": "dc34856f01194f2787c85678e5ce3e0c",
+              "scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+              },
+              "position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "deviceList": [
+                {
+                  "regionId": "58def5e6fdfa4e6385c559eb45b36f69",
+                  "deviceId": "Gims-device-04",
+                  "deviceName": "扶梯监测传感器",
+                  "url": null,
+                  "scale": null,
+                  "position": null,
+                  "rotation": null
+                }
+              ],
+              "child": []
+            },
+            {
+              "regionId": "5a814a3678004ce29f9ef8f5c5318927",
+              "parentRelateRegionId": "0-17",
+              "regionName": "洗手间-西",
+              "url": "https://keenyoda-iot-bucket.oss-cn-shenzhen.aliyuncs.com/QiWuIOT/GIMS/Dashboard/0-17.洗手间-西.glb",
+              "regionPid": "dc34856f01194f2787c85678e5ce3e0c",
+              "scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+              },
+              "position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "deviceList": [],
+              "child": []
+            },
+            {
+              "regionId": "5c21d6b6bcda45268a5b4a8fc286e352",
+              "parentRelateRegionId": "0-7",
+              "regionName": "前台-西",
+              "url": "https://keenyoda-iot-bucket.oss-cn-shenzhen.aliyuncs.com/QiWuIOT/GIMS/Dashboard/0-7.前台-西.glb",
+              "regionPid": "dc34856f01194f2787c85678e5ce3e0c",
+              "scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+              },
+              "position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "deviceList": [],
+              "child": []
+            },
+            {
+              "regionId": "618ce0d4f6054e9080a492b41479ec66",
+              "parentRelateRegionId": "0-26",
+              "regionName": "销售",
+              "url": "https://keenyoda-iot-bucket.oss-cn-shenzhen.aliyuncs.com/QiWuIOT/GIMS/Dashboard/0-26.销售.glb",
+              "regionPid": "dc34856f01194f2787c85678e5ce3e0c",
+              "scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+              },
+              "position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "deviceList": [],
+              "child": []
+            },
+            {
+              "regionId": "61e55cd188d64d2bb8859dc32471827a",
+              "parentRelateRegionId": "0-16",
+              "regionName": "洗手间-东",
+              "url": "https://keenyoda-iot-bucket.oss-cn-shenzhen.aliyuncs.com/QiWuIOT/GIMS/Dashboard/0-16.洗手间-东.glb",
+              "regionPid": "dc34856f01194f2787c85678e5ce3e0c",
+              "scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+              },
+              "position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "deviceList": [],
+              "child": []
+            },
+            {
+              "regionId": "6559caae7f3b41f480f4a3a0c3165a39",
+              "parentRelateRegionId": "0-15",
+              "regionName": "楼梯-西",
+              "url": "https://keenyoda-iot-bucket.oss-cn-shenzhen.aliyuncs.com/QiWuIOT/GIMS/Dashboard/0-15.楼梯-西.glb",
+              "regionPid": "dc34856f01194f2787c85678e5ce3e0c",
+              "scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+              },
+              "position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "deviceList": [],
+              "child": []
+            },
+            {
+              "regionId": "6ed4310f5da244829837f29169b5d2fc",
+              "parentRelateRegionId": "0-19",
+              "regionName": "生产车间",
+              "url": "https://keenyoda-iot-bucket.oss-cn-shenzhen.aliyuncs.com/QiWuIOT/GIMS/Dashboard/0-19.生产车间.glb",
+              "regionPid": "dc34856f01194f2787c85678e5ce3e0c",
+              "scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+              },
+              "position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "deviceList": [],
+              "child": []
+            },
+            {
+              "regionId": "7126eeb5ba7a42ee987ec27a6b4189db",
+              "parentRelateRegionId": "0-22",
+              "regionName": "综合办公室",
+              "url": "https://keenyoda-iot-bucket.oss-cn-shenzhen.aliyuncs.com/QiWuIOT/GIMS/Dashboard/0-22.综合办公室.glb",
+              "regionPid": "dc34856f01194f2787c85678e5ce3e0c",
+              "scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+              },
+              "position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "deviceList": [],
+              "child": []
+            },
+            {
+              "regionId": "8942e579bf964b5381a627252a421846",
+              "parentRelateRegionId": "0-13",
+              "regionName": "机室",
+              "url": "https://keenyoda-iot-bucket.oss-cn-shenzhen.aliyuncs.com/QiWuIOT/GIMS/Dashboard/0-13.机室.glb",
+              "regionPid": "dc34856f01194f2787c85678e5ce3e0c",
+              "scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+              },
+              "position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "deviceList": [],
+              "child": []
+            },
+            {
+              "regionId": "8e33ef17f94a458192f660f0d34ef9c7",
+              "parentRelateRegionId": "0-20",
+              "regionName": "电梯-东",
+              "url": "https://keenyoda-iot-bucket.oss-cn-shenzhen.aliyuncs.com/QiWuIOT/GIMS/Dashboard/0-20.电梯-东.glb",
+              "regionPid": "dc34856f01194f2787c85678e5ce3e0c",
+              "scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+              },
+              "position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "deviceList": [],
+              "child": []
+            },
+            {
+              "regionId": "9223342b9c854c49a9207dcb73688d52",
+              "parentRelateRegionId": "0-6",
+              "regionName": "前台-东",
+              "url": "https://keenyoda-iot-bucket.oss-cn-shenzhen.aliyuncs.com/QiWuIOT/GIMS/Dashboard/0-6.前台-东.glb",
+              "regionPid": "dc34856f01194f2787c85678e5ce3e0c",
+              "scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+              },
+              "position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "deviceList": [],
+              "child": []
+            },
+            {
+              "regionId": "9e594ab4f33b4b57a6aa16c7c77fd965",
+              "parentRelateRegionId": "0-9",
+              "regionName": "工程品质部",
+              "url": "https://keenyoda-iot-bucket.oss-cn-shenzhen.aliyuncs.com/QiWuIOT/GIMS/Dashboard/0-9.工程品质部.glb",
+              "regionPid": "dc34856f01194f2787c85678e5ce3e0c",
+              "scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+              },
+              "position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "deviceList": [],
+              "child": []
+            },
+            {
+              "regionId": "b038cdf7f6df4d0b864d8edf5ba80519",
+              "parentRelateRegionId": "0-4",
+              "regionName": "会客厅",
+              "url": "https://keenyoda-iot-bucket.oss-cn-shenzhen.aliyuncs.com/QiWuIOT/GIMS/Dashboard/0-4.会客厅.glb",
+              "regionPid": "dc34856f01194f2787c85678e5ce3e0c",
+              "scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+              },
+              "position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "deviceList": [],
+              "child": []
+            },
+            {
+              "regionId": "d0c81979a5a8449480878762597f53e8",
+              "parentRelateRegionId": "0-3",
+              "regionName": "仓库",
+              "url": "https://keenyoda-iot-bucket.oss-cn-shenzhen.aliyuncs.com/QiWuIOT/GIMS/Dashboard/0-3.仓库.glb",
+              "regionPid": "dc34856f01194f2787c85678e5ce3e0c",
+              "scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+              },
+              "position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "deviceList": [],
+              "child": []
+            },
+            {
+              "regionId": "e4cc6d3a8f5642579f78dc4e06eae797",
+              "parentRelateRegionId": "0-0",
+              "regionName": "业务室",
+              "url": "https://keenyoda-iot-bucket.oss-cn-shenzhen.aliyuncs.com/QiWuIOT/GIMS/Dashboard/0-0.业务室.glb",
+              "regionPid": "dc34856f01194f2787c85678e5ce3e0c",
+              "scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+              },
+              "position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "deviceList": [],
+              "child": []
+            },
+            {
+              "regionId": "e9b83a38af684aa9a15c02ab405b84b7",
+              "parentRelateRegionId": "0-10",
+              "regionName": "开放测试房",
+              "url": "https://keenyoda-iot-bucket.oss-cn-shenzhen.aliyuncs.com/QiWuIOT/GIMS/Dashboard/0-10.开放测试房.glb",
+              "regionPid": "dc34856f01194f2787c85678e5ce3e0c",
+              "scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+              },
+              "position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "deviceList": [],
+              "child": []
+            },
+            {
+              "regionId": "eddae0ea21634642afb0f407843d792e",
+              "parentRelateRegionId": "0-23",
+              "regionName": "财务室",
+              "url": "https://keenyoda-iot-bucket.oss-cn-shenzhen.aliyuncs.com/QiWuIOT/GIMS/Dashboard/0-23.财务室.glb",
+              "regionPid": "dc34856f01194f2787c85678e5ce3e0c",
+              "scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+              },
+              "position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "deviceList": [
+                {
+                  "regionId": "eddae0ea21634642afb0f407843d792e",
+                  "deviceId": "GW-D-100",
+                  "deviceName": "温湿度传感器",
+                  "url": null,
+                  "scale": null,
+                  "position": null,
+                  "rotation": null
+                }
+              ],
+              "child": []
+            },
+            {
+              "regionId": "f9abcf3fbfc14b8aa1f338578c8d353e",
+              "parentRelateRegionId": "0-24",
+              "regionName": "走廊",
+              "url": "https://keenyoda-iot-bucket.oss-cn-shenzhen.aliyuncs.com/QiWuIOT/GIMS/Dashboard/0-24.走廊.glb",
+              "regionPid": "dc34856f01194f2787c85678e5ce3e0c",
+              "scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+              },
+              "position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "deviceList": [
+                {
+                  "regionId": "f9abcf3fbfc14b8aa1f338578c8d353e",
+                  "deviceId": "G-D-200",
+                  "deviceName": "keenyoda智能IO控制器",
+                  "url": "https://keenyoda-iot-bucket.oss-cn-shenzhen.aliyuncs.com/QiWuIOT/DeviceModel/默认设备.glb",
+                  "scale": {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0
+                  },
+                  "position": {
+                    "x": 30,
+                    "y": 2,
+                    "z": 0
+                  },
+                  "rotation": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  }
+                }
+              ],
+              "child": []
+            },
+            {
+              "regionId": "fa1186ba8f6749bbb917421aa9c65aba",
+              "parentRelateRegionId": "0-18",
+              "regionName": "生产办公室",
+              "url": "https://keenyoda-iot-bucket.oss-cn-shenzhen.aliyuncs.com/QiWuIOT/GIMS/Dashboard/0-18.生产办公室.glb",
+              "regionPid": "dc34856f01194f2787c85678e5ce3e0c",
+              "scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+              },
+              "position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "deviceList": [],
+              "child": []
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

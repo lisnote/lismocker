@@ -1,0 +1,17 @@
+{
+  "POST": {
+    "/base-svr/deviceModel/selectModelList": {
+      "errorCode": 1,
+      "record": [
+        {
+          "name": "默认设备",
+          "url": "https://keenyoda-iot-bucket.oss-cn-shenzhen.aliyuncs.com/QiWuIOT/DeviceModel/默认设备.glb"
+        },
+        {
+          "name": "默认设备2",
+          "url": "https://keenyoda-iot-bucket.oss-cn-shenzhen.aliyuncs.com/QiWuIOT/DeviceModel/默认设备.glb"
+        }
+      ]
+    }
+  }
+}

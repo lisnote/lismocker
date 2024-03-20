@@ -10,385 +10,385 @@
           "unitList": [
             {
               "deviceId": null,
-              "deviceName": "智能能量表",
+              "deviceName": "扶梯监测传感器",
+              "proTypeId": "32",
+              "proType": 5003,
+              "num": 1,
+              "name": "温度",
+              "unit": "℃",
+              "subName": "左扶手带温度"
+            },
+            {
+              "deviceId": null,
+              "deviceName": "扶梯监测传感器",
               "proTypeId": "32",
               "proType": 5003,
               "num": 2,
               "name": "温度",
               "unit": "℃",
-              "subName": "温度#2"
-            },
-            {
-              "deviceId": null,
-              "deviceName": "智能能量表",
-              "proTypeId": "90",
-              "proType": 5050,
-              "num": 1,
-              "name": "信号强度",
-              "unit": "--",
-              "subName": "信号强度#1"
+              "subName": "右扶手带温度"
             }
           ],
           "deviceData": [
             {
-              "温度": null,
-              "信号强度": null,
+              "左扶手带温度": "22.54",
               "time": {
                 "year": 124,
                 "month": 2,
-                "date": 5,
-                "day": 2,
+                "date": 20,
+                "day": 3,
                 "hours": 0,
                 "minutes": 0,
                 "seconds": 0,
-                "time": 1709568000000,
+                "time": 1710864000000,
                 "timezoneOffset": -28800
-              }
+              },
+              "右扶手带温度": "25.15"
             },
             {
-              "温度": null,
-              "信号强度": null,
+              "左扶手带温度": "22.52",
               "time": {
                 "year": 124,
                 "month": 2,
-                "date": 5,
-                "day": 2,
+                "date": 20,
+                "day": 3,
                 "hours": 1,
                 "minutes": 0,
                 "seconds": 0,
-                "time": 1709571600000,
+                "time": 1710867600000,
                 "timezoneOffset": -28800
-              }
+              },
+              "右扶手带温度": "24.93"
             },
             {
-              "温度": null,
-              "信号强度": null,
+              "左扶手带温度": "22.53",
               "time": {
                 "year": 124,
                 "month": 2,
-                "date": 5,
-                "day": 2,
+                "date": 20,
+                "day": 3,
                 "hours": 2,
                 "minutes": 0,
                 "seconds": 0,
-                "time": 1709575200000,
+                "time": 1710871200000,
                 "timezoneOffset": -28800
-              }
+              },
+              "右扶手带温度": "25.03"
             },
             {
-              "温度": null,
-              "信号强度": null,
+              "左扶手带温度": "22.49",
               "time": {
                 "year": 124,
                 "month": 2,
-                "date": 5,
-                "day": 2,
+                "date": 20,
+                "day": 3,
                 "hours": 3,
                 "minutes": 0,
                 "seconds": 0,
-                "time": 1709578800000,
+                "time": 1710874800000,
                 "timezoneOffset": -28800
-              }
+              },
+              "右扶手带温度": "24.79"
             },
             {
-              "温度": null,
-              "信号强度": null,
+              "左扶手带温度": "22.49",
               "time": {
                 "year": 124,
                 "month": 2,
-                "date": 5,
-                "day": 2,
+                "date": 20,
+                "day": 3,
                 "hours": 4,
                 "minutes": 0,
                 "seconds": 0,
-                "time": 1709582400000,
+                "time": 1710878400000,
                 "timezoneOffset": -28800
-              }
+              },
+              "右扶手带温度": "25.23"
             },
             {
-              "温度": null,
-              "信号强度": null,
+              "左扶手带温度": "22.52",
               "time": {
                 "year": 124,
                 "month": 2,
-                "date": 5,
-                "day": 2,
+                "date": 20,
+                "day": 3,
                 "hours": 5,
                 "minutes": 0,
                 "seconds": 0,
-                "time": 1709586000000,
+                "time": 1710882000000,
                 "timezoneOffset": -28800
-              }
+              },
+              "右扶手带温度": "24.66"
             },
             {
-              "温度": null,
-              "信号强度": null,
+              "左扶手带温度": "22.5",
               "time": {
                 "year": 124,
                 "month": 2,
-                "date": 5,
-                "day": 2,
+                "date": 20,
+                "day": 3,
                 "hours": 6,
                 "minutes": 0,
                 "seconds": 0,
-                "time": 1709589600000,
+                "time": 1710885600000,
                 "timezoneOffset": -28800
-              }
+              },
+              "右扶手带温度": "24.8"
             },
             {
-              "温度": null,
-              "信号强度": null,
+              "左扶手带温度": "22.57",
               "time": {
                 "year": 124,
                 "month": 2,
-                "date": 5,
-                "day": 2,
+                "date": 20,
+                "day": 3,
                 "hours": 7,
                 "minutes": 0,
                 "seconds": 0,
-                "time": 1709593200000,
+                "time": 1710889200000,
                 "timezoneOffset": -28800
-              }
+              },
+              "右扶手带温度": "24.72"
             },
             {
-              "温度": null,
-              "信号强度": null,
+              "左扶手带温度": null,
               "time": {
                 "year": 124,
                 "month": 2,
-                "date": 5,
-                "day": 2,
+                "date": 20,
+                "day": 3,
                 "hours": 8,
                 "minutes": 0,
                 "seconds": 0,
-                "time": 1709596800000,
+                "time": 1710892800000,
                 "timezoneOffset": -28800
-              }
+              },
+              "右扶手带温度": null
             },
             {
-              "温度": null,
-              "信号强度": null,
+              "左扶手带温度": null,
               "time": {
                 "year": 124,
                 "month": 2,
-                "date": 5,
-                "day": 2,
+                "date": 20,
+                "day": 3,
                 "hours": 9,
                 "minutes": 0,
                 "seconds": 0,
-                "time": 1709600400000,
+                "time": 1710896400000,
                 "timezoneOffset": -28800
-              }
+              },
+              "右扶手带温度": null
             },
             {
-              "温度": "20.84",
-              "信号强度": "5.91",
+              "左扶手带温度": null,
               "time": {
                 "year": 124,
                 "month": 2,
-                "date": 5,
-                "day": 2,
+                "date": 20,
+                "day": 3,
                 "hours": 10,
                 "minutes": 0,
                 "seconds": 0,
-                "time": 1709604000000,
+                "time": 1710900000000,
                 "timezoneOffset": -28800
-              }
+              },
+              "右扶手带温度": null
             },
             {
-              "温度": "18.12",
-              "信号强度": "5.36",
+              "左扶手带温度": null,
               "time": {
                 "year": 124,
                 "month": 2,
-                "date": 5,
-                "day": 2,
+                "date": 20,
+                "day": 3,
                 "hours": 11,
                 "minutes": 0,
                 "seconds": 0,
-                "time": 1709607600000,
+                "time": 1710903600000,
                 "timezoneOffset": -28800
-              }
+              },
+              "右扶手带温度": null
             },
             {
-              "温度": "17.72",
-              "信号强度": "6.15",
+              "左扶手带温度": null,
               "time": {
                 "year": 124,
                 "month": 2,
-                "date": 5,
-                "day": 2,
+                "date": 20,
+                "day": 3,
                 "hours": 12,
                 "minutes": 0,
                 "seconds": 0,
-                "time": 1709611200000,
+                "time": 1710907200000,
                 "timezoneOffset": -28800
-              }
+              },
+              "右扶手带温度": null
             },
             {
-              "温度": "17.76",
-              "信号强度": "6.41",
+              "左扶手带温度": null,
               "time": {
                 "year": 124,
                 "month": 2,
-                "date": 5,
-                "day": 2,
+                "date": 20,
+                "day": 3,
                 "hours": 13,
                 "minutes": 0,
                 "seconds": 0,
-                "time": 1709614800000,
+                "time": 1710910800000,
                 "timezoneOffset": -28800
-              }
+              },
+              "右扶手带温度": null
             },
             {
-              "温度": "18.55",
-              "信号强度": "5.47",
+              "左扶手带温度": null,
               "time": {
                 "year": 124,
                 "month": 2,
-                "date": 5,
-                "day": 2,
+                "date": 20,
+                "day": 3,
                 "hours": 14,
                 "minutes": 0,
                 "seconds": 0,
-                "time": 1709618400000,
+                "time": 1710914400000,
                 "timezoneOffset": -28800
-              }
+              },
+              "右扶手带温度": null
             },
             {
-              "温度": "18.32",
-              "信号强度": "5.35",
+              "左扶手带温度": null,
               "time": {
                 "year": 124,
                 "month": 2,
-                "date": 5,
-                "day": 2,
+                "date": 20,
+                "day": 3,
                 "hours": 15,
                 "minutes": 0,
                 "seconds": 0,
-                "time": 1709622000000,
+                "time": 1710918000000,
                 "timezoneOffset": -28800
-              }
+              },
+              "右扶手带温度": null
             },
             {
-              "温度": "18.94",
-              "信号强度": "5.55",
+              "左扶手带温度": null,
               "time": {
                 "year": 124,
                 "month": 2,
-                "date": 5,
-                "day": 2,
+                "date": 20,
+                "day": 3,
                 "hours": 16,
                 "minutes": 0,
                 "seconds": 0,
-                "time": 1709625600000,
+                "time": 1710921600000,
                 "timezoneOffset": -28800
-              }
+              },
+              "右扶手带温度": null
             },
             {
-              "温度": null,
-              "信号强度": null,
+              "左扶手带温度": null,
               "time": {
                 "year": 124,
                 "month": 2,
-                "date": 5,
-                "day": 2,
+                "date": 20,
+                "day": 3,
                 "hours": 17,
                 "minutes": 0,
                 "seconds": 0,
-                "time": 1709629200000,
+                "time": 1710925200000,
                 "timezoneOffset": -28800
-              }
+              },
+              "右扶手带温度": null
             },
             {
-              "温度": null,
-              "信号强度": null,
+              "左扶手带温度": null,
               "time": {
                 "year": 124,
                 "month": 2,
-                "date": 5,
-                "day": 2,
+                "date": 20,
+                "day": 3,
                 "hours": 18,
                 "minutes": 0,
                 "seconds": 0,
-                "time": 1709632800000,
+                "time": 1710928800000,
                 "timezoneOffset": -28800
-              }
+              },
+              "右扶手带温度": null
             },
             {
-              "温度": null,
-              "信号强度": null,
+              "左扶手带温度": null,
               "time": {
                 "year": 124,
                 "month": 2,
-                "date": 5,
-                "day": 2,
+                "date": 20,
+                "day": 3,
                 "hours": 19,
                 "minutes": 0,
                 "seconds": 0,
-                "time": 1709636400000,
+                "time": 1710932400000,
                 "timezoneOffset": -28800
-              }
+              },
+              "右扶手带温度": null
             },
             {
-              "温度": null,
-              "信号强度": null,
+              "左扶手带温度": null,
               "time": {
                 "year": 124,
                 "month": 2,
-                "date": 5,
-                "day": 2,
+                "date": 20,
+                "day": 3,
                 "hours": 20,
                 "minutes": 0,
                 "seconds": 0,
-                "time": 1709640000000,
+                "time": 1710936000000,
                 "timezoneOffset": -28800
-              }
+              },
+              "右扶手带温度": null
             },
             {
-              "温度": null,
-              "信号强度": null,
+              "左扶手带温度": null,
               "time": {
                 "year": 124,
                 "month": 2,
-                "date": 5,
-                "day": 2,
+                "date": 20,
+                "day": 3,
                 "hours": 21,
                 "minutes": 0,
                 "seconds": 0,
-                "time": 1709643600000,
+                "time": 1710939600000,
                 "timezoneOffset": -28800
-              }
+              },
+              "右扶手带温度": null
             },
             {
-              "温度": null,
-              "信号强度": null,
+              "左扶手带温度": null,
               "time": {
                 "year": 124,
                 "month": 2,
-                "date": 5,
-                "day": 2,
+                "date": 20,
+                "day": 3,
                 "hours": 22,
                 "minutes": 0,
                 "seconds": 0,
-                "time": 1709647200000,
+                "time": 1710943200000,
                 "timezoneOffset": -28800
-              }
+              },
+              "右扶手带温度": null
             },
             {
-              "温度": null,
-              "信号强度": null,
+              "左扶手带温度": null,
               "time": {
                 "year": 124,
                 "month": 2,
-                "date": 5,
-                "day": 2,
+                "date": 20,
+                "day": 3,
                 "hours": 23,
                 "minutes": 0,
                 "seconds": 0,
-                "time": 1709650800000,
+                "time": 1710946800000,
                 "timezoneOffset": -28800
-              }
+              },
+              "右扶手带温度": null
             }
           ]
         }

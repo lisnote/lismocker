@@ -1,0 +1,70 @@
+{
+  "POST": {
+    "/base-svr/history/getDeviceRealValue": {
+      "errorCode": 1,
+      "record": {
+        "subsystemId": null,
+        "del": false,
+        "isFault": 0,
+        "switchStatus": 0,
+        "list": [
+          {
+            "proTypeName": "温度",
+            "sensorTime": null,
+            "name": null,
+            "sensorNumber": null,
+            "id": null,
+            "sensorProType": 5003,
+            "deviceId": null,
+            "isDel": null,
+            "sensorValue": null
+          },
+          {
+            "proTypeName": "信号强度",
+            "sensorTime": null,
+            "name": null,
+            "sensorNumber": null,
+            "id": null,
+            "sensorProType": 5050,
+            "deviceId": null,
+            "isDel": null,
+            "sensorValue": null
+          }
+        ],
+        "type": 10009,
+        "url": null,
+        "deviceJsonType": null,
+        "name": "智能能量表",
+        "online": true,
+        "onlineTime": {
+          "year": 124,
+          "month": 2,
+          "date": 7,
+          "day": 4,
+          "hours": 15,
+          "minutes": 43,
+          "seconds": 56,
+          "time": 1709797436000,
+          "timezoneOffset": -480
+        },
+        "id": "Gims-device-01",
+        "isVirtual": null,
+        "netinTime": {
+          "year": 124,
+          "month": 2,
+          "date": 5,
+          "day": 2,
+          "hours": 16,
+          "minutes": 46,
+          "seconds": 48,
+          "time": 1709628408000,
+          "timezoneOffset": -480
+        },
+        "agencyGroupName": "KEENYODA",
+        "isDel": false,
+        "gatewayId": "Gims-gateway-01",
+        "macAddr": ""
+      }
+    }
+  }
+}

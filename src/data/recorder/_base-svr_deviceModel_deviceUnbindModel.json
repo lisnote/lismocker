@@ -1,0 +1,8 @@
+{
+  "POST": {
+    "/base-svr/deviceModel/deviceUnbindModel": {
+      "errorCode": 1,
+      "record": "model unbind device success"
+    }
+  }
+}
