@@ -1,0 +1,8 @@
+{
+  "POST": {
+    "/base-svr/ConGatewayService/addGatewayAgencyInfo": {
+      "errorCode": 1,
+      "record": "addGatewayAgencyInfo_SUCCESS"
+    }
+  }
+}

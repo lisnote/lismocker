@@ -11,14 +11,6 @@
           "agencyId": "083522bb70e14021aa8a9533c131c30e",
           "child": [
             {
-              "id": "80b70c78e6d54da08cbe81fd5ece390b",
-              "name": "测试部门测试部门测试部门测试部门",
-              "pid": "f01aa535b3a14a5ba652c19a4f2d7185",
-              "orderNum": 1,
-              "agencyId": "083522bb70e14021aa8a9533c131c30e",
-              "child": null
-            },
-            {
               "id": "154cac08cd79495bb73748d39063900b",
               "name": "销售部",
               "pid": "f01aa535b3a14a5ba652c19a4f2d7185",

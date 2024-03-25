@@ -9,6 +9,14 @@
           "prevId": null,
           "child": [
             {
+              "id": "c4b360b3f08f41019ba7c5e6cf10bb16",
+              "pid": "28ec272fd0d14573874e82beb5eae061",
+              "prevId": null,
+              "child": [],
+              "name": "测试人员",
+              "hasSelected": 0
+            },
+            {
               "id": "e849a5c5dd5349939f040635da620d52",
               "pid": "28ec272fd0d14573874e82beb5eae061",
               "prevId": null,
@@ -19,7 +27,7 @@
                   "prevId": null,
                   "child": [],
                   "name": "网关管理员",
-                  "hasSelected": 1
+                  "hasSelected": 0
                 }
               ],
               "name": "管理员",

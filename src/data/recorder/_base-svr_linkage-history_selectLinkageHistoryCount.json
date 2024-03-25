@@ -2,7 +2,7 @@
   "POST": {
     "/base-svr/linkage-history/selectLinkageHistoryCount": {
       "errorCode": 1,
-      "record": 114
+      "record": 2
     }
   }
 }

@@ -1,0 +1,8 @@
+{
+  "POST": {
+    "/base-svr/deviceParameter/updateDeviceContactList": {
+      "errorCode": 1,
+      "record": "success"
+    }
+  }
+}

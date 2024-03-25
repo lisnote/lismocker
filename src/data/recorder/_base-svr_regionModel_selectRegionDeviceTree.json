@@ -10,61 +10,40 @@
           "url": "https://keenyoda-iot-bucket.oss-cn-shenzhen.aliyuncs.com/QiWuIOT/GIMS/Dashboard/0.KEENYODA.glb",
           "regionPid": "083522bb70e14021aa8a9533c131c30e",
           "scale": {
-            "x": 1.0,
-            "y": 1.0,
-            "z": 1.0
+            "x": 1,
+            "y": 1,
+            "z": 1
           },
           "position": {
-            "x": 0.0,
-            "y": 0.0,
-            "z": 0.0
+            "x": 0,
+            "y": 0,
+            "z": 0
           },
           "rotation": {
-            "x": 0.0,
-            "y": 0.0,
-            "z": 0.0
+            "x": 0,
+            "y": 0,
+            "z": 0
           },
           "deviceList": [
-            {
-              "regionId": "dc34856f01194f2787c85678e5ce3e0c",
-              "deviceId": "G-D-100",
-              "deviceName": "智能电表",
-              "url": "https://keenyoda-iot-bucket.oss-cn-shenzhen.aliyuncs.com/QiWuIOT/DeviceModel/默认设备.glb",
-              "scale": {
-                "x": 5,
-                "y": 5,
-                "z": 5
-              },
-              "position": {
-                "x": 10,
-                "y": 40,
-                "z": 30
-              },
-              "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0
-              }
-            },
             {
               "regionId": "dc34856f01194f2787c85678e5ce3e0c",
               "deviceId": "Gims-device-01",
               "deviceName": "智能能量表",
               "url": "https://keenyoda-iot-bucket.oss-cn-shenzhen.aliyuncs.com/QiWuIOT/DeviceModel/默认设备.glb",
               "scale": {
-                "x": 1.0,
-                "y": 1.0,
-                "z": 1.0
+                "x": 1,
+                "y": 1,
+                "z": 1
               },
               "position": {
-                "x": 10,
-                "y": 2,
-                "z": 13
+                "x": -6.025282981289005,
+                "y": 1.2982209205627444,
+                "z": -3.124205045976938
               },
               "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0
+                "x": 0,
+                "y": 0,
+                "z": 0
               }
             },
             {
@@ -80,19 +59,43 @@
               "regionId": "dc34856f01194f2787c85678e5ce3e0c",
               "deviceId": "Gims-device-03",
               "deviceName": "pm2.5传感器",
-              "url": null,
-              "scale": null,
-              "position": null,
-              "rotation": null
+              "url": "https://keenyoda-iot-bucket.oss-cn-shenzhen.aliyuncs.com/QiWuIOT/DeviceModel/默认设备.glb",
+              "scale": {
+                "x": 1,
+                "y": 1,
+                "z": 1
+              },
+              "position": {
+                "x": 4.711088098320407,
+                "y": 4.2046248361666585,
+                "z": -6.373220920562744
+              },
+              "rotation": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+              }
             },
             {
               "regionId": "dc34856f01194f2787c85678e5ce3e0c",
               "deviceId": "GW-D-101",
               "deviceName": "小型气象站",
-              "url": null,
-              "scale": null,
-              "position": null,
-              "rotation": null
+              "url": "https://keenyoda-iot-bucket.oss-cn-shenzhen.aliyuncs.com/QiWuIOT/DeviceModel/默认设备.glb",
+              "scale": {
+                "x": 2.7,
+                "y": 1,
+                "z": 1
+              },
+              "position": {
+                "x": -11.738789683275353,
+                "y": 0.7491805897958059,
+                "z": -2.158823630435869
+              },
+              "rotation": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+              }
             }
           ],
           "child": [
@@ -103,19 +106,19 @@
               "url": "https://keenyoda-iot-bucket.oss-cn-shenzhen.aliyuncs.com/QiWuIOT/GIMS/Dashboard/0-21.电梯-西.glb",
               "regionPid": "dc34856f01194f2787c85678e5ce3e0c",
               "scale": {
-                "x": 1.0,
-                "y": 1.0,
-                "z": 1.0
+                "x": 1,
+                "y": 1,
+                "z": 1
               },
               "position": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0
+                "x": 0,
+                "y": 0,
+                "z": 0
               },
               "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0
+                "x": 0,
+                "y": 0,
+                "z": 0
               },
               "deviceList": [],
               "child": []
@@ -127,19 +130,19 @@
               "url": "https://keenyoda-iot-bucket.oss-cn-shenzhen.aliyuncs.com/QiWuIOT/GIMS/Dashboard/0-12.成品仓.glb",
               "regionPid": "dc34856f01194f2787c85678e5ce3e0c",
               "scale": {
-                "x": 1.0,
-                "y": 1.0,
-                "z": 1.0
+                "x": 1,
+                "y": 1,
+                "z": 1
               },
               "position": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0
+                "x": 0,
+                "y": 0,
+                "z": 0
               },
               "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0
+                "x": 0,
+                "y": 0,
+                "z": 0
               },
               "deviceList": [],
               "child": []
@@ -151,19 +154,19 @@
               "url": "https://keenyoda-iot-bucket.oss-cn-shenzhen.aliyuncs.com/QiWuIOT/GIMS/Dashboard/0-14.楼梯-东.glb",
               "regionPid": "dc34856f01194f2787c85678e5ce3e0c",
               "scale": {
-                "x": 1.0,
-                "y": 1.0,
-                "z": 1.0
+                "x": 1,
+                "y": 1,
+                "z": 1
               },
               "position": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0
+                "x": 0,
+                "y": 0,
+                "z": 0
               },
               "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0
+                "x": 0,
+                "y": 0,
+                "z": 0
               },
               "deviceList": [],
               "child": []
@@ -175,19 +178,19 @@
               "url": "https://keenyoda-iot-bucket.oss-cn-shenzhen.aliyuncs.com/QiWuIOT/GIMS/Dashboard/0-8.喷油房.glb",
               "regionPid": "dc34856f01194f2787c85678e5ce3e0c",
               "scale": {
-                "x": 1.0,
-                "y": 1.0,
-                "z": 1.0
+                "x": 1,
+                "y": 1,
+                "z": 1
               },
               "position": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0
+                "x": 0,
+                "y": 0,
+                "z": 0
               },
               "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0
+                "x": 0,
+                "y": 0,
+                "z": 0
               },
               "deviceList": [],
               "child": []
@@ -199,19 +202,19 @@
               "url": "https://keenyoda-iot-bucket.oss-cn-shenzhen.aliyuncs.com/QiWuIOT/GIMS/Dashboard/0-5.会议室.glb",
               "regionPid": "dc34856f01194f2787c85678e5ce3e0c",
               "scale": {
-                "x": 1.0,
-                "y": 1.0,
-                "z": 1.0
+                "x": 1,
+                "y": 1,
+                "z": 1
               },
               "position": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0
+                "x": 0,
+                "y": 0,
+                "z": 0
               },
               "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0
+                "x": 0,
+                "y": 0,
+                "z": 0
               },
               "deviceList": [],
               "child": []
@@ -223,19 +226,19 @@
               "url": "https://keenyoda-iot-bucket.oss-cn-shenzhen.aliyuncs.com/QiWuIOT/GIMS/Dashboard/0-11.总经理室.glb",
               "regionPid": "dc34856f01194f2787c85678e5ce3e0c",
               "scale": {
-                "x": 1.0,
-                "y": 1.0,
-                "z": 1.0
+                "x": 1,
+                "y": 1,
+                "z": 1
               },
               "position": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0
+                "x": 0,
+                "y": 0,
+                "z": 0
               },
               "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0
+                "x": 0,
+                "y": 0,
+                "z": 0
               },
               "deviceList": [],
               "child": []
@@ -247,19 +250,19 @@
               "url": "https://keenyoda-iot-bucket.oss-cn-shenzhen.aliyuncs.com/QiWuIOT/GIMS/Dashboard/0-25.采购.glb",
               "regionPid": "dc34856f01194f2787c85678e5ce3e0c",
               "scale": {
-                "x": 1.0,
-                "y": 1.0,
-                "z": 1.0
+                "x": 1,
+                "y": 1,
+                "z": 1
               },
               "position": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0
+                "x": 0,
+                "y": 0,
+                "z": 0
               },
               "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0
+                "x": 0,
+                "y": 0,
+                "z": 0
               },
               "deviceList": [],
               "child": []
@@ -271,19 +274,19 @@
               "url": "https://keenyoda-iot-bucket.oss-cn-shenzhen.aliyuncs.com/QiWuIOT/GIMS/Dashboard/0-2.产品老化室.glb",
               "regionPid": "dc34856f01194f2787c85678e5ce3e0c",
               "scale": {
-                "x": 1.0,
-                "y": 1.0,
-                "z": 1.0
+                "x": 1,
+                "y": 1,
+                "z": 1
               },
               "position": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0
+                "x": 0,
+                "y": 0,
+                "z": 0
               },
               "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0
+                "x": 0,
+                "y": 0,
+                "z": 0
               },
               "deviceList": [
                 {
@@ -305,29 +308,41 @@
               "url": "https://keenyoda-iot-bucket.oss-cn-shenzhen.aliyuncs.com/QiWuIOT/GIMS/Dashboard/0-1.产品测试房.glb",
               "regionPid": "dc34856f01194f2787c85678e5ce3e0c",
               "scale": {
-                "x": 1.0,
-                "y": 1.0,
-                "z": 1.0
+                "x": 1,
+                "y": 1,
+                "z": 1
               },
               "position": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0
+                "x": 0,
+                "y": 0,
+                "z": 0
               },
               "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0
+                "x": 0,
+                "y": 0,
+                "z": 0
               },
               "deviceList": [
                 {
                   "regionId": "58def5e6fdfa4e6385c559eb45b36f69",
                   "deviceId": "Gims-device-04",
                   "deviceName": "扶梯监测传感器",
-                  "url": null,
-                  "scale": null,
-                  "position": null,
-                  "rotation": null
+                  "url": "https://keenyoda-iot-bucket.oss-cn-shenzhen.aliyuncs.com/QiWuIOT/DeviceModel/默认设备.glb",
+                  "scale": {
+                    "x": 2,
+                    "y": 2,
+                    "z": 2
+                  },
+                  "position": {
+                    "x": 24.11496552630621,
+                    "y": 0.700126612186432,
+                    "z": 7.129357545131776
+                  },
+                  "rotation": {
+                    "x": 0,
+                    "y": 4.7,
+                    "z": 0
+                  }
                 }
               ],
               "child": []
@@ -339,19 +354,19 @@
               "url": "https://keenyoda-iot-bucket.oss-cn-shenzhen.aliyuncs.com/QiWuIOT/GIMS/Dashboard/0-17.洗手间-西.glb",
               "regionPid": "dc34856f01194f2787c85678e5ce3e0c",
               "scale": {
-                "x": 1.0,
-                "y": 1.0,
-                "z": 1.0
+                "x": 1,
+                "y": 1,
+                "z": 1
               },
               "position": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0
+                "x": 0,
+                "y": 0,
+                "z": 0
               },
               "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0
+                "x": 0,
+                "y": 0,
+                "z": 0
               },
               "deviceList": [],
               "child": []
@@ -363,19 +378,19 @@
               "url": "https://keenyoda-iot-bucket.oss-cn-shenzhen.aliyuncs.com/QiWuIOT/GIMS/Dashboard/0-7.前台-西.glb",
               "regionPid": "dc34856f01194f2787c85678e5ce3e0c",
               "scale": {
-                "x": 1.0,
-                "y": 1.0,
-                "z": 1.0
+                "x": 1,
+                "y": 1,
+                "z": 1
               },
               "position": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0
+                "x": 0,
+                "y": 0,
+                "z": 0
               },
               "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0
+                "x": 0,
+                "y": 0,
+                "z": 0
               },
               "deviceList": [],
               "child": []
@@ -387,19 +402,19 @@
               "url": "https://keenyoda-iot-bucket.oss-cn-shenzhen.aliyuncs.com/QiWuIOT/GIMS/Dashboard/0-26.销售.glb",
               "regionPid": "dc34856f01194f2787c85678e5ce3e0c",
               "scale": {
-                "x": 1.0,
-                "y": 1.0,
-                "z": 1.0
+                "x": 1,
+                "y": 1,
+                "z": 1
               },
               "position": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0
+                "x": 0,
+                "y": 0,
+                "z": 0
               },
               "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0
+                "x": 0,
+                "y": 0,
+                "z": 0
               },
               "deviceList": [],
               "child": []
@@ -411,19 +426,19 @@
               "url": "https://keenyoda-iot-bucket.oss-cn-shenzhen.aliyuncs.com/QiWuIOT/GIMS/Dashboard/0-16.洗手间-东.glb",
               "regionPid": "dc34856f01194f2787c85678e5ce3e0c",
               "scale": {
-                "x": 1.0,
-                "y": 1.0,
-                "z": 1.0
+                "x": 1,
+                "y": 1,
+                "z": 1
               },
               "position": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0
+                "x": 0,
+                "y": 0,
+                "z": 0
               },
               "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0
+                "x": 0,
+                "y": 0,
+                "z": 0
               },
               "deviceList": [],
               "child": []
@@ -435,19 +450,19 @@
               "url": "https://keenyoda-iot-bucket.oss-cn-shenzhen.aliyuncs.com/QiWuIOT/GIMS/Dashboard/0-15.楼梯-西.glb",
               "regionPid": "dc34856f01194f2787c85678e5ce3e0c",
               "scale": {
-                "x": 1.0,
-                "y": 1.0,
-                "z": 1.0
+                "x": 1,
+                "y": 1,
+                "z": 1
               },
               "position": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0
+                "x": 0,
+                "y": 0,
+                "z": 0
               },
               "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0
+                "x": 0,
+                "y": 0,
+                "z": 0
               },
               "deviceList": [],
               "child": []
@@ -459,19 +474,19 @@
               "url": "https://keenyoda-iot-bucket.oss-cn-shenzhen.aliyuncs.com/QiWuIOT/GIMS/Dashboard/0-19.生产车间.glb",
               "regionPid": "dc34856f01194f2787c85678e5ce3e0c",
               "scale": {
-                "x": 1.0,
-                "y": 1.0,
-                "z": 1.0
+                "x": 1,
+                "y": 1,
+                "z": 1
               },
               "position": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0
+                "x": 0,
+                "y": 0,
+                "z": 0
               },
               "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0
+                "x": 0,
+                "y": 0,
+                "z": 0
               },
               "deviceList": [],
               "child": []
@@ -483,19 +498,19 @@
               "url": "https://keenyoda-iot-bucket.oss-cn-shenzhen.aliyuncs.com/QiWuIOT/GIMS/Dashboard/0-22.综合办公室.glb",
               "regionPid": "dc34856f01194f2787c85678e5ce3e0c",
               "scale": {
-                "x": 1.0,
-                "y": 1.0,
-                "z": 1.0
+                "x": 1,
+                "y": 1,
+                "z": 1
               },
               "position": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0
+                "x": 0,
+                "y": 0,
+                "z": 0
               },
               "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0
+                "x": 0,
+                "y": 0,
+                "z": 0
               },
               "deviceList": [],
               "child": []
@@ -507,19 +522,19 @@
               "url": "https://keenyoda-iot-bucket.oss-cn-shenzhen.aliyuncs.com/QiWuIOT/GIMS/Dashboard/0-13.机室.glb",
               "regionPid": "dc34856f01194f2787c85678e5ce3e0c",
               "scale": {
-                "x": 1.0,
-                "y": 1.0,
-                "z": 1.0
+                "x": 1,
+                "y": 1,
+                "z": 1
               },
               "position": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0
+                "x": 0,
+                "y": 0,
+                "z": 0
               },
               "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0
+                "x": 0,
+                "y": 0,
+                "z": 0
               },
               "deviceList": [],
               "child": []
@@ -531,19 +546,19 @@
               "url": "https://keenyoda-iot-bucket.oss-cn-shenzhen.aliyuncs.com/QiWuIOT/GIMS/Dashboard/0-20.电梯-东.glb",
               "regionPid": "dc34856f01194f2787c85678e5ce3e0c",
               "scale": {
-                "x": 1.0,
-                "y": 1.0,
-                "z": 1.0
+                "x": 1,
+                "y": 1,
+                "z": 1
               },
               "position": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0
+                "x": 0,
+                "y": 0,
+                "z": 0
               },
               "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0
+                "x": 0,
+                "y": 0,
+                "z": 0
               },
               "deviceList": [],
               "child": []
@@ -555,19 +570,19 @@
               "url": "https://keenyoda-iot-bucket.oss-cn-shenzhen.aliyuncs.com/QiWuIOT/GIMS/Dashboard/0-6.前台-东.glb",
               "regionPid": "dc34856f01194f2787c85678e5ce3e0c",
               "scale": {
-                "x": 1.0,
-                "y": 1.0,
-                "z": 1.0
+                "x": 1,
+                "y": 1,
+                "z": 1
               },
               "position": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0
+                "x": 0,
+                "y": 0,
+                "z": 0
               },
               "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0
+                "x": 0,
+                "y": 0,
+                "z": 0
               },
               "deviceList": [],
               "child": []
@@ -579,19 +594,19 @@
               "url": "https://keenyoda-iot-bucket.oss-cn-shenzhen.aliyuncs.com/QiWuIOT/GIMS/Dashboard/0-9.工程品质部.glb",
               "regionPid": "dc34856f01194f2787c85678e5ce3e0c",
               "scale": {
-                "x": 1.0,
-                "y": 1.0,
-                "z": 1.0
+                "x": 1,
+                "y": 1,
+                "z": 1
               },
               "position": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0
+                "x": 0,
+                "y": 0,
+                "z": 0
               },
               "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0
+                "x": 0,
+                "y": 0,
+                "z": 0
               },
               "deviceList": [],
               "child": []
@@ -603,19 +618,19 @@
               "url": "https://keenyoda-iot-bucket.oss-cn-shenzhen.aliyuncs.com/QiWuIOT/GIMS/Dashboard/0-4.会客厅.glb",
               "regionPid": "dc34856f01194f2787c85678e5ce3e0c",
               "scale": {
-                "x": 1.0,
-                "y": 1.0,
-                "z": 1.0
+                "x": 1,
+                "y": 1,
+                "z": 1
               },
               "position": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0
+                "x": 0,
+                "y": 0,
+                "z": 0
               },
               "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0
+                "x": 0,
+                "y": 0,
+                "z": 0
               },
               "deviceList": [],
               "child": []
@@ -627,19 +642,19 @@
               "url": "https://keenyoda-iot-bucket.oss-cn-shenzhen.aliyuncs.com/QiWuIOT/GIMS/Dashboard/0-3.仓库.glb",
               "regionPid": "dc34856f01194f2787c85678e5ce3e0c",
               "scale": {
-                "x": 1.0,
-                "y": 1.0,
-                "z": 1.0
+                "x": 1,
+                "y": 1,
+                "z": 1
               },
               "position": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0
+                "x": 0,
+                "y": 0,
+                "z": 0
               },
               "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0
+                "x": 0,
+                "y": 0,
+                "z": 0
               },
               "deviceList": [],
               "child": []
@@ -651,19 +666,19 @@
               "url": "https://keenyoda-iot-bucket.oss-cn-shenzhen.aliyuncs.com/QiWuIOT/GIMS/Dashboard/0-0.业务室.glb",
               "regionPid": "dc34856f01194f2787c85678e5ce3e0c",
               "scale": {
-                "x": 1.0,
-                "y": 1.0,
-                "z": 1.0
+                "x": 1,
+                "y": 1,
+                "z": 1
               },
               "position": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0
+                "x": 0,
+                "y": 0,
+                "z": 0
               },
               "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0
+                "x": 0,
+                "y": 0,
+                "z": 0
               },
               "deviceList": [],
               "child": []
@@ -675,19 +690,19 @@
               "url": "https://keenyoda-iot-bucket.oss-cn-shenzhen.aliyuncs.com/QiWuIOT/GIMS/Dashboard/0-10.开放测试房.glb",
               "regionPid": "dc34856f01194f2787c85678e5ce3e0c",
               "scale": {
-                "x": 1.0,
-                "y": 1.0,
-                "z": 1.0
+                "x": 1,
+                "y": 1,
+                "z": 1
               },
               "position": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0
+                "x": 0,
+                "y": 0,
+                "z": 0
               },
               "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0
+                "x": 0,
+                "y": 0,
+                "z": 0
               },
               "deviceList": [],
               "child": []
@@ -699,19 +714,19 @@
               "url": "https://keenyoda-iot-bucket.oss-cn-shenzhen.aliyuncs.com/QiWuIOT/GIMS/Dashboard/0-23.财务室.glb",
               "regionPid": "dc34856f01194f2787c85678e5ce3e0c",
               "scale": {
-                "x": 1.0,
-                "y": 1.0,
-                "z": 1.0
+                "x": 1,
+                "y": 1,
+                "z": 1
               },
               "position": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0
+                "x": 0,
+                "y": 0,
+                "z": 0
               },
               "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0
+                "x": 0,
+                "y": 0,
+                "z": 0
               },
               "deviceList": [
                 {
@@ -733,40 +748,61 @@
               "url": "https://keenyoda-iot-bucket.oss-cn-shenzhen.aliyuncs.com/QiWuIOT/GIMS/Dashboard/0-24.走廊.glb",
               "regionPid": "dc34856f01194f2787c85678e5ce3e0c",
               "scale": {
-                "x": 1.0,
-                "y": 1.0,
-                "z": 1.0
+                "x": 1,
+                "y": 1,
+                "z": 1
               },
               "position": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0
+                "x": 0,
+                "y": 0,
+                "z": 0
               },
               "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0
+                "x": 0,
+                "y": 0,
+                "z": 0
               },
               "deviceList": [
+                {
+                  "regionId": "f9abcf3fbfc14b8aa1f338578c8d353e",
+                  "deviceId": "G-D-100",
+                  "deviceName": "智能电表",
+                  "url": "https://keenyoda-iot-bucket.oss-cn-shenzhen.aliyuncs.com/QiWuIOT/DeviceModel/默认设备.glb",
+                  "scale": {
+                    "x": 1,
+                    "y": 1,
+                    "z": 1
+                  },
+                  "position": {
+                    "x": 29.347749710083008,
+                    "y": 3.074467243495537,
+                    "z": -1.4921696971610656
+                  },
+                  "rotation": {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                  }
+                },
                 {
                   "regionId": "f9abcf3fbfc14b8aa1f338578c8d353e",
                   "deviceId": "G-D-200",
                   "deviceName": "keenyoda智能IO控制器",
                   "url": "https://keenyoda-iot-bucket.oss-cn-shenzhen.aliyuncs.com/QiWuIOT/DeviceModel/默认设备.glb",
                   "scale": {
-                    "x": 1.0,
-                    "y": 1.0,
-                    "z": 1.0
+                    "x": 1,
+                    "y": 1,
+                    "z": 1
                   },
                   "position": {
-                    "x": 30,
-                    "y": 2,
-                    "z": 0
+                    "x": 29.347749710083008,
+                    "y": 2.7274116687064938,
+                    "z": -7.069063591517693
                   },
                   "rotation": {
-                    "x": 0.0,
-                    "y": 0.0,
-                    "z": 0.0
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
                   }
                 }
               ],
@@ -779,19 +815,19 @@
               "url": "https://keenyoda-iot-bucket.oss-cn-shenzhen.aliyuncs.com/QiWuIOT/GIMS/Dashboard/0-18.生产办公室.glb",
               "regionPid": "dc34856f01194f2787c85678e5ce3e0c",
               "scale": {
-                "x": 1.0,
-                "y": 1.0,
-                "z": 1.0
+                "x": 1,
+                "y": 1,
+                "z": 1
               },
               "position": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0
+                "x": 0,
+                "y": 0,
+                "z": 0
               },
               "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0
+                "x": 0,
+                "y": 0,
+                "z": 0
               },
               "deviceList": [],
               "child": []

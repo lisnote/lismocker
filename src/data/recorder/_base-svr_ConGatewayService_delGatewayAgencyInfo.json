@@ -1,0 +1,8 @@
+{
+  "GET": {
+    "/base-svr/ConGatewayService/delGatewayAgencyInfo": {
+      "errorCode": 1,
+      "record": "delGatewayAgencyInfo_SUCCESS"
+    }
+  }
+}

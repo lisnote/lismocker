@@ -1,0 +1,15 @@
+{
+  "POST": {
+    "/online-svr/oss/getStsTemporaryToken": {
+      "errorCode": 1,
+      "record": {
+        "securityToken": "CAIS9wF1q6Ft5B2yfSjIr5fFLP3OnbBq7pqhVFPmoHo/VvhOra7Duzz2IHlEfHZpAekdtP41nGFZ7vwelrt0UIQAWUvHYM011q1drVO/O4SZR0UwLDNd2vOfAmG2J0PR/q27OpfULr70fvOqdCq39Etayqf7cjOPRkGsNYbz57dsctUQWHvTD1MEfqA0QDFvs8gHL3DcGO+wOxrx+ArqAVFvpxB3hBEUi8394LXFskuF1gShlrdI/Nyuf8L7VaQ2YscjCeXS9fdta6/M3BRX7xV376pshMRGg2ye7onCWgEIuE/cabKFo4U1cBUXfKE/HLVfvBdRQjDJGny6GoABcQttcGc+HwvphkHbUV3osxx0UJpbmSKdvI/zURCYdnub9WXte32ar/aBHrRL6E05Hu8E6TxCqfemaQhBJpxTyyLYRHFmGervJKDwwqPlf2i5AtnAHR+OOPt3L91cyEBuzst3QRBf4bUwf2f1cJ+xmabQTjJPqjk+fnn+ilfJzIIgAA==",
+        "accessKeySecret": "3Y6E3or7sHqoGejy1YxuavvuFpJde3Vancwd5LjbjAxJ",
+        "accessKeyId": "STS.NTpgGzpoKYXJVuWDzjZwbBkhY",
+        "expiration": "2024-03-25T10:50:13Z",
+        "bucketName": "keenyoda-iot-bucket",
+        "endpoint": "oss-cn-shenzhen.aliyuncs.com"
+      }
+    }
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "POST": {
+    "/base-svr/realValueAlarm/uploadAlarmPicture": {
+      "errorCode": 1,
+      "record": "uploadAlarmPicture_success"
+    }
+  }
+}

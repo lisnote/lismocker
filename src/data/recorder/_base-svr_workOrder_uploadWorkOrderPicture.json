@@ -1,0 +1,8 @@
+{
+  "POST": {
+    "/base-svr/workOrder/uploadWorkOrderPicture": {
+      "errorCode": 1,
+      "record": "uploadWorkOrderPicture_success"
+    }
+  }
+}

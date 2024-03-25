@@ -3,42 +3,70 @@
     "/base-svr/linkage-config/selectLinkageConfigInfo": {
       "errorCode": 1,
       "record": {
-        "id": "d8ace57ff46942869ca9c935a0b4c975",
+        "id": "7f4760a6c3ad4c7cb2ecb0c349beb315",
         "agencyId": null,
-        "name": "电表联动",
-        "description": "电表联动",
+        "name": "能量表联动配置",
+        "description": "能量表联动",
         "createTime": null,
         "conditionRule": 0,
         "isOpen": 0,
         "validity": 10,
         "conditionList": [
           {
-            "conditionID": "2756490ce53e4d56a9b9bfb6e13a02c3",
-            "deviceId": "G-D-100",
+            "conditionID": "cb4a23f0a3654aac825afa7efa5968e4",
+            "deviceId": "GW-D-101",
             "deviceName": null,
-            "proTypeId": "51",
+            "proTypeId": "61",
             "proType": null,
             "proTypeName": null,
             "num": 1,
             "subName": null,
-            "conditionType": 1,
-            "firstValue": 1,
+            "conditionType": 2,
+            "firstValue": 25,
             "secondValue": null,
-            "configId": "d8ace57ff46942869ca9c935a0b4c975"
+            "configId": "7f4760a6c3ad4c7cb2ecb0c349beb315"
+          },
+          {
+            "conditionID": "cdd1fddeacab4df49512159d735a1c57",
+            "deviceId": "G-D-100",
+            "deviceName": null,
+            "proTypeId": "54",
+            "proType": null,
+            "proTypeName": null,
+            "num": 8,
+            "subName": null,
+            "conditionType": 4,
+            "firstValue": 200,
+            "secondValue": 800,
+            "configId": "7f4760a6c3ad4c7cb2ecb0c349beb315"
+          },
+          {
+            "conditionID": "e32dd2174f9d486e9a45c8c2992d4ab5",
+            "deviceId": "Gims-device-01",
+            "deviceName": null,
+            "proTypeId": "32",
+            "proType": null,
+            "proTypeName": null,
+            "num": 2,
+            "subName": null,
+            "conditionType": 2,
+            "firstValue": 15,
+            "secondValue": null,
+            "configId": "7f4760a6c3ad4c7cb2ecb0c349beb315"
           }
         ],
         "actionList": [
           {
-            "actionID": "e14cbedf58a44ac8a07881b279f5aa14",
-            "gtwId": "G-EMS-10000",
-            "deviceId": "G-D-200",
-            "deviceName": "keenyoda智能IO控制器",
+            "actionID": "7dde853771f54a468b63bac221f0cab6",
+            "gtwId": "GW-MS-10000",
+            "deviceId": "GW-D-102",
+            "deviceName": "温控器",
             "proTypeId": "55",
             "proType": null,
             "proTypeName": "数字输出",
-            "num": 0,
-            "subName": "开关（写）#0",
-            "actionValue": 0,
+            "num": 1,
+            "subName": "开关（写）",
+            "actionValue": 1,
             "configId": null
           }
         ]

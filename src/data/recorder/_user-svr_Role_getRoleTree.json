@@ -12,6 +12,15 @@
           "agencyid": "083522bb70e14021aa8a9533c131c30e",
           "child": [
             {
+              "id": "c4b360b3f08f41019ba7c5e6cf10bb16",
+              "name": "测试人员",
+              "mark": "auto",
+              "pid": "28ec272fd0d14573874e82beb5eae061",
+              "solutiontype": "10",
+              "agencyid": "083522bb70e14021aa8a9533c131c30e",
+              "child": null
+            },
+            {
               "id": "e849a5c5dd5349939f040635da620d52",
               "name": "管理员",
               "mark": "auto",

@@ -4,12 +4,6 @@
       "errorCode": 1,
       "record": [
         {
-          "id": "6ef2a53e5f0b468b97c0a86e4a15ec73",
-          "rank": 4,
-          "name": "4级报警",
-          "agencyId": "083522bb70e14021aa8a9533c131c30e"
-        },
-        {
           "id": "9068373f12ec498ab95dcca987ec82f9",
           "rank": 3,
           "name": "3级报警",

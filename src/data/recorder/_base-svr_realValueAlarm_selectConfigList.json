@@ -4,6 +4,66 @@
       "errorCode": 1,
       "record": [
         {
+          "id": "1a8c0b5d663348e496e463543357b743",
+          "name": "PM2.5监测报警",
+          "agencyId": "083522bb70e14021aa8a9533c131c30e",
+          "deviceId": "Gims-device-03",
+          "proType": 5010,
+          "number": 2,
+          "rankId": "edcc2ad45e814ca6a70ae7e7047b38d4",
+          "conditionType": 2,
+          "firstValue": 3,
+          "secondValue": null,
+          "preCheck": 1,
+          "alarmInterval": 50,
+          "beDel": null,
+          "causeId": "30564f1f5317478f931f534305d7354c",
+          "createTime": {
+            "year": 124,
+            "month": 2,
+            "date": 11,
+            "day": 1,
+            "hours": 13,
+            "minutes": 52,
+            "seconds": 40,
+            "time": 1710136360000,
+            "timezoneOffset": -480
+          },
+          "enable": false,
+          "sendMode": 1,
+          "deviceName": "pm2.5传感器",
+          "proTypeName": "PM2.5",
+          "unit": null,
+          "sensorName": "PM2.5#2",
+          "rank": 2,
+          "rankName": "2级报警",
+          "cause": "二氧化碳浓度过高",
+          "suggestion": "开窗通风",
+          "userList": [
+            {
+              "id": "cea3d1892c024858a9f49d3969e9945d",
+              "configId": null,
+              "userId": "49d828f411cc4c56abe9330cfd824c64",
+              "username": "kyd xjw",
+              "phone": "18888888888"
+            },
+            {
+              "id": "c9ab3a09550d40cb95b812159bb81bfd",
+              "configId": null,
+              "userId": "691ed49723164411800e1c1cdcb23fa2",
+              "username": "kyd-testw",
+              "phone": "15555555555"
+            },
+            {
+              "id": "3c6e3fd4e7bf4470b2e167dbf7bf442c",
+              "configId": null,
+              "userId": "1739b39ce0df4837979c0894abe46a10",
+              "username": "kyd-test",
+              "phone": "13333333333"
+            }
+          ]
+        },
+        {
           "id": "5f35d97f3dfd4e8abb36575a3e0d0251",
           "name": "二氧化碳浓度报警配置",
           "agencyId": "083522bb70e14021aa8a9533c131c30e",
@@ -15,7 +75,7 @@
           "firstValue": 20,
           "secondValue": null,
           "preCheck": 1,
-          "alarmInterval": 30,
+          "alarmInterval": 60,
           "beDel": null,
           "causeId": "30564f1f5317478f931f534305d7354c",
           "createTime": {
@@ -34,14 +94,21 @@
           "deviceName": "pm2.5传感器",
           "proTypeName": "PM2.5",
           "unit": null,
-          "sensorName": null,
+          "sensorName": "PM2.5#1",
           "rank": 1,
           "rankName": "1级报警",
           "cause": "二氧化碳浓度过高",
           "suggestion": "开窗通风",
           "userList": [
             {
-              "id": "d3f74708594240aeb7d0ed94c002f157",
+              "id": "d640cdb3a5c646c696ff090849a2b571",
+              "configId": null,
+              "userId": "49d828f411cc4c56abe9330cfd824c64",
+              "username": "kyd xjw",
+              "phone": "18888888888"
+            },
+            {
+              "id": "c27724a8a5ca4f0d833e3edd87e4fe94",
               "configId": null,
               "userId": "1739b39ce0df4837979c0894abe46a10",
               "username": "kyd-test",
@@ -58,7 +125,7 @@
           "number": 4,
           "rankId": "9068373f12ec498ab95dcca987ec82f9",
           "conditionType": 2,
-          "firstValue": 50,
+          "firstValue": 220,
           "secondValue": null,
           "preCheck": 2,
           "alarmInterval": 30,
@@ -87,7 +154,7 @@
           "suggestion": "节约电量的使用、检查是否存在偷电",
           "userList": [
             {
-              "id": "d3f83c7d62a84732b5584e3cf7a29679",
+              "id": "eb27a0ef0d264feb8d1ce7a8e458b7db",
               "configId": null,
               "userId": "49d828f411cc4c56abe9330cfd824c64",
               "username": "kyd xjw",
@@ -104,7 +171,7 @@
           "number": 1,
           "rankId": "7441ab6bc071406780ee0fff4dc88902",
           "conditionType": 2,
-          "firstValue": 10,
+          "firstValue": 25,
           "secondValue": null,
           "preCheck": 1,
           "alarmInterval": 30,
@@ -126,25 +193,18 @@
           "deviceName": "温湿度传感器",
           "proTypeName": "温度",
           "unit": null,
-          "sensorName": "温度1#1111",
+          "sensorName": "temperature#1",
           "rank": 1,
           "rankName": "1级报警",
           "cause": "温度过高影响设备",
           "suggestion": "降温",
           "userList": [
             {
-              "id": "a92a6789923d40a1b265e45b9671b6bd",
+              "id": "57b9c8a53b54411dadf8bb8d530292d1",
               "configId": null,
               "userId": "49d828f411cc4c56abe9330cfd824c64",
               "username": "kyd xjw",
               "phone": "18888888888"
-            },
-            {
-              "id": "a16068b1fd064a3cac955951788a5dc7",
-              "configId": null,
-              "userId": "1739b39ce0df4837979c0894abe46a10",
-              "username": "kyd-test",
-              "phone": "13333333333"
             }
           ]
         },
@@ -186,14 +246,14 @@
           "suggestion": "降温",
           "userList": [
             {
-              "id": "f5a6afd1f621442b9424192d86bc9d30",
+              "id": "470a695f630d4d7b9537e633d78d36cd",
               "configId": null,
               "userId": "49d828f411cc4c56abe9330cfd824c64",
               "username": "kyd xjw",
               "phone": "18888888888"
             },
             {
-              "id": "bb0c91700149427a938004ddff996a00",
+              "id": "1a4f014b1fc54e2f95c24603b8714b0c",
               "configId": null,
               "userId": "1739b39ce0df4837979c0894abe46a10",
               "username": "kyd-test",
@@ -239,7 +299,7 @@
           "suggestion": "节约电量的使用、检查是否存在偷电",
           "userList": [
             {
-              "id": "d8b61f4b8c5342c3a789740b8770cfb6",
+              "id": "76c47bff6cd2416b94dcb3f5086e0b49",
               "configId": null,
               "userId": "49d828f411cc4c56abe9330cfd824c64",
               "username": "kyd xjw",

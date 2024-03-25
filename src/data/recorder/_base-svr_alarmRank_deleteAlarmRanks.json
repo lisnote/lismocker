@@ -1,0 +1,8 @@
+{
+  "POST": {
+    "/base-svr/alarmRank/deleteAlarmRanks": {
+      "errorCode": 1,
+      "record": "success"
+    }
+  }
+}

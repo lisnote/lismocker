@@ -4,34 +4,6 @@
       "errorCode": 1,
       "record": [
         {
-          "id": "f207f4a795a24d5bb5c3ad13649a1e37",
-          "pid": "000000",
-          "prevId": null,
-          "child": null,
-          "name": "测试智能化管理项目",
-          "addr": null,
-          "color": "#FEB23A",
-          "addTime": {
-            "year": 124,
-            "month": 1,
-            "date": 29,
-            "day": 4,
-            "hours": 8,
-            "minutes": 43,
-            "seconds": 48,
-            "time": 1709167428000,
-            "timezoneOffset": -480
-          },
-          "mark": null,
-          "cCount": 1,
-          "did": null,
-          "dName": null,
-          "deviceJsonType": null,
-          "creator": "49d828f411cc4c56abe9330cfd824c64",
-          "devCount": 0,
-          "onlineStatus": false
-        },
-        {
           "id": "083522bb70e14021aa8a9533c131c30e",
           "pid": "000000",
           "prevId": null,
@@ -51,12 +23,12 @@
             "timezoneOffset": -480
           },
           "mark": "通用智能化管理系统1",
-          "cCount": 4,
+          "cCount": 7,
           "did": null,
           "dName": null,
           "deviceJsonType": null,
           "creator": "49d828f411cc4c56abe9330cfd824c64",
-          "devCount": 6,
+          "devCount": 9,
           "onlineStatus": false
         }
       ]

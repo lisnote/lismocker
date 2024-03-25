@@ -10,589 +10,385 @@
           "unitList": [
             {
               "deviceId": null,
-              "deviceName": "智能电表",
-              "proTypeId": "45",
-              "proType": 5016,
-              "num": 7,
-              "name": "电量用量",
-              "unit": "kW·h",
-              "subName": "电量用量#7"
-            },
-            {
-              "deviceId": null,
-              "deviceName": "智能电表",
-              "proTypeId": "48",
-              "proType": 5019,
-              "num": 4,
-              "name": "Ua",
-              "unit": "V",
-              "subName": "a相电压"
-            },
-            {
-              "deviceId": null,
-              "deviceName": "智能电表",
-              "proTypeId": "49",
-              "proType": 5020,
-              "num": 5,
-              "name": "Ub",
-              "unit": "V",
-              "subName": "Ub#5"
-            },
-            {
-              "deviceId": null,
-              "deviceName": "智能电表",
-              "proTypeId": "50",
-              "proType": 5021,
-              "num": 6,
-              "name": "Uc",
-              "unit": "V",
-              "subName": "Uc#6"
-            },
-            {
-              "deviceId": null,
-              "deviceName": "智能电表",
-              "proTypeId": "51",
-              "proType": 5022,
+              "deviceName": "温湿度传感器",
+              "proTypeId": "32",
+              "proType": 5003,
               "num": 1,
-              "name": "Ia",
-              "unit": "A",
-              "subName": "a相电流"
+              "name": "温度",
+              "unit": "℃",
+              "subName": "temperature#1"
             },
             {
               "deviceId": null,
-              "deviceName": "智能电表",
-              "proTypeId": "52",
-              "proType": 5023,
+              "deviceName": "温湿度传感器",
+              "proTypeId": "33",
+              "proType": 5004,
               "num": 2,
-              "name": "Ib",
-              "unit": "A",
-              "subName": "b相电流"
-            },
-            {
-              "deviceId": null,
-              "deviceName": "智能电表",
-              "proTypeId": "53",
-              "proType": 5024,
-              "num": 3,
-              "name": "Ic",
-              "unit": "A",
-              "subName": "c相电流"
-            },
-            {
-              "deviceId": null,
-              "deviceName": "智能电表",
-              "proTypeId": "54",
-              "proType": 5025,
-              "num": 8,
-              "name": "总功率",
-              "unit": "kw",
-              "subName": "总功率#8"
+              "name": "湿度",
+              "unit": "%RH",
+              "subName": "湿度2#2"
             }
           ],
           "deviceData": [
             {
-              "a相电压": "220",
-              "Ub#5": "218.4",
-              "总功率#8": "3.51",
-              "Uc#6": "219.91",
-              "a相电流": "11.92",
+              "湿度2#2": "51.92",
               "time": {
                 "year": 124,
                 "month": 2,
-                "date": 20,
-                "day": 3,
+                "date": 25,
+                "day": 1,
                 "hours": 0,
                 "minutes": 0,
                 "seconds": 0,
-                "time": 1710864000000,
+                "time": 1711296000000,
                 "timezoneOffset": -28800
               },
-              "b相电流": "7.33",
-              "c相电流": "18.35",
-              "电量用量#7": "5352.32"
+              "temperature#1": "17.65"
             },
             {
-              "a相电压": "220",
-              "Ub#5": "218.52",
-              "总功率#8": "3.73",
-              "Uc#6": "220.08",
-              "a相电流": "14.38",
+              "湿度2#2": "53.02",
               "time": {
                 "year": 124,
                 "month": 2,
-                "date": 20,
-                "day": 3,
+                "date": 25,
+                "day": 1,
                 "hours": 1,
                 "minutes": 0,
                 "seconds": 0,
-                "time": 1710867600000,
+                "time": 1711299600000,
                 "timezoneOffset": -28800
               },
-              "b相电流": "9.03",
-              "c相电流": "14.91",
-              "电量用量#7": "5352.96"
+              "temperature#1": "17.65"
             },
             {
-              "a相电压": "220",
-              "Ub#5": "218.77",
-              "总功率#8": "4.23",
-              "Uc#6": "220.15",
-              "a相电流": "14.62",
+              "湿度2#2": "50.82",
               "time": {
                 "year": 124,
                 "month": 2,
-                "date": 20,
-                "day": 3,
+                "date": 25,
+                "day": 1,
                 "hours": 2,
                 "minutes": 0,
                 "seconds": 0,
-                "time": 1710871200000,
+                "time": 1711303200000,
                 "timezoneOffset": -28800
               },
-              "b相电流": "11.17",
-              "c相电流": "15.39",
-              "电量用量#7": "5353.53"
+              "temperature#1": "18.67"
             },
             {
-              "a相电压": "220",
-              "Ub#5": "217.95",
-              "总功率#8": "3.37",
-              "Uc#6": "220.15",
-              "a相电流": "11.38",
+              "湿度2#2": "51.89",
               "time": {
                 "year": 124,
                 "month": 2,
-                "date": 20,
-                "day": 3,
+                "date": 25,
+                "day": 1,
                 "hours": 3,
                 "minutes": 0,
                 "seconds": 0,
-                "time": 1710874800000,
+                "time": 1711306800000,
                 "timezoneOffset": -28800
               },
-              "b相电流": "7.13",
-              "c相电流": "19.34",
-              "电量用量#7": "5354.1"
+              "temperature#1": "18.23"
             },
             {
-              "a相电压": "220",
-              "Ub#5": "217.62",
-              "总功率#8": "4.05",
-              "Uc#6": "219.81",
-              "a相电流": "17.24",
+              "湿度2#2": "51.13",
               "time": {
                 "year": 124,
                 "month": 2,
-                "date": 20,
-                "day": 3,
+                "date": 25,
+                "day": 1,
                 "hours": 4,
                 "minutes": 0,
                 "seconds": 0,
-                "time": 1710878400000,
+                "time": 1711310400000,
                 "timezoneOffset": -28800
               },
-              "b相电流": "7.24",
-              "c相电流": "14.86",
-              "电量用量#7": "5354.56"
+              "temperature#1": "19.5"
             },
             {
-              "a相电压": "220",
-              "Ub#5": "217.26",
-              "总功率#8": "4.12",
-              "Uc#6": "220.9",
-              "a相电流": "11.99",
+              "湿度2#2": "53.57",
               "time": {
                 "year": 124,
                 "month": 2,
-                "date": 20,
-                "day": 3,
+                "date": 25,
+                "day": 1,
                 "hours": 5,
                 "minutes": 0,
                 "seconds": 0,
-                "time": 1710882000000,
+                "time": 1711314000000,
                 "timezoneOffset": -28800
               },
-              "b相电流": "7.42",
-              "c相电流": "16.41",
-              "电量用量#7": "5355.02"
+              "temperature#1": "18.78"
             },
             {
-              "a相电压": "220",
-              "Ub#5": "217.75",
-              "总功率#8": "3.56",
-              "Uc#6": "219.94",
-              "a相电流": "14.3",
+              "湿度2#2": "54.14",
               "time": {
                 "year": 124,
                 "month": 2,
-                "date": 20,
-                "day": 3,
+                "date": 25,
+                "day": 1,
                 "hours": 6,
                 "minutes": 0,
                 "seconds": 0,
-                "time": 1710885600000,
+                "time": 1711317600000,
                 "timezoneOffset": -28800
               },
-              "b相电流": "10.58",
-              "c相电流": "16.31",
-              "电量用量#7": "5355.52"
+              "temperature#1": "18.79"
             },
             {
-              "a相电压": "220",
-              "Ub#5": "217.78",
-              "总功率#8": "4.59",
-              "Uc#6": "220.5",
-              "a相电流": "11.56",
+              "湿度2#2": "52.53",
               "time": {
                 "year": 124,
                 "month": 2,
-                "date": 20,
-                "day": 3,
+                "date": 25,
+                "day": 1,
                 "hours": 7,
                 "minutes": 0,
                 "seconds": 0,
-                "time": 1710889200000,
+                "time": 1711321200000,
                 "timezoneOffset": -28800
               },
-              "b相电流": "8.41",
-              "c相电流": "13.49",
-              "电量用量#7": "5356.17"
+              "temperature#1": "18.74"
             },
             {
-              "a相电压": "220",
-              "Ub#5": "218.07",
-              "总功率#8": "4.08",
-              "Uc#6": "219.93",
-              "a相电流": "11.34",
+              "湿度2#2": "53.39",
               "time": {
                 "year": 124,
                 "month": 2,
-                "date": 20,
-                "day": 3,
+                "date": 25,
+                "day": 1,
                 "hours": 8,
                 "minutes": 0,
                 "seconds": 0,
-                "time": 1710892800000,
+                "time": 1711324800000,
                 "timezoneOffset": -28800
               },
-              "b相电流": "8.77",
-              "c相电流": "13.67",
-              "电量用量#7": "5356.53"
+              "temperature#1": "18.94"
             },
             {
-              "a相电压": "220",
-              "Ub#5": "217.98",
-              "总功率#8": "3.83",
-              "Uc#6": "219.58",
-              "a相电流": "10.91",
+              "湿度2#2": "54.73",
               "time": {
                 "year": 124,
                 "month": 2,
-                "date": 20,
-                "day": 3,
+                "date": 25,
+                "day": 1,
                 "hours": 9,
                 "minutes": 0,
                 "seconds": 0,
-                "time": 1710896400000,
+                "time": 1711328400000,
                 "timezoneOffset": -28800
               },
-              "b相电流": "7.59",
-              "c相电流": "12.62",
-              "电量用量#7": "5357.05"
+              "temperature#1": "19.69"
             },
             {
-              "a相电压": "220",
-              "Ub#5": "218.16",
-              "总功率#8": "4.09",
-              "Uc#6": "220.11",
-              "a相电流": "10.87",
+              "湿度2#2": "52.15",
               "time": {
                 "year": 124,
                 "month": 2,
-                "date": 20,
-                "day": 3,
+                "date": 25,
+                "day": 1,
                 "hours": 10,
                 "minutes": 0,
                 "seconds": 0,
-                "time": 1710900000000,
+                "time": 1711332000000,
                 "timezoneOffset": -28800
               },
-              "b相电流": "9.25",
-              "c相电流": "14.98",
-              "电量用量#7": "5357.72"
+              "temperature#1": "19.38"
             },
             {
-              "a相电压": "220",
-              "Ub#5": "218.26",
-              "总功率#8": "3.37",
-              "Uc#6": "219.97",
-              "a相电流": "15.26",
+              "湿度2#2": "52.24",
               "time": {
                 "year": 124,
                 "month": 2,
-                "date": 20,
-                "day": 3,
+                "date": 25,
+                "day": 1,
                 "hours": 11,
                 "minutes": 0,
                 "seconds": 0,
-                "time": 1710903600000,
+                "time": 1711335600000,
                 "timezoneOffset": -28800
               },
-              "b相电流": "10.57",
-              "c相电流": "16.9",
-              "电量用量#7": "5358.26"
+              "temperature#1": "17.28"
             },
             {
-              "a相电压": "220",
-              "Ub#5": "217.96",
-              "总功率#8": "3.48",
-              "Uc#6": "219.71",
-              "a相电流": "16.17",
+              "湿度2#2": "55.84",
               "time": {
                 "year": 124,
                 "month": 2,
-                "date": 20,
-                "day": 3,
+                "date": 25,
+                "day": 1,
                 "hours": 12,
                 "minutes": 0,
                 "seconds": 0,
-                "time": 1710907200000,
+                "time": 1711339200000,
                 "timezoneOffset": -28800
               },
-              "b相电流": "10.73",
-              "c相电流": "11.31",
-              "电量用量#7": "5358.66"
+              "temperature#1": "18.42"
             },
             {
-              "a相电压": "220",
-              "Ub#5": "218.52",
-              "总功率#8": "3.46",
-              "Uc#6": "219.9",
-              "a相电流": "13.97",
+              "湿度2#2": "54.22",
               "time": {
                 "year": 124,
                 "month": 2,
-                "date": 20,
-                "day": 3,
+                "date": 25,
+                "day": 1,
                 "hours": 13,
                 "minutes": 0,
                 "seconds": 0,
-                "time": 1710910800000,
+                "time": 1711342800000,
                 "timezoneOffset": -28800
               },
-              "b相电流": "7.62",
-              "c相电流": "12.64",
-              "电量用量#7": "5359.3"
+              "temperature#1": "19.15"
             },
             {
-              "a相电压": "220",
-              "Ub#5": "218.25",
-              "总功率#8": "3.85",
-              "Uc#6": "219.71",
-              "a相电流": "11.25",
+              "湿度2#2": "52.58",
               "time": {
                 "year": 124,
                 "month": 2,
-                "date": 20,
-                "day": 3,
+                "date": 25,
+                "day": 1,
                 "hours": 14,
                 "minutes": 0,
                 "seconds": 0,
-                "time": 1710914400000,
+                "time": 1711346400000,
                 "timezoneOffset": -28800
               },
-              "b相电流": "9.74",
-              "c相电流": "13.67",
-              "电量用量#7": "5359.73"
+              "temperature#1": "18.01"
             },
             {
-              "a相电压": "220",
-              "Ub#5": "217.65",
-              "总功率#8": "2.81",
-              "Uc#6": "220.49",
-              "a相电流": "9.18",
+              "湿度2#2": "52.22",
               "time": {
                 "year": 124,
                 "month": 2,
-                "date": 20,
-                "day": 3,
+                "date": 25,
+                "day": 1,
                 "hours": 15,
                 "minutes": 0,
                 "seconds": 0,
-                "time": 1710918000000,
+                "time": 1711350000000,
                 "timezoneOffset": -28800
               },
-              "b相电流": "4.61",
-              "c相电流": "13.41",
-              "电量用量#7": "5360.25"
+              "temperature#1": "19"
             },
             {
-              "a相电压": "220",
-              "Ub#5": "219.02",
-              "总功率#8": "4.01",
-              "Uc#6": "219.58",
-              "a相电流": "14.14",
+              "湿度2#2": "52.1",
               "time": {
                 "year": 124,
                 "month": 2,
-                "date": 20,
-                "day": 3,
+                "date": 25,
+                "day": 1,
                 "hours": 16,
                 "minutes": 0,
                 "seconds": 0,
-                "time": 1710921600000,
+                "time": 1711353600000,
                 "timezoneOffset": -28800
               },
-              "b相电流": "8.27",
-              "c相电流": "19.62",
-              "电量用量#7": "5360.68"
+              "temperature#1": "18.95"
             },
             {
-              "a相电压": null,
-              "Ub#5": null,
-              "总功率#8": null,
-              "Uc#6": null,
-              "a相电流": null,
+              "湿度2#2": null,
               "time": {
                 "year": 124,
                 "month": 2,
-                "date": 20,
-                "day": 3,
+                "date": 25,
+                "day": 1,
                 "hours": 17,
                 "minutes": 0,
                 "seconds": 0,
-                "time": 1710925200000,
+                "time": 1711357200000,
                 "timezoneOffset": -28800
               },
-              "b相电流": null,
-              "c相电流": null,
-              "电量用量#7": null
+              "temperature#1": null
             },
             {
-              "a相电压": null,
-              "Ub#5": null,
-              "总功率#8": null,
-              "Uc#6": null,
-              "a相电流": null,
+              "湿度2#2": null,
               "time": {
                 "year": 124,
                 "month": 2,
-                "date": 20,
-                "day": 3,
+                "date": 25,
+                "day": 1,
                 "hours": 18,
                 "minutes": 0,
                 "seconds": 0,
-                "time": 1710928800000,
+                "time": 1711360800000,
                 "timezoneOffset": -28800
               },
-              "b相电流": null,
-              "c相电流": null,
-              "电量用量#7": null
+              "temperature#1": null
             },
             {
-              "a相电压": null,
-              "Ub#5": null,
-              "总功率#8": null,
-              "Uc#6": null,
-              "a相电流": null,
+              "湿度2#2": null,
               "time": {
                 "year": 124,
                 "month": 2,
-                "date": 20,
-                "day": 3,
+                "date": 25,
+                "day": 1,
                 "hours": 19,
                 "minutes": 0,
                 "seconds": 0,
-                "time": 1710932400000,
+                "time": 1711364400000,
                 "timezoneOffset": -28800
               },
-              "b相电流": null,
-              "c相电流": null,
-              "电量用量#7": null
+              "temperature#1": null
             },
             {
-              "a相电压": null,
-              "Ub#5": null,
-              "总功率#8": null,
-              "Uc#6": null,
-              "a相电流": null,
+              "湿度2#2": null,
               "time": {
                 "year": 124,
                 "month": 2,
-                "date": 20,
-                "day": 3,
+                "date": 25,
+                "day": 1,
                 "hours": 20,
                 "minutes": 0,
                 "seconds": 0,
-                "time": 1710936000000,
+                "time": 1711368000000,
                 "timezoneOffset": -28800
               },
-              "b相电流": null,
-              "c相电流": null,
-              "电量用量#7": null
+              "temperature#1": null
             },
             {
-              "a相电压": null,
-              "Ub#5": null,
-              "总功率#8": null,
-              "Uc#6": null,
-              "a相电流": null,
+              "湿度2#2": null,
               "time": {
                 "year": 124,
                 "month": 2,
-                "date": 20,
-                "day": 3,
+                "date": 25,
+                "day": 1,
                 "hours": 21,
                 "minutes": 0,
                 "seconds": 0,
-                "time": 1710939600000,
+                "time": 1711371600000,
                 "timezoneOffset": -28800
               },
-              "b相电流": null,
-              "c相电流": null,
-              "电量用量#7": null
+              "temperature#1": null
             },
             {
-              "a相电压": null,
-              "Ub#5": null,
-              "总功率#8": null,
-              "Uc#6": null,
-              "a相电流": null,
+              "湿度2#2": null,
               "time": {
                 "year": 124,
                 "month": 2,
-                "date": 20,
-                "day": 3,
+                "date": 25,
+                "day": 1,
                 "hours": 22,
                 "minutes": 0,
                 "seconds": 0,
-                "time": 1710943200000,
+                "time": 1711375200000,
                 "timezoneOffset": -28800
               },
-              "b相电流": null,
-              "c相电流": null,
-              "电量用量#7": null
+              "temperature#1": null
             },
             {
-              "a相电压": null,
-              "Ub#5": null,
-              "总功率#8": null,
-              "Uc#6": null,
-              "a相电流": null,
+              "湿度2#2": null,
               "time": {
                 "year": 124,
                 "month": 2,
-                "date": 20,
-                "day": 3,
+                "date": 25,
+                "day": 1,
                 "hours": 23,
                 "minutes": 0,
                 "seconds": 0,
-                "time": 1710946800000,
+                "time": 1711378800000,
                 "timezoneOffset": -28800
               },
-              "b相电流": null,
-              "c相电流": null,
-              "电量用量#7": null
+              "temperature#1": null
             }
           ]
         }

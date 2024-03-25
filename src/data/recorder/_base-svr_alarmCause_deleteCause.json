@@ -1,0 +1,8 @@
+{
+  "POST": {
+    "/base-svr/alarmCause/deleteCause": {
+      "errorCode": 1,
+      "record": "success"
+    }
+  }
+}

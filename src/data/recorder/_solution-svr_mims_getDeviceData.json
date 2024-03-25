@@ -4,11 +4,60 @@
       "errorCode": 1,
       "record": [
         {
-          "devId": "Gims-device-03",
-          "name": "PM10",
-          "unit": "ug/m³",
-          "value": "--",
-          "subName": "PM10#3"
+          "devId": "G-D-100",
+          "name": "电量用量",
+          "unit": "kW·h",
+          "value": "5420.75",
+          "subName": "电量用量#7"
+        },
+        {
+          "devId": "G-D-100",
+          "name": "Ua",
+          "unit": "V",
+          "value": "220",
+          "subName": "a相电压"
+        },
+        {
+          "devId": "G-D-100",
+          "name": "Ub",
+          "unit": "V",
+          "value": "215.04",
+          "subName": "Ub#5"
+        },
+        {
+          "devId": "G-D-100",
+          "name": "Uc",
+          "unit": "V",
+          "value": "220.11",
+          "subName": "Uc#6"
+        },
+        {
+          "devId": "G-D-100",
+          "name": "Ia",
+          "unit": "A",
+          "value": "6.54",
+          "subName": "a相电流"
+        },
+        {
+          "devId": "G-D-100",
+          "name": "Ib",
+          "unit": "A",
+          "value": "10.07",
+          "subName": "b相电流"
+        },
+        {
+          "devId": "G-D-100",
+          "name": "Ic",
+          "unit": "A",
+          "value": "26.7",
+          "subName": "c相电流"
+        },
+        {
+          "devId": "G-D-100",
+          "name": "总功率",
+          "unit": "kw",
+          "value": "7.46",
+          "subName": "总功率#8"
         }
       ]
     }

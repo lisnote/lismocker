@@ -1,0 +1,8 @@
+{
+  "POST": {
+    "/user-svr/User/forgetPwdSecond": {
+      "errorCode": 1,
+      "record": "SUCCESS"
+    }
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "GET": {
+    "/user-svr/User/forgetPwdFirst": {
+      "errorCode": 1,
+      "record": "SUCCESS"
+    }
+  }
+}

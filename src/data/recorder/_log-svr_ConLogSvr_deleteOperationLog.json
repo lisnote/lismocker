@@ -1,0 +1,8 @@
+{
+  "GET": {
+    "/log-svr/ConLogSvr/deleteOperationLog": {
+      "errorCode": 1,
+      "record": "success"
+    }
+  }
+}

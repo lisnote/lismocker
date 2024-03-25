@@ -84,6 +84,14 @@
           "mark": "信号强度"
         },
         {
+          "id": 39,
+          "type": 5010,
+          "dataType": 1,
+          "name": "PM2.5",
+          "unit": "ug/m³",
+          "mark": "PM2.5"
+        },
+        {
           "id": 61,
           "type": 5030,
           "dataType": 1,

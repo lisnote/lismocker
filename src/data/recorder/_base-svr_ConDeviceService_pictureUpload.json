@@ -1,0 +1,8 @@
+{
+  "POST": {
+    "/base-svr/ConDeviceService/pictureUpload": {
+      "errorCode": 1,
+      "record": "pictureUpload_success"
+    }
+  }
+}

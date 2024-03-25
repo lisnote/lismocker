@@ -3,34 +3,34 @@
     "/base-svr/linkage-history/selectLinkageHistoryInfo": {
       "errorCode": 1,
       "record": {
-        "id": "4152dca719d64bafa8fade04e2746013",
+        "id": "90dd22d0df614067a01edffac8a0a590",
         "linkageId": null,
-        "linkageName": "电表联动",
+        "linkageName": "能量表联动配置",
         "createTime": null,
         "agencyId": null,
         "status": 0,
         "conditionList": [
           {
-            "id": "76cafc4e0e9f4d7b92a6e06dcf825c30",
+            "id": "4faa27892d5b4943805a67aafba45a15",
             "historyId": null,
             "conditionId": null,
-            "subName": "a相电流",
-            "conditionType": 1,
-            "firstValue": 1,
+            "subName": "温度",
+            "conditionType": 2,
+            "firstValue": 15,
             "secondValue": null,
-            "value": 0.62,
-            "conditionDeviceName": "智能电表"
+            "value": 15.55,
+            "conditionDeviceName": "智能能量表"
           }
         ],
         "actionList": [
           {
-            "id": "dd2e3043d9db4f7eb2bb6f0590c35d66",
+            "id": "713a5d025d6840c08682492d56e60655",
             "historyId": null,
             "actionId": null,
-            "subName": "开关（写）#0",
+            "subName": "开关（写）",
             "status": 0,
-            "value": 0,
-            "actionDeviceName": "keenyoda智能IO控制器"
+            "value": 1,
+            "actionDeviceName": "温控器"
           }
         ]
       }

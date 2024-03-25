@@ -1,0 +1,8 @@
+{
+  "GET": {
+    "/user-svr/User/delAgencyUserRole": {
+      "errorCode": 1,
+      "record": "delAgencyUserRole SUCCESS"
+    }
+  }
+}

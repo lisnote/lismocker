@@ -1,0 +1,8 @@
+{
+  "POST": {
+    "/base-svr/workOrder/deleteWorkOrder": {
+      "errorCode": 1,
+      "record": "delete_success"
+    }
+  }
+}

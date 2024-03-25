@@ -4,180 +4,36 @@
       "errorCode": 1,
       "record": [
         {
-          "id": "4152dca719d64bafa8fade04e2746013",
+          "id": "90dd22d0df614067a01edffac8a0a590",
           "linkageId": null,
-          "linkageName": "电表联动",
+          "linkageName": "能量表联动配置",
           "createTime": {
             "year": 124,
             "month": 2,
-            "date": 5,
-            "day": 2,
-            "hours": 8,
-            "minutes": 48,
-            "seconds": 32,
-            "time": 1709599712000,
-            "timezoneOffset": -28800
-          },
-          "agencyId": null,
-          "status": 0
-        },
-        {
-          "id": "f9d5411f2df0411691fde98191f4fdb9",
-          "linkageId": null,
-          "linkageName": "电表联动",
-          "createTime": {
-            "year": 124,
-            "month": 2,
-            "date": 5,
-            "day": 2,
-            "hours": 8,
-            "minutes": 40,
-            "seconds": 46,
-            "time": 1709599246000,
-            "timezoneOffset": -28800
-          },
-          "agencyId": null,
-          "status": 0
-        },
-        {
-          "id": "1ec6f69dc8794875a8c3c798b8a46ce5",
-          "linkageId": null,
-          "linkageName": "电表联动",
-          "createTime": {
-            "year": 124,
-            "month": 2,
-            "date": 5,
-            "day": 2,
-            "hours": 8,
+            "date": 20,
+            "day": 3,
+            "hours": 10,
             "minutes": 29,
-            "seconds": 55,
-            "time": 1709598595000,
+            "seconds": 2,
+            "time": 1710901742000,
             "timezoneOffset": -28800
           },
           "agencyId": null,
           "status": 0
         },
         {
-          "id": "126c9184cc73443db74ff9295e62b7b0",
+          "id": "03ebed377e2c486d8b33510543cbffa8",
           "linkageId": null,
-          "linkageName": "电表联动",
+          "linkageName": "能量表联动配置",
           "createTime": {
             "year": 124,
             "month": 2,
-            "date": 5,
-            "day": 2,
-            "hours": 8,
-            "minutes": 18,
-            "seconds": 32,
-            "time": 1709597912000,
-            "timezoneOffset": -28800
-          },
-          "agencyId": null,
-          "status": 0
-        },
-        {
-          "id": "4178923a8bdd4ca1975c49644bb17910",
-          "linkageId": null,
-          "linkageName": "电表联动",
-          "createTime": {
-            "year": 124,
-            "month": 2,
-            "date": 5,
-            "day": 2,
-            "hours": 8,
-            "minutes": 6,
-            "seconds": 8,
-            "time": 1709597168000,
-            "timezoneOffset": -28800
-          },
-          "agencyId": null,
-          "status": 0
-        },
-        {
-          "id": "e2d5e7d6c7f14571a1a7a1448d453a0b",
-          "linkageId": null,
-          "linkageName": "电表联动",
-          "createTime": {
-            "year": 124,
-            "month": 2,
-            "date": 5,
-            "day": 2,
-            "hours": 8,
-            "minutes": 2,
-            "seconds": 31,
-            "time": 1709596951000,
-            "timezoneOffset": -28800
-          },
-          "agencyId": null,
-          "status": 0
-        },
-        {
-          "id": "9390bb46a1954ae980053ca757df4675",
-          "linkageId": null,
-          "linkageName": "电表联动",
-          "createTime": {
-            "year": 124,
-            "month": 2,
-            "date": 5,
-            "day": 2,
-            "hours": 7,
-            "minutes": 34,
-            "seconds": 4,
-            "time": 1709595244000,
-            "timezoneOffset": -28800
-          },
-          "agencyId": null,
-          "status": 0
-        },
-        {
-          "id": "bbefb89d629143de9691a56e4069615b",
-          "linkageId": null,
-          "linkageName": "电表联动",
-          "createTime": {
-            "year": 124,
-            "month": 2,
-            "date": 5,
-            "day": 2,
-            "hours": 7,
-            "minutes": 27,
-            "seconds": 52,
-            "time": 1709594872000,
-            "timezoneOffset": -28800
-          },
-          "agencyId": null,
-          "status": 0
-        },
-        {
-          "id": "708a2ff5101c4bdcaba3e9fc19718c96",
-          "linkageId": null,
-          "linkageName": "电表联动",
-          "createTime": {
-            "year": 124,
-            "month": 2,
-            "date": 5,
-            "day": 2,
-            "hours": 7,
-            "minutes": 7,
-            "seconds": 11,
-            "time": 1709593631000,
-            "timezoneOffset": -28800
-          },
-          "agencyId": null,
-          "status": 0
-        },
-        {
-          "id": "824846f1826d4e0b95091e9a4192ea34",
-          "linkageId": null,
-          "linkageName": "电表联动",
-          "createTime": {
-            "year": 124,
-            "month": 2,
-            "date": 5,
-            "day": 2,
-            "hours": 6,
-            "minutes": 54,
-            "seconds": 46,
-            "time": 1709592886000,
+            "date": 20,
+            "day": 3,
+            "hours": 10,
+            "minutes": 26,
+            "seconds": 50,
+            "time": 1710901610000,
             "timezoneOffset": -28800
           },
           "agencyId": null,
