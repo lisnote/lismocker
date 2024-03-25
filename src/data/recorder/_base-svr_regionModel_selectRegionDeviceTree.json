@@ -31,14 +31,14 @@
               "deviceName": "智能电表",
               "url": "https://keenyoda-iot-bucket.oss-cn-shenzhen.aliyuncs.com/QiWuIOT/DeviceModel/默认设备.glb",
               "scale": {
-                "x": 1.0,
-                "y": 1.0,
-                "z": 1.0
+                "x": 5,
+                "y": 5,
+                "z": 5
               },
               "position": {
                 "x": 10,
-                "y": 2,
-                "z": 12
+                "y": 40,
+                "z": 30
               },
               "rotation": {
                 "x": 0.0,
