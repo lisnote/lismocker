@@ -2,7 +2,7 @@
   "GET": {
     "/base-svr/ConDeviceService/getDeviceInfoListCount": {
       "errorCode": 1,
-      "record": 9
+      "record": 23
     }
   }
 }

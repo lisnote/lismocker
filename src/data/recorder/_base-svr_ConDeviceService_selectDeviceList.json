@@ -38,12 +38,11 @@
           "deviceJsonType": null,
           "switchStatus": 0,
           "isVirtual": null,
-          "url": "http://keenyoda-iot-bucket.oss-cn-shenzhen.aliyuncs.com/QiWuIOT/GIMS/Device/001b2d02-a9db-41a2-8d2f-d017e81e0fc1.png",
+          "url": "http://keenyoda-iot-bucket.oss-cn-shenzhen.aliyuncs.com/QiWuIOT/GIMS/Device/2a52a8fa-938f-4074-85b7-44585e706736.png",
           "agencyId": "dc34856f01194f2787c85678e5ce3e0c",
           "deviceAgencyNames": "KEENYODA",
           "gname": "G-EMS-10000",
-          "terminalType": 1,
-          "del": false
+          "terminalType": 1
         },
         {
           "id": "G-D-200",
@@ -80,12 +79,11 @@
           "deviceJsonType": null,
           "switchStatus": 0,
           "isVirtual": null,
-          "url": "http://keenyoda-iot-bucket.oss-cn-shenzhen.aliyuncs.com/QiWuIOT/GIMS/Device/33d73882-c5c2-4cde-a93c-562925027a1f.png",
+          "url": "http://keenyoda-iot-bucket.oss-cn-shenzhen.aliyuncs.com/QiWuIOT/GIMS/Device/8e173305-0602-4a32-88bd-3b71d3ca3d55.jpg",
           "agencyId": "dc34856f01194f2787c85678e5ce3e0c",
           "deviceAgencyNames": "KEENYODA",
           "gname": "G-EMS-10000",
-          "terminalType": 2,
-          "del": false
+          "terminalType": 2
         },
         {
           "id": "Gims-device-04",
@@ -126,8 +124,7 @@
           "agencyId": "58def5e6fdfa4e6385c559eb45b36f69",
           "deviceAgencyNames": "KEENYODA,产品测试房",
           "gname": "Gims-gateway",
-          "terminalType": 1,
-          "del": false
+          "terminalType": 1
         },
         {
           "id": "Gims-device-01",
@@ -168,8 +165,7 @@
           "agencyId": "dc34856f01194f2787c85678e5ce3e0c",
           "deviceAgencyNames": "KEENYODA",
           "gname": "Gims-gateway",
-          "terminalType": 1,
-          "del": false
+          "terminalType": 1
         },
         {
           "id": "Gims-device-02",
@@ -210,8 +206,7 @@
           "agencyId": "dc34856f01194f2787c85678e5ce3e0c",
           "deviceAgencyNames": "KEENYODA",
           "gname": "Gims-gateway",
-          "terminalType": 2,
-          "del": false
+          "terminalType": 2
         },
         {
           "id": "Gims-device-03",
@@ -252,8 +247,7 @@
           "agencyId": "dc34856f01194f2787c85678e5ce3e0c",
           "deviceAgencyNames": "KEENYODA",
           "gname": "Gims-gateway",
-          "terminalType": 1,
-          "del": false
+          "terminalType": 1
         },
         {
           "id": "GW-D-100",
@@ -294,8 +288,7 @@
           "agencyId": "eddae0ea21634642afb0f407843d792e",
           "deviceAgencyNames": "KEENYODA,财务室",
           "gname": "GW-MS",
-          "terminalType": 1,
-          "del": false
+          "terminalType": 1
         },
         {
           "id": "GW-D-101",
@@ -336,8 +329,7 @@
           "agencyId": "dc34856f01194f2787c85678e5ce3e0c",
           "deviceAgencyNames": "KEENYODA",
           "gname": "GW-MS",
-          "terminalType": 1,
-          "del": false
+          "terminalType": 1
         },
         {
           "id": "GW-D-102",
@@ -378,8 +370,7 @@
           "agencyId": "544afc80e7cd40f28a5b82aed44d6b9c",
           "deviceAgencyNames": "KEENYODA,产品老化室",
           "gname": "GW-MS",
-          "terminalType": 2,
-          "del": false
+          "terminalType": 2
         }
       ]
     }

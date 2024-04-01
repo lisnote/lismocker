@@ -4,6 +4,98 @@
       "errorCode": 1,
       "record": [
         {
+          "id": "1e0a750b40114f76a877ad77649e8032",
+          "name": "温度过高",
+          "agencyId": "083522bb70e14021aa8a9533c131c30e",
+          "deviceId": "Gims-device-01",
+          "proType": 5003,
+          "number": 2,
+          "rankId": "9068373f12ec498ab95dcca987ec82f9",
+          "conditionType": 2,
+          "firstValue": 1,
+          "secondValue": null,
+          "preCheck": 1,
+          "alarmInterval": 20,
+          "beDel": null,
+          "causeId": "9fe530b95c05459892744fd6f9ccbd49",
+          "createTime": {
+            "year": 124,
+            "month": 2,
+            "date": 26,
+            "day": 2,
+            "hours": 14,
+            "minutes": 44,
+            "seconds": 35,
+            "time": 1711435475000,
+            "timezoneOffset": -480
+          },
+          "enable": false,
+          "sendMode": 3,
+          "deviceName": "智能能量表",
+          "proTypeName": "温度",
+          "unit": null,
+          "sensorName": "温度",
+          "rank": 3,
+          "rankName": "3级报警",
+          "cause": "温度过高影响设备",
+          "suggestion": "降温",
+          "userList": [
+            {
+              "id": "983884f1c3334088bf96f84359e7584f",
+              "configId": null,
+              "userId": "49d828f411cc4c56abe9330cfd824c64",
+              "username": "kyd xjw",
+              "phone": "18888888888"
+            }
+          ]
+        },
+        {
+          "id": "e2b59859845c4e018c8d4b39e6f477f5",
+          "name": "功率过大",
+          "agencyId": "083522bb70e14021aa8a9533c131c30e",
+          "deviceId": "G-D-100",
+          "proType": 5025,
+          "number": 8,
+          "rankId": "7441ab6bc071406780ee0fff4dc88902",
+          "conditionType": 2,
+          "firstValue": 5,
+          "secondValue": null,
+          "preCheck": 1,
+          "alarmInterval": 30,
+          "beDel": null,
+          "causeId": "db5d019a0af74a8f89abf93ac6ece612",
+          "createTime": {
+            "year": 124,
+            "month": 2,
+            "date": 26,
+            "day": 2,
+            "hours": 14,
+            "minutes": 43,
+            "seconds": 9,
+            "time": 1711435389000,
+            "timezoneOffset": -480
+          },
+          "enable": false,
+          "sendMode": 1,
+          "deviceName": "智能电表",
+          "proTypeName": "总功率",
+          "unit": null,
+          "sensorName": "总功率#8",
+          "rank": 1,
+          "rankName": "1级报警",
+          "cause": "电量用量超标",
+          "suggestion": "节约电量的使用、检查是否存在偷电",
+          "userList": [
+            {
+              "id": "44d1ed60c72c46cea0701abccf3e4a14",
+              "configId": null,
+              "userId": "49d828f411cc4c56abe9330cfd824c64",
+              "username": "kyd xjw",
+              "phone": "18888888888"
+            }
+          ]
+        },
+        {
           "id": "1a8c0b5d663348e496e463543357b743",
           "name": "PM2.5监测报警",
           "agencyId": "083522bb70e14021aa8a9533c131c30e",
@@ -12,10 +104,10 @@
           "number": 2,
           "rankId": "edcc2ad45e814ca6a70ae7e7047b38d4",
           "conditionType": 2,
-          "firstValue": 3,
+          "firstValue": 1,
           "secondValue": null,
           "preCheck": 1,
-          "alarmInterval": 50,
+          "alarmInterval": 30,
           "beDel": null,
           "causeId": "30564f1f5317478f931f534305d7354c",
           "createTime": {
@@ -41,21 +133,21 @@
           "suggestion": "开窗通风",
           "userList": [
             {
-              "id": "cea3d1892c024858a9f49d3969e9945d",
-              "configId": null,
-              "userId": "49d828f411cc4c56abe9330cfd824c64",
-              "username": "kyd xjw",
-              "phone": "18888888888"
-            },
-            {
-              "id": "c9ab3a09550d40cb95b812159bb81bfd",
+              "id": "73501773845f4f37a25311f0f56e544b",
               "configId": null,
               "userId": "691ed49723164411800e1c1cdcb23fa2",
               "username": "kyd-testw",
               "phone": "15555555555"
             },
             {
-              "id": "3c6e3fd4e7bf4470b2e167dbf7bf442c",
+              "id": "6998d5c3d16649f1b7543e828f9f5d6b",
+              "configId": null,
+              "userId": "49d828f411cc4c56abe9330cfd824c64",
+              "username": "kyd xjw",
+              "phone": "18888888888"
+            },
+            {
+              "id": "11c32f72148648e0b160daad6990c135",
               "configId": null,
               "userId": "1739b39ce0df4837979c0894abe46a10",
               "username": "kyd-test",
