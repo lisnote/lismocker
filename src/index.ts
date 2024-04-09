@@ -1,7 +1,6 @@
 import { config } from "dotenv-flow";
 import express from "express";
 import proxySend from "./proxySend";
-import cors from "./cors";
 import options from "./options";
 import logger from "./logger";
 import update from "./update";
@@ -20,7 +19,6 @@ function startServer(port: string, proxy: string) {
   app = express();
   app.use(express.raw({ type: "*/*" }));
   app.use(proxySend);
-  app.use(cors);
   app.options("*", options);
   app.use(logger);
   app.use(update);
