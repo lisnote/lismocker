@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "pnpm tsenv nodemon src/index.ts -w src/**/*.{json,ts}",
+    "dev": "pnpm tsenv nodemon src/index.ts -w src/**/*.{ts,json,json5}",
+    "recorder": "pnpm tsenv nodemon src/index.ts -w src/**/*.ts",
     "staging": "pnpm tsenv ts-node src/index.ts",
     "build": "pnpm tsenv tsc",
     "start": "node dist",
