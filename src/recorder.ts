@@ -1,11 +1,10 @@
-import axios from "axios";
+import axios, { AxiosResponse } from "axios";
 import { mkdirSync, writeFileSync } from "fs";
 import { join } from "path";
 import { initMocker } from "./mocker";
-import qs from "qs";
 import { config } from "dotenv-flow";
 
-import type { Request, Response, NextFunction } from "express";
+import type { Request, Response } from "express";
 
 let target: string;
 function createRecorder(proxy: string) {
@@ -23,16 +22,15 @@ function createRecorder(proxy: string) {
       data: req.body,
     })
       .catch((e) => e.response)
-      .then((proxyRes) => {
+      .then((proxyRes:AxiosResponse) => {
         // 代理请求
         res.status(proxyRes.status);
         Object.entries(proxyRes.headers).forEach(([key, value]) => {
           res.setHeader(key, value as string);
         });
-        res.setHeader("access-control-allow-origin", "*");
         res.proxySend(proxyRes.data);
         // 创建 mocker 记录
-        if (proxyRes.status != "200") return;
+        if (proxyRes.status != 200) return;
         const dir = join(__dirname, "data/recorder");
         const file = req.path.replaceAll("/", "_") + ".json";
         const jsonData: Record<string, any> = {};
