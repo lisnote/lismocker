@@ -1,0 +1,618 @@
+{
+  "GET": {
+    "/base-svr/ConDeviceService/chooseArea": {
+      "errorCode": 1,
+      "record": [
+        {
+          "id": "83fc67eace064966b3a9f1647db2fda8",
+          "pid": "000000",
+          "prevId": "000000",
+          "child": null,
+          "name": "光明新建兴科技工业园",
+          "addr": null,
+          "color": "#00D56F",
+          "addTime": {
+            "year": 120,
+            "month": 7,
+            "date": 10,
+            "day": 1,
+            "hours": 9,
+            "minutes": 10,
+            "seconds": 18,
+            "time": 1597021818000,
+            "timezoneOffset": -480
+          },
+          "mark": "主要项目，不可删除1"
+        },
+        {
+          "id": "5983",
+          "pid": "1588",
+          "prevId": "",
+          "child": null,
+          "name": "会议室 14",
+          "addr": null,
+          "color": null,
+          "addTime": {
+            "year": 122,
+            "month": 1,
+            "date": 17,
+            "day": 4,
+            "hours": 20,
+            "minutes": 53,
+            "seconds": 22,
+            "time": 1645102402000,
+            "timezoneOffset": -480
+          },
+          "mark": null
+        },
+        {
+          "id": "6143",
+          "pid": "1588",
+          "prevId": "",
+          "child": null,
+          "name": "产品老化室 27",
+          "addr": null,
+          "color": null,
+          "addTime": {
+            "year": 122,
+            "month": 1,
+            "date": 17,
+            "day": 4,
+            "hours": 20,
+            "minutes": 53,
+            "seconds": 22,
+            "time": 1645102402000,
+            "timezoneOffset": -480
+          },
+          "mark": null
+        },
+        {
+          "id": "5995",
+          "pid": "1588",
+          "prevId": "",
+          "child": null,
+          "name": "喷油房 26",
+          "addr": null,
+          "color": null,
+          "addTime": {
+            "year": 122,
+            "month": 1,
+            "date": 17,
+            "day": 4,
+            "hours": 20,
+            "minutes": 53,
+            "seconds": 22,
+            "time": 1645102402000,
+            "timezoneOffset": -480
+          },
+          "mark": null
+        },
+        {
+          "id": "5994",
+          "pid": "1588",
+          "prevId": "",
+          "child": null,
+          "name": "洗手间02 25",
+          "addr": null,
+          "color": null,
+          "addTime": {
+            "year": 122,
+            "month": 1,
+            "date": 17,
+            "day": 4,
+            "hours": 20,
+            "minutes": 53,
+            "seconds": 22,
+            "time": 1645102402000,
+            "timezoneOffset": -480
+          },
+          "mark": null
+        },
+        {
+          "id": "5993",
+          "pid": "1588",
+          "prevId": "",
+          "child": null,
+          "name": "前台02 24",
+          "addr": null,
+          "color": null,
+          "addTime": {
+            "year": 122,
+            "month": 1,
+            "date": 17,
+            "day": 4,
+            "hours": 20,
+            "minutes": 53,
+            "seconds": 22,
+            "time": 1645102402000,
+            "timezoneOffset": -480
+          },
+          "mark": null
+        },
+        {
+          "id": "5992",
+          "pid": "1588",
+          "prevId": "",
+          "child": null,
+          "name": "生产办公室 23",
+          "addr": null,
+          "color": null,
+          "addTime": {
+            "year": 122,
+            "month": 1,
+            "date": 17,
+            "day": 4,
+            "hours": 20,
+            "minutes": 53,
+            "seconds": 22,
+            "time": 1645102402000,
+            "timezoneOffset": -480
+          },
+          "mark": null
+        },
+        {
+          "id": "5991",
+          "pid": "1588",
+          "prevId": "",
+          "child": null,
+          "name": "走廊 22",
+          "addr": null,
+          "color": null,
+          "addTime": {
+            "year": 122,
+            "month": 1,
+            "date": 17,
+            "day": 4,
+            "hours": 20,
+            "minutes": 53,
+            "seconds": 22,
+            "time": 1645102402000,
+            "timezoneOffset": -480
+          },
+          "mark": null
+        },
+        {
+          "id": "5990",
+          "pid": "1588",
+          "prevId": "",
+          "child": null,
+          "name": "生产车间 21",
+          "addr": null,
+          "color": null,
+          "addTime": {
+            "year": 122,
+            "month": 1,
+            "date": 17,
+            "day": 4,
+            "hours": 20,
+            "minutes": 53,
+            "seconds": 22,
+            "time": 1645102402000,
+            "timezoneOffset": -480
+          },
+          "mark": null
+        },
+        {
+          "id": "5989",
+          "pid": "1588",
+          "prevId": "",
+          "child": null,
+          "name": "电梯02 20",
+          "addr": null,
+          "color": null,
+          "addTime": {
+            "year": 122,
+            "month": 1,
+            "date": 17,
+            "day": 4,
+            "hours": 20,
+            "minutes": 53,
+            "seconds": 22,
+            "time": 1645102402000,
+            "timezoneOffset": -480
+          },
+          "mark": null
+        },
+        {
+          "id": "5988",
+          "pid": "1588",
+          "prevId": "",
+          "child": null,
+          "name": "楼梯02 19",
+          "addr": null,
+          "color": null,
+          "addTime": {
+            "year": 122,
+            "month": 1,
+            "date": 17,
+            "day": 4,
+            "hours": 20,
+            "minutes": 53,
+            "seconds": 22,
+            "time": 1645102402000,
+            "timezoneOffset": -480
+          },
+          "mark": null
+        },
+        {
+          "id": "5987",
+          "pid": "1588",
+          "prevId": "",
+          "child": null,
+          "name": "产品测试房 18",
+          "addr": null,
+          "color": null,
+          "addTime": {
+            "year": 122,
+            "month": 1,
+            "date": 17,
+            "day": 4,
+            "hours": 20,
+            "minutes": 53,
+            "seconds": 22,
+            "time": 1645102402000,
+            "timezoneOffset": -480
+          },
+          "mark": null
+        },
+        {
+          "id": "5986",
+          "pid": "1588",
+          "prevId": "",
+          "child": null,
+          "name": "成品仓 17",
+          "addr": null,
+          "color": null,
+          "addTime": {
+            "year": 122,
+            "month": 1,
+            "date": 17,
+            "day": 4,
+            "hours": 20,
+            "minutes": 53,
+            "seconds": 22,
+            "time": 1645102402000,
+            "timezoneOffset": -480
+          },
+          "mark": null
+        },
+        {
+          "id": "5985",
+          "pid": "1588",
+          "prevId": "",
+          "child": null,
+          "name": "仓库 16",
+          "addr": null,
+          "color": null,
+          "addTime": {
+            "year": 122,
+            "month": 1,
+            "date": 17,
+            "day": 4,
+            "hours": 20,
+            "minutes": 53,
+            "seconds": 22,
+            "time": 1645102402000,
+            "timezoneOffset": -480
+          },
+          "mark": null
+        },
+        {
+          "id": "5984",
+          "pid": "1588",
+          "prevId": "",
+          "child": null,
+          "name": "工程品质部 15",
+          "addr": null,
+          "color": null,
+          "addTime": {
+            "year": 122,
+            "month": 1,
+            "date": 17,
+            "day": 4,
+            "hours": 20,
+            "minutes": 53,
+            "seconds": 22,
+            "time": 1645102402000,
+            "timezoneOffset": -480
+          },
+          "mark": null
+        },
+        {
+          "id": "1588",
+          "pid": "83fc67eace064966b3a9f1647db2fda8",
+          "prevId": "",
+          "child": null,
+          "name": "精优达",
+          "addr": null,
+          "color": null,
+          "addTime": {
+            "year": 122,
+            "month": 1,
+            "date": 17,
+            "day": 4,
+            "hours": 20,
+            "minutes": 53,
+            "seconds": 22,
+            "time": 1645102402000,
+            "timezoneOffset": -480
+          },
+          "mark": null
+        },
+        {
+          "id": "5982",
+          "pid": "1588",
+          "prevId": "",
+          "child": null,
+          "name": "机房 13",
+          "addr": null,
+          "color": null,
+          "addTime": {
+            "year": 122,
+            "month": 1,
+            "date": 17,
+            "day": 4,
+            "hours": 20,
+            "minutes": 53,
+            "seconds": 22,
+            "time": 1645102402000,
+            "timezoneOffset": -480
+          },
+          "mark": null
+        },
+        {
+          "id": "5981",
+          "pid": "1588",
+          "prevId": "",
+          "child": null,
+          "name": "采购室 12",
+          "addr": null,
+          "color": null,
+          "addTime": {
+            "year": 122,
+            "month": 1,
+            "date": 17,
+            "day": 4,
+            "hours": 20,
+            "minutes": 53,
+            "seconds": 22,
+            "time": 1645102402000,
+            "timezoneOffset": -480
+          },
+          "mark": null
+        },
+        {
+          "id": "5980",
+          "pid": "1588",
+          "prevId": "",
+          "child": null,
+          "name": "综合办公室 11",
+          "addr": null,
+          "color": null,
+          "addTime": {
+            "year": 122,
+            "month": 1,
+            "date": 17,
+            "day": 4,
+            "hours": 20,
+            "minutes": 53,
+            "seconds": 22,
+            "time": 1645102402000,
+            "timezoneOffset": -480
+          },
+          "mark": null
+        },
+        {
+          "id": "5979",
+          "pid": "1588",
+          "prevId": "",
+          "child": null,
+          "name": "开放测试房 10",
+          "addr": null,
+          "color": null,
+          "addTime": {
+            "year": 122,
+            "month": 1,
+            "date": 17,
+            "day": 4,
+            "hours": 20,
+            "minutes": 53,
+            "seconds": 22,
+            "time": 1645102402000,
+            "timezoneOffset": -480
+          },
+          "mark": null
+        },
+        {
+          "id": "5978",
+          "pid": "1588",
+          "prevId": "",
+          "child": null,
+          "name": "总经理室 9",
+          "addr": null,
+          "color": null,
+          "addTime": {
+            "year": 122,
+            "month": 1,
+            "date": 17,
+            "day": 4,
+            "hours": 20,
+            "minutes": 53,
+            "seconds": 22,
+            "time": 1645102402000,
+            "timezoneOffset": -480
+          },
+          "mark": null
+        },
+        {
+          "id": "5977",
+          "pid": "1588",
+          "prevId": "",
+          "child": null,
+          "name": "财务室 8",
+          "addr": null,
+          "color": null,
+          "addTime": {
+            "year": 122,
+            "month": 1,
+            "date": 17,
+            "day": 4,
+            "hours": 20,
+            "minutes": 53,
+            "seconds": 22,
+            "time": 1645102402000,
+            "timezoneOffset": -480
+          },
+          "mark": null
+        },
+        {
+          "id": "5976",
+          "pid": "1588",
+          "prevId": "",
+          "child": null,
+          "name": "楼梯01 7",
+          "addr": null,
+          "color": null,
+          "addTime": {
+            "year": 122,
+            "month": 1,
+            "date": 17,
+            "day": 4,
+            "hours": 20,
+            "minutes": 53,
+            "seconds": 22,
+            "time": 1645102402000,
+            "timezoneOffset": -480
+          },
+          "mark": null
+        },
+        {
+          "id": "5975",
+          "pid": "1588",
+          "prevId": "",
+          "child": null,
+          "name": "电梯01 6",
+          "addr": null,
+          "color": null,
+          "addTime": {
+            "year": 122,
+            "month": 1,
+            "date": 17,
+            "day": 4,
+            "hours": 20,
+            "minutes": 53,
+            "seconds": 22,
+            "time": 1645102402000,
+            "timezoneOffset": -480
+          },
+          "mark": null
+        },
+        {
+          "id": "5974",
+          "pid": "1588",
+          "prevId": "",
+          "child": null,
+          "name": "前台01 5",
+          "addr": null,
+          "color": null,
+          "addTime": {
+            "year": 122,
+            "month": 1,
+            "date": 17,
+            "day": 4,
+            "hours": 20,
+            "minutes": 53,
+            "seconds": 22,
+            "time": 1645102402000,
+            "timezoneOffset": -480
+          },
+          "mark": null
+        },
+        {
+          "id": "5973",
+          "pid": "1588",
+          "prevId": "",
+          "child": null,
+          "name": "会客厅 4",
+          "addr": null,
+          "color": null,
+          "addTime": {
+            "year": 122,
+            "month": 1,
+            "date": 17,
+            "day": 4,
+            "hours": 20,
+            "minutes": 53,
+            "seconds": 22,
+            "time": 1645102402000,
+            "timezoneOffset": -480
+          },
+          "mark": null
+        },
+        {
+          "id": "5972",
+          "pid": "1588",
+          "prevId": "",
+          "child": null,
+          "name": "销售 3",
+          "addr": null,
+          "color": null,
+          "addTime": {
+            "year": 122,
+            "month": 1,
+            "date": 17,
+            "day": 4,
+            "hours": 20,
+            "minutes": 53,
+            "seconds": 22,
+            "time": 1645102402000,
+            "timezoneOffset": -480
+          },
+          "mark": null
+        },
+        {
+          "id": "5971",
+          "pid": "1588",
+          "prevId": "",
+          "child": null,
+          "name": "洗手间01 2",
+          "addr": null,
+          "color": null,
+          "addTime": {
+            "year": 122,
+            "month": 1,
+            "date": 17,
+            "day": 4,
+            "hours": 20,
+            "minutes": 53,
+            "seconds": 22,
+            "time": 1645102402000,
+            "timezoneOffset": -480
+          },
+          "mark": null
+        },
+        {
+          "id": "5970",
+          "pid": "1588",
+          "prevId": "",
+          "child": null,
+          "name": "业务室 1",
+          "addr": null,
+          "color": null,
+          "addTime": {
+            "year": 122,
+            "month": 1,
+            "date": 17,
+            "day": 4,
+            "hours": 20,
+            "minutes": 53,
+            "seconds": 22,
+            "time": 1645102402000,
+            "timezoneOffset": -480
+          },
+          "mark": null
+        }
+      ]
+    }
+  }
+}

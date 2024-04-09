@@ -8,32 +8,141 @@
         "count": 3,
         "data": [
           {
-            "id": "068ae770d30c477fb4c0a1630c543ce1",
-            "pid": "ee355a710bd9406f8bc05ac98664c744",
-            "prevId": "ee355a710bd9406f8bc05ac98664c744",
-            "child": [],
-            "name": "A区",
+            "id": "2035ee98bc1846fea6a6b29e1bfadb0a",
+            "pid": "81d91964759f4d28835ab0d93e5837ef",
+            "prevId": "81d91964759f4d28835ab0d93e5837ef",
+            "child": [
+              {
+                "id": "68e9497bb7364c3e9f2c2afbff850984",
+                "pid": "2035ee98bc1846fea6a6b29e1bfadb0a",
+                "prevId": "2035ee98bc1846fea6a6b29e1bfadb0a",
+                "child": [
+                  {
+                    "id": "908eb35de8bd4127935d7dd1f923957c",
+                    "pid": "68e9497bb7364c3e9f2c2afbff850984",
+                    "prevId": "68e9497bb7364c3e9f2c2afbff850984",
+                    "child": [],
+                    "name": "别墅路出口2",
+                    "addr": null,
+                    "color": null,
+                    "addTime": {
+                      "year": 121,
+                      "month": 10,
+                      "date": 16,
+                      "day": 2,
+                      "hours": 10,
+                      "minutes": 53,
+                      "seconds": 28,
+                      "time": 1637031208000,
+                      "timezoneOffset": -480
+                    },
+                    "mark": null
+                  }
+                ],
+                "name": "A区",
+                "addr": null,
+                "color": null,
+                "addTime": {
+                  "year": 120,
+                  "month": 9,
+                  "date": 15,
+                  "day": 4,
+                  "hours": 16,
+                  "minutes": 9,
+                  "seconds": 16,
+                  "time": 1602749356000,
+                  "timezoneOffset": -480
+                },
+                "mark": ""
+              }
+            ],
+            "name": "奥体中心站",
             "addr": null,
             "color": null,
             "addTime": {
-              "year": 121,
-              "month": 8,
-              "date": 10,
-              "day": 5,
-              "hours": 13,
-              "minutes": 40,
-              "seconds": 2,
-              "time": 1631252402000,
+              "year": 120,
+              "month": 9,
+              "date": 15,
+              "day": 4,
+              "hours": 16,
+              "minutes": 7,
+              "seconds": 19,
+              "time": 1602749239000,
               "timezoneOffset": -480
             },
-            "mark": ""
+            "mark": "奥体中心站"
           },
           {
-            "id": "2827190358c84dbfbc64cd1298efb7fd",
-            "pid": "ee355a710bd9406f8bc05ac98664c744",
-            "prevId": "068ae770d30c477fb4c0a1630c543ce1",
-            "child": [],
-            "name": "C区",
+            "id": "1d20a075552c44e883f95fbeb0a2d339",
+            "pid": "81d91964759f4d28835ab0d93e5837ef",
+            "prevId": "2035ee98bc1846fea6a6b29e1bfadb0a",
+            "child": [
+              {
+                "id": "3dfe14bf3004425da42cf4a8ab7a4b14",
+                "pid": "1d20a075552c44e883f95fbeb0a2d339",
+                "prevId": "1d20a075552c44e883f95fbeb0a2d339",
+                "child": [],
+                "name": "C区",
+                "addr": null,
+                "color": null,
+                "addTime": {
+                  "year": 120,
+                  "month": 9,
+                  "date": 15,
+                  "day": 4,
+                  "hours": 16,
+                  "minutes": 10,
+                  "seconds": 44,
+                  "time": 1602749444000,
+                  "timezoneOffset": -480
+                },
+                "mark": ""
+              }
+            ],
+            "name": "新寺站",
+            "addr": null,
+            "color": null,
+            "addTime": {
+              "year": 120,
+              "month": 9,
+              "date": 15,
+              "day": 4,
+              "hours": 16,
+              "minutes": 7,
+              "seconds": 59,
+              "time": 1602749279000,
+              "timezoneOffset": -480
+            },
+            "mark": "新寺站"
+          },
+          {
+            "id": "d4307cc2428244458dee5aca9e10cf6f",
+            "pid": "81d91964759f4d28835ab0d93e5837ef",
+            "prevId": "1d20a075552c44e883f95fbeb0a2d339",
+            "child": [
+              {
+                "id": "ed6ccf5c2ead44a793cb8afd293b773f",
+                "pid": "d4307cc2428244458dee5aca9e10cf6f",
+                "prevId": "d4307cc2428244458dee5aca9e10cf6f",
+                "child": [],
+                "name": "长陵站A区",
+                "addr": null,
+                "color": null,
+                "addTime": {
+                  "year": 122,
+                  "month": 1,
+                  "date": 16,
+                  "day": 3,
+                  "hours": 17,
+                  "minutes": 15,
+                  "seconds": 27,
+                  "time": 1645002927000,
+                  "timezoneOffset": -480
+                },
+                "mark": "长陵站A区"
+              }
+            ],
+            "name": "长陵站",
             "addr": null,
             "color": null,
             "addTime": {
@@ -41,56 +150,13 @@
               "month": 1,
               "date": 16,
               "day": 3,
-              "hours": 16,
-              "minutes": 42,
-              "seconds": 23,
-              "time": 1645000943000,
+              "hours": 17,
+              "minutes": 15,
+              "seconds": 1,
+              "time": 1645002901000,
               "timezoneOffset": -480
             },
-            "mark": "3"
-          },
-          {
-            "id": "5eed97d77cce4f7a86bda28978bc2db5",
-            "pid": "ee355a710bd9406f8bc05ac98664c744",
-            "prevId": "2827190358c84dbfbc64cd1298efb7fd",
-            "child": [
-              {
-                "id": "f6054e33923b4d3fab69455bdaf6df28",
-                "pid": "5eed97d77cce4f7a86bda28978bc2db5",
-                "prevId": "5eed97d77cce4f7a86bda28978bc2db5",
-                "child": [],
-                "name": "E区",
-                "addr": null,
-                "color": null,
-                "addTime": {
-                  "year": 122,
-                  "month": 5,
-                  "date": 9,
-                  "day": 4,
-                  "hours": 15,
-                  "minutes": 18,
-                  "seconds": 3,
-                  "time": 1654759083000,
-                  "timezoneOffset": -480
-                },
-                "mark": ""
-              }
-            ],
-            "name": "D区",
-            "addr": null,
-            "color": null,
-            "addTime": {
-              "year": 122,
-              "month": 5,
-              "date": 9,
-              "day": 4,
-              "hours": 15,
-              "minutes": 17,
-              "seconds": 47,
-              "time": 1654759067000,
-              "timezoneOffset": -480
-            },
-            "mark": ""
+            "mark": "长陵站"
           }
         ]
       }

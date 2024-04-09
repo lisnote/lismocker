@@ -1,0 +1,33 @@
+{
+  "GET": {
+    "/solution-svr/mapSecond/selectAgmsMapSecondTop": {
+      "errorCode": 1,
+      "record": {
+        "stationId": "35e8d6551f244b3ebb16fcfc06834e37",
+        "agencyId": "b1f4322ad44444c7a374a501714f095f",
+        "stationName": "蛇口C站",
+        "agencyName": "蛇口",
+        "stationMeasureTypeId": "4952accdede745a8acbe2c1ae29a728f",
+        "stationMeasureTypeName": "国/省/市控站",
+        "deviceId": "AgmsGtw001_002",
+        "onlineStatus": "0",
+        "sensorProType": "5010",
+        "sensorValue": 125.2875,
+        "sensorTime": "2024-04-09 16:05:49",
+        "longitude": 113.912331,
+        "latitude": 22.476626,
+        "aqi": 125.2875,
+        "index": 4.0212,
+        "primaryPollution": [
+          {
+            "name": "PM25",
+            "aqiVal": 125.2875,
+            "concentration": null
+          }
+        ],
+        "aqiLevel": "3",
+        "factorLevel": "3"
+      }
+    }
+  }
+}

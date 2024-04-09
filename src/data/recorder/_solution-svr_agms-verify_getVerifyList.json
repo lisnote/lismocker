@@ -1,0 +1,44 @@
+{
+  "GET": {
+    "/solution-svr/agms-verify/getVerifyList": {
+      "errorCode": 1,
+      "record": {
+        "code": 0,
+        "msg": "成功！",
+        "count": 3,
+        "data": [
+          {
+            "id": "0dbd38331e9641d4b54867a9fab24b31",
+            "stationid": "35e8d6551f244b3ebb16fcfc06834e37",
+            "factorid": "15517e56fa2040319a4d9e3b02c37d9a",
+            "upvalue": 11,
+            "lowvalue": 1,
+            "continuenum": 12,
+            "type": null,
+            "factorName": "温度"
+          },
+          {
+            "id": "504c4acb5aa047b9990edd6db6f41ff9",
+            "stationid": "35e8d6551f244b3ebb16fcfc06834e37",
+            "factorid": "21d29106ef1a41de86d2690776159369",
+            "upvalue": 120,
+            "lowvalue": 10,
+            "continuenum": 10,
+            "type": null,
+            "factorName": "PM10"
+          },
+          {
+            "id": "e89420f029474015adeaf4e6b21c02ba",
+            "stationid": "35e8d6551f244b3ebb16fcfc06834e37",
+            "factorid": "2e24ee5964f14412b52e748e81ec3111",
+            "upvalue": 754,
+            "lowvalue": 52,
+            "continuenum": 23,
+            "type": null,
+            "factorName": "SO2"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "GET": {
+    "/solution-svr/ExamineObject/queryExamineObjectList": {
+      "errorCode": 1,
+      "record": {
+        "code": 0,
+        "msg": "成功！",
+        "count": 14,
+        "data": [
+          {
+            "id": "11447a55506c4617b16b365b00607788",
+            "objtype": 1,
+            "schemeid": "02057a8355e64355bae7143328ed372b",
+            "instruction": "网格员采用222222111",
+            "schemeversion": "网格员_20200116110555",
+            "schemeName": "方案三1",
+            "isExamine": null
+          },
+          {
+            "id": "369159343d144577b4b002d761a3c13d",
+            "objtype": 1,
+            "schemeid": "01f1944981c744fc83eac64fb2713926",
+            "instruction": "使用方案四考核网格员2222",
+            "schemeversion": "网格员_20200115164016",
+            "schemeName": "方案四",
+            "isExamine": null
+          },
+          {
+            "id": "39616c251d594e81aab887ac7940ef10",
+            "objtype": 1,
+            "schemeid": "3a5caa6564e34573a58ed2f0cb53e5c0",
+            "instruction": "使用方案考核网格员",
+            "schemeversion": "网格员_20200115163942",
+            "schemeName": "方案二",
+            "isExamine": null
+          },
+          {
+            "id": "4d69f3f99deb4125a7ccccd2033b780c",
+            "objtype": 0,
+            "schemeid": "a224877851874f098c67b961aefe42c8",
+            "instruction": "111111",
+            "schemeversion": "网格_20200424112922",
+            "schemeName": "方案三",
+            "isExamine": null
+          },
+          {
+            "id": "6169b9eeecb34e1681e26b661721f9ba",
+            "objtype": 0,
+            "schemeid": "01f1944981c744fc83eac64fb2713926",
+            "instruction": "test123",
+            "schemeversion": "网格_20200330154220",
+            "schemeName": "方案四",
+            "isExamine": null
+          },
+          {
+            "id": "67981c89afde4819b2d10cae392c2c30",
+            "objtype": 1,
+            "schemeid": "a224877851874f098c67b961aefe42c8",
+            "instruction": "使用方案三考核网格员",
+            "schemeversion": "网格员_20200115163957",
+            "schemeName": "方案三",
+            "isExamine": null
+          },
+          {
+            "id": "6a4da9f6f63640ce86ac941c863cb226",
+            "objtype": 0,
+            "schemeid": "02057a8355e64355bae7143328ed372b",
+            "instruction": "123",
+            "schemeversion": "网格_20200330160049",
+            "schemeName": "方案三1",
+            "isExamine": null
+          },
+          {
+            "id": "95bca28701d44c2b8a3d59eb2562812d",
+            "objtype": 0,
+            "schemeid": "01402d14077f4aeeb45ed5290b2f7fd4",
+            "instruction": "123132",
+            "schemeversion": "网格_20200330160039",
+            "schemeName": "accordion1",
+            "isExamine": null
+          },
+          {
+            "id": "a0a1b4cc45944034ab92ca16e796cd0d",
+            "objtype": 1,
+            "schemeid": "de219a1d239d42d498576cd07155c7fb",
+            "instruction": "使用方案六考核网格员",
+            "schemeversion": "网格员_20200115164049",
+            "schemeName": "方案六",
+            "isExamine": null
+          },
+          {
+            "id": "a364c036300a4d34a10972b7af9de9c3",
+            "objtype": 1,
+            "schemeid": "9ad3419bb74f4a3a8684cea54f21981d",
+            "instruction": "使用方案一考核网格源",
+            "schemeversion": "网格_20200115163755",
+            "schemeName": "方案一",
+            "isExamine": null
+          }
+        ]
+      }
+    }
+  }
+}

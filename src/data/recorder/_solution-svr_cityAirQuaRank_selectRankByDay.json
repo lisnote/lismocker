@@ -1,0 +1,8 @@
+{
+  "GET": {
+    "/solution-svr/cityAirQuaRank/selectRankByDay": {
+      "errorCode": 1,
+      "record": []
+    }
+  }
+}

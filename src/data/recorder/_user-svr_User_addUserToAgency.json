@@ -1,0 +1,8 @@
+{
+  "GET": {
+    "/user-svr/User/addUserToAgency": {
+      "errorCode": 56,
+      "record": "User counts has exceeded the license limit"
+    }
+  }
+}

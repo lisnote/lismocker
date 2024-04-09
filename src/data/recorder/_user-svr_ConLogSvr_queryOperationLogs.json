@@ -1,0 +1,94 @@
+{
+  "GET": {
+    "/user-svr/ConLogSvr/queryOperationLogs": {
+      "errorCode": 1,
+      "record": {
+        "code": 0,
+        "msg": "",
+        "count": 28,
+        "data": [
+          {
+            "phone": "18888888888",
+            "optContent": "添加了用户 lisnote 失败",
+            "name": "kyd_xjw",
+            "id": "c99bcae61d414411ad00684fcf0b6e7c",
+            "optTime": "2024-04-09 16:41:54",
+            "userId": "49d828f411cc4c56abe9330cfd824c64"
+          },
+          {
+            "phone": "18888888888",
+            "optContent": "登录成功",
+            "name": "kyd_xjw",
+            "id": "17dd272f6ed14747aa615547e63a8fe2",
+            "optTime": "2024-04-09 16:41:19",
+            "userId": "49d828f411cc4c56abe9330cfd824c64"
+          },
+          {
+            "phone": "18888888888",
+            "optContent": "登录成功",
+            "name": "kyd_xjw",
+            "id": "edcf1599327d49e88bbf205cee882594",
+            "optTime": "2024-04-09 16:40:53",
+            "userId": "49d828f411cc4c56abe9330cfd824c64"
+          },
+          {
+            "phone": "18888888888",
+            "optContent": "登录成功",
+            "name": "kyd_xjw",
+            "id": "7f6a8fa1a4354d1aacf526989b946520",
+            "optTime": "2024-04-09 16:39:54",
+            "userId": "49d828f411cc4c56abe9330cfd824c64"
+          },
+          {
+            "phone": "18888888888",
+            "optContent": "启用了报警配置 2 成功",
+            "name": "kyd_xjw",
+            "id": "a0587765fa1f4f1b951751431a971713",
+            "optTime": "2024-04-09 16:39:21",
+            "userId": "49d828f411cc4c56abe9330cfd824c64"
+          },
+          {
+            "phone": "18888888888",
+            "optContent": "禁用了报警配置 2 成功",
+            "name": "kyd_xjw",
+            "id": "e91cc46cb1934542943d2acf655acea6",
+            "optTime": "2024-04-09 16:39:21",
+            "userId": "49d828f411cc4c56abe9330cfd824c64"
+          },
+          {
+            "phone": "18888888888",
+            "optContent": "编辑了报警配置 2 成功",
+            "name": "kyd_xjw",
+            "id": "17a3be0395da45d1af2b5fa3a43d5ffe",
+            "optTime": "2024-04-09 16:39:18",
+            "userId": "49d828f411cc4c56abe9330cfd824c64"
+          },
+          {
+            "phone": "18888888888",
+            "optContent": "编辑了角色 a 成功",
+            "name": "kyd_xjw",
+            "id": "bafb070ea51342ae9a7759b4db011783",
+            "optTime": "2024-04-09 16:38:28",
+            "userId": "49d828f411cc4c56abe9330cfd824c64"
+          },
+          {
+            "phone": "18888888888",
+            "optContent": "创建了角色 a 成功",
+            "name": "kyd_xjw",
+            "id": "311b5bc7a095420bb929f0f69956318a",
+            "optTime": "2024-04-09 16:38:22",
+            "userId": "49d828f411cc4c56abe9330cfd824c64"
+          },
+          {
+            "phone": "18888888888",
+            "optContent": "编辑了角色 主管 成功",
+            "name": "kyd_xjw",
+            "id": "38dd5815576f4d33ab9bf75387828224",
+            "optTime": "2024-04-09 16:38:19",
+            "userId": "49d828f411cc4c56abe9330cfd824c64"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "POST": {
+    "/solution-svr/agms-dirtymanage/addDirtyManageEntity": {
+      "errorCode": 1,
+      "record": "success"
+    }
+  }
+}

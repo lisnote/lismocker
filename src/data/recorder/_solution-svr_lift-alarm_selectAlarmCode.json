@@ -1,0 +1,86 @@
+{
+  "POST": {
+    "/solution-svr/lift-alarm/selectAlarmCode": {
+      "errorCode": 1,
+      "record": {
+        "code": 1,
+        "msg": "成功！",
+        "count": 4,
+        "data": [
+          {
+            "codeId": "94a2dd68202941abbf15a18983eecb71",
+            "protypeId": "67",
+            "result": "aaa",
+            "suggestion": "aaaaa",
+            "agencyId": null,
+            "creatTime": {
+              "year": 121,
+              "month": 10,
+              "date": 5,
+              "day": 5,
+              "hours": 14,
+              "minutes": 42,
+              "seconds": 18,
+              "time": 1636094538000,
+              "timezoneOffset": -480
+            }
+          },
+          {
+            "codeId": "9ce80884fc58462c90520a7fc4f5a003",
+            "protypeId": "67",
+            "result": "振动频率过大",
+            "suggestion": "停机检修",
+            "agencyId": null,
+            "creatTime": {
+              "year": 121,
+              "month": 8,
+              "date": 3,
+              "day": 5,
+              "hours": 17,
+              "minutes": 37,
+              "seconds": 51,
+              "time": 1630661871000,
+              "timezoneOffset": -480
+            }
+          },
+          {
+            "codeId": "bb78203022924b03ae6f6a5b9438f79f",
+            "protypeId": "32",
+            "result": "温度过高",
+            "suggestion": "停机降温",
+            "agencyId": null,
+            "creatTime": {
+              "year": 121,
+              "month": 8,
+              "date": 3,
+              "day": 5,
+              "hours": 17,
+              "minutes": 43,
+              "seconds": 9,
+              "time": 1630662189000,
+              "timezoneOffset": -480
+            }
+          },
+          {
+            "codeId": "d963d5133b48459e87560fec83b9a528",
+            "protypeId": "67",
+            "result": "数值超标",
+            "suggestion": "停机检修",
+            "agencyId": null,
+            "creatTime": {
+              "year": 121,
+              "month": 8,
+              "date": 3,
+              "day": 5,
+              "hours": 17,
+              "minutes": 43,
+              "seconds": 45,
+              "time": 1630662225000,
+              "timezoneOffset": -480
+            }
+          }
+        ]
+      }
+    }
+  }
+}

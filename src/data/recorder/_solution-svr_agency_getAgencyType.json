@@ -1,0 +1,44 @@
+{
+  "GET": {
+    "/solution-svr/agency/getAgencyType": {
+      "errorCode": 1,
+      "record": [
+        {
+          "id": "04571c550a5e4bc5865ac3e3e0f4bfc3",
+          "name": "生活源",
+          "mark": ""
+        },
+        {
+          "id": "0f241877e8274bf28fc9624f2af1a423",
+          "name": "涉气企业",
+          "mark": ""
+        },
+        {
+          "id": "18add1b4775a48fdadccc627a5a2b5c2",
+          "name": "主城区",
+          "mark": "主城区"
+        },
+        {
+          "id": "28aab30489b842edacd5d3fa338905c9",
+          "name": "道路交通",
+          "mark": ""
+        },
+        {
+          "id": "36331a4880f8430c961dfab8b5d458c0",
+          "name": "乡镇/街道评价",
+          "mark": ""
+        },
+        {
+          "id": "5939d5e195694456b44fef2be90a13cd",
+          "name": "工地扬尘",
+          "mark": ""
+        },
+        {
+          "id": "67f4908ae4ee40b4b39ae0af44541bb3",
+          "name": "市级评价",
+          "mark": "1231231"
+        }
+      ]
+    }
+  }
+}

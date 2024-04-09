@@ -1,0 +1,13 @@
+{
+  "GET": {
+    "/solution-svr/agms-workorder/TotalMaintainWorkOrder": {
+      "errorCode": 1,
+      "record": {
+        "code": 0,
+        "msg": "",
+        "count": 0,
+        "data": []
+      }
+    }
+  }
+}

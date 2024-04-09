@@ -1,0 +1,16 @@
+{
+  "POST": {
+    "/solution-svr/agms-verify/addVerifyEntity": {
+      "errorCode": 1,
+      "record": {
+        "id": "b5d34c8fe4724d60b6cc56b7850078c3",
+        "stationid": "35e8d6551f244b3ebb16fcfc06834e37",
+        "factorid": "5198a2bb1e5f43c1829da3b219cfbe80",
+        "upvalue": 1,
+        "lowvalue": 0,
+        "continuenum": 1,
+        "type": 2
+      }
+    }
+  }
+}

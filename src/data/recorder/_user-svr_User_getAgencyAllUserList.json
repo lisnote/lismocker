@@ -5,23 +5,31 @@
       "record": {
         "code": 1,
         "msg": "成功！",
-        "count": 2,
+        "count": 3,
         "data": [
           {
-            "agencyId": "ee355a710bd9406f8bc05ac98664c744",
+            "agencyId": "81d91964759f4d28835ab0d93e5837ef",
+            "userId": "15b197094f3d42b487c2972f4e8a10c2",
+            "solutionType": "4",
+            "uname": "18159607272",
+            "aname": "智慧扶梯",
+            "phone": "18159607272"
+          },
+          {
+            "agencyId": "81d91964759f4d28835ab0d93e5837ef",
             "userId": "49d828f411cc4c56abe9330cfd824c64",
-            "solutionType": "1",
+            "solutionType": "4",
             "uname": "kyd_xjw",
-            "aname": "深圳市精优达科技有限公司",
+            "aname": "智慧扶梯",
             "phone": "18888888888"
           },
           {
-            "agencyId": "ee355a710bd9406f8bc05ac98664c744",
-            "userId": "7c847db0957d4e0da96ce5ca3764935b",
-            "solutionType": "1",
-            "uname": "test_person",
-            "aname": "深圳市精优达科技有限公司",
-            "phone": "13333333333"
+            "agencyId": "81d91964759f4d28835ab0d93e5837ef",
+            "userId": "dc89b875dad44292b2814ec5590879d5",
+            "solutionType": "4",
+            "uname": "hhhh",
+            "aname": "智慧扶梯",
+            "phone": "13650414789"
           }
         ]
       }

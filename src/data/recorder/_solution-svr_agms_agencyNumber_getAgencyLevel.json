@@ -1,0 +1,14 @@
+{
+  "GET": {
+    "/solution-svr/agms/agencyNumber/getAgencyLevel": {
+      "errorCode": 1,
+      "record": {
+        "1": "一级网格",
+        "2": "二级网格",
+        "3": "三级网格",
+        "4": "四级网格",
+        "5": "五级网格"
+      }
+    }
+  }
+}

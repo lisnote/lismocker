@@ -4,219 +4,48 @@
       "errorCode": 1,
       "record": [
         {
-          "deviceId": "8674550551217714",
-          "deviceName": "井盖",
+          "deviceId": "SmcsDevice01",
+          "deviceName": "智慧井盖01",
           "deviceType": "10012",
-          "address": "深圳市光明新区",
-          "longitude": 113.953007,
-          "latitude": 22.77901,
-          "status": "2"
-        },
-        {
-          "deviceId": "8674550551217712",
-          "deviceName": "井盖",
-          "deviceType": "10012",
-          "address": "深圳市光明新区",
-          "longitude": 113.953007,
-          "latitude": 22.77901,
+          "address": "新疆维吾尔自治区巴音郭楞蒙古自治州若羌县",
+          "longitude": 89.571187,
+          "latitude": 36.251441,
           "status": "0"
         },
         {
-          "deviceId": "867455055121770",
-          "deviceName": "867455055121770",
-          "deviceType": "10012",
-          "address": "湖北省十堰市房县野人谷镇五尺沟",
-          "longitude": 110.570714,
-          "latitude": 31.859402,
-          "status": "2"
-        },
-        {
-          "deviceId": "867455055121778",
-          "deviceName": "井盖",
-          "deviceType": "10012",
-          "address": "深圳市光明新区",
-          "longitude": 113.953007,
-          "latitude": 22.77901,
-          "status": "0"
-        },
-        {
-          "deviceId": "smcs_Device_02",
-          "deviceName": "smcs_Device_02",
-          "deviceType": "10012",
-          "address": "广东省深圳市龙华区观澜街道牛湖社区石二小区西(观澜新湖路西)",
-          "longitude": 114.090139,
-          "latitude": 22.717791,
-          "status": "2"
-        },
-        {
-          "deviceId": "867455055121772",
-          "deviceName": "867455055121772",
+          "deviceId": "SmcsDevice02",
+          "deviceName": "智慧门箱01",
           "deviceType": "10013",
-          "address": "贵州省毕节市黔西市中坪镇后漕",
-          "longitude": 106.28709,
-          "latitude": 27.139717,
+          "address": "河北省唐山市2017丰润区首届桃花旅游文化节东北500米",
+          "longitude": 118.108149,
+          "latitude": 39.964246,
           "status": "0"
-        },
-        {
-          "deviceId": "867455055121776",
-          "deviceName": "井盖",
-          "deviceType": "10012",
-          "address": "深圳市光明新区",
-          "longitude": 113.953007,
-          "latitude": 22.77901,
-          "status": "2"
-        },
-        {
-          "deviceId": "8674550551217713",
-          "deviceName": "井盖",
-          "deviceType": "10012",
-          "address": "深圳市光明新区",
-          "longitude": 113.953007,
-          "latitude": 22.77901,
-          "status": "0"
-        },
-        {
-          "deviceId": "8674550551217715",
-          "deviceName": "井盖",
-          "deviceType": "10012",
-          "address": "深圳市光明新区",
-          "longitude": 113.953007,
-          "latitude": 22.77901,
-          "status": "0"
-        },
-        {
-          "deviceId": "867455055121774",
-          "deviceName": "867455055121774",
-          "deviceType": "10012",
-          "address": "广东省深圳市光明区翠园居北100米(映翠路北)",
-          "longitude": 113.948379,
-          "latitude": 22.768059,
-          "status": "0"
-        },
-        {
-          "deviceId": "smcs_Device_05",
-          "deviceName": "智慧井盖",
-          "deviceType": "10012",
-          "address": "吉林省长春市南关区金叶嘉园(南四环路)",
-          "longitude": 125.371962,
-          "latitude": 43.815823,
-          "status": "2"
-        },
-        {
-          "deviceId": "867455055121777",
-          "deviceName": "井盖",
-          "deviceType": "10012",
-          "address": "深圳市光明新区",
-          "longitude": 113.953007,
-          "latitude": 22.77901,
-          "status": "0"
-        },
-        {
-          "deviceId": "867455055121779",
-          "deviceName": "井盖",
-          "deviceType": "10012",
-          "address": "深圳市光明新区",
-          "longitude": 113.953007,
-          "latitude": 22.77901,
-          "status": "2"
-        },
-        {
-          "deviceId": "8674550551217718",
-          "deviceName": "井盖",
-          "deviceType": "10012",
-          "address": "深圳市光明新区",
-          "longitude": 113.953007,
-          "latitude": 22.77901,
-          "status": "0"
-        },
-        {
-          "deviceId": "8674550551217717",
-          "deviceName": "井盖",
-          "deviceType": "10012",
-          "address": "深圳市光明新区",
-          "longitude": 113.953007,
-          "latitude": 22.77901,
-          "status": "2"
-        },
-        {
-          "deviceId": "867455055121775",
-          "deviceName": "井盖",
-          "deviceType": "10012",
-          "address": "深圳市光明新区",
-          "longitude": 113.953007,
-          "latitude": 22.77901,
-          "status": "0"
-        },
-        {
-          "deviceId": "8674550551217716",
-          "deviceName": "井盖",
-          "deviceType": "10012",
-          "address": "深圳市光明新区",
-          "longitude": 113.953007,
-          "latitude": 22.77901,
-          "status": "0"
-        },
-        {
-          "deviceId": "smcs_Device_01",
-          "deviceName": "smcs_Device_01",
-          "deviceType": "10012",
-          "address": "福建省龙岩市新罗区东肖街道九峰歧",
-          "longitude": 117.036921,
-          "latitude": 25.002019,
-          "status": "2"
-        },
-        {
-          "deviceId": "8674550551217711",
-          "deviceName": "井盖",
-          "deviceType": "10012",
-          "address": "深圳市光明新区",
-          "longitude": 113.953007,
-          "latitude": 22.77901,
-          "status": "2"
         },
         {
           "deviceId": "867455055121773",
           "deviceName": "867455055121773",
           "deviceType": "10012",
-          "address": "俄罗斯戈尔诺 - 阿勒泰Улаганский район",
-          "longitude": 88.414415,
-          "latitude": 51.103187,
-          "status": "0"
+          "address": "青海省玉树藏族自治州称多县",
+          "longitude": 96.927045,
+          "latitude": 34.052136,
+          "status": "2"
+        },
+        {
+          "deviceId": "867455055121772",
+          "deviceName": "867455055121772",
+          "deviceType": "10012",
+          "address": "浙江省丽水市遂昌县王村口镇南尖岩",
+          "longitude": 119.092186,
+          "latitude": 28.383991,
+          "status": "2"
         },
         {
           "deviceId": "867455055121771",
           "deviceName": "867455055121771",
-          "deviceType": "10013",
-          "address": "湖南省娄底市永丰街道双峰山",
-          "longitude": 112.219824,
-          "latitude": 27.413133,
-          "status": "0"
-        },
-        {
-          "deviceId": "8674550551217710",
-          "deviceName": "井盖",
           "deviceType": "10012",
-          "address": "深圳市光明新区",
-          "longitude": 113.953007,
-          "latitude": 22.77901,
-          "status": "0"
-        },
-        {
-          "deviceId": "8674550551217719",
-          "deviceName": "井盖",
-          "deviceType": "10012",
-          "address": "深圳市光明新区",
-          "longitude": 113.953007,
-          "latitude": 22.77901,
-          "status": "0"
-        },
-        {
-          "deviceId": "smcs_Device_10",
-          "deviceName": "智慧门箱",
-          "deviceType": "10013",
-          "address": "福建省福州市仓山区福州海峡奥林匹克体育中心(奥体路东)",
-          "longitude": 119.282925,
-          "latitude": 26.017217,
+          "address": "河南省周口市商水县谭庄镇三里桥村",
+          "longitude": 114.329241,
+          "latitude": 33.558594,
           "status": "2"
         }
       ]

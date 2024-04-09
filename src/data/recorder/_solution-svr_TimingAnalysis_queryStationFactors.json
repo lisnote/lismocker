@@ -1,0 +1,8 @@
+{
+  "GET": {
+    "/solution-svr/TimingAnalysis/queryStationFactors": {
+      "errorCode": 1,
+      "record": []
+    }
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "POST": {
+    "/solution-svr/lift/selectLiftHealthTendency": {
+      "errorCode": 1,
+      "record": {
+        "scoreList": [
+          {
+            "id": null,
+            "liftId": "LiftTDev01",
+            "createTime": {
+              "year": 124,
+              "month": 3,
+              "date": 9,
+              "day": 2,
+              "hours": 16,
+              "minutes": 0,
+              "seconds": 0,
+              "time": 1712649600000,
+              "timezoneOffset": -28800
+            },
+            "score": 100,
+            "timeUnit": 0,
+            "warningDevCount": null,
+            "alarmDevCount": null
+          },
+          {
+            "id": null,
+            "liftId": "LiftTDev01",
+            "createTime": {
+              "year": 124,
+              "month": 3,
+              "date": 9,
+              "day": 2,
+              "hours": 15,
+              "minutes": 0,
+              "seconds": 0,
+              "time": 1712646000000,
+              "timezoneOffset": -28800
+            },
+            "score": 100,
+            "timeUnit": 0,
+            "warningDevCount": null,
+            "alarmDevCount": null
+          },
+          {
+            "id": null,
+            "liftId": "LiftTDev01",
+            "createTime": {
+              "year": 124,
+              "month": 3,
+              "date": 9,
+              "day": 2,
+              "hours": 14,
+              "minutes": 0,
+              "seconds": 0,
+              "time": 1712642400000,
+              "timezoneOffset": -28800
+            },
+            "score": 100,
+            "timeUnit": 0,
+            "warningDevCount": null,
+            "alarmDevCount": null
+          },
+          {
+            "id": null,
+            "liftId": "LiftTDev01",
+            "createTime": {
+              "year": 124,
+              "month": 3,
+              "date": 9,
+              "day": 2,
+              "hours": 13,
+              "minutes": 0,
+              "seconds": 0,
+              "time": 1712638800000,
+              "timezoneOffset": -28800
+            },
+            "score": 100,
+            "timeUnit": 0,
+            "warningDevCount": null,
+            "alarmDevCount": null
+          },
+          {
+            "id": null,
+            "liftId": "LiftTDev01",
+            "createTime": {
+              "year": 124,
+              "month": 3,
+              "date": 9,
+              "day": 2,
+              "hours": 12,
+              "minutes": 0,
+              "seconds": 0,
+              "time": 1712635200000,
+              "timezoneOffset": -28800
+            },
+            "score": 100,
+            "timeUnit": 0,
+            "warningDevCount": null,
+            "alarmDevCount": null
+          }
+        ],
+        "expectList": [
+          {
+            "id": null,
+            "liftId": "LiftTDev01",
+            "createTime": {
+              "year": 124,
+              "month": 3,
+              "date": 9,
+              "day": 2,
+              "hours": 17,
+              "minutes": 0,
+              "seconds": 0,
+              "time": 1712653200000,
+              "timezoneOffset": -28800
+            },
+            "score": 100,
+            "timeUnit": 0,
+            "warningDevCount": null,
+            "alarmDevCount": null
+          }
+        ]
+      }
+    }
+  }
+}

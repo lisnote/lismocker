@@ -1,0 +1,96 @@
+{
+  "GET": {
+    "/solution-svr/LiveView/queryLiveViewList": {
+      "errorCode": 1,
+      "record": {
+        "factor": {
+          "PM10": "mg/m³",
+          "SO2": "mg/m³",
+          "CO": "mg/m³",
+          "PM25": "mg/m³",
+          "O3": "mg/m³",
+          "NO2": "mg/m³"
+        },
+        "entities": {
+          "code": 0,
+          "msg": null,
+          "count": 4,
+          "data": [
+            {
+              "static": {
+                "sensorTime": "--",
+                "online": 0,
+                "stationName": "光明火车站",
+                "agencyName": "光明区",
+                "stationDeviceTypeName": "微型颗粒物监测站",
+                "stationId": "feb7d53da9d848f5b3f920bf1eed35ea"
+              },
+              "dynamic": {
+                "NO2": "--",
+                "O3": "--",
+                "PM25": "--",
+                "SO2": "--",
+                "PM10": "--",
+                "CO": "--"
+              }
+            },
+            {
+              "static": {
+                "sensorTime": "--",
+                "online": 0,
+                "stationName": "光明中心站",
+                "agencyName": "光明区",
+                "stationDeviceTypeName": "标准空气质量监测站",
+                "stationId": "d57c982c215644d5b23523c75e8f6cf2"
+              },
+              "dynamic": {
+                "NO2": "--",
+                "O3": "--",
+                "PM25": "--",
+                "SO2": "--",
+                "PM10": "--",
+                "CO": "--"
+              }
+            },
+            {
+              "static": {
+                "sensorTime": "2024-04-09 16:04:47",
+                "online": 0,
+                "stationName": "蛇口B站",
+                "agencyName": "蛇口",
+                "stationDeviceTypeName": "微型颗粒物监测站",
+                "stationId": "df8e33724ab04c84b8747cf29e10a834"
+              },
+              "dynamic": {
+                "NO2": "50.92",
+                "O3": "115.44",
+                "PM25": "68.73",
+                "SO2": "264.76",
+                "PM10": "42.18",
+                "CO": "1.37"
+              }
+            },
+            {
+              "static": {
+                "sensorTime": "--",
+                "online": 0,
+                "stationName": "蛇口C站",
+                "agencyName": "蛇口",
+                "stationDeviceTypeName": "微型TVOC监测站",
+                "stationId": "35e8d6551f244b3ebb16fcfc06834e37"
+              },
+              "dynamic": {
+                "NO2": "44.88",
+                "O3": "34.38",
+                "PM25": "43.05",
+                "SO2": "63.57",
+                "PM10": "23.34",
+                "CO": "18.59"
+              }
+            }
+          ]
+        }
+      }
+    }
+  }
+}

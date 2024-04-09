@@ -1,0 +1,34 @@
+{
+  "GET": {
+    "/solution-svr/Dirty/getAllDirtyStatusTypeList": {
+      "errorCode": 1,
+      "record": [
+        {
+          "id": "7b45ac32bf6d4e8088b6f569079fd25b",
+          "name": "关停取缔",
+          "mark": ""
+        },
+        {
+          "id": "8ac50d59d5a94ec9bb167349e91624fa",
+          "name": "整改完成",
+          "mark": ""
+        },
+        {
+          "id": "a3555b87e3064227a6afae342fd12a8f",
+          "name": "待处置",
+          "mark": ""
+        },
+        {
+          "id": "ac5574f9c9574557a0c25a576342b7c1",
+          "name": "其他",
+          "mark": ""
+        },
+        {
+          "id": "d3ec73ca4a3046558fab20cab7e641d6",
+          "name": "改造中",
+          "mark": ""
+        }
+      ]
+    }
+  }
+}

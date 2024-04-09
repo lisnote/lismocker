@@ -1,0 +1,57 @@
+{
+  "GET": {
+    "/solution-svr/agms/deviceType/getDeviceTypeList": {
+      "errorCode": 1,
+      "record": [
+        {
+          "id": "346637d79e9b44e0b4a356bbdd61afb8",
+          "name": "微型空气监测站",
+          "protocol": "AQGRS",
+          "mark": ""
+        },
+        {
+          "id": "3727ece714b54a3e82b5842e6eb5cdbd",
+          "name": "微型颗粒物监测站",
+          "protocol": "DMS",
+          "mark": ""
+        },
+        {
+          "id": "3db4fd2b94ac4945b6cb6a60db3ada62",
+          "name": "常规站",
+          "protocol": "AQMS",
+          "mark": ""
+        },
+        {
+          "id": "55ebb6c06c6a4b53aeeef995ef712fa2",
+          "name": "微型TVOC监测站",
+          "protocol": "VOC",
+          "mark": ""
+        },
+        {
+          "id": "58dfda0bf0304b67a89689474e205b63",
+          "name": "微型六参数监测站",
+          "protocol": "AQGRS",
+          "mark": ""
+        },
+        {
+          "id": "63c3d5e47ff4499d98b7d5f67f1d13ce",
+          "name": "小型颗粒物监测站",
+          "protocol": "DMS",
+          "mark": ""
+        },
+        {
+          "id": "7b173747e634467ebf921ee46d788baf",
+          "name": "标准空气质量监测站",
+          "protocol": "AQMS",
+          "mark": ""
+        },
+        {
+          "id": "e2f0691dbba84fafa185f5c9e046b764",
+          "name": "扬尘站",
+          "protocol": "DMS",
+          "mark": ""
+        }
+      ]
+    }
+  }
+}

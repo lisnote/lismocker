@@ -1,0 +1,129 @@
+{
+  "POST": {
+    "/base-svr/linkage-config/selectLinkageConfigList": {
+      "errorCode": 1,
+      "record": [
+        {
+          "id": "da54d6dcbf8e404ebc29c56d581eab28",
+          "agencyId": "d9a8ff7d99f843b1b285c4c945921862",
+          "name": "2",
+          "description": "1",
+          "createTime": {
+            "year": 124,
+            "month": 1,
+            "date": 2,
+            "day": 5,
+            "hours": 11,
+            "minutes": 52,
+            "seconds": 36,
+            "time": 1706845956000,
+            "timezoneOffset": -28800
+          },
+          "conditionRule": null,
+          "isOpen": 0,
+          "validity": null
+        },
+        {
+          "id": "bb6e32bc7b88418c82606810457e93a5",
+          "agencyId": "d9a8ff7d99f843b1b285c4c945921862",
+          "name": "1",
+          "description": "1",
+          "createTime": {
+            "year": 124,
+            "month": 1,
+            "date": 2,
+            "day": 5,
+            "hours": 9,
+            "minutes": 1,
+            "seconds": 21,
+            "time": 1706835681000,
+            "timezoneOffset": -28800
+          },
+          "conditionRule": null,
+          "isOpen": 0,
+          "validity": null
+        },
+        {
+          "id": "6d7b0810de7b49abbbcd03da9c74deb9",
+          "agencyId": "d9a8ff7d99f843b1b285c4c945921862",
+          "name": "tes",
+          "description": "asd",
+          "createTime": {
+            "year": 124,
+            "month": 1,
+            "date": 1,
+            "day": 4,
+            "hours": 10,
+            "minutes": 38,
+            "seconds": 37,
+            "time": 1706755117000,
+            "timezoneOffset": -28800
+          },
+          "conditionRule": null,
+          "isOpen": 0,
+          "validity": null
+        },
+        {
+          "id": "9efada5db28d4dd3bac36d70fdb3217a",
+          "agencyId": "d9a8ff7d99f843b1b285c4c945921862",
+          "name": "jjjjj",
+          "description": null,
+          "createTime": {
+            "year": 124,
+            "month": 0,
+            "date": 31,
+            "day": 3,
+            "hours": 16,
+            "minutes": 12,
+            "seconds": 9,
+            "time": 1706688729000,
+            "timezoneOffset": -28800
+          },
+          "conditionRule": null,
+          "isOpen": 0,
+          "validity": null
+        },
+        {
+          "id": "174cebd81f66434f939545d406714b77",
+          "agencyId": "d9a8ff7d99f843b1b285c4c945921862",
+          "name": "test",
+          "description": "aaaa",
+          "createTime": {
+            "year": 124,
+            "month": 0,
+            "date": 31,
+            "day": 3,
+            "hours": 14,
+            "minutes": 37,
+            "seconds": 52,
+            "time": 1706683072000,
+            "timezoneOffset": -28800
+          },
+          "conditionRule": null,
+          "isOpen": 0,
+          "validity": null
+        },
+        {
+          "id": "8a8fece897074a468c0d44d7306ff21a",
+          "agencyId": "d9a8ff7d99f843b1b285c4c945921862",
+          "name": "VOC触发",
+          "description": "",
+          "createTime": {
+            "year": 121,
+            "month": 8,
+            "date": 3,
+            "day": 5,
+            "hours": 17,
+            "minutes": 1,
+            "seconds": 34,
+            "time": 1630659694000,
+            "timezoneOffset": -28800
+          },
+          "conditionRule": null,
+          "isOpen": 1,
+          "validity": null
+        }
+      ]
+    }
+  }
+}

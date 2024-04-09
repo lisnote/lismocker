@@ -1,0 +1,8 @@
+{
+  "POST": {
+    "/solution-svr/lift-history/getLiftCumulativeTime": {
+      "errorCode": 1,
+      "record": 19920
+    }
+  }
+}

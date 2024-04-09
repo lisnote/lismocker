@@ -1,0 +1,249 @@
+{
+  "POST": {
+    "/solution-svr/lift/selectLiftChangeCurve": {
+      "errorCode": 1,
+      "record": [
+        {
+          "17": "28.28",
+          "proType": 5003,
+          "time": {
+            "year": 124,
+            "month": 3,
+            "date": 9,
+            "day": 2,
+            "hours": 0,
+            "minutes": 0,
+            "seconds": 0,
+            "time": 1712592000000,
+            "timezoneOffset": -480
+          }
+        },
+        {
+          "17": "28.82",
+          "proType": 5003,
+          "time": {
+            "year": 124,
+            "month": 3,
+            "date": 9,
+            "day": 2,
+            "hours": 1,
+            "minutes": 0,
+            "seconds": 0,
+            "time": 1712595600000,
+            "timezoneOffset": -480
+          }
+        },
+        {
+          "17": "28.72",
+          "proType": 5003,
+          "time": {
+            "year": 124,
+            "month": 3,
+            "date": 9,
+            "day": 2,
+            "hours": 2,
+            "minutes": 0,
+            "seconds": 0,
+            "time": 1712599200000,
+            "timezoneOffset": -480
+          }
+        },
+        {
+          "17": "26.06",
+          "proType": 5003,
+          "time": {
+            "year": 124,
+            "month": 3,
+            "date": 9,
+            "day": 2,
+            "hours": 3,
+            "minutes": 0,
+            "seconds": 0,
+            "time": 1712602800000,
+            "timezoneOffset": -480
+          }
+        },
+        {
+          "17": "28.41",
+          "proType": 5003,
+          "time": {
+            "year": 124,
+            "month": 3,
+            "date": 9,
+            "day": 2,
+            "hours": 4,
+            "minutes": 0,
+            "seconds": 0,
+            "time": 1712606400000,
+            "timezoneOffset": -480
+          }
+        },
+        {
+          "17": "26.42",
+          "proType": 5003,
+          "time": {
+            "year": 124,
+            "month": 3,
+            "date": 9,
+            "day": 2,
+            "hours": 5,
+            "minutes": 0,
+            "seconds": 0,
+            "time": 1712610000000,
+            "timezoneOffset": -480
+          }
+        },
+        {
+          "17": "28.54",
+          "proType": 5003,
+          "time": {
+            "year": 124,
+            "month": 3,
+            "date": 9,
+            "day": 2,
+            "hours": 6,
+            "minutes": 0,
+            "seconds": 0,
+            "time": 1712613600000,
+            "timezoneOffset": -480
+          }
+        },
+        {
+          "17": "30.26",
+          "proType": 5003,
+          "time": {
+            "year": 124,
+            "month": 3,
+            "date": 9,
+            "day": 2,
+            "hours": 7,
+            "minutes": 0,
+            "seconds": 0,
+            "time": 1712617200000,
+            "timezoneOffset": -480
+          }
+        },
+        {
+          "17": "28.75",
+          "proType": 5003,
+          "time": {
+            "year": 124,
+            "month": 3,
+            "date": 9,
+            "day": 2,
+            "hours": 8,
+            "minutes": 0,
+            "seconds": 0,
+            "time": 1712620800000,
+            "timezoneOffset": -480
+          }
+        },
+        {
+          "17": "28.18",
+          "proType": 5003,
+          "time": {
+            "year": 124,
+            "month": 3,
+            "date": 9,
+            "day": 2,
+            "hours": 9,
+            "minutes": 0,
+            "seconds": 0,
+            "time": 1712624400000,
+            "timezoneOffset": -480
+          }
+        },
+        {
+          "17": "27.64",
+          "proType": 5003,
+          "time": {
+            "year": 124,
+            "month": 3,
+            "date": 9,
+            "day": 2,
+            "hours": 10,
+            "minutes": 0,
+            "seconds": 0,
+            "time": 1712628000000,
+            "timezoneOffset": -480
+          }
+        },
+        {
+          "17": "26.39",
+          "proType": 5003,
+          "time": {
+            "year": 124,
+            "month": 3,
+            "date": 9,
+            "day": 2,
+            "hours": 11,
+            "minutes": 0,
+            "seconds": 0,
+            "time": 1712631600000,
+            "timezoneOffset": -480
+          }
+        },
+        {
+          "17": "30.04",
+          "proType": 5003,
+          "time": {
+            "year": 124,
+            "month": 3,
+            "date": 9,
+            "day": 2,
+            "hours": 12,
+            "minutes": 0,
+            "seconds": 0,
+            "time": 1712635200000,
+            "timezoneOffset": -480
+          }
+        },
+        {
+          "17": "28.42",
+          "proType": 5003,
+          "time": {
+            "year": 124,
+            "month": 3,
+            "date": 9,
+            "day": 2,
+            "hours": 13,
+            "minutes": 0,
+            "seconds": 0,
+            "time": 1712638800000,
+            "timezoneOffset": -480
+          }
+        },
+        {
+          "17": "27.58",
+          "proType": 5003,
+          "time": {
+            "year": 124,
+            "month": 3,
+            "date": 9,
+            "day": 2,
+            "hours": 14,
+            "minutes": 0,
+            "seconds": 0,
+            "time": 1712642400000,
+            "timezoneOffset": -480
+          }
+        },
+        {
+          "17": "29.12",
+          "proType": 5003,
+          "time": {
+            "year": 124,
+            "month": 3,
+            "date": 9,
+            "day": 2,
+            "hours": 15,
+            "minutes": 0,
+            "seconds": 0,
+            "time": 1712646000000,
+            "timezoneOffset": -480
+          }
+        }
+      ]
+    }
+  }
+}

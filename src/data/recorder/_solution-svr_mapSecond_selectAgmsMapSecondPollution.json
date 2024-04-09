@@ -1,0 +1,75 @@
+{
+  "GET": {
+    "/solution-svr/mapSecond/selectAgmsMapSecondPollution": {
+      "errorCode": 1,
+      "record": [
+        {
+          "stationId": "35e8d6551f244b3ebb16fcfc06834e37",
+          "stationName": "蛇口C站",
+          "sensorProType": "5006",
+          "sensorValue": 14.3,
+          "sensorTime": "2024-04-09 12:09:44",
+          "unitName": "CO",
+          "maxTime": "2024-04-09 16:10:50",
+          "factorName": "CO",
+          "levelColor": "3"
+        },
+        {
+          "stationId": "35e8d6551f244b3ebb16fcfc06834e37",
+          "stationName": "蛇口C站",
+          "sensorProType": "5010",
+          "sensorValue": 61.2,
+          "sensorTime": "2024-04-09 12:09:44",
+          "unitName": "PM2.5",
+          "maxTime": "2024-04-09 16:10:50",
+          "factorName": "PM25",
+          "levelColor": "2"
+        },
+        {
+          "stationId": "35e8d6551f244b3ebb16fcfc06834e37",
+          "stationName": "蛇口C站",
+          "sensorProType": "5028",
+          "sensorValue": 60.6,
+          "sensorTime": "2024-04-09 12:09:44",
+          "unitName": "SO2",
+          "maxTime": "2024-04-09 16:10:50",
+          "factorName": "SO2",
+          "levelColor": "1"
+        },
+        {
+          "stationId": "35e8d6551f244b3ebb16fcfc06834e37",
+          "stationName": "蛇口C站",
+          "sensorProType": "5029",
+          "sensorValue": 59.8,
+          "sensorTime": "2024-04-09 12:09:44",
+          "unitName": "NO2",
+          "maxTime": "2024-04-09 16:10:50",
+          "factorName": "NO2",
+          "levelColor": "1"
+        },
+        {
+          "stationId": "35e8d6551f244b3ebb16fcfc06834e37",
+          "stationName": "蛇口C站",
+          "sensorProType": "5030",
+          "sensorValue": 62.9,
+          "sensorTime": "2024-04-09 12:09:44",
+          "unitName": "PM10",
+          "maxTime": "2024-04-09 16:10:50",
+          "factorName": "PM10",
+          "levelColor": "2"
+        },
+        {
+          "stationId": "35e8d6551f244b3ebb16fcfc06834e37",
+          "stationName": "蛇口C站",
+          "sensorProType": "5031",
+          "sensorValue": 62.9,
+          "sensorTime": "2024-04-09 12:09:44",
+          "unitName": "O3",
+          "maxTime": "2024-04-09 16:10:50",
+          "factorName": "O3",
+          "levelColor": "1"
+        }
+      ]
+    }
+  }
+}

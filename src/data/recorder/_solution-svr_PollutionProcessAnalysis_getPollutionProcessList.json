@@ -1,0 +1,8 @@
+{
+  "GET": {
+    "/solution-svr/PollutionProcessAnalysis/getPollutionProcessList": {
+      "errorCode": 1,
+      "record": []
+    }
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "GET": {
+    "/solution-svr/ExamineScheme/queryAllExamineScheme": {
+      "errorCode": 1,
+      "record": [
+        {
+          "id": "01402d14077f4aeeb45ed5290b2f7fd4",
+          "name": "accordion1",
+          "detail": null
+        },
+        {
+          "id": "01f1944981c744fc83eac64fb2713926",
+          "name": "方案四",
+          "detail": "方案四选用指标D"
+        },
+        {
+          "id": "02057a8355e64355bae7143328ed372b",
+          "name": "方案三1",
+          "detail": null
+        },
+        {
+          "id": "284669903def4f8e8c184ecb34a2a99f",
+          "name": "test",
+          "detail": "123123"
+        },
+        {
+          "id": "36549c4ec7ac44ca9f022251a06b91f4",
+          "name": "方案五",
+          "detail": "方案五选用E指标"
+        },
+        {
+          "id": "3a5caa6564e34573a58ed2f0cb53e5c0",
+          "name": "方案二",
+          "detail": "方案二（b、c）"
+        },
+        {
+          "id": "46ab1b1cd8f042dea6be825f34ba526e",
+          "name": "test1",
+          "detail": null
+        },
+        {
+          "id": "9ad3419bb74f4a3a8684cea54f21981d",
+          "name": "方案一",
+          "detail": "方案一对应A指标"
+        },
+        {
+          "id": "9cdf0b3895b74fa8ad22f0bb58d64add",
+          "name": "方案七",
+          "detail": "方案七采用的考核指标是W指标"
+        },
+        {
+          "id": "a224877851874f098c67b961aefe42c8",
+          "name": "方案三",
+          "detail": "方案三（C、D）"
+        },
+        {
+          "id": "cf8caf710f3a4d6f9feae77f555ffbd6",
+          "name": "test2222",
+          "detail": null
+        },
+        {
+          "id": "de219a1d239d42d498576cd07155c7fb",
+          "name": "方案六",
+          "detail": "方案六队F指标"
+        },
+        {
+          "id": "ebbb845bbbc64a079f35eefcad5c3916",
+          "name": "11",
+          "detail": "1"
+        },
+        {
+          "id": "f9dd617476734bb5968407a310f98e69",
+          "name": "1111",
+          "detail": "111111"
+        }
+      ]
+    }
+  }
+}

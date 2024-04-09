@@ -29,7 +29,6 @@ function createRecorder(proxy: string) {
         Object.entries(proxyRes.headers).forEach(([key, value]) => {
           res.setHeader(key, value as string);
         });
-        res.setHeader("access-control-allow-origin", "*");
         res.proxySend(proxyRes.data);
         // 创建 mocker 记录
         if (proxyRes.status != "200") return;

@@ -1,0 +1,69 @@
+{
+  "GET": {
+    "/solution-svr/TimingAnalysis/queryAllStations": {
+      "errorCode": 1,
+      "record": [
+        {
+          "name": "坪洲站",
+          "id": "04927a30411c4902938032c41adf51ee",
+          "longitude": 113.870711,
+          "latitude": 22.568908
+        },
+        {
+          "name": "新健兴科技工业园",
+          "id": "02960a026af04525adbaf0e67973609e",
+          "longitude": 113.922829,
+          "latitude": 22.772997
+        },
+        {
+          "name": "第二职业技术学校",
+          "id": "4342e9b9c7a64243b8596472a8644553",
+          "longitude": 113.948492,
+          "latitude": 22.776539
+        },
+        {
+          "name": "光明中心站",
+          "id": "d57c982c215644d5b23523c75e8f6cf2",
+          "longitude": 113.944878,
+          "latitude": 22.762737
+        },
+        {
+          "name": "光明火车站",
+          "id": "feb7d53da9d848f5b3f920bf1eed35ea",
+          "longitude": 114.117751,
+          "latitude": 22.531948
+        },
+        {
+          "name": "蛇口C站",
+          "id": "35e8d6551f244b3ebb16fcfc06834e37",
+          "longitude": 113.912331,
+          "latitude": 22.476626
+        },
+        {
+          "name": "蛇口B站",
+          "id": "df8e33724ab04c84b8747cf29e10a834",
+          "longitude": 113.91195,
+          "latitude": 22.476798
+        },
+        {
+          "name": "蛇口A站",
+          "id": "fd38e14d55534348b583f03f6b536c27",
+          "longitude": 113.911988,
+          "latitude": 22.476273
+        },
+        {
+          "name": "西丽B站",
+          "id": "12bcf017c34646718db2a445d2861731",
+          "longitude": 113.954131,
+          "latitude": 22.580632
+        },
+        {
+          "name": "西丽A站",
+          "id": "a918d4515f4047678b810584aee2de2c",
+          "longitude": 113.954396,
+          "latitude": 22.580677
+        }
+      ]
+    }
+  }
+}

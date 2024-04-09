@@ -1,0 +1,8 @@
+{
+  "GET": {
+    "/solution-svr/manyStationReport/selectManyStationReportByFactorGroupId": {
+      "errorCode": 1,
+      "record": []
+    }
+  }
+}

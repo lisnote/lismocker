@@ -1,0 +1,39 @@
+{
+  "GET": {
+    "/solution-svr/AgmsUnitType/selectAgmsUnitType": {
+      "errorCode": 1,
+      "record": [
+        {
+          "id": "2aeb48bac09a4d079221dc897f570bcf",
+          "name": "湿度",
+          "mark": "湿度"
+        },
+        {
+          "id": "2e5008f1ae8c4da9a94ed086620268d0",
+          "name": "测试213123",
+          "mark": "123"
+        },
+        {
+          "id": "44c8f37f4b6444738122a34e34a00606",
+          "name": "浓度",
+          "mark": "浓度的备注"
+        },
+        {
+          "id": "81de9f273a144f9cb1c53192f8b8d237",
+          "name": "长度",
+          "mark": "长度的备注"
+        },
+        {
+          "id": "9f6b2175dcc54ed88b43571a24fd1edd",
+          "name": "压力",
+          "mark": "压力的备注"
+        },
+        {
+          "id": "a3f34b8822ad4fca8984e26fc9562ce9",
+          "name": "测试",
+          "mark": "测试的备注1234"
+        }
+      ]
+    }
+  }
+}

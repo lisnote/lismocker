@@ -1,0 +1,8 @@
+{
+  "POST": {
+    "/base-svr/DeviceService/getDeviceList": {
+      "errorCode": 1,
+      "record": []
+    }
+  }
+}

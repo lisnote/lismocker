@@ -1,0 +1,12 @@
+{
+  "POST": {
+    "/solution-svr/lift/selectSunDeviceManageGatewayInfo": {
+      "errorCode": 1,
+      "record": {
+        "gatewayId": "LiftGtw001",
+        "agencyName": "A区",
+        "gatewayName": "LiftGtw001"
+      }
+    }
+  }
+}

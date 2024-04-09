@@ -1,0 +1,64 @@
+{
+  "GET": {
+    "/solution-svr/agms-eventsource/getAllEventSourceTypeList": {
+      "errorCode": 1,
+      "record": {
+        "code": 0,
+        "msg": "成功！",
+        "count": 10,
+        "data": [
+          {
+            "id": "058e0cba9d6540a98d8d45291adc39ee",
+            "name": "数据超标",
+            "mark": "12312311"
+          },
+          {
+            "id": "0874a38afe2d40afacdfdb608a7ca247",
+            "name": "运维人员巡查",
+            "mark": ""
+          },
+          {
+            "id": "262f224b15dd4975b15f1cce6782baae",
+            "name": "视频抓拍",
+            "mark": ""
+          },
+          {
+            "id": "26b7b1f8499e49d583740f410ddfaac4",
+            "name": "重点督办",
+            "mark": ""
+          },
+          {
+            "id": "3eb7c7e3b9bf4a329320679b37fba450",
+            "name": "领导指派",
+            "mark": ""
+          },
+          {
+            "id": "5e21aaa5941247e1a41320284a276ff2",
+            "name": "激光雷达扫描",
+            "mark": ""
+          },
+          {
+            "id": "63fef6a8bdea48c1886ce4a07849faa6",
+            "name": "公众举报",
+            "mark": ""
+          },
+          {
+            "id": "752537b9f1da421097182a2a9dde0ee4",
+            "name": "网格巡查",
+            "mark": ""
+          },
+          {
+            "id": "85512ae4f89744dd9260e4e4f7bf315a",
+            "name": "督察组督察",
+            "mark": ""
+          },
+          {
+            "id": "adc3c3746e3c41f490f9011ffd966a9d",
+            "name": "网格员巡查",
+            "mark": "网格员巡查"
+          }
+        ]
+      }
+    }
+  }
+}

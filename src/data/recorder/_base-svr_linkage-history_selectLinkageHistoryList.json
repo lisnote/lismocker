@@ -1,0 +1,99 @@
+{
+  "POST": {
+    "/base-svr/linkage-history/selectLinkageHistoryList": {
+      "errorCode": 1,
+      "record": [
+        {
+          "id": "fa1b6bf13f794030b95e49f7874f78f6",
+          "linkageId": null,
+          "linkageName": "VOC触发",
+          "createTime": {
+            "year": 124,
+            "month": 3,
+            "date": 9,
+            "day": 2,
+            "hours": 16,
+            "minutes": 50,
+            "seconds": 57,
+            "time": 1712652657000,
+            "timezoneOffset": -28800
+          },
+          "agencyId": null,
+          "status": 0
+        },
+        {
+          "id": "df9e073308824f1cac3d95cf7c80081c",
+          "linkageId": null,
+          "linkageName": "VOC触发",
+          "createTime": {
+            "year": 124,
+            "month": 3,
+            "date": 9,
+            "day": 2,
+            "hours": 16,
+            "minutes": 45,
+            "seconds": 55,
+            "time": 1712652355000,
+            "timezoneOffset": -28800
+          },
+          "agencyId": null,
+          "status": 0
+        },
+        {
+          "id": "8652c56b481546828e0f0d2d3a196652",
+          "linkageId": null,
+          "linkageName": "VOC触发",
+          "createTime": {
+            "year": 124,
+            "month": 3,
+            "date": 9,
+            "day": 2,
+            "hours": 16,
+            "minutes": 40,
+            "seconds": 54,
+            "time": 1712652054000,
+            "timezoneOffset": -28800
+          },
+          "agencyId": null,
+          "status": 0
+        },
+        {
+          "id": "fed0f43f053c4b8b9c89901d9fb43ff7",
+          "linkageId": null,
+          "linkageName": "VOC触发",
+          "createTime": {
+            "year": 124,
+            "month": 3,
+            "date": 9,
+            "day": 2,
+            "hours": 16,
+            "minutes": 35,
+            "seconds": 53,
+            "time": 1712651753000,
+            "timezoneOffset": -28800
+          },
+          "agencyId": null,
+          "status": 0
+        },
+        {
+          "id": "982daa787678420cb50d13c6e5276054",
+          "linkageId": null,
+          "linkageName": "VOC触发",
+          "createTime": {
+            "year": 124,
+            "month": 3,
+            "date": 9,
+            "day": 2,
+            "hours": 16,
+            "minutes": 30,
+            "seconds": 51,
+            "time": 1712651451000,
+            "timezoneOffset": -28800
+          },
+          "agencyId": null,
+          "status": 0
+        }
+      ]
+    }
+  }
+}

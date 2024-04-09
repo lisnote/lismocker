@@ -1,0 +1,95 @@
+{
+  "GET": {
+    "/solution-svr/agms/status/getAgmsStatusPaging": {
+      "errorCode": 1,
+      "record": {
+        "code": 0,
+        "msg": null,
+        "count": 9,
+        "data": [
+          {
+            "id": "3886332ce6494a34b293a777d9049146",
+            "name": "补录",
+            "code": "VE",
+            "normal": 1,
+            "resolvingvalue": 9,
+            "mark": null,
+            "statustype": 1
+          },
+          {
+            "id": "3f55411f318e4060bb83e71cadac4f41",
+            "name": "有效",
+            "code": "V",
+            "normal": 1,
+            "resolvingvalue": 33,
+            "mark": null,
+            "statustype": 1
+          },
+          {
+            "id": "4eac4296e9f540f9a778611e344601de",
+            "name": "修约空白",
+            "code": "VC",
+            "normal": 1,
+            "resolvingvalue": 1,
+            "mark": "",
+            "statustype": 1
+          },
+          {
+            "id": "5aa20df72677418ebb2e03023e9911ab",
+            "name": "连续数",
+            "code": "IS",
+            "normal": 0,
+            "resolvingvalue": 16,
+            "mark": null,
+            "statustype": 1
+          },
+          {
+            "id": "69c10fa29ba74e1ab17e1a158161813d",
+            "name": "超上限",
+            "code": "IO",
+            "normal": 0,
+            "resolvingvalue": 18,
+            "mark": null,
+            "statustype": 1
+          },
+          {
+            "id": "73da908a42434c6fbe7440d26f524382",
+            "name": "无效",
+            "code": "I",
+            "normal": 0,
+            "resolvingvalue": 20,
+            "mark": null,
+            "statustype": 1
+          },
+          {
+            "id": "93f775d305e748b7ac08fbbf21c6b722",
+            "name": "有效数据不足",
+            "code": "II",
+            "normal": 0,
+            "resolvingvalue": 14,
+            "mark": null,
+            "statustype": 1
+          },
+          {
+            "id": "a0cd8057df5b48f19987cab83c5279f8",
+            "name": "低下限",
+            "code": "IU",
+            "normal": 0,
+            "resolvingvalue": 17,
+            "mark": null,
+            "statustype": 1
+          },
+          {
+            "id": "a9a1b29ccba04e379860bf9d53ca2782",
+            "name": "离群",
+            "code": "IA",
+            "normal": 0,
+            "resolvingvalue": 10,
+            "mark": null,
+            "statustype": 1
+          }
+        ]
+      }
+    }
+  }
+}

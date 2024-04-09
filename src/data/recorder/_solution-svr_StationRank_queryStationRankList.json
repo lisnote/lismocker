@@ -1,0 +1,49 @@
+{
+  "GET": {
+    "/solution-svr/StationRank/queryStationRankList": {
+      "errorCode": 1,
+      "record": {
+        "factor": [
+          {
+            "name": "SO2",
+            "unit": "mg/m³"
+          },
+          {
+            "name": "CO",
+            "unit": "mg/m³"
+          },
+          {
+            "name": "PM25",
+            "unit": "mg/m³"
+          }
+        ],
+        "nowStationRankList": [
+          {
+            "区域名称": "光明火车站",
+            "PM25": "--",
+            "SO2": "--",
+            "CO": "--"
+          },
+          {
+            "区域名称": "光明中心站",
+            "PM25": "--",
+            "SO2": "--",
+            "CO": "--"
+          },
+          {
+            "区域名称": "蛇口B站",
+            "PM25": "61.5",
+            "SO2": "350.8",
+            "CO": "2.4"
+          },
+          {
+            "区域名称": "蛇口C站",
+            "PM25": "69.1",
+            "SO2": "63.0",
+            "CO": "16.7"
+          }
+        ]
+      }
+    }
+  }
+}

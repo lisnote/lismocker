@@ -1,0 +1,23 @@
+{
+  "POST": {
+    "/solution-svr/lift/selectSwitchLiftStatus": {
+      "errorCode": 1,
+      "record": {
+        "id": "8cb6f356be254989af25afcaa87c3db1",
+        "liftId": "LiftTDev01",
+        "powerStatus": 0,
+        "creatTime": {
+          "year": 121,
+          "month": 11,
+          "date": 31,
+          "day": 5,
+          "hours": 16,
+          "minutes": 24,
+          "seconds": 42,
+          "time": 1640939082285,
+          "timezoneOffset": -480
+        }
+      }
+    }
+  }
+}

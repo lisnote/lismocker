@@ -1,0 +1,24 @@
+{
+  "GET": {
+    "/solution-svr/ExamineResultAgency/queryExamineResultAgencyList": {
+      "errorCode": 1,
+      "record": {
+        "msg": "成功",
+        "score": 0,
+        "code": 0,
+        "data": [
+          {
+            "createtime": null,
+            "agencyid": "21395f43ba2f4a298af9a45f3ad4f5b3",
+            "id": null,
+            "totalScore": 0,
+            "agencyName": "广东省",
+            "objectId": null,
+            "status": 0
+          }
+        ],
+        "count": 1
+      }
+    }
+  }
+}

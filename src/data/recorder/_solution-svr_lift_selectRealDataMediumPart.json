@@ -1,0 +1,16 @@
+{
+  "POST": {
+    "/solution-svr/lift/selectRealDataMediumPart": {
+      "errorCode": 1,
+      "record": {
+        "liftId": "LiftTDev01",
+        "proType": "5003",
+        "number": "15",
+        "factory": "LiftTDev01",
+        "healthStatus": "0",
+        "sensorValue": "27.72",
+        "maintainCheckTime": null
+      }
+    }
+  }
+}

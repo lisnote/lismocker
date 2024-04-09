@@ -1,0 +1,8 @@
+{
+  "POST": {
+    "/base-svr/ConGatewayService/addGatewayAgencyInfo": {
+      "errorCode": 26,
+      "record": "GATEWAY_ALREADY_USED"
+    }
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "GET": {
+    "/solution-svr/PMAndMetAnalysis/queryPMAndMetAnalysisData": {
+      "errorCode": 1,
+      "record": {
+        "unit": {
+          "PM2.5": "mg/m³",
+          "PM10": "mg/m³",
+          "windDirection": "Kpa",
+          "windSpeed": "m/s"
+        },
+        "entities": {
+          "PM2.5/PM10": [
+            {
+              "time": 1712505600000,
+              "value": null
+            },
+            {
+              "time": 1712592000000,
+              "value": null
+            }
+          ],
+          "PM2.5": [
+            {
+              "time": 1712505600000,
+              "value": null
+            },
+            {
+              "time": 1712592000000,
+              "value": null
+            }
+          ],
+          "PM10": [
+            {
+              "time": 1712505600000,
+              "value": null
+            },
+            {
+              "time": 1712592000000,
+              "value": null
+            }
+          ],
+          "windDirection": [
+            {
+              "time": 1712505600000,
+              "value": null
+            },
+            {
+              "time": 1712592000000,
+              "value": null
+            }
+          ],
+          "windSpeed": [
+            {
+              "time": 1712505600000,
+              "value": null
+            },
+            {
+              "time": 1712592000000,
+              "value": null
+            }
+          ]
+        }
+      }
+    }
+  }
+}

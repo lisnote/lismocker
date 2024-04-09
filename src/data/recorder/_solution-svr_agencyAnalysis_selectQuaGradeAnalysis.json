@@ -1,0 +1,8 @@
+{
+  "GET": {
+    "/solution-svr/agencyAnalysis/selectQuaGradeAnalysis": {
+      "errorCode": 1,
+      "record": []
+    }
+  }
+}

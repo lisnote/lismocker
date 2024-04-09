@@ -1,0 +1,25 @@
+{
+  "GET": {
+    "/solution-svr/Employee/getAllEmployeeList": {
+      "errorCode": 1,
+      "record": [
+        {
+          "id": "49d828f411cc4c56abe9330cfd824c64",
+          "name": "kyd_xjw",
+          "phone": "18888888888",
+          "pwd": "7ka9e84e51n04ye6ob2db2a5218624b39448b5c46347ec86",
+          "headUrl": "http://keenyoda-iot-bucket.oss-cn-shenzhen.aliyuncs.com/QiWuIOT/userHead/d3c6f777-e4b5-4d89-a8e3-dc43d3d03865.jpg",
+          "solutiontype": null
+        },
+        {
+          "id": "7c847db0957d4e0da96ce5ca3764935b",
+          "name": "test_person",
+          "phone": "13333333333",
+          "pwd": "7ka9e84e51n04ye6ob2db2a5218624b39448b5c46347ec86",
+          "headUrl": "http://keenyoda-iot-bucket.oss-cn-shenzhen.aliyuncs.com/QiWuIOT/userHead/324d0980798a11ecaf8ad92da760d069.jpg",
+          "solutiontype": null
+        }
+      ]
+    }
+  }
+}

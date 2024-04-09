@@ -3,9 +3,9 @@
     "/base-svr/ConDeviceService/getDeviceCount": {
       "errorCode": 1,
       "record": {
-        "count": 6,
+        "count": 7,
         "isOnline": 0,
-        "notOnline": 6
+        "notOnline": 7
       }
     }
   }

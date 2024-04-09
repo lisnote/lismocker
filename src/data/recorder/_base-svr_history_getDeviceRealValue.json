@@ -1,0 +1,88 @@
+{
+  "POST": {
+    "/base-svr/history/getDeviceRealValue": {
+      "errorCode": 1,
+      "record": {
+        "subsystemId": null,
+        "isFault": 0,
+        "switchStatus": 0,
+        "list": [
+          {
+            "proTypeName": "温度",
+            "sensorTime": {
+              "year": 124,
+              "month": 3,
+              "date": 9,
+              "day": 2,
+              "hours": 16,
+              "minutes": 25,
+              "seconds": 41,
+              "time": 1712651141000,
+              "timezoneOffset": -480
+            },
+            "name": null,
+            "sensorNumber": null,
+            "id": null,
+            "sensorProType": 5003,
+            "deviceId": null,
+            "isDel": null,
+            "sensorValue": 26.1
+          },
+          {
+            "proTypeName": "湿度",
+            "sensorTime": {
+              "year": 124,
+              "month": 3,
+              "date": 9,
+              "day": 2,
+              "hours": 16,
+              "minutes": 25,
+              "seconds": 41,
+              "time": 1712651141000,
+              "timezoneOffset": -480
+            },
+            "name": null,
+            "sensorNumber": null,
+            "id": null,
+            "sensorProType": 5004,
+            "deviceId": null,
+            "isDel": null,
+            "sensorValue": 65.6
+          }
+        ],
+        "type": 10,
+        "deviceJsonType": null,
+        "name": "温湿度传感器2",
+        "online": false,
+        "onlineTime": {
+          "year": 124,
+          "month": 2,
+          "date": 5,
+          "day": 2,
+          "hours": 19,
+          "minutes": 19,
+          "seconds": 45,
+          "time": 1709637585000,
+          "timezoneOffset": -480
+        },
+        "id": "IemsTDev03",
+        "isVirtual": null,
+        "netinTime": {
+          "year": 124,
+          "month": 0,
+          "date": 9,
+          "day": 2,
+          "hours": 13,
+          "minutes": 45,
+          "seconds": 5,
+          "time": 1704779105000,
+          "timezoneOffset": -480
+        },
+        "agencyGroupName": "精优达",
+        "isDel": false,
+        "gatewayId": "IemsGtw001",
+        "macAddr": ""
+      }
+    }
+  }
+}

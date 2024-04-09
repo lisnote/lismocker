@@ -1,0 +1,8 @@
+{
+  "POST": {
+    "/base-svr/linkage-config/updateLinkageConfig": {
+      "errorCode": 1,
+      "record": "success"
+    }
+  }
+}

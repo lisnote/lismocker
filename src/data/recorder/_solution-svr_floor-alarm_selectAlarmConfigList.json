@@ -1,0 +1,72 @@
+{
+  "POST": {
+    "/solution-svr/floor-alarm/selectAlarmConfigList": {
+      "errorCode": 1,
+      "record": {
+        "code": 1,
+        "msg": "success",
+        "count": 2,
+        "data": [
+          {
+            "id": "43de75ecae664649b086433e966116f6",
+            "name": "一氧化碳",
+            "devId": "FloorTDev001_02",
+            "proTypeId": 83,
+            "num": 1,
+            "alarmConditionType": 4,
+            "firstValue": 4,
+            "secondValue": 50,
+            "pushMessage": null,
+            "pushTime": null,
+            "isOpen": 1,
+            "createTime": {
+              "year": 121,
+              "month": 11,
+              "date": 4,
+              "day": 6,
+              "hours": 10,
+              "minutes": 27,
+              "seconds": 32,
+              "time": 1638584852000,
+              "timezoneOffset": -28800
+            },
+            "deviceName": "一氧化碳传感器",
+            "proTypeName": "CO",
+            "deviceAgencyName": null,
+            "subName": null,
+            "proType": null
+          },
+          {
+            "id": "b2cc8a9823d54c00ba48ad8f5fe94f66",
+            "name": "VOC报警",
+            "devId": "FloorTDev001_03",
+            "proTypeId": 81,
+            "num": 1,
+            "alarmConditionType": 3,
+            "firstValue": 1,
+            "secondValue": null,
+            "pushMessage": null,
+            "pushTime": null,
+            "isOpen": 1,
+            "createTime": {
+              "year": 121,
+              "month": 4,
+              "date": 11,
+              "day": 2,
+              "hours": 11,
+              "minutes": 41,
+              "seconds": 24,
+              "time": 1620704484000,
+              "timezoneOffset": -28800
+            },
+            "deviceName": "VOC传感器",
+            "proTypeName": "VOC",
+            "deviceAgencyName": null,
+            "subName": null,
+            "proType": null
+          }
+        ]
+      }
+    }
+  }
+}

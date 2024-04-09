@@ -1,0 +1,72 @@
+{
+  "GET": {
+    "/solution-svr/agms-factor/getStationAlreadyBinFactorList": {
+      "errorCode": 1,
+      "record": [
+        {
+          "id": "15517e56fa2040319a4d9e3b02c37d9a",
+          "name": "温度",
+          "itercodeid": null,
+          "standardscale": null,
+          "changescale": null,
+          "mir": null,
+          "ofact": null,
+          "molecular": null,
+          "factorteam": null,
+          "accesscode": null,
+          "standardunitid": null,
+          "changeunitid": null,
+          "fvc": null,
+          "fvoc": null,
+          "chageration": null,
+          "standardvalue": null,
+          "containedfactor": null,
+          "type": null,
+          "protypeid": null
+        },
+        {
+          "id": "21d29106ef1a41de86d2690776159369",
+          "name": "PM10",
+          "itercodeid": null,
+          "standardscale": null,
+          "changescale": null,
+          "mir": null,
+          "ofact": null,
+          "molecular": null,
+          "factorteam": null,
+          "accesscode": null,
+          "standardunitid": null,
+          "changeunitid": null,
+          "fvc": null,
+          "fvoc": null,
+          "chageration": null,
+          "standardvalue": null,
+          "containedfactor": null,
+          "type": null,
+          "protypeid": null
+        },
+        {
+          "id": "2e24ee5964f14412b52e748e81ec3111",
+          "name": "SO2",
+          "itercodeid": null,
+          "standardscale": null,
+          "changescale": null,
+          "mir": null,
+          "ofact": null,
+          "molecular": null,
+          "factorteam": null,
+          "accesscode": null,
+          "standardunitid": null,
+          "changeunitid": null,
+          "fvc": null,
+          "fvoc": null,
+          "chageration": null,
+          "standardvalue": null,
+          "containedfactor": null,
+          "type": null,
+          "protypeid": null
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "GET": {
+    "/solution-svr/MaintainContent/selectMaintainContent": {
+      "errorCode": 0,
+      "record": "selectMaintainContent exception"
+    }
+  }
+}

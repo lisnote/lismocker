@@ -4,204 +4,252 @@
       "errorCode": 1,
       "record": [
         {
-          "id": "805192635861418aa5d356ab9b34974b",
+          "id": "db67a7ff70dd4310baa9d76fcff515c3",
           "pid": "000000",
-          "prevId": "58c37b3132b411eaa596e0d55e97e41f",
+          "prevId": "000000",
           "child": [
             {
-              "id": "9f0b5c7e0c824325b4fc445e5365f725",
-              "pid": "805192635861418aa5d356ab9b34974b",
-              "prevId": "805192635861418aa5d356ab9b34974b",
-              "child": [],
-              "name": "项目总览",
-              "hasSelected": 0
-            },
-            {
-              "id": "acfa9ea7df444ebd955d6b2ca1df5e84",
-              "pid": "805192635861418aa5d356ab9b34974b",
-              "prevId": "39509268238142a69a9f9e9d22ed13e9",
+              "id": "19211e53b8784f03959fd9c9cf544931",
+              "pid": "db67a7ff70dd4310baa9d76fcff515c3",
+              "prevId": "db67a7ff70dd4310baa9d76fcff515c3",
               "child": [
                 {
-                  "id": "883e127dce1842bf83d12f9c5e624931",
-                  "pid": "acfa9ea7df444ebd955d6b2ca1df5e84",
-                  "prevId": "acfa9ea7df444ebd955d6b2ca1df5e84",
-                  "child": [
-                    {
-                      "id": "a2c9f8432c0d4b1c808801f19273253b",
-                      "pid": "883e127dce1842bf83d12f9c5e624931",
-                      "prevId": "883e127dce1842bf83d12f9c5e624931",
-                      "child": [
-                        {
-                          "id": "22c8aabb2e6947259a33fff4c475ce9c",
-                          "pid": "a2c9f8432c0d4b1c808801f19273253b",
-                          "prevId": "a2c9f8432c0d4b1c808801f19273253b",
-                          "child": [],
-                          "name": "删除报警",
-                          "hasSelected": 0
-                        },
-                        {
-                          "id": "2eeab5d3074742d1b90931b746ef34d4",
-                          "pid": "a2c9f8432c0d4b1c808801f19273253b",
-                          "prevId": "22c8aabb2e6947259a33fff4c475ce9c",
-                          "child": [],
-                          "name": "处理报警",
-                          "hasSelected": 0
-                        }
-                      ],
-                      "name": "事故报警",
-                      "hasSelected": 0
-                    }
-                  ],
-                  "name": "设备报警",
+                  "id": "d29684c848a7434f9f67311594614144",
+                  "pid": "19211e53b8784f03959fd9c9cf544931",
+                  "prevId": "19211e53b8784f03959fd9c9cf544931",
+                  "child": [],
+                  "name": "数据概览",
                   "hasSelected": 0
                 },
                 {
-                  "id": "0b3c0e324c6a42b2b63d741fb5980a02",
-                  "pid": "acfa9ea7df444ebd955d6b2ca1df5e84",
-                  "prevId": "883e127dce1842bf83d12f9c5e624931",
+                  "id": "755186e376db4171b1768fc8cc1d92da",
+                  "pid": "19211e53b8784f03959fd9c9cf544931",
+                  "prevId": "d29684c848a7434f9f67311594614144",
+                  "child": [],
+                  "name": "设备概览",
+                  "hasSelected": 0
+                }
+              ],
+              "name": "首页",
+              "hasSelected": 0
+            },
+            {
+              "id": "396592f0d9b3469c9c2c4604f2d56a09",
+              "pid": "db67a7ff70dd4310baa9d76fcff515c3",
+              "prevId": "19211e53b8784f03959fd9c9cf544931",
+              "child": [
+                {
+                  "id": "3d39c01e6873463c8ca8314acf09c581",
+                  "pid": "396592f0d9b3469c9c2c4604f2d56a09",
+                  "prevId": "396592f0d9b3469c9c2c4604f2d56a09",
+                  "child": [],
+                  "name": "新增设备",
+                  "hasSelected": 0
+                },
+                {
+                  "id": "5c5c51b0e5384ed98d60d44d4a797036",
+                  "pid": "396592f0d9b3469c9c2c4604f2d56a09",
+                  "prevId": "3d39c01e6873463c8ca8314acf09c581",
+                  "child": [],
+                  "name": "修改设备",
+                  "hasSelected": 0
+                },
+                {
+                  "id": "37440636367c409b9bb62eabc356a969",
+                  "pid": "396592f0d9b3469c9c2c4604f2d56a09",
+                  "prevId": "5c5c51b0e5384ed98d60d44d4a797036",
+                  "child": [],
+                  "name": "删除设备",
+                  "hasSelected": 0
+                },
+                {
+                  "id": "42972cc84ad7442f962e3310d4092b98",
+                  "pid": "396592f0d9b3469c9c2c4604f2d56a09",
+                  "prevId": "37440636367c409b9bb62eabc356a969",
+                  "child": [],
+                  "name": "授权开锁",
+                  "hasSelected": 0
+                },
+                {
+                  "id": "bbb1a8d50bbd4208a61e77b3bfcbe717",
+                  "pid": "396592f0d9b3469c9c2c4604f2d56a09",
+                  "prevId": "42972cc84ad7442f962e3310d4092b98",
+                  "child": [],
+                  "name": "图片上传",
+                  "hasSelected": 0
+                }
+              ],
+              "name": "设备管理",
+              "hasSelected": 0
+            },
+            {
+              "id": "c493a03424c14336b79409b16443ba61",
+              "pid": "db67a7ff70dd4310baa9d76fcff515c3",
+              "prevId": "396592f0d9b3469c9c2c4604f2d56a09",
+              "child": [
+                {
+                  "id": "818eca966c374a6385b1c4601ddc1a44",
+                  "pid": "c493a03424c14336b79409b16443ba61",
+                  "prevId": "c493a03424c14336b79409b16443ba61",
+                  "child": [],
+                  "name": "实时数据",
+                  "hasSelected": 0
+                },
+                {
+                  "id": "01a8bedfd5454d138ce4d50e7376f140",
+                  "pid": "c493a03424c14336b79409b16443ba61",
+                  "prevId": "818eca966c374a6385b1c4601ddc1a44",
+                  "child": [],
+                  "name": "历史数据",
+                  "hasSelected": 0
+                }
+              ],
+              "name": "数据管理",
+              "hasSelected": 0
+            },
+            {
+              "id": "371631d89ff6485aa6d10b6104ded13a",
+              "pid": "db67a7ff70dd4310baa9d76fcff515c3",
+              "prevId": "c493a03424c14336b79409b16443ba61",
+              "child": [
+                {
+                  "id": "5f107d043e484755adfccbf69eb1a907",
+                  "pid": "371631d89ff6485aa6d10b6104ded13a",
+                  "prevId": "371631d89ff6485aa6d10b6104ded13a",
                   "child": [
                     {
-                      "id": "7a82cc4378834f648d196fc369d70507",
-                      "pid": "0b3c0e324c6a42b2b63d741fb5980a02",
-                      "prevId": "0b3c0e324c6a42b2b63d741fb5980a02",
-                      "child": [
-                        {
-                          "id": "96bce9a2612c419abedb203f692bf15d",
-                          "pid": "7a82cc4378834f648d196fc369d70507",
-                          "prevId": "7a82cc4378834f648d196fc369d70507",
-                          "child": [],
-                          "name": "新增报警配置",
-                          "hasSelected": 0
-                        },
-                        {
-                          "id": "1ec0c19375004a2abb769c8cb8d71d66",
-                          "pid": "7a82cc4378834f648d196fc369d70507",
-                          "prevId": "96bce9a2612c419abedb203f692bf15d",
-                          "child": [],
-                          "name": "编辑报警配置",
-                          "hasSelected": 0
-                        },
-                        {
-                          "id": "5ef548d63e6f4b7fb62d9d2036f12a6a",
-                          "pid": "7a82cc4378834f648d196fc369d70507",
-                          "prevId": "1ec0c19375004a2abb769c8cb8d71d66",
-                          "child": [],
-                          "name": "删除报警配置",
-                          "hasSelected": 0
-                        },
-                        {
-                          "id": "a51c0e783f1c4b4b9896fb738820e06a",
-                          "pid": "7a82cc4378834f648d196fc369d70507",
-                          "prevId": "5ef548d63e6f4b7fb62d9d2036f12a6a",
-                          "child": [],
-                          "name": "开关报警配置",
-                          "hasSelected": 0
-                        }
-                      ],
-                      "name": "报警配置",
+                      "id": "0804e6cd6f9a46c29c817de58e5f4c11",
+                      "pid": "5f107d043e484755adfccbf69eb1a907",
+                      "prevId": "5f107d043e484755adfccbf69eb1a907",
+                      "child": [],
+                      "name": "新增报警原因",
                       "hasSelected": 0
                     },
                     {
-                      "id": "22a2cec453584c25aac142af2c196916",
-                      "pid": "0b3c0e324c6a42b2b63d741fb5980a02",
-                      "prevId": "7a82cc4378834f648d196fc369d70507",
-                      "child": [
-                        {
-                          "id": "24f6c8adb3d44759adb5dde43070816d",
-                          "pid": "22a2cec453584c25aac142af2c196916",
-                          "prevId": "22a2cec453584c25aac142af2c196916",
-                          "child": [],
-                          "name": "删除报警记录",
-                          "hasSelected": 0
-                        },
-                        {
-                          "id": "692fe607e0b242ef89d966bc019c1586",
-                          "pid": "22a2cec453584c25aac142af2c196916",
-                          "prevId": "24f6c8adb3d44759adb5dde43070816d",
-                          "child": [],
-                          "name": "处理报警记录",
-                          "hasSelected": 0
-                        },
-                        {
-                          "id": "d39899431eb743979ae88791fe13d6da",
-                          "pid": "22a2cec453584c25aac142af2c196916",
-                          "prevId": "692fe607e0b242ef89d966bc019c1586",
-                          "child": [],
-                          "name": "导出报警记录",
-                          "hasSelected": 0
-                        }
-                      ],
-                      "name": "报警记录",
+                      "id": "be63b146d482407cbaaa684cc40dc89f",
+                      "pid": "5f107d043e484755adfccbf69eb1a907",
+                      "prevId": "0804e6cd6f9a46c29c817de58e5f4c11",
+                      "child": [],
+                      "name": "编辑报警原因",
                       "hasSelected": 0
                     },
                     {
-                      "id": "212c7fc78cb14fc18955fb2af3e86a93",
-                      "pid": "0b3c0e324c6a42b2b63d741fb5980a02",
-                      "prevId": "22a2cec453584c25aac142af2c196916",
-                      "child": [
-                        {
-                          "id": "340a2599eef3471b8657afbae71a8577",
-                          "pid": "212c7fc78cb14fc18955fb2af3e86a93",
-                          "prevId": "8db7d1bda39c440c984bce2f31d9beaf",
-                          "child": [],
-                          "name": "新增报警原因",
-                          "hasSelected": 0
-                        },
-                        {
-                          "id": "7a96a8abf4ff4228b995ff064b0e56a7",
-                          "pid": "212c7fc78cb14fc18955fb2af3e86a93",
-                          "prevId": "340a2599eef3471b8657afbae71a8577",
-                          "child": [],
-                          "name": "编辑报警原因",
-                          "hasSelected": 0
-                        },
-                        {
-                          "id": "8db7d1bda39c440c984bce2f31d9beaf",
-                          "pid": "212c7fc78cb14fc18955fb2af3e86a93",
-                          "prevId": "7a96a8abf4ff4228b995ff064b0e56a7",
-                          "child": [],
-                          "name": "删除报警原因",
-                          "hasSelected": 0
-                        }
-                      ],
-                      "name": "报警原因",
-                      "hasSelected": 0
-                    },
-                    {
-                      "id": "445577e4c09d44c4b199f3860e207b14",
-                      "pid": "0b3c0e324c6a42b2b63d741fb5980a02",
-                      "prevId": "212c7fc78cb14fc18955fb2af3e86a93",
-                      "child": [
-                        {
-                          "id": "a93a633cf41b4270bacce5ca9e35f5cf",
-                          "pid": "445577e4c09d44c4b199f3860e207b14",
-                          "prevId": "9bd542a0ce7f428fbd38b12225874e3e",
-                          "child": [],
-                          "name": "新增报警等级",
-                          "hasSelected": 0
-                        },
-                        {
-                          "id": "cf400b099da442f68278ee1ff2891837",
-                          "pid": "445577e4c09d44c4b199f3860e207b14",
-                          "prevId": "a93a633cf41b4270bacce5ca9e35f5cf",
-                          "child": [],
-                          "name": "编辑报警等级",
-                          "hasSelected": 0
-                        },
-                        {
-                          "id": "9bd542a0ce7f428fbd38b12225874e3e",
-                          "pid": "445577e4c09d44c4b199f3860e207b14",
-                          "prevId": "cf400b099da442f68278ee1ff2891837",
-                          "child": [],
-                          "name": "删除报警等级",
-                          "hasSelected": 0
-                        }
-                      ],
-                      "name": "报警等级",
+                      "id": "e725c8f605304fb0a73cfe179ce1eb08",
+                      "pid": "5f107d043e484755adfccbf69eb1a907",
+                      "prevId": "be63b146d482407cbaaa684cc40dc89f",
+                      "child": [],
+                      "name": "删除报警原因",
                       "hasSelected": 0
                     }
                   ],
-                  "name": "系统报警",
+                  "name": "报警原因",
+                  "hasSelected": 0
+                },
+                {
+                  "id": "b5054d36a56b48f6b3e408660d621345",
+                  "pid": "371631d89ff6485aa6d10b6104ded13a",
+                  "prevId": "5f107d043e484755adfccbf69eb1a907",
+                  "child": [
+                    {
+                      "id": "e86fbd2ec8f3442684752ae67d297dc9",
+                      "pid": "b5054d36a56b48f6b3e408660d621345",
+                      "prevId": "b5054d36a56b48f6b3e408660d621345",
+                      "child": [],
+                      "name": "新增报警等级",
+                      "hasSelected": 0
+                    },
+                    {
+                      "id": "8a05caa4cae042e59d4ad34d4983b3ab",
+                      "pid": "b5054d36a56b48f6b3e408660d621345",
+                      "prevId": "e86fbd2ec8f3442684752ae67d297dc9",
+                      "child": [],
+                      "name": "编辑报警等级",
+                      "hasSelected": 0
+                    },
+                    {
+                      "id": "2e818e3c866943c3b382d11f80d4398f",
+                      "pid": "b5054d36a56b48f6b3e408660d621345",
+                      "prevId": "8a05caa4cae042e59d4ad34d4983b3ab",
+                      "child": [],
+                      "name": "删除报警原因",
+                      "hasSelected": 0
+                    }
+                  ],
+                  "name": "报警等级",
+                  "hasSelected": 0
+                },
+                {
+                  "id": "493842de211c410aac579bb5e4bf70c1",
+                  "pid": "371631d89ff6485aa6d10b6104ded13a",
+                  "prevId": "b5054d36a56b48f6b3e408660d621345",
+                  "child": [
+                    {
+                      "id": "4a1d5ea960c04d06a083b1cac43884ff",
+                      "pid": "493842de211c410aac579bb5e4bf70c1",
+                      "prevId": "493842de211c410aac579bb5e4bf70c1",
+                      "child": [],
+                      "name": "处理报警记录",
+                      "hasSelected": 0
+                    },
+                    {
+                      "id": "587c6951bc0c40c39a5e847a2c1bffa6",
+                      "pid": "493842de211c410aac579bb5e4bf70c1",
+                      "prevId": "4a1d5ea960c04d06a083b1cac43884ff",
+                      "child": [],
+                      "name": "删除报警记录",
+                      "hasSelected": 0
+                    },
+                    {
+                      "id": "1f15d18c7bc340008840600e4a281d2f",
+                      "pid": "493842de211c410aac579bb5e4bf70c1",
+                      "prevId": "587c6951bc0c40c39a5e847a2c1bffa6",
+                      "child": [],
+                      "name": "导出报警记录",
+                      "hasSelected": 0
+                    },
+                    {
+                      "id": "c79deffae5d74da4aab597972b15207c",
+                      "pid": "493842de211c410aac579bb5e4bf70c1",
+                      "prevId": "1f15d18c7bc340008840600e4a281d2f",
+                      "child": [],
+                      "name": "上传报警图片",
+                      "hasSelected": 0
+                    }
+                  ],
+                  "name": "报警记录",
+                  "hasSelected": 0
+                },
+                {
+                  "id": "aa6ba1a6b75a4d609c7c771edd7fce49",
+                  "pid": "371631d89ff6485aa6d10b6104ded13a",
+                  "prevId": "493842de211c410aac579bb5e4bf70c1",
+                  "child": [
+                    {
+                      "id": "946bb2059a694b0eb0ee55751c867e08",
+                      "pid": "aa6ba1a6b75a4d609c7c771edd7fce49",
+                      "prevId": "aa6ba1a6b75a4d609c7c771edd7fce49",
+                      "child": [],
+                      "name": "新增报警配置",
+                      "hasSelected": 0
+                    },
+                    {
+                      "id": "8683a3f1504b4860a970ae2868fa18cb",
+                      "pid": "aa6ba1a6b75a4d609c7c771edd7fce49",
+                      "prevId": "946bb2059a694b0eb0ee55751c867e08",
+                      "child": [],
+                      "name": "修改报警配置",
+                      "hasSelected": 0
+                    },
+                    {
+                      "id": "021d3dcb820b467d8d88144ec4cdcff1",
+                      "pid": "aa6ba1a6b75a4d609c7c771edd7fce49",
+                      "prevId": "8683a3f1504b4860a970ae2868fa18cb",
+                      "child": [],
+                      "name": "删除报警配置",
+                      "hasSelected": 0
+                    }
+                  ],
+                  "name": "报警配置",
                   "hasSelected": 0
                 }
               ],
@@ -209,242 +257,55 @@
               "hasSelected": 0
             },
             {
-              "id": "7d30590fe6e641a1aca0b4427b9e1a94",
-              "pid": "805192635861418aa5d356ab9b34974b",
-              "prevId": "acfa9ea7df444ebd955d6b2ca1df5e84",
+              "id": "39d6a13c83714cde864855ce4dbad676",
+              "pid": "db67a7ff70dd4310baa9d76fcff515c3",
+              "prevId": "371631d89ff6485aa6d10b6104ded13a",
               "child": [
                 {
-                  "id": "d4539ec725cb444796f08fbe0167660f",
-                  "pid": "7d30590fe6e641a1aca0b4427b9e1a94",
-                  "prevId": "7d30590fe6e641a1aca0b4427b9e1a94",
+                  "id": "603acbc558db4905b4b16a018ec507e8",
+                  "pid": "39d6a13c83714cde864855ce4dbad676",
+                  "prevId": "39d6a13c83714cde864855ce4dbad676",
                   "child": [],
-                  "name": "实时用电",
+                  "name": "修改工单",
                   "hasSelected": 0
                 },
                 {
-                  "id": "b2bd63f12fcd45e2bc4c4c722bbbe53e",
-                  "pid": "7d30590fe6e641a1aca0b4427b9e1a94",
-                  "prevId": "d4539ec725cb444796f08fbe0167660f",
+                  "id": "4791c57aacc0431c96f136ed0a771182",
+                  "pid": "39d6a13c83714cde864855ce4dbad676",
+                  "prevId": "603acbc558db4905b4b16a018ec507e8",
                   "child": [],
-                  "name": "实时用水",
+                  "name": "处理工单",
                   "hasSelected": 0
                 },
                 {
-                  "id": "c17e1ba6c0f744cc8dd081b27923c253",
-                  "pid": "7d30590fe6e641a1aca0b4427b9e1a94",
-                  "prevId": "b2bd63f12fcd45e2bc4c4c722bbbe53e",
+                  "id": "ea84aa42fea5445ba1f5e36d94f18791",
+                  "pid": "39d6a13c83714cde864855ce4dbad676",
+                  "prevId": "4791c57aacc0431c96f136ed0a771182",
                   "child": [],
-                  "name": "实时蒸汽",
+                  "name": "删除工单",
                   "hasSelected": 0
                 },
                 {
-                  "id": "706f8b6e6a724a308fe7230f98cd8af9",
-                  "pid": "7d30590fe6e641a1aca0b4427b9e1a94",
-                  "prevId": "c17e1ba6c0f744cc8dd081b27923c253",
+                  "id": "40b4f924b00548c893fed9c8db385b60",
+                  "pid": "39d6a13c83714cde864855ce4dbad676",
+                  "prevId": "ea84aa42fea5445ba1f5e36d94f18791",
                   "child": [],
-                  "name": "实时冷量",
-                  "hasSelected": 0
-                },
-                {
-                  "id": "1325020a815148539d44f24cba890b4a",
-                  "pid": "7d30590fe6e641a1aca0b4427b9e1a94",
-                  "prevId": "706f8b6e6a724a308fe7230f98cd8af9",
-                  "child": [],
-                  "name": "实时热量",
-                  "hasSelected": 0
-                },
-                {
-                  "id": "0fabc3bde0614c1a9f3461e6a34d3ac5",
-                  "pid": "7d30590fe6e641a1aca0b4427b9e1a94",
-                  "prevId": "1325020a815148539d44f24cba890b4a",
-                  "child": [],
-                  "name": "实时流量",
+                  "name": "上传工单图片",
                   "hasSelected": 0
                 }
               ],
-              "name": "实时数据",
+              "name": "工单管理",
               "hasSelected": 0
             },
             {
-              "id": "18e1fe0cdf8145c8ad48febbfe64ad7a",
-              "pid": "805192635861418aa5d356ab9b34974b",
-              "prevId": "7d30590fe6e641a1aca0b4427b9e1a94",
+              "id": "3c12348bd90a445d97d594d6175e497a",
+              "pid": "db67a7ff70dd4310baa9d76fcff515c3",
+              "prevId": "39d6a13c83714cde864855ce4dbad676",
               "child": [
                 {
-                  "id": "ee1ea62ff0b34c2db0febbfbd68ab851",
-                  "pid": "18e1fe0cdf8145c8ad48febbfe64ad7a",
-                  "prevId": "18e1fe0cdf8145c8ad48febbfe64ad7a",
-                  "child": [],
-                  "name": "用电分析",
-                  "hasSelected": 0
-                },
-                {
-                  "id": "1522250f2c5a4ece8993f4c537c343f4",
-                  "pid": "18e1fe0cdf8145c8ad48febbfe64ad7a",
-                  "prevId": "ee1ea62ff0b34c2db0febbfbd68ab851",
-                  "child": [],
-                  "name": "用水分析",
-                  "hasSelected": 0
-                },
-                {
-                  "id": "9910d11fffe6450ea0d6da6a2b2a84c3",
-                  "pid": "18e1fe0cdf8145c8ad48febbfe64ad7a",
-                  "prevId": "1522250f2c5a4ece8993f4c537c343f4",
-                  "child": [],
-                  "name": "蒸汽分析",
-                  "hasSelected": 0
-                },
-                {
-                  "id": "a3df17c75fd14d44aa1f25fff625a296",
-                  "pid": "18e1fe0cdf8145c8ad48febbfe64ad7a",
-                  "prevId": "9910d11fffe6450ea0d6da6a2b2a84c3",
-                  "child": [],
-                  "name": "冷量分析",
-                  "hasSelected": 0
-                },
-                {
-                  "id": "52ddd2df3e354eecbc7e2d12727c490a",
-                  "pid": "18e1fe0cdf8145c8ad48febbfe64ad7a",
-                  "prevId": "a3df17c75fd14d44aa1f25fff625a296",
-                  "child": [],
-                  "name": "热量分析",
-                  "hasSelected": 0
-                },
-                {
-                  "id": "d70e29fd818242678603e3b5a326e72d",
-                  "pid": "18e1fe0cdf8145c8ad48febbfe64ad7a",
-                  "prevId": "52ddd2df3e354eecbc7e2d12727c490a",
-                  "child": [],
-                  "name": "流量分析",
-                  "hasSelected": 0
-                }
-              ],
-              "name": "历史分析",
-              "hasSelected": 0
-            },
-            {
-              "id": "1aac0808a48e4e9893aea50959fd11b5",
-              "pid": "805192635861418aa5d356ab9b34974b",
-              "prevId": "18e1fe0cdf8145c8ad48febbfe64ad7a",
-              "child": [
-                {
-                  "id": "ee0b324510824b86b71cc9516051a0db",
-                  "pid": "1aac0808a48e4e9893aea50959fd11b5",
-                  "prevId": "1aac0808a48e4e9893aea50959fd11b5",
-                  "child": [],
-                  "name": "用电分析",
-                  "hasSelected": 0
-                },
-                {
-                  "id": "1494a954e1f84e27a4ef65f77a9175a2",
-                  "pid": "1aac0808a48e4e9893aea50959fd11b5",
-                  "prevId": "ee0b324510824b86b71cc9516051a0db",
-                  "child": [],
-                  "name": "用水分析",
-                  "hasSelected": 0
-                },
-                {
-                  "id": "4ffaf45befeb4c2cbcc81d139382ba47",
-                  "pid": "1aac0808a48e4e9893aea50959fd11b5",
-                  "prevId": "1494a954e1f84e27a4ef65f77a9175a2",
-                  "child": [],
-                  "name": "蒸汽分析",
-                  "hasSelected": 0
-                },
-                {
-                  "id": "43c9abb9c14245e3bb5e01971ad2bfa8",
-                  "pid": "1aac0808a48e4e9893aea50959fd11b5",
-                  "prevId": "4ffaf45befeb4c2cbcc81d139382ba47",
-                  "child": [],
-                  "name": "冷量分析",
-                  "hasSelected": 0
-                },
-                {
-                  "id": "c3d866cf39df45bcbc74c0beebe13d52",
-                  "pid": "1aac0808a48e4e9893aea50959fd11b5",
-                  "prevId": "43c9abb9c14245e3bb5e01971ad2bfa8",
-                  "child": [],
-                  "name": "热量分析",
-                  "hasSelected": 0
-                },
-                {
-                  "id": "497379943d31460fa3d8b55debda93a8",
-                  "pid": "1aac0808a48e4e9893aea50959fd11b5",
-                  "prevId": "0fabc3bde0614c1a9f3461e6a34d3ac5",
-                  "child": [],
-                  "name": "流量分析",
-                  "hasSelected": 0
-                }
-              ],
-              "name": "统计分析",
-              "hasSelected": 0
-            },
-            {
-              "id": "ef5f7b3e6c06444680961cdeeee76f4e",
-              "pid": "805192635861418aa5d356ab9b34974b",
-              "prevId": "1aac0808a48e4e9893aea50959fd11b5",
-              "child": [
-                {
-                  "id": "0aaf5c4898824f749265d738c2bc0b88",
-                  "pid": "ef5f7b3e6c06444680961cdeeee76f4e",
-                  "prevId": "ef5f7b3e6c06444680961cdeeee76f4e",
-                  "child": [],
-                  "name": "用电分析",
-                  "hasSelected": 0
-                },
-                {
-                  "id": "7ac906f464034a23844001a0f10d8ea3",
-                  "pid": "ef5f7b3e6c06444680961cdeeee76f4e",
-                  "prevId": "0aaf5c4898824f749265d738c2bc0b88",
-                  "child": [],
-                  "name": "用水分析",
-                  "hasSelected": 0
-                },
-                {
-                  "id": "0d7266e96acd424aa929d6927006d437",
-                  "pid": "ef5f7b3e6c06444680961cdeeee76f4e",
-                  "prevId": "7ac906f464034a23844001a0f10d8ea3",
-                  "child": [],
-                  "name": "蒸汽分析",
-                  "hasSelected": 0
-                },
-                {
-                  "id": "17bc71db5bea40769a0b14b77c799616",
-                  "pid": "ef5f7b3e6c06444680961cdeeee76f4e",
-                  "prevId": "0d7266e96acd424aa929d6927006d437",
-                  "child": [],
-                  "name": "冷量分析",
-                  "hasSelected": 0
-                },
-                {
-                  "id": "d60f4ca440e74e00874831829b7ddfb0",
-                  "pid": "ef5f7b3e6c06444680961cdeeee76f4e",
-                  "prevId": "17bc71db5bea40769a0b14b77c799616",
-                  "child": [],
-                  "name": "热量分析",
-                  "hasSelected": 0
-                },
-                {
-                  "id": "e172be37a97b43abb92cbcd2f38aaaf9",
-                  "pid": "ef5f7b3e6c06444680961cdeeee76f4e",
-                  "prevId": "d60f4ca440e74e00874831829b7ddfb0",
-                  "child": [],
-                  "name": "流量分析",
-                  "hasSelected": 0
-                }
-              ],
-              "name": "区域分析",
-              "hasSelected": 0
-            },
-            {
-              "id": "2fe9f970978b48b3bd42a4e4be237185",
-              "pid": "805192635861418aa5d356ab9b34974b",
-              "prevId": "ef5f7b3e6c06444680961cdeeee76f4e",
-              "child": [
-                {
-                  "id": "39970f8d2e4d45d3b43b1be675daa39d",
-                  "pid": "2fe9f970978b48b3bd42a4e4be237185",
-                  "prevId": "2fe9f970978b48b3bd42a4e4be237185",
+                  "id": "7d4855de241b4eba959f1e335bbd1305",
+                  "pid": "3c12348bd90a445d97d594d6175e497a",
+                  "prevId": "3c12348bd90a445d97d594d6175e497a",
                   "child": [],
                   "name": "删除操作日志",
                   "hasSelected": 0
@@ -454,43 +315,84 @@
               "hasSelected": 0
             },
             {
-              "id": "e8e8351c79bd4f119ed46b2701a8b78e",
-              "pid": "805192635861418aa5d356ab9b34974b",
-              "prevId": "2fe9f970978b48b3bd42a4e4be237185",
+              "id": "e259f8585b7d4b228450abcb5ac1653c",
+              "pid": "db67a7ff70dd4310baa9d76fcff515c3",
+              "prevId": "3c12348bd90a445d97d594d6175e497a",
               "child": [
                 {
-                  "id": "057804491be24f85ae51577e8ac6a551",
-                  "pid": "e8e8351c79bd4f119ed46b2701a8b78e",
-                  "prevId": "e8e8351c79bd4f119ed46b2701a8b78e",
+                  "id": "bb386e83267e4cdeb17c749f04a6342a",
+                  "pid": "e259f8585b7d4b228450abcb5ac1653c",
+                  "prevId": "e259f8585b7d4b228450abcb5ac1653c",
                   "child": [
                     {
-                      "id": "bcda518e0211446fa6d04efe8e647fe3",
-                      "pid": "057804491be24f85ae51577e8ac6a551",
-                      "prevId": "057804491be24f85ae51577e8ac6a551",
+                      "id": "20ee50cb83404d1791137d238b134801",
+                      "pid": "bb386e83267e4cdeb17c749f04a6342a",
+                      "prevId": "bb386e83267e4cdeb17c749f04a6342a",
                       "child": [],
-                      "name": "查询角色树",
+                      "name": "邀请用户",
                       "hasSelected": 0
                     },
                     {
-                      "id": "0dcbeb3a180646bd8896496174d5fa28",
-                      "pid": "057804491be24f85ae51577e8ac6a551",
-                      "prevId": "bcda518e0211446fa6d04efe8e647fe3",
+                      "id": "026d1d3c34ec47f2806047e4fd51a66e",
+                      "pid": "bb386e83267e4cdeb17c749f04a6342a",
+                      "prevId": "20ee50cb83404d1791137d238b134801",
+                      "child": [],
+                      "name": "删除成员",
+                      "hasSelected": 0
+                    },
+                    {
+                      "id": "6252dba69766487a80728f542a3adbd1",
+                      "pid": "bb386e83267e4cdeb17c749f04a6342a",
+                      "prevId": "026d1d3c34ec47f2806047e4fd51a66e",
+                      "child": [],
+                      "name": "重置密码",
+                      "hasSelected": 0
+                    },
+                    {
+                      "id": "6328b55b74704963b3f39aba2c86fd60",
+                      "pid": "bb386e83267e4cdeb17c749f04a6342a",
+                      "prevId": "6252dba69766487a80728f542a3adbd1",
+                      "child": [],
+                      "name": "用户绑定角色",
+                      "hasSelected": 0
+                    },
+                    {
+                      "id": "9aa5065d6c98423fb4f7950cb92a7711",
+                      "pid": "bb386e83267e4cdeb17c749f04a6342a",
+                      "prevId": "6328b55b74704963b3f39aba2c86fd60",
+                      "child": [],
+                      "name": "用户绑定部门",
+                      "hasSelected": 0
+                    }
+                  ],
+                  "name": "成员管理",
+                  "hasSelected": 0
+                },
+                {
+                  "id": "5e25f6435fcd45099b9cc7de8709e92b",
+                  "pid": "e259f8585b7d4b228450abcb5ac1653c",
+                  "prevId": "bb386e83267e4cdeb17c749f04a6342a",
+                  "child": [
+                    {
+                      "id": "69db937f1b434443b3cc0fe1cf2e74c4",
+                      "pid": "5e25f6435fcd45099b9cc7de8709e92b",
+                      "prevId": "5e25f6435fcd45099b9cc7de8709e92b",
                       "child": [],
                       "name": "新增角色",
                       "hasSelected": 0
                     },
                     {
-                      "id": "4e8d889b946f4a9189f3e837443f2fea",
-                      "pid": "057804491be24f85ae51577e8ac6a551",
-                      "prevId": "0dcbeb3a180646bd8896496174d5fa28",
+                      "id": "7dd0774a773b40deb2a43271c05c3ce3",
+                      "pid": "5e25f6435fcd45099b9cc7de8709e92b",
+                      "prevId": "69db937f1b434443b3cc0fe1cf2e74c4",
                       "child": [],
                       "name": "修改角色",
                       "hasSelected": 0
                     },
                     {
-                      "id": "1823c2dbb0994b91b9bcee209be3fca7",
-                      "pid": "057804491be24f85ae51577e8ac6a551",
-                      "prevId": "4e8d889b946f4a9189f3e837443f2fea",
+                      "id": "bd11fdf0a741447c937e7cbbd3b19a14",
+                      "pid": "5e25f6435fcd45099b9cc7de8709e92b",
+                      "prevId": "7dd0774a773b40deb2a43271c05c3ce3",
                       "child": [],
                       "name": "删除角色",
                       "hasSelected": 0
@@ -500,115 +402,66 @@
                   "hasSelected": 0
                 },
                 {
-                  "id": "0e8669cc581743c5a3a95b42571ca2c7",
-                  "pid": "e8e8351c79bd4f119ed46b2701a8b78e",
-                  "prevId": "057804491be24f85ae51577e8ac6a551",
+                  "id": "5c3e58fc80d643208857ff50b9ac420e",
+                  "pid": "e259f8585b7d4b228450abcb5ac1653c",
+                  "prevId": "5e25f6435fcd45099b9cc7de8709e92b",
                   "child": [
                     {
-                      "id": "35c0a7ec961946a4972bc721d092e128",
-                      "pid": "0e8669cc581743c5a3a95b42571ca2c7",
-                      "prevId": "0e8669cc581743c5a3a95b42571ca2c7",
+                      "id": "08a83f48fb1b43678b96eb2c5be47d96",
+                      "pid": "5c3e58fc80d643208857ff50b9ac420e",
+                      "prevId": "5c3e58fc80d643208857ff50b9ac420e",
                       "child": [],
                       "name": "角色绑定权限",
-                      "hasSelected": 1
-                    },
-                    {
-                      "id": "23b39d1b85cc47eca57e190c9e3f0294",
-                      "pid": "0e8669cc581743c5a3a95b42571ca2c7",
-                      "prevId": "35c0a7ec961946a4972bc721d092e128",
-                      "child": [],
-                      "name": "查询角色的权限树",
-                      "hasSelected": 1
+                      "hasSelected": 0
                     }
                   ],
                   "name": "角色权限",
-                  "hasSelected": 1
-                },
-                {
-                  "id": "967010105ec8473897d7532c86de460c",
-                  "pid": "e8e8351c79bd4f119ed46b2701a8b78e",
-                  "prevId": "0e8669cc581743c5a3a95b42571ca2c7",
-                  "child": [
-                    {
-                      "id": "ba1f51b2607b40a9861c26c74d0023d9",
-                      "pid": "967010105ec8473897d7532c86de460c",
-                      "prevId": "967010105ec8473897d7532c86de460c",
-                      "child": [],
-                      "name": "添加区域分组",
-                      "hasSelected": 0
-                    },
-                    {
-                      "id": "ab76db88791b40c5ab2de69c5205a0c8",
-                      "pid": "967010105ec8473897d7532c86de460c",
-                      "prevId": "ba1f51b2607b40a9861c26c74d0023d9",
-                      "child": [],
-                      "name": "修改区域分组",
-                      "hasSelected": 0
-                    },
-                    {
-                      "id": "7d38a97351c64ecf957741ec59b95cb3",
-                      "pid": "967010105ec8473897d7532c86de460c",
-                      "prevId": "ab76db88791b40c5ab2de69c5205a0c8",
-                      "child": [],
-                      "name": "删除区域分组",
-                      "hasSelected": 0
-                    }
-                  ],
-                  "name": "区域分组",
                   "hasSelected": 0
                 },
                 {
-                  "id": "257c15ec21e043219991493a90f3049d",
-                  "pid": "e8e8351c79bd4f119ed46b2701a8b78e",
-                  "prevId": "967010105ec8473897d7532c86de460c",
+                  "id": "f60bccdcb1ad405588b8a55f1c7d94d6",
+                  "pid": "e259f8585b7d4b228450abcb5ac1653c",
+                  "prevId": "5c3e58fc80d643208857ff50b9ac420e",
                   "child": [
                     {
-                      "id": "baca6484b75f41a6aad5362944c2d6fd",
-                      "pid": "257c15ec21e043219991493a90f3049d",
-                      "prevId": "257c15ec21e043219991493a90f3049d",
+                      "id": "6f87f737a2d04f70a3304a02c2287baf",
+                      "pid": "f60bccdcb1ad405588b8a55f1c7d94d6",
+                      "prevId": "f60bccdcb1ad405588b8a55f1c7d94d6",
                       "child": [],
-                      "name": "邀请用户",
+                      "name": "新增部门",
                       "hasSelected": 0
                     },
                     {
-                      "id": "ddc9ba6fcd614b29bfba7149837844a0",
-                      "pid": "257c15ec21e043219991493a90f3049d",
-                      "prevId": "baca6484b75f41a6aad5362944c2d6fd",
+                      "id": "3e35bd44ff764f8b8f8223cb0d29cff9",
+                      "pid": "f60bccdcb1ad405588b8a55f1c7d94d6",
+                      "prevId": "6f87f737a2d04f70a3304a02c2287baf",
                       "child": [],
-                      "name": "删除成员",
+                      "name": "修改部门",
                       "hasSelected": 0
                     },
                     {
-                      "id": "c0b131403b4e4b4dad0fc3e9c43bb362",
-                      "pid": "257c15ec21e043219991493a90f3049d",
-                      "prevId": "ddc9ba6fcd614b29bfba7149837844a0",
+                      "id": "4d6e1cac9f3d45629e38aa18cd1e0a9f",
+                      "pid": "f60bccdcb1ad405588b8a55f1c7d94d6",
+                      "prevId": "3e35bd44ff764f8b8f8223cb0d29cff9",
                       "child": [],
-                      "name": "查询用户角色树",
-                      "hasSelected": 0
-                    },
-                    {
-                      "id": "a6de3c130f7242a1a999a3fa3757b0c0",
-                      "pid": "257c15ec21e043219991493a90f3049d",
-                      "prevId": "c0b131403b4e4b4dad0fc3e9c43bb362",
-                      "child": [],
-                      "name": "用户绑定角色",
+                      "name": "删除部门",
                       "hasSelected": 0
                     }
                   ],
-                  "name": "用户管理",
+                  "name": "部门管理",
                   "hasSelected": 0
                 },
                 {
-                  "id": "d19d3cbad6f9469ebbb0acbe28e0b850",
-                  "pid": "e8e8351c79bd4f119ed46b2701a8b78e",
-                  "prevId": "257c15ec21e043219991493a90f3049d",
+                  "id": "3df666e509344e329196dbfa71f57f33",
+                  "pid": "e259f8585b7d4b228450abcb5ac1653c",
+                  "prevId": "f60bccdcb1ad405588b8a55f1c7d94d6",
                   "child": [
                     {
-                      "id": "13cb314a33324caea548a9955f71cae1",
-                      "pid": "d19d3cbad6f9469ebbb0acbe28e0b850",
-                      "prevId": "d19d3cbad6f9469ebbb0acbe28e0b850",
+                      "id": "6199b99a8a554a54a70b5ae5bbaefca3",
+                      "pid": "3df666e509344e329196dbfa71f57f33",
+                      "prevId": "3df666e509344e329196dbfa71f57f33",
                       "child": [],
-                      "name": "激活",
+                      "name": "激活许可证",
                       "hasSelected": 0
                     }
                   ],
@@ -616,153 +469,12 @@
                   "hasSelected": 0
                 }
               ],
-              "name": "系统设置",
-              "hasSelected": 1
-            },
-            {
-              "id": "39509268238142a69a9f9e9d22ed13e9",
-              "pid": "805192635861418aa5d356ab9b34974b",
-              "prevId": "ed32373967bc4924902ed380a13b58c8",
-              "child": [
-                {
-                  "id": "19e4612d6c55476d9320429bdb8e69a5",
-                  "pid": "39509268238142a69a9f9e9d22ed13e9",
-                  "prevId": "39509268238142a69a9f9e9d22ed13e9",
-                  "child": [
-                    {
-                      "id": "6d43249ae6a54c7fa95e5471c3e25b9e",
-                      "pid": "19e4612d6c55476d9320429bdb8e69a5",
-                      "prevId": "19e4612d6c55476d9320429bdb8e69a5",
-                      "child": [],
-                      "name": "添加设备",
-                      "hasSelected": 0
-                    },
-                    {
-                      "id": "51a6026b93544a168b1a78b539514772",
-                      "pid": "19e4612d6c55476d9320429bdb8e69a5",
-                      "prevId": "6d43249ae6a54c7fa95e5471c3e25b9e",
-                      "child": [],
-                      "name": "修改设备",
-                      "hasSelected": 0
-                    },
-                    {
-                      "id": "1094c7ede7514e189ab0167a0aaa5e9e",
-                      "pid": "19e4612d6c55476d9320429bdb8e69a5",
-                      "prevId": "51a6026b93544a168b1a78b539514772",
-                      "child": [],
-                      "name": "删除设备",
-                      "hasSelected": 0
-                    },
-                    {
-                      "id": "cc5daa7170634323b48667e79cd4174b",
-                      "pid": "19e4612d6c55476d9320429bdb8e69a5",
-                      "prevId": "1094c7ede7514e189ab0167a0aaa5e9e",
-                      "child": [
-                        {
-                          "id": "10e24901e3514f388d4450cc21848137",
-                          "pid": "cc5daa7170634323b48667e79cd4174b",
-                          "prevId": "cc5daa7170634323b48667e79cd4174b",
-                          "child": [],
-                          "name": "添加数据补录",
-                          "hasSelected": 0
-                        },
-                        {
-                          "id": "d6addaf4535641aab9b3e8af25ba9263",
-                          "pid": "cc5daa7170634323b48667e79cd4174b",
-                          "prevId": "10e24901e3514f388d4450cc21848137",
-                          "child": [],
-                          "name": "修改数据补录",
-                          "hasSelected": 0
-                        },
-                        {
-                          "id": "c2f6a2b3f95a496abada7e0229bcf7ec",
-                          "pid": "cc5daa7170634323b48667e79cd4174b",
-                          "prevId": "d6addaf4535641aab9b3e8af25ba9263",
-                          "child": [],
-                          "name": "删除数据补录",
-                          "hasSelected": 0
-                        }
-                      ],
-                      "name": "数据补录",
-                      "hasSelected": 0
-                    }
-                  ],
-                  "name": "非自动化设备",
-                  "hasSelected": 0
-                },
-                {
-                  "id": "ee8b6b9854d04193aadc960655e8cdb4",
-                  "pid": "39509268238142a69a9f9e9d22ed13e9",
-                  "prevId": "19e4612d6c55476d9320429bdb8e69a5",
-                  "child": [
-                    {
-                      "id": "61201cbaadcc43dbaa406b630417b038",
-                      "pid": "ee8b6b9854d04193aadc960655e8cdb4",
-                      "prevId": "ee8b6b9854d04193aadc960655e8cdb4",
-                      "child": [],
-                      "name": "修改设备",
-                      "hasSelected": 0
-                    },
-                    {
-                      "id": "8f79467ebfae4c70b79f306826a40c73",
-                      "pid": "ee8b6b9854d04193aadc960655e8cdb4",
-                      "prevId": "61201cbaadcc43dbaa406b630417b038",
-                      "child": [],
-                      "name": "删除设备",
-                      "hasSelected": 0
-                    },
-                    {
-                      "id": "1d4bca9b8ef3409c8957fba0ea10c869",
-                      "pid": "ee8b6b9854d04193aadc960655e8cdb4",
-                      "prevId": "8f79467ebfae4c70b79f306826a40c73",
-                      "child": [],
-                      "name": "启用/禁用设备",
-                      "hasSelected": 0
-                    }
-                  ],
-                  "name": "自动化设备",
-                  "hasSelected": 0
-                },
-                {
-                  "id": "02ef93068fc74895b2dbcc0169db74c2",
-                  "pid": "39509268238142a69a9f9e9d22ed13e9",
-                  "prevId": "ee8b6b9854d04193aadc960655e8cdb4",
-                  "child": [
-                    {
-                      "id": "06001001ca61437982b75cee129882e3",
-                      "pid": "02ef93068fc74895b2dbcc0169db74c2",
-                      "prevId": "02ef93068fc74895b2dbcc0169db74c2",
-                      "child": [],
-                      "name": "添加网关",
-                      "hasSelected": 0
-                    },
-                    {
-                      "id": "8824b1032bcf4f2887a5e297a10bde2f",
-                      "pid": "02ef93068fc74895b2dbcc0169db74c2",
-                      "prevId": "06001001ca61437982b75cee129882e3",
-                      "child": [],
-                      "name": "编辑网关",
-                      "hasSelected": 0
-                    },
-                    {
-                      "id": "93bcadf647944f33a816ac00528a12a7",
-                      "pid": "02ef93068fc74895b2dbcc0169db74c2",
-                      "prevId": "8824b1032bcf4f2887a5e297a10bde2f",
-                      "child": [],
-                      "name": "删除网关",
-                      "hasSelected": 0
-                    }
-                  ],
-                  "name": "网关设备",
-                  "hasSelected": 0
-                }
-              ],
-              "name": "设备管理",
+              "name": "系统管理",
               "hasSelected": 0
             }
           ],
           "name": "系统菜单",
-          "hasSelected": 1
+          "hasSelected": 0
         }
       ]
     }

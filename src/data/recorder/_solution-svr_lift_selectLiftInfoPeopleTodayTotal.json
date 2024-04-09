@@ -1,0 +1,12 @@
+{
+  "POST": {
+    "/solution-svr/lift/selectLiftInfoPeopleTodayTotal": {
+      "errorCode": 1,
+      "record": {
+        "peopleRunningTotal": null,
+        "powerValue": 0,
+        "runningSpeed": 0
+      }
+    }
+  }
+}

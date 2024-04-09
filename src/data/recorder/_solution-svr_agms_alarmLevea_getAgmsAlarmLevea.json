@@ -1,0 +1,14 @@
+{
+  "GET": {
+    "/solution-svr/agms/alarmLevea/getAgmsAlarmLevea": {
+      "errorCode": 1,
+      "record": [
+        {
+          "id": "888edaba1a0442abad18d93df0bee53f",
+          "monitorid": "4952accdede745a8acbe2c1ae29a728f",
+          "leveltime": 33
+        }
+      ]
+    }
+  }
+}

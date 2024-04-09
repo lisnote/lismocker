@@ -1,0 +1,13 @@
+{
+  "GET": {
+    "/solution-svr/agms/dataquery/getDatasets": {
+      "errorCode": 1,
+      "record": {
+        "code": 0,
+        "msg": null,
+        "count": 0,
+        "data": []
+      }
+    }
+  }
+}

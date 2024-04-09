@@ -1,0 +1,19 @@
+{
+  "POST": {
+    "/solution-svr/lift-alarm/getFailureCount": {
+      "errorCode": 1,
+      "record": {
+        "totalNum": 0,
+        "totalProcessedNum": 0,
+        "totalUnProcessedNum": 0,
+        "earlyWarningTotalNum": 0,
+        "earlyWarnProcessedNum": 0,
+        "earlyWarnUnprocessedNum": 0,
+        "warningTotalNum": 0,
+        "processedNum": 0,
+        "unprocessedNum": 0,
+        "fishingRate": 0
+      }
+    }
+  }
+}

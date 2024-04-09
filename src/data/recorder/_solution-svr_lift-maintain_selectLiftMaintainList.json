@@ -1,0 +1,16 @@
+{
+  "POST": {
+    "/solution-svr/lift-maintain/selectLiftMaintainList": {
+      "errorCode": 1,
+      "record": {
+        "pageData": {
+          "code": 0,
+          "msg": "SUCCESS",
+          "count": 0,
+          "data": []
+        },
+        "statistics": []
+      }
+    }
+  }
+}

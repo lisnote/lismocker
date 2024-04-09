@@ -1,0 +1,8 @@
+{
+  "POST": {
+    "/solution-svr/Notify/upNotifyTemplate": {
+      "errorCode": 1,
+      "record": "upNotifyTemplateById_success"
+    }
+  }
+}

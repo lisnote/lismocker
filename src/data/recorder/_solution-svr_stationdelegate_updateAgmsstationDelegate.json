@@ -1,0 +1,8 @@
+{
+  "POST": {
+    "/solution-svr/stationdelegate/updateAgmsstationDelegate": {
+      "errorCode": 1,
+      "record": "updateStationDelegate_success"
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "POST": {
+    "/base-svr/workOrder/selectWorkOrderList": {
+      "errorCode": 1,
+      "record": [
+        {
+          "id": "f617a32da3ad40b68874b31c973e2971",
+          "deviceId": "867455055121771",
+          "alarmId": "0bbc9ecf3a634985bbecc686a2814fdd",
+          "creatorUserId": "49d828f411cc4c56abe9330cfd824c64",
+          "type": 0,
+          "information": "11",
+          "processingStatus": 0,
+          "processingResult": null,
+          "processingTime": null,
+          "processingUserId": null,
+          "pictureUrl": "http://keenyoda-iot-bucket.oss-cn-shenzhen.aliyuncs.com/QiWuIOT/GIMS/WorkOrder/b8a15b75-1709-4fd6-9046-46e63fc94b01.jpg",
+          "createTime": {
+            "year": 124,
+            "month": 0,
+            "date": 29,
+            "day": 1,
+            "hours": 15,
+            "minutes": 14,
+            "seconds": 25,
+            "time": 1706512465000,
+            "timezoneOffset": -480
+          },
+          "dName": "867455055121771",
+          "cName": "kyd_xjw",
+          "pName": null
+        }
+      ]
+    }
+  }
+}

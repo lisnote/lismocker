@@ -1,0 +1,29 @@
+{
+  "POST": {
+    "/solution-svr/lift/selectLiftPowerAndWarning": {
+      "errorCode": 1,
+      "record": {
+        "liftName": null,
+        "liftId": null,
+        "directory": null,
+        "maintainId": null,
+        "userName": null,
+        "phone": null,
+        "healthStatus": null,
+        "liftType": null,
+        "factory": null,
+        "installTime": null,
+        "monitorNum": 18,
+        "addWorkTime": 0,
+        "continuationTime": 0,
+        "deviceWarningNum": 0,
+        "deviceAlarmNum": null,
+        "photo": null,
+        "runningPower": null,
+        "healthIndex": null,
+        "agencyId": null,
+        "agencyName": null
+      }
+    }
+  }
+}

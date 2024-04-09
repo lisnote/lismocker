@@ -1,0 +1,8 @@
+{
+  "POST": {
+    "/solution-svr/Employee/employeeBindDepartment": {
+      "errorCode": 0,
+      "record": "employeeBindDepartment EXCEPTION"
+    }
+  }
+}

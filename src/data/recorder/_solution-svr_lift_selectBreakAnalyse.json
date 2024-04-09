@@ -1,0 +1,21 @@
+{
+  "POST": {
+    "/solution-svr/lift/selectBreakAnalyse": {
+      "errorCode": 1,
+      "record": {
+        "code": 0,
+        "msg": "成功",
+        "count": 0,
+        "data": [
+          {
+            "listOne": {
+              "warningNum": "0",
+              "alarmNum": "0"
+            },
+            "listTwo": []
+          }
+        ]
+      }
+    }
+  }
+}

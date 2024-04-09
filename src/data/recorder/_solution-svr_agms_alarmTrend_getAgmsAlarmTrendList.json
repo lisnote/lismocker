@@ -1,0 +1,25 @@
+{
+  "GET": {
+    "/solution-svr/agms/alarmTrend/getAgmsAlarmTrendList": {
+      "errorCode": 1,
+      "record": {
+        "code": 0,
+        "msg": null,
+        "count": 1,
+        "data": [
+          {
+            "id": "2ffdf94fd62f4ba5ba0f2617c4837b2e",
+            "factorid": "15517e56fa2040319a4d9e3b02c37d9a",
+            "monitorid": "4952accdede745a8acbe2c1ae29a728f",
+            "slicetime": 1,
+            "continuetime": 122,
+            "alarmintertime": 1,
+            "concentration": 1,
+            "factorName": "温度",
+            "unitName": "mg/m³"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "GET": {
+    "/solution-svr/company/selectDirtyCompany": {
+      "errorCode": 1,
+      "record": {
+        "code": 0,
+        "msg": "",
+        "count": 5,
+        "data": [
+          {
+            "dirtycontent": "[\"PM10\",\"SO2\",\"CO\",\"PM25\",\"O3\",\"大气压力\",\"NO2\"]",
+            "agmsDirtyCompanyEntityJson": "{\"address\":\"深圳市南山区\",\"agencyid\":\"c7539f2935154b799763de070558f068\",\"code\":\"000XXX\",\"id\":\"495cca1cc3014f5a85e436e64b5d9e67\",\"ismonitor\":1,\"latitude\":22.77033,\"longitude\":113.9046,\"name\":\"南山区污染企业\",\"recordtime\":1579072254000,\"tradetype\":1}",
+            "agencyName": "南山区"
+          },
+          {
+            "dirtycontent": "[\"PM10\",\"SO2\",\"CO\",\"PM25\",\"O3\",\"NO2\",\"负氧离子\"]",
+            "agmsDirtyCompanyEntityJson": "{\"address\":\"深圳市光明区一号\",\"agencyid\":\"0eeb13aa2ed044ef83bf5e3124131a42\",\"code\":\"g001\",\"id\":\"e3cf1a1607e44b8d90ec0a289e95f6fb\",\"ismonitor\":1,\"latitude\":22.76853,\"longitude\":113.90798,\"name\":\"光明区企业一号\",\"recordtime\":1579072516000,\"tradetype\":0}",
+            "agencyName": "光明区"
+          },
+          {
+            "dirtycontent": "[\"PM10\",\"SO2\",\"CO\",\"PM25\",\"NO2\",\"负氧离子\"]",
+            "agmsDirtyCompanyEntityJson": "{\"address\":\"深圳市福田区一号\",\"agencyid\":\"d92ee31e16d8437991d9ccda3d1c5d2e\",\"code\":\"f001\",\"id\":\"eff632c6979d4909938f9cfca6a53d6c\",\"ismonitor\":1,\"latitude\":22.748901,\"longitude\":113.887552,\"name\":\"福田区一号企业\",\"recordtime\":1579072649000,\"tradetype\":1}",
+            "agencyName": "福田区"
+          },
+          {
+            "dirtycontent": "[\"PM10\",\"SO2\",\"CO\",\"PM25\",\"CO组合因子\"]",
+            "agmsDirtyCompanyEntityJson": "{\"address\":\"蛇口企业地址\",\"agencyid\":\"b1f4322ad44444c7a374a501714f095f\",\"code\":\"dsadsa\",\"id\":\"d4aca389aa5148289f869ea56f46fd5a\",\"ismonitor\":1,\"latitude\":22.7713,\"longitude\":113.908581,\"name\":\"蛇口企业\",\"recordtime\":1579088876000,\"tradetype\":1}",
+            "agencyName": "蛇口"
+          },
+          {
+            "dirtycontent": "[\"温度\",\"PM10\",\"SO2\",\"CO\",\"PM25\",\"NO2\",\"负氧离子\",\"因子\"]",
+            "agmsDirtyCompanyEntityJson": "{\"address\":\"广州市xx路xx单元\",\"agencyid\":\"3ca67c660b7a43eb91c25c9c2f872a8b\",\"code\":\"g001\",\"id\":\"fa3e49eb690d4040bd633b93c1ba4ae2\",\"ismonitor\":1,\"latitude\":22.76923,\"longitude\":113.906285,\"name\":\"广州区一号企业\",\"recordtime\":1579072770000,\"tradetype\":2}",
+            "agencyName": "广州市"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "GET": {
+    "/solution-svr/agmsDirtyType/selectDirtyType": {
+      "errorCode": 1,
+      "record": [
+        {
+          "id": "001b9fe1f0894548a19ef98a214bd575",
+          "name": "淘汰类",
+          "mark": "淘汰类"
+        },
+        {
+          "id": "2d247d50384a4fcca026487a1dbe562f",
+          "name": "其他",
+          "mark": "其他"
+        },
+        {
+          "id": "47781c407ed84db192dd16a91797b30c",
+          "name": "拆迁",
+          "mark": "拆迁"
+        },
+        {
+          "id": "a3eb93e4355649439fc75a615bb9e22f",
+          "name": "升级改造类",
+          "mark": "升级改造类"
+        },
+        {
+          "id": "c8d27bc317b6421fae07936f54054df6",
+          "name": "夷为平地",
+          "mark": "夷为平地"
+        },
+        {
+          "id": "cc58f02d57bf4619b76241523bbb6467",
+          "name": "搬迁改造类",
+          "mark": "搬迁改造类"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "GET": {
+    "/solution-svr/agms-dirtymanage/getDirtyManage": {
+      "errorCode": 1,
+      "record": {
+        "id": "9ea74c8ef90449d5b0d03056ce92bfee",
+        "name": "1",
+        "address": "1",
+        "longitude": 113.922829,
+        "latitude": 22.772997,
+        "dirtysourcetype": 1,
+        "agencyid": "f022631381c84fe59437e1e90a511995",
+        "dirtydetail": "1",
+        "recordemployeeid": "49d828f411cc4c56abe9330cfd824c64",
+        "recordtime": {
+          "year": 124,
+          "month": 3,
+          "date": 9,
+          "day": 2,
+          "hours": 16,
+          "minutes": 16,
+          "seconds": 36,
+          "time": 1712650596000,
+          "timezoneOffset": -480
+        },
+        "dirttypeid": "cc58f02d57bf4619b76241523bbb6467",
+        "dirtystatustypeid": "7b45ac32bf6d4e8088b6f569079fd25b",
+        "approvalstatus": 0,
+        "agencyName": "越秀区",
+        "employeeName": "0uQWjWHG",
+        "statusTypeName": null,
+        "pictureUrl": "[\"http://keenyoda-iot-bucket.oss-cn-shenzhen.aliyuncs.com/file/40631157236652561712650611565%E5%89%8D%E7%AB%AF%E6%8F%90%E4%BA%A4%E5%AE%A1%E6%9F%A5%E6%B5%81%E7%A8%8B.png\"]"
+      }
+    }
+  }
+}

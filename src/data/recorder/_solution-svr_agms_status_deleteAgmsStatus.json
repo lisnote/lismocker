@@ -1,0 +1,8 @@
+{
+  "POST": {
+    "/solution-svr/agms/status/deleteAgmsStatus": {
+      "errorCode": 1,
+      "record": "deleteAgmsStatus SUCCESS"
+    }
+  }
+}

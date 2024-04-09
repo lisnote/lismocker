@@ -1,0 +1,8 @@
+{
+  "GET": {
+    "/solution-svr/agms-workorder/maintainCalendar": {
+      "errorCode": 1,
+      "record": []
+    }
+  }
+}

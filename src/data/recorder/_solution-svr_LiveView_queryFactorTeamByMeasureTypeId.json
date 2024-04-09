@@ -1,0 +1,34 @@
+{
+  "GET": {
+    "/solution-svr/LiveView/queryFactorTeamByMeasureTypeId": {
+      "errorCode": 1,
+      "record": [
+        {
+          "id": "948aadfe166d40f6a85618bb37101c7b",
+          "name": "因子组",
+          "code": "003"
+        },
+        {
+          "id": "c01c0f8979d347069a72773679392075",
+          "name": "测试因子组",
+          "code": "ZKDE"
+        },
+        {
+          "id": "ce9081986d3444919ac6b34e5f85379c",
+          "name": "CO2",
+          "code": "001"
+        },
+        {
+          "id": "d042246299cf4b3dbe600e1b2757dc38",
+          "name": "123",
+          "code": "1"
+        },
+        {
+          "id": "ef08d1c36ea14001a842d1bf28bcedf8",
+          "name": "NO2",
+          "code": "002"
+        }
+      ]
+    }
+  }
+}

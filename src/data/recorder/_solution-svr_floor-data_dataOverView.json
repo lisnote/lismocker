@@ -1,0 +1,43 @@
+{
+  "POST": {
+    "/solution-svr/floor-data/dataOverView": {
+      "errorCode": 1,
+      "record": [
+        {
+          "agencyId": "6863b685824241f2945288a1a6c37fb6",
+          "agencyName": "新建兴地下车库,地库#2",
+          "data": [
+            {
+              "proType": 5003,
+              "value": "30",
+              "name": "温度",
+              "unit": "℃",
+              "subName": null
+            },
+            {
+              "proType": 5004,
+              "value": "76.23",
+              "name": "湿度",
+              "unit": "%RH",
+              "subName": null
+            },
+            {
+              "proType": 5043,
+              "value": "33",
+              "name": "CO",
+              "unit": "ppm",
+              "subName": null
+            },
+            {
+              "proType": 5042,
+              "value": "16.98",
+              "name": "VOC",
+              "unit": "ppm",
+              "subName": null
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

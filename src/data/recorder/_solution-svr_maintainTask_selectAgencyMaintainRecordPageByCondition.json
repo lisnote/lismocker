@@ -1,0 +1,13 @@
+{
+  "GET": {
+    "/solution-svr/maintainTask/selectAgencyMaintainRecordPageByCondition": {
+      "errorCode": 1,
+      "record": {
+        "code": 0,
+        "msg": "成功!",
+        "count": 0,
+        "data": []
+      }
+    }
+  }
+}

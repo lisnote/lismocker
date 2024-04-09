@@ -1,0 +1,8 @@
+{
+  "GET": {
+    "/solution-svr/mapSecond/selectAgmsMapSecondBlameEmployee": {
+      "errorCode": 1,
+      "record": []
+    }
+  }
+}

@@ -5,27 +5,8 @@
       "record": {
         "code": 0,
         "msg": "success",
-        "count": 1,
-        "data": [
-          {
-            "id": "391190e0b92d441c8a11368e6060d36c",
-            "name": "气",
-            "mark": null,
-            "createTime": {
-              "year": 123,
-              "month": 7,
-              "date": 15,
-              "day": 2,
-              "hours": 17,
-              "minutes": 1,
-              "seconds": 19,
-              "time": 1692090079000,
-              "timezoneOffset": -28800
-            },
-            "agencyId": null,
-            "picUrl": "http://keenyoda-iot-bucket.oss-cn-shenzhen.aliyuncs.com/QiWuIOT/classIcon/13468cfbfdbe425395c6b32885054fb8.jpg"
-          }
-        ]
+        "count": 0,
+        "data": []
       }
     }
   }

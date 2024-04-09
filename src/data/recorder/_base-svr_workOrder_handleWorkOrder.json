@@ -1,0 +1,8 @@
+{
+  "POST": {
+    "/base-svr/workOrder/handleWorkOrder": {
+      "errorCode": 68,
+      "record": "the status of the device is offline"
+    }
+  }
+}

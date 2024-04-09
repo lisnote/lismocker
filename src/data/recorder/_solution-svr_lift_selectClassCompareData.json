@@ -1,0 +1,564 @@
+{
+  "POST": {
+    "/solution-svr/lift/selectClassCompareData": {
+      "errorCode": 1,
+      "record": {
+        "code": 0,
+        "msg": "成功",
+        "count": 1,
+        "data": [
+          {
+            "listOne": [
+              {
+                "deviceId": "LiftTDev01",
+                "proType": "6000",
+                "number": "5",
+                "sensorValue": "17.07",
+                "time": {
+                  "year": 124,
+                  "month": 3,
+                  "date": 9,
+                  "day": 2,
+                  "hours": 0,
+                  "minutes": 0,
+                  "seconds": 0,
+                  "time": 1712592000000,
+                  "timezoneOffset": -480
+                }
+              },
+              {
+                "deviceId": "LiftTDev01",
+                "proType": "6000",
+                "number": "5",
+                "sensorValue": "17.52",
+                "time": {
+                  "year": 124,
+                  "month": 3,
+                  "date": 9,
+                  "day": 2,
+                  "hours": 1,
+                  "minutes": 0,
+                  "seconds": 0,
+                  "time": 1712595600000,
+                  "timezoneOffset": -480
+                }
+              },
+              {
+                "deviceId": "LiftTDev01",
+                "proType": "6000",
+                "number": "5",
+                "sensorValue": "17.92",
+                "time": {
+                  "year": 124,
+                  "month": 3,
+                  "date": 9,
+                  "day": 2,
+                  "hours": 2,
+                  "minutes": 0,
+                  "seconds": 0,
+                  "time": 1712599200000,
+                  "timezoneOffset": -480
+                }
+              },
+              {
+                "deviceId": "LiftTDev01",
+                "proType": "6000",
+                "number": "5",
+                "sensorValue": "17.62",
+                "time": {
+                  "year": 124,
+                  "month": 3,
+                  "date": 9,
+                  "day": 2,
+                  "hours": 3,
+                  "minutes": 0,
+                  "seconds": 0,
+                  "time": 1712602800000,
+                  "timezoneOffset": -480
+                }
+              },
+              {
+                "deviceId": "LiftTDev01",
+                "proType": "6000",
+                "number": "5",
+                "sensorValue": "17.7",
+                "time": {
+                  "year": 124,
+                  "month": 3,
+                  "date": 9,
+                  "day": 2,
+                  "hours": 4,
+                  "minutes": 0,
+                  "seconds": 0,
+                  "time": 1712606400000,
+                  "timezoneOffset": -480
+                }
+              },
+              {
+                "deviceId": "LiftTDev01",
+                "proType": "6000",
+                "number": "5",
+                "sensorValue": "19.18",
+                "time": {
+                  "year": 124,
+                  "month": 3,
+                  "date": 9,
+                  "day": 2,
+                  "hours": 5,
+                  "minutes": 0,
+                  "seconds": 0,
+                  "time": 1712610000000,
+                  "timezoneOffset": -480
+                }
+              },
+              {
+                "deviceId": "LiftTDev01",
+                "proType": "6000",
+                "number": "5",
+                "sensorValue": "18.82",
+                "time": {
+                  "year": 124,
+                  "month": 3,
+                  "date": 9,
+                  "day": 2,
+                  "hours": 6,
+                  "minutes": 0,
+                  "seconds": 0,
+                  "time": 1712613600000,
+                  "timezoneOffset": -480
+                }
+              },
+              {
+                "deviceId": "LiftTDev01",
+                "proType": "6000",
+                "number": "5",
+                "sensorValue": "16.05",
+                "time": {
+                  "year": 124,
+                  "month": 3,
+                  "date": 9,
+                  "day": 2,
+                  "hours": 7,
+                  "minutes": 0,
+                  "seconds": 0,
+                  "time": 1712617200000,
+                  "timezoneOffset": -480
+                }
+              },
+              {
+                "deviceId": "LiftTDev01",
+                "proType": "6000",
+                "number": "5",
+                "sensorValue": "16.82",
+                "time": {
+                  "year": 124,
+                  "month": 3,
+                  "date": 9,
+                  "day": 2,
+                  "hours": 8,
+                  "minutes": 0,
+                  "seconds": 0,
+                  "time": 1712620800000,
+                  "timezoneOffset": -480
+                }
+              },
+              {
+                "deviceId": "LiftTDev01",
+                "proType": "6000",
+                "number": "5",
+                "sensorValue": "18.16",
+                "time": {
+                  "year": 124,
+                  "month": 3,
+                  "date": 9,
+                  "day": 2,
+                  "hours": 9,
+                  "minutes": 0,
+                  "seconds": 0,
+                  "time": 1712624400000,
+                  "timezoneOffset": -480
+                }
+              },
+              {
+                "deviceId": "LiftTDev01",
+                "proType": "6000",
+                "number": "5",
+                "sensorValue": "17.85",
+                "time": {
+                  "year": 124,
+                  "month": 3,
+                  "date": 9,
+                  "day": 2,
+                  "hours": 10,
+                  "minutes": 0,
+                  "seconds": 0,
+                  "time": 1712628000000,
+                  "timezoneOffset": -480
+                }
+              },
+              {
+                "deviceId": "LiftTDev01",
+                "proType": "6000",
+                "number": "5",
+                "sensorValue": "17.81",
+                "time": {
+                  "year": 124,
+                  "month": 3,
+                  "date": 9,
+                  "day": 2,
+                  "hours": 11,
+                  "minutes": 0,
+                  "seconds": 0,
+                  "time": 1712631600000,
+                  "timezoneOffset": -480
+                }
+              },
+              {
+                "deviceId": "LiftTDev01",
+                "proType": "6000",
+                "number": "5",
+                "sensorValue": "17.97",
+                "time": {
+                  "year": 124,
+                  "month": 3,
+                  "date": 9,
+                  "day": 2,
+                  "hours": 12,
+                  "minutes": 0,
+                  "seconds": 0,
+                  "time": 1712635200000,
+                  "timezoneOffset": -480
+                }
+              },
+              {
+                "deviceId": "LiftTDev01",
+                "proType": "6000",
+                "number": "5",
+                "sensorValue": "17.23",
+                "time": {
+                  "year": 124,
+                  "month": 3,
+                  "date": 9,
+                  "day": 2,
+                  "hours": 13,
+                  "minutes": 0,
+                  "seconds": 0,
+                  "time": 1712638800000,
+                  "timezoneOffset": -480
+                }
+              },
+              {
+                "deviceId": "LiftTDev01",
+                "proType": "6000",
+                "number": "5",
+                "sensorValue": "15.26",
+                "time": {
+                  "year": 124,
+                  "month": 3,
+                  "date": 9,
+                  "day": 2,
+                  "hours": 14,
+                  "minutes": 0,
+                  "seconds": 0,
+                  "time": 1712642400000,
+                  "timezoneOffset": -480
+                }
+              },
+              {
+                "deviceId": "LiftTDev01",
+                "proType": "6000",
+                "number": "5",
+                "sensorValue": "19.1",
+                "time": {
+                  "year": 124,
+                  "month": 3,
+                  "date": 9,
+                  "day": 2,
+                  "hours": 15,
+                  "minutes": 0,
+                  "seconds": 0,
+                  "time": 1712646000000,
+                  "timezoneOffset": -480
+                }
+              }
+            ],
+            "listTwo": [
+              {
+                "deviceId": "LiftTDev01",
+                "proType": "6000",
+                "number": "5",
+                "sensorValue": "17.07",
+                "time": {
+                  "year": 124,
+                  "month": 3,
+                  "date": 9,
+                  "day": 2,
+                  "hours": 0,
+                  "minutes": 0,
+                  "seconds": 0,
+                  "time": 1712592000000,
+                  "timezoneOffset": -480
+                }
+              },
+              {
+                "deviceId": "LiftTDev01",
+                "proType": "6000",
+                "number": "5",
+                "sensorValue": "17.52",
+                "time": {
+                  "year": 124,
+                  "month": 3,
+                  "date": 9,
+                  "day": 2,
+                  "hours": 1,
+                  "minutes": 0,
+                  "seconds": 0,
+                  "time": 1712595600000,
+                  "timezoneOffset": -480
+                }
+              },
+              {
+                "deviceId": "LiftTDev01",
+                "proType": "6000",
+                "number": "5",
+                "sensorValue": "17.92",
+                "time": {
+                  "year": 124,
+                  "month": 3,
+                  "date": 9,
+                  "day": 2,
+                  "hours": 2,
+                  "minutes": 0,
+                  "seconds": 0,
+                  "time": 1712599200000,
+                  "timezoneOffset": -480
+                }
+              },
+              {
+                "deviceId": "LiftTDev01",
+                "proType": "6000",
+                "number": "5",
+                "sensorValue": "17.62",
+                "time": {
+                  "year": 124,
+                  "month": 3,
+                  "date": 9,
+                  "day": 2,
+                  "hours": 3,
+                  "minutes": 0,
+                  "seconds": 0,
+                  "time": 1712602800000,
+                  "timezoneOffset": -480
+                }
+              },
+              {
+                "deviceId": "LiftTDev01",
+                "proType": "6000",
+                "number": "5",
+                "sensorValue": "17.7",
+                "time": {
+                  "year": 124,
+                  "month": 3,
+                  "date": 9,
+                  "day": 2,
+                  "hours": 4,
+                  "minutes": 0,
+                  "seconds": 0,
+                  "time": 1712606400000,
+                  "timezoneOffset": -480
+                }
+              },
+              {
+                "deviceId": "LiftTDev01",
+                "proType": "6000",
+                "number": "5",
+                "sensorValue": "19.18",
+                "time": {
+                  "year": 124,
+                  "month": 3,
+                  "date": 9,
+                  "day": 2,
+                  "hours": 5,
+                  "minutes": 0,
+                  "seconds": 0,
+                  "time": 1712610000000,
+                  "timezoneOffset": -480
+                }
+              },
+              {
+                "deviceId": "LiftTDev01",
+                "proType": "6000",
+                "number": "5",
+                "sensorValue": "18.82",
+                "time": {
+                  "year": 124,
+                  "month": 3,
+                  "date": 9,
+                  "day": 2,
+                  "hours": 6,
+                  "minutes": 0,
+                  "seconds": 0,
+                  "time": 1712613600000,
+                  "timezoneOffset": -480
+                }
+              },
+              {
+                "deviceId": "LiftTDev01",
+                "proType": "6000",
+                "number": "5",
+                "sensorValue": "16.05",
+                "time": {
+                  "year": 124,
+                  "month": 3,
+                  "date": 9,
+                  "day": 2,
+                  "hours": 7,
+                  "minutes": 0,
+                  "seconds": 0,
+                  "time": 1712617200000,
+                  "timezoneOffset": -480
+                }
+              },
+              {
+                "deviceId": "LiftTDev01",
+                "proType": "6000",
+                "number": "5",
+                "sensorValue": "16.82",
+                "time": {
+                  "year": 124,
+                  "month": 3,
+                  "date": 9,
+                  "day": 2,
+                  "hours": 8,
+                  "minutes": 0,
+                  "seconds": 0,
+                  "time": 1712620800000,
+                  "timezoneOffset": -480
+                }
+              },
+              {
+                "deviceId": "LiftTDev01",
+                "proType": "6000",
+                "number": "5",
+                "sensorValue": "18.16",
+                "time": {
+                  "year": 124,
+                  "month": 3,
+                  "date": 9,
+                  "day": 2,
+                  "hours": 9,
+                  "minutes": 0,
+                  "seconds": 0,
+                  "time": 1712624400000,
+                  "timezoneOffset": -480
+                }
+              },
+              {
+                "deviceId": "LiftTDev01",
+                "proType": "6000",
+                "number": "5",
+                "sensorValue": "17.85",
+                "time": {
+                  "year": 124,
+                  "month": 3,
+                  "date": 9,
+                  "day": 2,
+                  "hours": 10,
+                  "minutes": 0,
+                  "seconds": 0,
+                  "time": 1712628000000,
+                  "timezoneOffset": -480
+                }
+              },
+              {
+                "deviceId": "LiftTDev01",
+                "proType": "6000",
+                "number": "5",
+                "sensorValue": "17.81",
+                "time": {
+                  "year": 124,
+                  "month": 3,
+                  "date": 9,
+                  "day": 2,
+                  "hours": 11,
+                  "minutes": 0,
+                  "seconds": 0,
+                  "time": 1712631600000,
+                  "timezoneOffset": -480
+                }
+              },
+              {
+                "deviceId": "LiftTDev01",
+                "proType": "6000",
+                "number": "5",
+                "sensorValue": "17.97",
+                "time": {
+                  "year": 124,
+                  "month": 3,
+                  "date": 9,
+                  "day": 2,
+                  "hours": 12,
+                  "minutes": 0,
+                  "seconds": 0,
+                  "time": 1712635200000,
+                  "timezoneOffset": -480
+                }
+              },
+              {
+                "deviceId": "LiftTDev01",
+                "proType": "6000",
+                "number": "5",
+                "sensorValue": "17.23",
+                "time": {
+                  "year": 124,
+                  "month": 3,
+                  "date": 9,
+                  "day": 2,
+                  "hours": 13,
+                  "minutes": 0,
+                  "seconds": 0,
+                  "time": 1712638800000,
+                  "timezoneOffset": -480
+                }
+              },
+              {
+                "deviceId": "LiftTDev01",
+                "proType": "6000",
+                "number": "5",
+                "sensorValue": "15.26",
+                "time": {
+                  "year": 124,
+                  "month": 3,
+                  "date": 9,
+                  "day": 2,
+                  "hours": 14,
+                  "minutes": 0,
+                  "seconds": 0,
+                  "time": 1712642400000,
+                  "timezoneOffset": -480
+                }
+              },
+              {
+                "deviceId": "LiftTDev01",
+                "proType": "6000",
+                "number": "5",
+                "sensorValue": "19.1",
+                "time": {
+                  "year": 124,
+                  "month": 3,
+                  "date": 9,
+                  "day": 2,
+                  "hours": 15,
+                  "minutes": 0,
+                  "seconds": 0,
+                  "time": 1712646000000,
+                  "timezoneOffset": -480
+                }
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

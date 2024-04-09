@@ -1,0 +1,26 @@
+{
+  "POST": {
+    "/solution-svr/TargetSave/upTargetSave": {
+      "errorCode": 1,
+      "record": {
+        "id": "e00de09526504ba38d209f4373ee5d36",
+        "createtime": "2025",
+        "agencyid": "22e9816793654e71ab081e7f0219b082",
+        "so2": 1,
+        "no2": 1,
+        "pm10": 1,
+        "pm25": 1,
+        "co": 1,
+        "o3": 1,
+        "valEqualOneFieldName": [
+          "SO2",
+          "NO2",
+          "PM10",
+          "PM25",
+          "CO",
+          "O3"
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "POST": {
+    "/solution-svr/agms-historysensor/getDataStatisticsOne": {
+      "errorCode": 1,
+      "record": {
+        "elseAgency": {},
+        "nationalControl": {
+          "CO": 24
+        }
+      }
+    }
+  }
+}

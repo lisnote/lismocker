@@ -2,7 +2,7 @@
   "POST": {
     "/user-svr/User/selectAllAgencyUserCount": {
       "errorCode": 1,
-      "record": 2
+      "record": 1
     }
   }
 }

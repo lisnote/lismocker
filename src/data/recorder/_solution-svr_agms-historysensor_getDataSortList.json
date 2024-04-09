@@ -1,0 +1,37 @@
+{
+  "POST": {
+    "/solution-svr/agms-historysensor/getDataSortList": {
+      "errorCode": 1,
+      "record": {
+        "sortList": [
+          {
+            "agencyId": "b1f4322ad44444c7a374a501714f095f",
+            "agencyName": "蛇口",
+            "stationId": "df8e33724ab04c84b8747cf29e10a834",
+            "stationName": "蛇口B站",
+            "sensorTime": {
+              "year": 124,
+              "month": 3,
+              "date": 9,
+              "day": 2,
+              "hours": 15,
+              "minutes": 45,
+              "seconds": 43,
+              "time": 1712648743000,
+              "timezoneOffset": -480
+            },
+            "vagSO2Val": 0.3271,
+            "vagNO2Val": 0.2704,
+            "vagPM10Val": 0.3181,
+            "vagCOVal": 1.312,
+            "vagO3Val": 0.4106,
+            "vagPM25Val": 0.8337,
+            "aqiValue": null,
+            "indexValue": 3.47,
+            "level": "3"
+          }
+        ]
+      }
+    }
+  }
+}

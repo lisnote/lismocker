@@ -1,0 +1,8 @@
+{
+  "GET": {
+    "/solution-svr/favourite/getFavByTypeAndFavId": {
+      "errorCode": 39,
+      "record": "NOT_EXIST"
+    }
+  }
+}

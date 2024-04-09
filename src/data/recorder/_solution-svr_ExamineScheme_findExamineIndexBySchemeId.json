@@ -1,0 +1,18 @@
+{
+  "GET": {
+    "/solution-svr/ExamineScheme/findExamineIndexBySchemeId": {
+      "errorCode": 1,
+      "record": [
+        {
+          "id": "2a3e194a58b14e6fb724654b9ac6ed87",
+          "indexname": "B指标",
+          "contenttype": 1,
+          "score": 50,
+          "scorestandard": "B标准",
+          "methodtype": 0,
+          "workdetail": "B路线"
+        }
+      ]
+    }
+  }
+}

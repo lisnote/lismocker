@@ -1,0 +1,8 @@
+{
+  "GET": {
+    "/solution-svr/mapSecond/selectAgmsMapMaintainContentMaxTime": {
+      "errorCode": 39,
+      "record": "NOT_EXIST"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "GET": {
+    "/solution-svr/cityAirQuaRank/selectRank": {
+      "errorCode": 1,
+      "record": {
+        "TwoYearsAgo": [],
+        "LastYear": [],
+        "ThisYear": []
+      }
+    }
+  }
+}

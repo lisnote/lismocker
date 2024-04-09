@@ -1,0 +1,101 @@
+{
+  "POST": {
+    "/solution-svr/lift/getLiftEntityList": {
+      "errorCode": 1,
+      "record": [
+        {
+          "id": "LiftTDev01",
+          "name": "LiftTDev01",
+          "factory": "LiftTDev01",
+          "type": true,
+          "directory": false,
+          "photo": null,
+          "maintainId": "49d828f411cc4c56abe9330cfd824c64",
+          "installTime": {
+            "year": 121,
+            "month": 11,
+            "date": 31,
+            "day": 5,
+            "hours": 16,
+            "minutes": 24,
+            "seconds": 42,
+            "time": 1640939082000,
+            "timezoneOffset": -480
+          },
+          "healthStatus": 0,
+          "agencyId": "2035ee98bc1846fea6a6b29e1bfadb0a",
+          "agencyName": "体育中心站"
+        },
+        {
+          "id": "LiftTDev02",
+          "name": "LiftTDev02",
+          "factory": "kyd",
+          "type": true,
+          "directory": true,
+          "photo": null,
+          "maintainId": "15b197094f3d42b487c2972f4e8a10c2",
+          "installTime": {
+            "year": 122,
+            "month": 0,
+            "date": 6,
+            "day": 4,
+            "hours": 14,
+            "minutes": 56,
+            "seconds": 44,
+            "time": 1641452204000,
+            "timezoneOffset": -480
+          },
+          "healthStatus": 2,
+          "agencyId": "908eb35de8bd4127935d7dd1f923957c",
+          "agencyName": "体育中心站,A区,别墅路出口2"
+        },
+        {
+          "id": "LiftTDev03",
+          "name": "LiftTDev03",
+          "factory": "kyd",
+          "type": true,
+          "directory": false,
+          "photo": null,
+          "maintainId": "49d828f411cc4c56abe9330cfd824c64",
+          "installTime": {
+            "year": 122,
+            "month": 0,
+            "date": 6,
+            "day": 4,
+            "hours": 14,
+            "minutes": 57,
+            "seconds": 11,
+            "time": 1641452231000,
+            "timezoneOffset": -480
+          },
+          "healthStatus": 0,
+          "agencyId": "908eb35de8bd4127935d7dd1f923957c",
+          "agencyName": "体育中心站,A区,别墅路出口2"
+        },
+        {
+          "id": "LiftTDev04",
+          "name": "LiftTDev04",
+          "factory": "kyd",
+          "type": true,
+          "directory": true,
+          "photo": null,
+          "maintainId": "dc89b875dad44292b2814ec5590879d5",
+          "installTime": {
+            "year": 122,
+            "month": 0,
+            "date": 6,
+            "day": 4,
+            "hours": 14,
+            "minutes": 57,
+            "seconds": 34,
+            "time": 1641452254000,
+            "timezoneOffset": -480
+          },
+          "healthStatus": 0,
+          "agencyId": "3dfe14bf3004425da42cf4a8ab7a4b14",
+          "agencyName": "学府路站,C区"
+        }
+      ]
+    }
+  }
+}

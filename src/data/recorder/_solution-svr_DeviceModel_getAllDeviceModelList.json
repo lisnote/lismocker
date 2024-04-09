@@ -1,0 +1,104 @@
+{
+  "GET": {
+    "/solution-svr/DeviceModel/getAllDeviceModelList": {
+      "errorCode": 1,
+      "record": {
+        "code": 0,
+        "msg": "成功！",
+        "count": 13,
+        "data": [
+          {
+            "id": "098fbec85e634feba1b234e0a4b654fe",
+            "name": "O3传感器",
+            "code": "11211fggf",
+            "company": "精优达",
+            "modeltype": 2,
+            "minfrequency": 1,
+            "minnumber": 2
+          },
+          {
+            "id": "1829bf66691f41f390b7a96c38857c08",
+            "name": "NO2浓度检测",
+            "code": "KYD-00021",
+            "company": "KYD",
+            "modeltype": 2,
+            "minfrequency": 6,
+            "minnumber": 0
+          },
+          {
+            "id": "19d1517ed9204784b2b50b56f64ebb55",
+            "name": "CO传感器",
+            "code": "gfdgfdg",
+            "company": "精优达",
+            "modeltype": 2,
+            "minfrequency": 7,
+            "minnumber": 7
+          },
+          {
+            "id": "2a3b23730db24891b6869ab2fcf6bb92",
+            "name": "NO2传感器",
+            "code": "dfghfgh",
+            "company": "精优达",
+            "modeltype": 1,
+            "minfrequency": 8,
+            "minnumber": 8
+          },
+          {
+            "id": "420d8992172b44e6988fc90c443fcc7c",
+            "name": "颗粒物传感器",
+            "code": "dgfsfg",
+            "company": "精优达",
+            "modeltype": 2,
+            "minfrequency": 98,
+            "minnumber": 8
+          },
+          {
+            "id": "43fb9caf229349139c82d140dc9d27a6",
+            "name": "微型空气站监测仪",
+            "code": "fgdsgfdg",
+            "company": "精优达",
+            "modeltype": 2,
+            "minfrequency": 6,
+            "minnumber": 6
+          },
+          {
+            "id": "635b91fc77b642ab88dc1d875b6ee24c",
+            "name": "气象色谱仪",
+            "code": "qx-0002",
+            "company": "精优达",
+            "modeltype": 2,
+            "minfrequency": 5,
+            "minnumber": 9
+          },
+          {
+            "id": "6c37a521051846998240f55be009530f",
+            "name": "移动监测设备",
+            "code": "Kyd-jkjjhsadf",
+            "company": "精优达",
+            "modeltype": 2,
+            "minfrequency": 1,
+            "minnumber": 1
+          },
+          {
+            "id": "722733a04beb4117b0cfbc83677f3789",
+            "name": "空气发生器",
+            "code": "kq-0001",
+            "company": "精优达",
+            "modeltype": 2,
+            "minfrequency": 1,
+            "minnumber": 1
+          },
+          {
+            "id": "79585eca80744e4ca4b3b9ad683bbcb5",
+            "name": "CO浓度检测",
+            "code": "KYD-00031",
+            "company": "KYD",
+            "modeltype": 2,
+            "minfrequency": 5,
+            "minnumber": 1
+          }
+        ]
+      }
+    }
+  }
+}

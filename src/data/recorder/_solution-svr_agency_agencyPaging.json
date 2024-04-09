@@ -1,0 +1,29 @@
+{
+  "GET": {
+    "/solution-svr/agency/agencyPaging": {
+      "errorCode": 1,
+      "record": {
+        "code": 0,
+        "msg": null,
+        "count": 1,
+        "data": [
+          {
+            "id": "21395f43ba2f4a298af9a45f3ad4f5b3",
+            "pid": "22e9816793654e71ab081e7f0219b082",
+            "name": "广东省",
+            "agencytype": "67f4908ae4ee40b4b39ae0af44541bb3",
+            "level": "二级",
+            "blameid": "7c847db0957d4e0da96ce5ca3764935b",
+            "enviromentid": "7c847db0957d4e0da96ce5ca3764935b",
+            "range": "广东省内",
+            "code": 71,
+            "blameName": null,
+            "blamePhone": null,
+            "enviromentName": null,
+            "enviromentPhone": null
+          }
+        ]
+      }
+    }
+  }
+}

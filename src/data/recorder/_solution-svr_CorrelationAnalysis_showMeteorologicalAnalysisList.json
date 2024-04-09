@@ -1,0 +1,11 @@
+{
+  "GET": {
+    "/solution-svr/CorrelationAnalysis/showMeteorologicalAnalysisList": {
+      "errorCode": 1,
+      "record": {
+        "data": [],
+        "frequency": []
+      }
+    }
+  }
+}

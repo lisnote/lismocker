@@ -1,0 +1,67 @@
+{
+  "GET": {
+    "/solution-svr/company/selectDirtyCompanyById": {
+      "errorCode": 1,
+      "record": {
+        "agmsDirtyCompanyPictureKeyList": [
+          {
+            "dirtycompanyid": "495cca1cc3014f5a85e436e64b5d9e67",
+            "pictureurl": "http://keenyoda-iot-bucket.oss-cn-shenzhen.aliyuncs.com/file/1579088103696psb%20(8).jpg"
+          }
+        ],
+        "agmsDirtyCompanyEntity": {
+          "id": "495cca1cc3014f5a85e436e64b5d9e67",
+          "name": "南山区污染企业",
+          "code": "000XXX",
+          "agencyid": "c7539f2935154b799763de070558f068",
+          "address": "深圳市南山区",
+          "longitude": 113.9046,
+          "latitude": 22.77033,
+          "tradetype": 1,
+          "recordtime": {
+            "year": 120,
+            "month": 0,
+            "date": 15,
+            "day": 3,
+            "hours": 15,
+            "minutes": 10,
+            "seconds": 54,
+            "time": 1579072254000,
+            "timezoneOffset": -480
+          },
+          "ismonitor": 1
+        },
+        "agmsDirtyCompanyFactorKeyList": [
+          {
+            "name": "PM10",
+            "factorId": "21d29106ef1a41de86d2690776159369"
+          },
+          {
+            "name": "SO2",
+            "factorId": "2e24ee5964f14412b52e748e81ec3111"
+          },
+          {
+            "name": "CO",
+            "factorId": "5198a2bb1e5f43c1829da3b219cfbe80"
+          },
+          {
+            "name": "PM25",
+            "factorId": "5fcbffc3c87f485dbc92aa00b393993b"
+          },
+          {
+            "name": "O3",
+            "factorId": "8ff1d409479b477e94618dd02acfd5b5"
+          },
+          {
+            "name": "大气压力",
+            "factorId": "96d0ceefb15946118b1eabc0af6314e3"
+          },
+          {
+            "name": "NO2",
+            "factorId": "a36ccb2afc374ca6925fc05c8451511f"
+          }
+        ]
+      }
+    }
+  }
+}

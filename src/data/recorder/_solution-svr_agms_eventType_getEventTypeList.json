@@ -1,0 +1,59 @@
+{
+  "GET": {
+    "/solution-svr/agms/eventType/getEventTypeList": {
+      "errorCode": 1,
+      "record": [
+        {
+          "id": "26177475966742598d0478a96c83e83c",
+          "name": "烟花爆竹",
+          "mark": ""
+        },
+        {
+          "id": "4a5237b896c943babe3a2e8ba59121f1",
+          "name": "垃圾焚烧",
+          "mark": "123333"
+        },
+        {
+          "id": "6df123856d114246afbfe5133bb4637d",
+          "name": "煤烟污染",
+          "mark": ""
+        },
+        {
+          "id": "81373b0a3325415da709fe53ec900761",
+          "name": "机动车排放",
+          "mark": ""
+        },
+        {
+          "id": "8eec7d5bbf4f4e4383a9a7b38ca4f423",
+          "name": "道路扬尘",
+          "mark": "123"
+        },
+        {
+          "id": "9c324b55a2d04fb3a0640e6617458af9",
+          "name": "工地扬尘",
+          "mark": ""
+        },
+        {
+          "id": "a930eb6fbac64a14beaa51a2e65ea063",
+          "name": "工业污染",
+          "mark": ""
+        },
+        {
+          "id": "b63b5c433e3f42b2b0a02405e243e588",
+          "name": "渣土运输",
+          "mark": ""
+        },
+        {
+          "id": "ccd2aaf274094de19279914d1a9c4ff6",
+          "name": "餐饮油烟",
+          "mark": ""
+        },
+        {
+          "id": "f8ef2a917e284ea1be58c9b9dc82f3f7",
+          "name": "工程车辆保洁",
+          "mark": ""
+        }
+      ]
+    }
+  }
+}

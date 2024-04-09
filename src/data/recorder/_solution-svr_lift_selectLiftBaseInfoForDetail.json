@@ -1,0 +1,31 @@
+{
+  "POST": {
+    "/solution-svr/lift/selectLiftBaseInfoForDetail": {
+      "errorCode": 1,
+      "record": {
+        "liftName": "LiftTDev01",
+        "liftId": "LiftTDev01",
+        "directory": false,
+        "maintainId": "49d828f411cc4c56abe9330cfd824c64",
+        "userName": "kyd_xjw",
+        "phone": "18888888888",
+        "areaName": "体育中心站",
+        "healthStatus": 0,
+        "liftType": true,
+        "factory": "LiftTDev01",
+        "installTime": {
+          "year": 121,
+          "month": 11,
+          "date": 31,
+          "day": 5,
+          "hours": 16,
+          "minutes": 24,
+          "seconds": 42,
+          "time": 1640939082000,
+          "timezoneOffset": -480
+        },
+        "photo": null
+      }
+    }
+  }
+}

@@ -1,0 +1,129 @@
+{
+  "GET": {
+    "/solution-svr/stationMeasureType/selectAllAgmsStationMeasureTypeList": {
+      "errorCode": 1,
+      "record": [
+        {
+          "id": "0ababde7fb95401db04b45166453a3b2",
+          "name": "城中村",
+          "mark": "",
+          "pid": "6fa92c003b8e40798e1f032bdf40169e",
+          "pidMap": null,
+          "childMenus": null
+        },
+        {
+          "id": "21a328cd2feb4d0d9a3063d9823df322",
+          "name": "背景",
+          "mark": "",
+          "pid": "95c7c57ec1aa4cf188ddb2bbe81fc878",
+          "pidMap": null,
+          "childMenus": null
+        },
+        {
+          "id": "384e5d1b90964466861e606a444a7d09",
+          "name": "深圳站",
+          "mark": "",
+          "pid": "7040c6b5f65d4c59a38884d0a9487c7f",
+          "pidMap": null,
+          "childMenus": null
+        },
+        {
+          "id": "4952accdede745a8acbe2c1ae29a728f",
+          "name": "国/省/市控站",
+          "mark": "123123",
+          "pid": "000000",
+          "pidMap": null,
+          "childMenus": null
+        },
+        {
+          "id": "6fa92c003b8e40798e1f032bdf40169e",
+          "name": "微型站",
+          "mark": "微型站",
+          "pid": "000000",
+          "pidMap": null,
+          "childMenus": null
+        },
+        {
+          "id": "7040c6b5f65d4c59a38884d0a9487c7f",
+          "name": "质量评价站",
+          "mark": "",
+          "pid": "000000",
+          "pidMap": null,
+          "childMenus": null
+        },
+        {
+          "id": "72e3d92e9ced449d8f55715cc0c25f3b",
+          "name": "扬尘站",
+          "mark": "扬尘站",
+          "pid": "7acc12904a36417d95cb985331565d14",
+          "pidMap": null,
+          "childMenus": null
+        },
+        {
+          "id": "7a19360cdff54e08841523dd7a5e53a1",
+          "name": "园区站",
+          "mark": "",
+          "pid": "9d68818d40da4c05be1bacb5239cb0ec",
+          "pidMap": null,
+          "childMenus": null
+        },
+        {
+          "id": "7acc12904a36417d95cb985331565d14",
+          "name": "网格评价站",
+          "mark": "",
+          "pid": "000000",
+          "pidMap": null,
+          "childMenus": null
+        },
+        {
+          "id": "7f8b8fc0596a4749b00503ef29f9592d",
+          "name": "餐饮集中区",
+          "mark": "",
+          "pid": "6fa92c003b8e40798e1f032bdf40169e",
+          "pidMap": null,
+          "childMenus": null
+        },
+        {
+          "id": "9d68818d40da4c05be1bacb5239cb0ec",
+          "name": "污染监控站",
+          "mark": "",
+          "pid": "000000",
+          "pidMap": null,
+          "childMenus": null
+        },
+        {
+          "id": "a7f9f889dbac4040a2d640af46728654",
+          "name": "路边站",
+          "mark": "",
+          "pid": "7040c6b5f65d4c59a38884d0a9487c7f",
+          "pidMap": null,
+          "childMenus": null
+        },
+        {
+          "id": "aa1426ffb1c146dbb080bdb979225e67",
+          "name": "移动监测",
+          "mark": "",
+          "pid": "000000",
+          "pidMap": null,
+          "childMenus": null
+        },
+        {
+          "id": "bf3a186681fd4e54b964bb4a47eea901",
+          "name": "敏感点",
+          "mark": "",
+          "pid": "6fa92c003b8e40798e1f032bdf40169e",
+          "pidMap": null,
+          "childMenus": null
+        },
+        {
+          "id": "d99b74755be94cc6ac32b55516ee701e",
+          "name": "乡镇考核站",
+          "mark": "",
+          "pid": "6fa92c003b8e40798e1f032bdf40169e",
+          "pidMap": null,
+          "childMenus": null
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "POST": {
+    "/solution-svr/agms-historysensor/getDataStatisticsTwo": {
+      "errorCode": 1,
+      "record": {
+        "elseAgency": [
+          {
+            "agencyId": null,
+            "agencyName": null,
+            "stationId": null,
+            "stationName": null,
+            "sensorTime": null,
+            "vagSO2Val": 0,
+            "vagNO2Val": 0,
+            "vagPM10Val": 0,
+            "vagCOVal": 0,
+            "vagO3Val": 0,
+            "vagPM25Val": 0,
+            "aqiValue": null,
+            "indexValue": 0,
+            "level": null
+          }
+        ],
+        "nationalControl": [
+          {
+            "agencyId": null,
+            "agencyName": null,
+            "stationId": null,
+            "stationName": null,
+            "sensorTime": {
+              "year": 124,
+              "month": 3,
+              "date": 9,
+              "day": 2,
+              "hours": 4,
+              "minutes": 27,
+              "seconds": 39,
+              "time": 1712608059000,
+              "timezoneOffset": -480
+            },
+            "vagSO2Val": 0.3362,
+            "vagNO2Val": 0.2689,
+            "vagPM10Val": 0.3207,
+            "vagCOVal": 1.312,
+            "vagO3Val": 0.416,
+            "vagPM25Val": 0.8472,
+            "aqiValue": null,
+            "indexValue": 3.5,
+            "level": null
+          }
+        ]
+      }
+    }
+  }
+}

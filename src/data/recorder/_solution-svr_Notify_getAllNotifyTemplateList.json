@@ -1,0 +1,74 @@
+{
+  "GET": {
+    "/solution-svr/Notify/getAllNotifyTemplateList": {
+      "errorCode": 1,
+      "record": {
+        "code": 0,
+        "msg": "成功！",
+        "count": 14,
+        "data": [
+          {
+            "id": "1",
+            "name": "测试内容1",
+            "code": "00232211",
+            "configtemplate": "测试内容1"
+          },
+          {
+            "id": "10",
+            "name": "超标小时报警模板",
+            "code": "0110",
+            "configtemplate": "siteName,在beginTime发生小时数据超标报警,报警因子为pollutantName , 监测因子值为pollutantValue(unitName),标准值valueMeanunitName,所属网格gridName,站点负责人siteMan。"
+          },
+          {
+            "id": "11",
+            "name": "超标天报警模板",
+            "code": "0111",
+            "configtemplate": "siteName,在beginTime发生日数据超标报警,报警因子为pollutantName , 监测因子值为pollutantValue(unitName),标准值valueMeanunitName,所属网格gridName,站点负责人siteMan。"
+          },
+          {
+            "id": "12",
+            "name": "**",
+            "code": "0112",
+            "configtemplate": "您好，您所在区域内的“siteName”于“beginTime”产生的“污染离群报警“已过“hours小时”还未处理，请及时督促乡镇实施相应措施。"
+          },
+          {
+            "id": "13",
+            "name": "三次报警模板",
+            "code": "0113",
+            "configtemplate": "您好，“gridName-siteName”于“beginTime”产生的报警已过“hours小时”还未处理，请及时启动市级督查督办。"
+          },
+          {
+            "id": "14",
+            "name": "企业下风向报警模板",
+            "code": "0114",
+            "configtemplate": "根据beginTime乡镇街道空气站监测数据，您单位所在区域空气质量异常，乡镇街道空气站已发出预警信息，请您单位根据《中华人民共和国大气污染防治法》和《杭州市大气污染防治规定》等法律法规规定，严格落实环境污染防治主体责任，立即开展自查，采取措施，保护区域空气质量。"
+          },
+          {
+            "id": "2",
+            "name": "趋势报警模板",
+            "code": "0102",
+            "configtemplate": "siteName,在beginTime发生pollutantName趋势报警【pollutantName浓度连续continueTime分钟升高了setUpSumunitName，最高实测值为maxValunitName，此时windDirectionwindScale,趋势报警已连续successionTime分钟】所属网格gridName,站点负责人siteMan。"
+          },
+          {
+            "id": "3",
+            "name": "断线报警模板",
+            "code": "0103",
+            "configtemplate": "siteName,在alarmTime发生断线报警，允许中断时长为duration分钟。"
+          },
+          {
+            "id": "4",
+            "name": "设备报警模板",
+            "code": "0104",
+            "configtemplate": "siteName,在alarmTime发生设备报警 【报警内容：faultDescribe；报警码：alarmCode】"
+          },
+          {
+            "id": "5",
+            "name": "污染报警处置时限",
+            "code": "0105",
+            "configtemplate": "siteName,在beginTime发生污染报警,污染报警处置时限为successionTime分钟"
+          }
+        ]
+      }
+    }
+  }
+}

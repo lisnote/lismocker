@@ -3,13 +3,18 @@
     "/user-svr/license/getLicenseDetail": {
       "errorCode": 1,
       "record": {
-        "sysTime": "2024-04-09 11:29:56",
-        "agencyId": "ee355a710bd9406f8bc05ac98664c744",
+        "sysTime": "2024-04-09 16:56:33",
+        "agencyId": "f7edcb0c13bb40aea1eaf52b6d9a61ca",
         "startTime": "2022-01-01 00:00:00",
-        "endTime": "2029-07-05 23:59:59",
+        "endTime": "2025-07-05 23:59:59",
         "userCount": 66,
         "deviceCount": 98,
-        "netWork": null
+        "netWork": [
+          {
+            "ip": "all",
+            "macAddress": "all"
+          }
+        ]
       }
     }
   }

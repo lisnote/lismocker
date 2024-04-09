@@ -1,0 +1,75 @@
+{
+  "GET": {
+    "/solution-svr/AgencyDelegate/queryAgencyDelegate": {
+      "errorCode": 1,
+      "record": [
+        {
+          "employeeid": "567803f071bb4ecdb8354e2f97b12322",
+          "agencyid": "0eeb13aa2ed044ef83bf5e3124131a42",
+          "read": 0,
+          "write": 0
+        },
+        {
+          "employeeid": "567803f071bb4ecdb8354e2f97b12322",
+          "agencyid": "21395f43ba2f4a298af9a45f3ad4f5b3",
+          "read": 0,
+          "write": 0
+        },
+        {
+          "employeeid": "567803f071bb4ecdb8354e2f97b12322",
+          "agencyid": "382b022da29943888bc8cb4e4fc96878",
+          "read": 0,
+          "write": 0
+        },
+        {
+          "employeeid": "567803f071bb4ecdb8354e2f97b12322",
+          "agencyid": "3ca67c660b7a43eb91c25c9c2f872a8b",
+          "read": 0,
+          "write": 0
+        },
+        {
+          "employeeid": "567803f071bb4ecdb8354e2f97b12322",
+          "agencyid": "5145aa2e7bc14e47984a3b2baba3392a",
+          "read": 0,
+          "write": 0
+        },
+        {
+          "employeeid": "567803f071bb4ecdb8354e2f97b12322",
+          "agencyid": "6df072d674a34d5a8116f6d7e2a21f30",
+          "read": 0,
+          "write": 0
+        },
+        {
+          "employeeid": "567803f071bb4ecdb8354e2f97b12322",
+          "agencyid": "929c2473c2d74e488eb16bd088932b9c",
+          "read": 0,
+          "write": 0
+        },
+        {
+          "employeeid": "567803f071bb4ecdb8354e2f97b12322",
+          "agencyid": "b1f4322ad44444c7a374a501714f095f",
+          "read": 0,
+          "write": 0
+        },
+        {
+          "employeeid": "567803f071bb4ecdb8354e2f97b12322",
+          "agencyid": "c7539f2935154b799763de070558f068",
+          "read": 0,
+          "write": 0
+        },
+        {
+          "employeeid": "567803f071bb4ecdb8354e2f97b12322",
+          "agencyid": "d92ee31e16d8437991d9ccda3d1c5d2e",
+          "read": 0,
+          "write": 0
+        },
+        {
+          "employeeid": "567803f071bb4ecdb8354e2f97b12322",
+          "agencyid": "f022631381c84fe59437e1e90a511995",
+          "read": 0,
+          "write": 0
+        }
+      ]
+    }
+  }
+}

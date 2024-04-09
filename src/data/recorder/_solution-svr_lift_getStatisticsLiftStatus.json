@@ -1,0 +1,15 @@
+{
+  "POST": {
+    "/solution-svr/lift/getStatisticsLiftStatus": {
+      "errorCode": 1,
+      "record": {
+        "breakingCount": 1,
+        "offNetCount": 0,
+        "stopRunningCount": 0,
+        "normalCount": 3,
+        "warningCount": 0,
+        "totalCount": 4
+      }
+    }
+  }
+}

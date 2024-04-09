@@ -1,0 +1,8 @@
+{
+  "POST": {
+    "/base-svr/ConDeviceService/updateDeviceListByDeviceNameByAgencyId": {
+      "errorCode": 1,
+      "record": true
+    }
+  }
+}

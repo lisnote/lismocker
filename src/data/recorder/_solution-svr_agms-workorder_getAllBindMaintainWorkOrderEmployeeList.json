@@ -1,0 +1,17 @@
+{
+  "GET": {
+    "/solution-svr/agms-workorder/getAllBindMaintainWorkOrderEmployeeList": {
+      "errorCode": 1,
+      "record": [
+        {
+          "id": "49d828f411cc4c56abe9330cfd824c64",
+          "name": "kyd_xjw",
+          "phone": null,
+          "pwd": null,
+          "headUrl": null,
+          "solutiontype": null
+        }
+      ]
+    }
+  }
+}

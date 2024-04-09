@@ -1,0 +1,13 @@
+{
+  "POST": {
+    "/solution-svr/led/selectLedConfig": {
+      "errorCode": 1,
+      "record": {
+        "agencyId": "d9a8ff7d99f843b1b285c4c945921862",
+        "ip": "192.168.1.90",
+        "port": 1241,
+        "switchStatus": false
+      }
+    }
+  }
+}

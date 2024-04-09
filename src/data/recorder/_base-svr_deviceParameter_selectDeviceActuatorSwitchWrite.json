@@ -1,0 +1,21 @@
+{
+  "POST": {
+    "/base-svr/deviceParameter/selectDeviceActuatorSwitchWrite": {
+      "errorCode": 1,
+      "record": [
+        {
+          "proTypeName": "数字输出",
+          "proType": 15000,
+          "proTypeId": 55,
+          "subList": [
+            {
+              "subName": "开关（写）#2",
+              "num": 2,
+              "hasSelected": false
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

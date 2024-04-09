@@ -1,0 +1,8 @@
+{
+  "POST": {
+    "/base-svr/DeviceService/bindDevice": {
+      "errorCode": 1,
+      "record": "绑定设备成功"
+    }
+  }
+}

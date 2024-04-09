@@ -1,0 +1,8 @@
+{
+  "POST": {
+    "/solution-svr/AgmsUnitType/deletAgmsUnitType": {
+      "errorCode": 1,
+      "record": " deletAgmsUnitType SUCCESS"
+    }
+  }
+}

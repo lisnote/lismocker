@@ -1,0 +1,25 @@
+{
+  "GET": {
+    "/solution-svr/Alarm/getAllAlarmExceedList": {
+      "errorCode": 1,
+      "record": {
+        "code": 0,
+        "msg": "成功！",
+        "count": 1,
+        "data": [
+          {
+            "id": "3a8684425777471887a9ca7df96dca69",
+            "factorid": "15517e56fa2040319a4d9e3b02c37d9a",
+            "monitorid": "4952accdede745a8acbe2c1ae29a728f",
+            "alarmleveltype": 1,
+            "datasourcetype": 0,
+            "exceedvalue": 1,
+            "resumetime": 1,
+            "unitName": "mg/m³",
+            "factorName": "温度"
+          }
+        ]
+      }
+    }
+  }
+}

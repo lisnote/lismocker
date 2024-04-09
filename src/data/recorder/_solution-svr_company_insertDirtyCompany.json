@@ -1,0 +1,8 @@
+{
+  "POST": {
+    "/solution-svr/company/insertDirtyCompany": {
+      "errorCode": 1,
+      "record": "insertagmsDirtyCompanyService success"
+    }
+  }
+}

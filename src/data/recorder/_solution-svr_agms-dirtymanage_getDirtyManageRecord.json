@@ -1,0 +1,30 @@
+{
+  "GET": {
+    "/solution-svr/agms-dirtymanage/getDirtyManageRecord": {
+      "errorCode": 1,
+      "record": [
+        {
+          "id": "37542256af0a4864a8b1ab3934f1f8c9",
+          "dirtystatustypeid": "7b45ac32bf6d4e8088b6f569079fd25b",
+          "detail": "1",
+          "employeeid": "49d828f411cc4c56abe9330cfd824c64",
+          "processtime": {
+            "year": 124,
+            "month": 3,
+            "date": 9,
+            "day": 2,
+            "hours": 16,
+            "minutes": 17,
+            "seconds": 13,
+            "time": 1712650633000,
+            "timezoneOffset": -480
+          },
+          "dirtymanageid": "9ea74c8ef90449d5b0d03056ce92bfee",
+          "admrpId": "f7378e6fadf54d5e861db51e384de57d",
+          "pictureUrls": "[\"http://keenyoda-iot-bucket.oss-cn-shenzhen.aliyuncs.com/file/136145092580204131712650641407%E5%89%8D%E7%AB%AF%E6%8F%90%E4%BA%A4%E5%AE%A1%E6%9F%A5%E6%B5%81%E7%A8%8B.png\"]",
+          "name": "kyd_xjw"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "POST": {
+    "/solution-svr/lift/selectLiftInfo": {
+      "errorCode": 1,
+      "record": {
+        "code": 0,
+        "msg": "成功",
+        "count": 4,
+        "data": [
+          {
+            "listOne": {
+              "normalDeviceCount": 0,
+              "deviceWarningCount": 0,
+              "deviceBreakingCount": 0,
+              "deviceOffNetCount": 4,
+              "devicestopRunningCount": 0,
+              "allCount": 4
+            },
+            "listTwo": [
+              {
+                "agencyId": "2035ee98bc1846fea6a6b29e1bfadb0a",
+                "gatewayId": "LiftGtw001",
+                "deviceAgencyName": "体育中心站",
+                "deviceId": "LiftTDev01",
+                "gatewayName": "LiftGtw001",
+                "directory": false,
+                "maintainId": "49d828f411cc4c56abe9330cfd824c64",
+                "userName": "kyd_xjw",
+                "phone": "18888888888",
+                "photo": null,
+                "healthStatus": 3,
+                "liftType": true,
+                "monitorNum": 18,
+                "addWorkTime": 0,
+                "deviceName": "LiftTDev01",
+                "factory": "LiftTDev01"
+              },
+              {
+                "agencyId": "908eb35de8bd4127935d7dd1f923957c",
+                "gatewayId": "LiftGtw001",
+                "deviceAgencyName": "体育中心站,A区,别墅路出口2",
+                "deviceId": "LiftTDev02",
+                "gatewayName": "LiftGtw001",
+                "directory": true,
+                "maintainId": "15b197094f3d42b487c2972f4e8a10c2",
+                "userName": "18159607272",
+                "phone": "18159607272",
+                "photo": null,
+                "healthStatus": 3,
+                "liftType": true,
+                "monitorNum": 18,
+                "addWorkTime": 0,
+                "deviceName": "LiftTDev02",
+                "factory": "kyd"
+              },
+              {
+                "agencyId": "908eb35de8bd4127935d7dd1f923957c",
+                "gatewayId": "LiftGtw001",
+                "deviceAgencyName": "体育中心站,A区,别墅路出口2",
+                "deviceId": "LiftTDev03",
+                "gatewayName": "LiftGtw001",
+                "directory": false,
+                "maintainId": "49d828f411cc4c56abe9330cfd824c64",
+                "userName": "kyd_xjw",
+                "phone": "18888888888",
+                "photo": null,
+                "healthStatus": 3,
+                "liftType": true,
+                "monitorNum": 1,
+                "addWorkTime": 0,
+                "deviceName": "LiftTDev03",
+                "factory": "kyd"
+              },
+              {
+                "agencyId": "3dfe14bf3004425da42cf4a8ab7a4b14",
+                "gatewayId": "LiftGtw001",
+                "deviceAgencyName": "学府路站,C区",
+                "deviceId": "LiftTDev04",
+                "gatewayName": "LiftGtw001",
+                "directory": true,
+                "maintainId": "dc89b875dad44292b2814ec5590879d5",
+                "userName": "hhhh",
+                "phone": "13650414789",
+                "photo": null,
+                "healthStatus": 3,
+                "liftType": true,
+                "monitorNum": null,
+                "addWorkTime": 0,
+                "deviceName": "LiftTDev04",
+                "factory": "kyd"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

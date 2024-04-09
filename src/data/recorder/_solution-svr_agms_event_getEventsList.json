@@ -1,0 +1,8 @@
+{
+  "GET": {
+    "/solution-svr/agms/event/getEventsList": {
+      "errorCode": 0,
+      "record": "EXCEPTION"
+    }
+  }
+}

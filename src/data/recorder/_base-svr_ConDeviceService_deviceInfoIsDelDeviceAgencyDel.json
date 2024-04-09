@@ -1,0 +1,8 @@
+{
+  "GET": {
+    "/base-svr/ConDeviceService/deviceInfoIsDelDeviceAgencyDel": {
+      "errorCode": 52,
+      "record": "IS_RUNNING"
+    }
+  }
+}

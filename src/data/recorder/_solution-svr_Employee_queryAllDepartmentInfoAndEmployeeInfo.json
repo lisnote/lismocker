@@ -1,0 +1,70 @@
+{
+  "GET": {
+    "/solution-svr/Employee/queryAllDepartmentInfoAndEmployeeInfo": {
+      "errorCode": 1,
+      "record": {
+        "employeeList": {
+          "d079bec111494d968dcc5a8b6261dbe8": [],
+          "d9cc1750f5624e9d89dc11f2bbb7ebd1": [
+            {
+              "id": "567803f071bb4ecdb8354e2f97b12322",
+              "name": "JY46WTLW",
+              "phone": "15555555555",
+              "pwd": "7ka9e84e51n04ye6ob2db2a5218624b39448b5c46347ec86",
+              "departmentId": "d9cc1750f5624e9d89dc11f2bbb7ebd1",
+              "headUrl": null
+            },
+            {
+              "id": "7c847db0957d4e0da96ce5ca3764935b",
+              "name": "test_person",
+              "phone": "13333333333",
+              "pwd": "7ka9e84e51n04ye6ob2db2a5218624b39448b5c46347ec86",
+              "departmentId": "d9cc1750f5624e9d89dc11f2bbb7ebd1",
+              "headUrl": "http://keenyoda-iot-bucket.oss-cn-shenzhen.aliyuncs.com/QiWuIOT/userHead/324d0980798a11ecaf8ad92da760d069.jpg"
+            }
+          ],
+          "2514fbacf8184a3b8e193ba4a5f7adce": [],
+          "221acf372c234bb289a35193714819e8": [],
+          "a664c0367fa041f99f46d00029544adf": []
+        },
+        "departmentList": [
+          {
+            "id": "221acf372c234bb289a35193714819e8",
+            "name": "二部",
+            "pid": "000000",
+            "orderNum": 0,
+            "agencyId": "f7edcb0c13bb40aea1eaf52b6d9a61ca"
+          },
+          {
+            "id": "2514fbacf8184a3b8e193ba4a5f7adce",
+            "name": "研发二部",
+            "pid": "d079bec111494d968dcc5a8b6261dbe8",
+            "orderNum": 1,
+            "agencyId": "383639bc48ee4df3b4e546c2c5c44f5c"
+          },
+          {
+            "id": "a664c0367fa041f99f46d00029544adf",
+            "name": "研发一部",
+            "pid": "d079bec111494d968dcc5a8b6261dbe8",
+            "orderNum": 0,
+            "agencyId": "383639bc48ee4df3b4e546c2c5c44f5c"
+          },
+          {
+            "id": "d079bec111494d968dcc5a8b6261dbe8",
+            "name": "KEENYODA",
+            "pid": "000000",
+            "orderNum": 0,
+            "agencyId": "383639bc48ee4df3b4e546c2c5c44f5c"
+          },
+          {
+            "id": "d9cc1750f5624e9d89dc11f2bbb7ebd1",
+            "name": "一部",
+            "pid": "000000",
+            "orderNum": 0,
+            "agencyId": "f7edcb0c13bb40aea1eaf52b6d9a61ca"
+          }
+        ]
+      }
+    }
+  }
+}

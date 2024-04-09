@@ -1,0 +1,8 @@
+{
+  "POST": {
+    "/base-svr/DeviceDetail/updateDeviceDetail": {
+      "errorCode": 1,
+      "record": "updateDeviceDetail_success"
+    }
+  }
+}

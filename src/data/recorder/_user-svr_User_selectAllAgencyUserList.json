@@ -4,24 +4,14 @@
       "errorCode": 1,
       "record": [
         {
-          "agencyId": "7085d7e613734ac5b3826b6a11e1f0f2",
-          "userId": "49d828f411cc4c56abe9330cfd824c64",
+          "agencyId": "f7edcb0c13bb40aea1eaf52b6d9a61ca",
+          "userId": "7c847db0957d4e0da96ce5ca3764935b",
           "solutionType": "9",
-          "uname": "kyd_xjw",
+          "uname": "test_person",
           "aname": "南宁轨道交通",
-          "phone": "18888888888",
-          "departmentId": "ff491078480748febc4eaf392ee29824",
-          "departmentName": "研发部"
-        },
-        {
-          "agencyId": "7085d7e613734ac5b3826b6a11e1f0f2",
-          "userId": "46fde51b467d4c7c95f39ab8728f7487",
-          "solutionType": "9",
-          "uname": "lisnsdfaaa",
-          "aname": "南宁轨道交通",
-          "phone": "18319135951",
-          "departmentId": "a8648ff2d50249e7aa03dbb61f1ed9ca",
-          "departmentName": "研发二部"
+          "phone": "13333333333",
+          "departmentId": "d9cc1750f5624e9d89dc11f2bbb7ebd1",
+          "departmentName": "一部"
         }
       ]
     }

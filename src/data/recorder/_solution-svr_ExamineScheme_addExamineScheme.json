@@ -1,0 +1,8 @@
+{
+  "POST": {
+    "/solution-svr/ExamineScheme/addExamineScheme": {
+      "errorCode": 1,
+      "record": "addExamineSchemeEntity_success"
+    }
+  }
+}

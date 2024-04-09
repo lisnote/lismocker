@@ -1,0 +1,19 @@
+{
+  "GET": {
+    "/solution-svr/agency/getEmployeeList": {
+      "errorCode": 1,
+      "record": [
+        {
+          "id": "7c847db0957d4e0da96ce5ca3764935b",
+          "name": "test_person",
+          "phone": "13333333333",
+          "pwd": "7ka9e84e51n04ye6ob2db2a5218624b39448b5c46347ec86",
+          "headUrl": "http://keenyoda-iot-bucket.oss-cn-shenzhen.aliyuncs.com/QiWuIOT/userHead/324d0980798a11ecaf8ad92da760d069.jpg",
+          "solutiontype": null,
+          "departmentName": "一部",
+          "departmentid": "d9cc1750f5624e9d89dc11f2bbb7ebd1"
+        }
+      ]
+    }
+  }
+}

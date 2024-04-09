@@ -1,0 +1,8 @@
+{
+  "GET": {
+    "/solution-svr/PollutionProcessAnalysis/getChangeRateOfCities": {
+      "errorCode": 1,
+      "record": []
+    }
+  }
+}

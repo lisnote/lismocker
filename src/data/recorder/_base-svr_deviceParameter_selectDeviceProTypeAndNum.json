@@ -1,0 +1,33 @@
+{
+  "POST": {
+    "/base-svr/deviceParameter/selectDeviceProTypeAndNum": {
+      "errorCode": 1,
+      "record": [
+        {
+          "proTypeName": "倾斜角度",
+          "proType": 5052,
+          "proTypeId": 92,
+          "subList": [
+            {
+              "subName": "倾斜角度",
+              "num": 1,
+              "hasSelected": false
+            }
+          ]
+        },
+        {
+          "proTypeName": "布防状态",
+          "proType": 5056,
+          "proTypeId": 96,
+          "subList": [
+            {
+              "subName": "布防状态",
+              "num": 2,
+              "hasSelected": false
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "GET": {
+    "/solution-svr/agms/alarmMonitor/monitorStatisticsTwo": {
+      "errorCode": 1,
+      "record": []
+    }
+  }
+}

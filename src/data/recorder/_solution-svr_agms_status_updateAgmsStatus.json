@@ -1,0 +1,8 @@
+{
+  "POST": {
+    "/solution-svr/agms/status/updateAgmsStatus": {
+      "errorCode": 1,
+      "record": "insertStatus SUCCESS"
+    }
+  }
+}

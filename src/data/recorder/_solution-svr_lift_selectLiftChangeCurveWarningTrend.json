@@ -1,0 +1,8 @@
+{
+  "POST": {
+    "/solution-svr/lift/selectLiftChangeCurveWarningTrend": {
+      "errorCode": 1,
+      "record": []
+    }
+  }
+}

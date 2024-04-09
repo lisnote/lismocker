@@ -4,28 +4,36 @@
       "errorCode": 1,
       "record": [
         {
-          "id": "ea2279fa6f2647a3b8c08dea87689337",
-          "agencyId": "ee355a710bd9406f8bc05ac98664c744",
-          "proType": 5001,
+          "id": "7f5e2a3864784d99a98cd84c587cf07a",
+          "agencyId": "f7edcb0c13bb40aea1eaf52b6d9a61ca",
+          "proType": 5003,
           "cause": "1",
           "suggestion": "1",
-          "proTypeName": "功率参数（高两位电压，低两位电流）"
+          "proTypeName": "温度"
         },
         {
-          "id": "4111c8c2227449a9bdd9819becb4b818",
-          "agencyId": "ee355a710bd9406f8bc05ac98664c744",
-          "proType": 5002,
-          "cause": "1234",
-          "suggestion": "1223",
-          "proTypeName": "功率"
+          "id": "f22df2d8da3b4e8db4b60f42a335cf5b",
+          "agencyId": "f7edcb0c13bb40aea1eaf52b6d9a61ca",
+          "proType": 5003,
+          "cause": "aaaaaa",
+          "suggestion": "aaa",
+          "proTypeName": "温度"
         },
         {
-          "id": "b28f45a8f8474adca7303725c22b08d1",
-          "agencyId": "ee355a710bd9406f8bc05ac98664c744",
-          "proType": 5009,
-          "cause": "漏水",
-          "suggestion": "立即关闭输水设备",
-          "proTypeName": "水漏"
+          "id": "ac6952464da645038920de646e0271dd",
+          "agencyId": "f7edcb0c13bb40aea1eaf52b6d9a61ca",
+          "proType": 5051,
+          "cause": "dfs",
+          "suggestion": "sdf",
+          "proTypeName": "电池电压"
+        },
+        {
+          "id": "cb064ab350244eb2a2569f462e389ae7",
+          "agencyId": "f7edcb0c13bb40aea1eaf52b6d9a61ca",
+          "proType": 5053,
+          "cause": "2",
+          "suggestion": "2",
+          "proTypeName": "经度"
         }
       ]
     }

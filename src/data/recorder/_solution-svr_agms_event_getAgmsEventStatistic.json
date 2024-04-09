@@ -1,0 +1,11 @@
+{
+  "GET": {
+    "/solution-svr/agms/event/getAgmsEventStatistic": {
+      "errorCode": 1,
+      "record": {
+        "eventTypes": [],
+        "levelTypes": []
+      }
+    }
+  }
+}

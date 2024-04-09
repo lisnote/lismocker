@@ -1,0 +1,89 @@
+{
+  "GET": {
+    "/solution-svr/ems/getAgencyLimitByUserId": {
+      "errorCode": 1,
+      "record": [
+        {
+          "isUp": false,
+          "isDel": false,
+          "agencyId": "22e9816793654e71ab081e7f0219b082"
+        },
+        {
+          "isUp": true,
+          "isDel": true,
+          "agencyId": "2b17255f4b2843ff801485de1126660f"
+        },
+        {
+          "isUp": true,
+          "isDel": true,
+          "agencyId": "597cfdab508e48b1a01a68f24ae7512c"
+        },
+        {
+          "isUp": true,
+          "isDel": true,
+          "agencyId": "7310edc2d2d94ee28aaea8eb92a1501a"
+        },
+        {
+          "isUp": false,
+          "isDel": false,
+          "agencyId": "74267523ddf94b94aff4110bd6e2f271"
+        },
+        {
+          "isUp": true,
+          "isDel": true,
+          "agencyId": "81d91964759f4d28835ab0d93e5837ef"
+        },
+        {
+          "isUp": true,
+          "isDel": true,
+          "agencyId": "82b1e18d2cfa486b92bcf5200fbb1874"
+        },
+        {
+          "isUp": true,
+          "isDel": true,
+          "agencyId": "83fc67eace064966b3a9f1647db2fda8"
+        },
+        {
+          "isUp": true,
+          "isDel": true,
+          "agencyId": "8ed90e654555434c9fd77063c681c34f"
+        },
+        {
+          "isUp": true,
+          "isDel": true,
+          "agencyId": "aa53aeb4fc744df99b13a154451d5a82"
+        },
+        {
+          "isUp": true,
+          "isDel": true,
+          "agencyId": "b2fbb94186eb446190827980725b51c0"
+        },
+        {
+          "isUp": true,
+          "isDel": true,
+          "agencyId": "beb3e2e8eca04ad8a5b750fb4de81328"
+        },
+        {
+          "isUp": false,
+          "isDel": false,
+          "agencyId": "bfb3dbbaf19f4f5c87d94451c709ac48"
+        },
+        {
+          "isUp": true,
+          "isDel": true,
+          "agencyId": "d9a8ff7d99f843b1b285c4c945921862"
+        },
+        {
+          "isUp": true,
+          "isDel": true,
+          "agencyId": "ee355a710bd9406f8bc05ac98664c744"
+        },
+        {
+          "isUp": true,
+          "isDel": true,
+          "agencyId": "f7edcb0c13bb40aea1eaf52b6d9a61ca"
+        }
+      ]
+    }
+  }
+}

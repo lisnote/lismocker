@@ -1,0 +1,8 @@
+{
+  "POST": {
+    "/solution-svr/AgmsUnitType/addAgmsUnitType": {
+      "errorCode": 1,
+      "record": " addAgmsUnitType SUCCESS"
+    }
+  }
+}

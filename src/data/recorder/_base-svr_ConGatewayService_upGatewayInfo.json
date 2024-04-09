@@ -1,0 +1,8 @@
+{
+  "POST": {
+    "/base-svr/ConGatewayService/upGatewayInfo": {
+      "errorCode": 1,
+      "record": "upGatewayInfo_SUCCESS"
+    }
+  }
+}

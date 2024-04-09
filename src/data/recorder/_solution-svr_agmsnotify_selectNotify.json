@@ -1,0 +1,33 @@
+{
+  "GET": {
+    "/solution-svr/agmsnotify/selectNotify": {
+      "errorCode": 1,
+      "record": {
+        "agmsEmployeeEntityList": [
+          null
+        ],
+        "AgmsNotifyEmployeeEntityList": [
+          {
+            "id": "72adfc6822af424fa7b513755ab0bf07",
+            "notifyid": "95b36bcf6e3e478ea99a55bb7b234295",
+            "employeeid": "71e98810caae42b7bf569941af4253a3"
+          }
+        ],
+        "agmsNotifyEntity": {
+          "id": "95b36bcf6e3e478ea99a55bb7b234295",
+          "messagenotify": 1,
+          "appnotify": 1,
+          "autonotify": 1,
+          "messagenotifytype": 0,
+          "appnotifytype": 0,
+          "messagenotifybegintime": "",
+          "messagenotifyendtime": "",
+          "appnotifybegintime": "",
+          "appnotifyendtime": "",
+          "notifytype": 9,
+          "stationid": "35e8d6551f244b3ebb16fcfc06834e37"
+        }
+      }
+    }
+  }
+}

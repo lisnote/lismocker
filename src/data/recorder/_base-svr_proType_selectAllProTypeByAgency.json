@@ -1,0 +1,81 @@
+{
+  "POST": {
+    "/base-svr/proType/selectAllProTypeByAgency": {
+      "errorCode": 1,
+      "record": [
+        {
+          "id": 32,
+          "type": 5003,
+          "dataType": 1,
+          "name": "温度",
+          "unit": "℃",
+          "mark": "温度"
+        },
+        {
+          "id": 90,
+          "type": 5050,
+          "dataType": 1,
+          "name": "信号强度",
+          "unit": "--",
+          "mark": "信号强度"
+        },
+        {
+          "id": 91,
+          "type": 5051,
+          "dataType": 1,
+          "name": "电池电压",
+          "unit": "mV",
+          "mark": "电池电压"
+        },
+        {
+          "id": 92,
+          "type": 5052,
+          "dataType": 1,
+          "name": "倾斜角度",
+          "unit": "°",
+          "mark": "倾斜角度"
+        },
+        {
+          "id": 93,
+          "type": 5053,
+          "dataType": 1,
+          "name": "经度",
+          "unit": "°",
+          "mark": "经度"
+        },
+        {
+          "id": 94,
+          "type": 5054,
+          "dataType": 1,
+          "name": "纬度",
+          "unit": "°",
+          "mark": "纬度"
+        },
+        {
+          "id": 95,
+          "type": 5055,
+          "dataType": 1,
+          "name": "定位结果",
+          "unit": "--",
+          "mark": "定位结果"
+        },
+        {
+          "id": 96,
+          "type": 5056,
+          "dataType": 1,
+          "name": "布防状态",
+          "unit": "--",
+          "mark": "布防状态"
+        },
+        {
+          "id": 97,
+          "type": 5057,
+          "dataType": 1,
+          "name": "液位状态",
+          "unit": "--",
+          "mark": "液位状态"
+        }
+      ]
+    }
+  }
+}

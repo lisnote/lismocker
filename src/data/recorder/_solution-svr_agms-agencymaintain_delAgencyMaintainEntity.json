@@ -1,0 +1,8 @@
+{
+  "POST": {
+    "/solution-svr/agms-agencymaintain/delAgencyMaintainEntity": {
+      "errorCode": 1,
+      "record": "success"
+    }
+  }
+}

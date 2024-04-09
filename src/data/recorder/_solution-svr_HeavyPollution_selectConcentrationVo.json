@@ -1,0 +1,378 @@
+{
+  "GET": {
+    "/solution-svr/HeavyPollution/selectConcentrationVo": {
+      "errorCode": 1,
+      "record": [
+        {
+          "sensorTime": "2024-04-09 05",
+          "so2Value": 130.78,
+          "no2Value": 57.47,
+          "coValue": 12.77,
+          "o3Value": 89.21,
+          "pm10Value": 45.44,
+          "pm25Value": 62.31
+        },
+        {
+          "sensorTime": "2024-04-09 06",
+          "so2Value": 166.23,
+          "no2Value": 57.59,
+          "coValue": 13.46,
+          "o3Value": 84.55,
+          "pm10Value": 50.56,
+          "pm25Value": 67.42
+        },
+        {
+          "sensorTime": "2024-04-08 21",
+          "so2Value": 197.48,
+          "no2Value": 54.75,
+          "coValue": 12.65,
+          "o3Value": 96.43,
+          "pm10Value": 43.78,
+          "pm25Value": 71.09
+        },
+        {
+          "sensorTime": "2024-04-08 20",
+          "so2Value": 209.08,
+          "no2Value": 55.69,
+          "coValue": 11.94,
+          "o3Value": 73.52,
+          "pm10Value": 55.46,
+          "pm25Value": 66.13
+        },
+        {
+          "sensorTime": "2024-04-08 23",
+          "so2Value": 183.02,
+          "no2Value": 55.56,
+          "coValue": 12.41,
+          "o3Value": 91.73,
+          "pm10Value": 52.93,
+          "pm25Value": 69.6
+        },
+        {
+          "sensorTime": "2024-04-09 12",
+          "so2Value": 116.89,
+          "no2Value": 54.13,
+          "coValue": 15.35,
+          "o3Value": 67.86,
+          "pm10Value": 43.03,
+          "pm25Value": 68.9
+        },
+        {
+          "sensorTime": "2024-04-08 05",
+          "so2Value": 183.78,
+          "no2Value": 46.26,
+          "coValue": 12.99,
+          "o3Value": 81.92,
+          "pm10Value": 49.45,
+          "pm25Value": 59.84
+        },
+        {
+          "sensorTime": "2024-04-08 10",
+          "so2Value": 136.43,
+          "no2Value": 56.56,
+          "coValue": 12.63,
+          "o3Value": 83.5,
+          "pm10Value": 47.46,
+          "pm25Value": 68.67
+        },
+        {
+          "sensorTime": "2024-04-08 08",
+          "so2Value": 157.64,
+          "no2Value": 51.74,
+          "coValue": 10.74,
+          "o3Value": 81.76,
+          "pm10Value": 46.01,
+          "pm25Value": 67.2
+        },
+        {
+          "sensorTime": "2024-04-08 17",
+          "so2Value": 158.8,
+          "no2Value": 50.33,
+          "coValue": 13.45,
+          "o3Value": 97.44,
+          "pm10Value": 49.95,
+          "pm25Value": 64.55
+        },
+        {
+          "sensorTime": "2024-04-08 19",
+          "so2Value": 190.95,
+          "no2Value": 51.4,
+          "coValue": 13.38,
+          "o3Value": 76.57,
+          "pm10Value": 46.76,
+          "pm25Value": 58.35
+        },
+        {
+          "sensorTime": "2024-04-08 06",
+          "so2Value": 209.06,
+          "no2Value": 56.98,
+          "coValue": 13.52,
+          "o3Value": 76.37,
+          "pm10Value": 47.94,
+          "pm25Value": 67.27
+        },
+        {
+          "sensorTime": "2024-04-09 02",
+          "so2Value": 209.96,
+          "no2Value": 46.66,
+          "coValue": 12.47,
+          "o3Value": 79.02,
+          "pm10Value": 48.81,
+          "pm25Value": 63.11
+        },
+        {
+          "sensorTime": "2024-04-08 02",
+          "so2Value": 195.35,
+          "no2Value": 50.9,
+          "coValue": 12.95,
+          "o3Value": 72.4,
+          "pm10Value": 42.78,
+          "pm25Value": 64.33
+        },
+        {
+          "sensorTime": "2024-04-08 04",
+          "so2Value": 190.1,
+          "no2Value": 54.03,
+          "coValue": 13.61,
+          "o3Value": 89.7,
+          "pm10Value": 45.72,
+          "pm25Value": 57.78
+        },
+        {
+          "sensorTime": "2024-04-08 14",
+          "so2Value": 173.33,
+          "no2Value": 55.83,
+          "coValue": 14.12,
+          "o3Value": 95.24,
+          "pm10Value": 46.59,
+          "pm25Value": 64.27
+        },
+        {
+          "sensorTime": "2024-04-08 12",
+          "so2Value": 180.24,
+          "no2Value": 49.64,
+          "coValue": 14.08,
+          "o3Value": 94.51,
+          "pm10Value": 46.5,
+          "pm25Value": 58.05
+        },
+        {
+          "sensorTime": "2024-04-09 03",
+          "so2Value": 119.53,
+          "no2Value": 52.96,
+          "coValue": 13.67,
+          "o3Value": 101.3,
+          "pm10Value": 43,
+          "pm25Value": 62.06
+        },
+        {
+          "sensorTime": "2024-04-09 11",
+          "so2Value": 162.53,
+          "no2Value": 53.76,
+          "coValue": 13.42,
+          "o3Value": 76.32,
+          "pm10Value": 45.42,
+          "pm25Value": 61.36
+        },
+        {
+          "sensorTime": "2024-04-08 18",
+          "so2Value": 155.45,
+          "no2Value": 51.57,
+          "coValue": 13.36,
+          "o3Value": 83.79,
+          "pm10Value": 50.26,
+          "pm25Value": 68.01
+        },
+        {
+          "sensorTime": "2024-04-08 00",
+          "so2Value": 181.3,
+          "no2Value": 55.6,
+          "coValue": 12.96,
+          "o3Value": 63.12,
+          "pm10Value": 42.7,
+          "pm25Value": 63.23
+        },
+        {
+          "sensorTime": "2024-04-09 15",
+          "so2Value": 160.99,
+          "no2Value": 55.5,
+          "coValue": 12.27,
+          "o3Value": 73.17,
+          "pm10Value": 50.43,
+          "pm25Value": 64.05
+        },
+        {
+          "sensorTime": "2024-04-09 00",
+          "so2Value": 196.55,
+          "no2Value": 51.85,
+          "coValue": 13.98,
+          "o3Value": 73.95,
+          "pm10Value": 50.35,
+          "pm25Value": 69.85
+        },
+        {
+          "sensorTime": "2024-04-09 14",
+          "so2Value": 170.61,
+          "no2Value": 55.39,
+          "coValue": 12.69,
+          "o3Value": 77.13,
+          "pm10Value": 44.82,
+          "pm25Value": 58.19
+        },
+        {
+          "sensorTime": "2024-04-09 08",
+          "so2Value": 168.37,
+          "no2Value": 54.7,
+          "coValue": 12.42,
+          "o3Value": 83.91,
+          "pm10Value": 47.73,
+          "pm25Value": 56.35
+        },
+        {
+          "sensorTime": "2024-04-08 01",
+          "so2Value": 219.2,
+          "no2Value": 54.97,
+          "coValue": 12.53,
+          "o3Value": 78.51,
+          "pm10Value": 52.12,
+          "pm25Value": 60.04
+        },
+        {
+          "sensorTime": "2024-04-08 16",
+          "so2Value": 184.77,
+          "no2Value": 54.09,
+          "coValue": 14.28,
+          "o3Value": 84.44,
+          "pm10Value": 49.06,
+          "pm25Value": 63.66
+        },
+        {
+          "sensorTime": "2024-04-09 07",
+          "so2Value": 154.64,
+          "no2Value": 57.02,
+          "coValue": 12.97,
+          "o3Value": 82.33,
+          "pm10Value": 49.57,
+          "pm25Value": 58.26
+        },
+        {
+          "sensorTime": "2024-04-08 11",
+          "so2Value": 189.63,
+          "no2Value": 51.17,
+          "coValue": 13.79,
+          "o3Value": 81.02,
+          "pm10Value": 47.24,
+          "pm25Value": 57.79
+        },
+        {
+          "sensorTime": "2024-04-09 01",
+          "so2Value": 141.82,
+          "no2Value": 56.02,
+          "coValue": 12.68,
+          "o3Value": 87,
+          "pm10Value": 46.02,
+          "pm25Value": 65.73
+        },
+        {
+          "sensorTime": "2024-04-09 04",
+          "so2Value": 189.17,
+          "no2Value": 51.58,
+          "coValue": 14.46,
+          "o3Value": 75.5,
+          "pm10Value": 48.21,
+          "pm25Value": 62.35
+        },
+        {
+          "sensorTime": "2024-04-08 09",
+          "so2Value": 190.14,
+          "no2Value": 54.34,
+          "coValue": 13.98,
+          "o3Value": 68.15,
+          "pm10Value": 48.6,
+          "pm25Value": 58.39
+        },
+        {
+          "sensorTime": "2024-04-08 15",
+          "so2Value": 155.82,
+          "no2Value": 56.21,
+          "coValue": 13.93,
+          "o3Value": 76.99,
+          "pm10Value": 44.15,
+          "pm25Value": 59.2
+        },
+        {
+          "sensorTime": "2024-04-09 10",
+          "so2Value": 162.84,
+          "no2Value": 54.94,
+          "coValue": 13.79,
+          "o3Value": 90.38,
+          "pm10Value": 49.78,
+          "pm25Value": 62.78
+        },
+        {
+          "sensorTime": "2024-04-08 22",
+          "so2Value": 139.88,
+          "no2Value": 50.06,
+          "coValue": 12.89,
+          "o3Value": 78.37,
+          "pm10Value": 43.22,
+          "pm25Value": 63.74
+        },
+        {
+          "sensorTime": "2024-04-08 03",
+          "so2Value": 146.15,
+          "no2Value": 58,
+          "coValue": 14.43,
+          "o3Value": 86.74,
+          "pm10Value": 47.08,
+          "pm25Value": 69.46
+        },
+        {
+          "sensorTime": "2024-04-09 13",
+          "so2Value": 198.66,
+          "no2Value": 56.6,
+          "coValue": 13.17,
+          "o3Value": 78.57,
+          "pm10Value": 50.79,
+          "pm25Value": 57.99
+        },
+        {
+          "sensorTime": "2024-04-09 09",
+          "so2Value": 163.32,
+          "no2Value": 51.14,
+          "coValue": 10.96,
+          "o3Value": 92.18,
+          "pm10Value": 50.33,
+          "pm25Value": 58.9
+        },
+        {
+          "sensorTime": "2024-04-08 07",
+          "so2Value": 131.42,
+          "no2Value": 57.11,
+          "coValue": 12.56,
+          "o3Value": 82.43,
+          "pm10Value": 48.16,
+          "pm25Value": 61.2
+        },
+        {
+          "sensorTime": "2024-04-08 13",
+          "so2Value": 172.58,
+          "no2Value": 55.12,
+          "coValue": 12.09,
+          "o3Value": 80.66,
+          "pm10Value": 48.69,
+          "pm25Value": 64.89
+        },
+        {
+          "sensorTime": "2024-04-09 16",
+          "so2Value": 226.54,
+          "no2Value": 50.81,
+          "coValue": 10.62,
+          "o3Value": 76.93,
+          "pm10Value": 43.88,
+          "pm25Value": 73.2
+        }
+      ]
+    }
+  }
+}

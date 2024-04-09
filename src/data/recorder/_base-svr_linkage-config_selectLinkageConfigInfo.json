@@ -1,0 +1,48 @@
+{
+  "POST": {
+    "/base-svr/linkage-config/selectLinkageConfigInfo": {
+      "errorCode": 1,
+      "record": {
+        "id": "8035413f5e1342e081f566ab590e7348",
+        "agencyId": null,
+        "name": "1212",
+        "description": "112",
+        "createTime": null,
+        "conditionRule": 0,
+        "isOpen": 0,
+        "validity": 10,
+        "conditionList": [
+          {
+            "conditionID": "d1d5330600504ef58536b4277bc6ed93",
+            "deviceId": "FloorTDev001_01",
+            "deviceName": null,
+            "proTypeId": "32",
+            "proType": null,
+            "proTypeName": null,
+            "num": 1,
+            "subName": null,
+            "conditionType": 4,
+            "firstValue": 1,
+            "secondValue": 2,
+            "configId": "8035413f5e1342e081f566ab590e7348"
+          }
+        ],
+        "actionList": [
+          {
+            "actionID": "bcd4fc5c383e403f9aeabb726791c7cd",
+            "gtwId": "FloorGtw001",
+            "deviceId": "FloorTDev001_04",
+            "deviceName": "keenyoda智能IO控制器",
+            "proTypeId": "55",
+            "proType": null,
+            "proTypeName": "数字输出",
+            "num": 2,
+            "subName": "开关（写）#2",
+            "actionValue": 1,
+            "configId": null
+          }
+        ]
+      }
+    }
+  }
+}

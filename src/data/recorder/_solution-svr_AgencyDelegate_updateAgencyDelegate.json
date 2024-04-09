@@ -1,0 +1,8 @@
+{
+  "POST": {
+    "/solution-svr/AgencyDelegate/updateAgencyDelegate": {
+      "errorCode": 1,
+      "record": "updateAgencyDelegate_success"
+    }
+  }
+}

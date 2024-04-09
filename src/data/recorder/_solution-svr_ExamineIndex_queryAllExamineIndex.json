@@ -1,0 +1,108 @@
+{
+  "GET": {
+    "/solution-svr/ExamineIndex/queryAllExamineIndex": {
+      "errorCode": 1,
+      "record": [
+        {
+          "id": "2a3e194a58b14e6fb724654b9ac6ed87",
+          "indexname": "B指标",
+          "contenttype": 1,
+          "score": 50,
+          "scorestandard": "B标准",
+          "methodtype": 0,
+          "workdetail": "B路线"
+        },
+        {
+          "id": "3905524c64374c19b17ff59cec83cc49",
+          "indexname": "E指标",
+          "contenttype": 4,
+          "score": 10,
+          "scorestandard": "E指标",
+          "methodtype": 0,
+          "workdetail": "E路径"
+        },
+        {
+          "id": "3e8fe9c4794f47ada63cbba8534fe0fc",
+          "indexname": "W指标",
+          "contenttype": 5,
+          "score": 20,
+          "scorestandard": "W标准",
+          "methodtype": 1,
+          "workdetail": "W路径"
+        },
+        {
+          "id": "456462512b744845b04f60b3351d6664",
+          "indexname": "G指标",
+          "contenttype": 0,
+          "score": 30,
+          "scorestandard": "G标准",
+          "methodtype": 0,
+          "workdetail": "日常记录登记"
+        },
+        {
+          "id": "6ba0ec3c822343e78ea32df37ec98f1b",
+          "indexname": "test3",
+          "contenttype": 3,
+          "score": 30,
+          "scorestandard": "111",
+          "methodtype": 0,
+          "workdetail": "11"
+        },
+        {
+          "id": "71053ba90d4c45469647a54e40f42272",
+          "indexname": "test",
+          "contenttype": 2,
+          "score": 1,
+          "scorestandard": "123",
+          "methodtype": 0,
+          "workdetail": "123"
+        },
+        {
+          "id": "7e9ed7131a654ed0b04c513b089ab6fc",
+          "indexname": "C指标",
+          "contenttype": 2,
+          "score": 20,
+          "scorestandard": "C标准",
+          "methodtype": 0,
+          "workdetail": "C路径"
+        },
+        {
+          "id": "8c8489758ad44d68b802e80fc874cf6d",
+          "indexname": "F指标",
+          "contenttype": 5,
+          "score": 50,
+          "scorestandard": "F标准",
+          "methodtype": 1,
+          "workdetail": "F路径"
+        },
+        {
+          "id": "aa1b95a8fe6540d3b8806f00a9a57f07",
+          "indexname": "A指标AA",
+          "contenttype": 0,
+          "score": 30,
+          "scorestandard": "包括系统登录、任务签收等其它工作，没有按时完成的，每起扣1分。",
+          "methodtype": 0,
+          "workdetail": "日常记录登记"
+        },
+        {
+          "id": "fea32b4f934446ba946bc511c36234ad",
+          "indexname": "A指标",
+          "contenttype": 0,
+          "score": 100,
+          "scorestandard": "A标准",
+          "methodtype": 0,
+          "workdetail": "A路线排查"
+        },
+        {
+          "id": "ff1269c8c01d40fa88adfa831c0e0c3a",
+          "indexname": "D指标",
+          "contenttype": 3,
+          "score": 100,
+          "scorestandard": "C标准",
+          "methodtype": 0,
+          "workdetail": "50"
+        }
+      ]
+    }
+  }
+}

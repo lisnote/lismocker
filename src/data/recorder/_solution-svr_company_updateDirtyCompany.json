@@ -1,0 +1,8 @@
+{
+  "POST": {
+    "/solution-svr/company/updateDirtyCompany": {
+      "errorCode": 1,
+      "record": "updateDirtyCompany success"
+    }
+  }
+}

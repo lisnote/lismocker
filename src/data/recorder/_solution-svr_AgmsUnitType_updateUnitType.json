@@ -1,0 +1,8 @@
+{
+  "POST": {
+    "/solution-svr/AgmsUnitType/updateUnitType": {
+      "errorCode": 1,
+      "record": " updateUnitType SUCCESS"
+    }
+  }
+}

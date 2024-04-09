@@ -1,0 +1,39 @@
+{
+  "GET": {
+    "/solution-svr/alarmDirty/selectAlarmDirtyByMonitorId": {
+      "errorCode": 1,
+      "record": {
+        "code": 0,
+        "msg": "成功",
+        "count": 1,
+        "data": [
+          {
+            "stationMeasureTypeEntityList": null,
+            "allStationMeasureTypeMap": null,
+            "id": "927199f95dcb4e7b8dcd55ca4b9e035c",
+            "factorid": "15517e56fa2040319a4d9e3b02c37d9a",
+            "monitorid": "4952accdede745a8acbe2c1ae29a728f",
+            "agencyleveltype": 1,
+            "alarmintertime": 1,
+            "lowvalue": 1,
+            "datatype": 0,
+            "referenceration": 0,
+            "factorName": "温度",
+            "stationMeasureTypeName": "国/省/市控站",
+            "stationMeasureTypeIds": "927199f95dcb4e7b8dcd55ca4b9e035c",
+            "stationMeasureTypeEntityListSelect": [
+              {
+                "id": "4952accdede745a8acbe2c1ae29a728f",
+                "name": "国/省/市控站",
+                "mark": "123123",
+                "pid": "000000",
+                "pidMap": null,
+                "childMenus": null
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

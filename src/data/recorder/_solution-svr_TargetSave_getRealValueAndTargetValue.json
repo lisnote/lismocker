@@ -1,0 +1,13 @@
+{
+  "GET": {
+    "/solution-svr/TargetSave/getRealValueAndTargetValue": {
+      "errorCode": 1,
+      "record": {
+        "quarterList": [],
+        "monthList": [],
+        "fieldNames": null,
+        "yearList": []
+      }
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "POST": {
+    "/solution-svr/lift/selectLiftAlarmHistoryData": {
+      "errorCode": 1,
+      "record": {
+        "code": 0,
+        "msg": "SUCCESS",
+        "count": 0,
+        "data": [
+          {
+            "listOne": {
+              "warningNum": 0,
+              "alarmNum": 0
+            },
+            "listTwo": []
+          }
+        ]
+      }
+    }
+  }
+}

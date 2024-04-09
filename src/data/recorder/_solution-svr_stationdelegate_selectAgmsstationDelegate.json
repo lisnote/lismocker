@@ -1,0 +1,69 @@
+{
+  "GET": {
+    "/solution-svr/stationdelegate/selectAgmsstationDelegate": {
+      "errorCode": 1,
+      "record": [
+        {
+          "employeeid": "567803f071bb4ecdb8354e2f97b12322",
+          "stationid": "02960a026af04525adbaf0e67973609e",
+          "read": 0,
+          "write": 0
+        },
+        {
+          "employeeid": "567803f071bb4ecdb8354e2f97b12322",
+          "stationid": "04927a30411c4902938032c41adf51ee",
+          "read": 0,
+          "write": 0
+        },
+        {
+          "employeeid": "567803f071bb4ecdb8354e2f97b12322",
+          "stationid": "12bcf017c34646718db2a445d2861731",
+          "read": 0,
+          "write": 0
+        },
+        {
+          "employeeid": "567803f071bb4ecdb8354e2f97b12322",
+          "stationid": "35e8d6551f244b3ebb16fcfc06834e37",
+          "read": 0,
+          "write": 0
+        },
+        {
+          "employeeid": "567803f071bb4ecdb8354e2f97b12322",
+          "stationid": "4342e9b9c7a64243b8596472a8644553",
+          "read": 0,
+          "write": 0
+        },
+        {
+          "employeeid": "567803f071bb4ecdb8354e2f97b12322",
+          "stationid": "a918d4515f4047678b810584aee2de2c",
+          "read": 0,
+          "write": 0
+        },
+        {
+          "employeeid": "567803f071bb4ecdb8354e2f97b12322",
+          "stationid": "d57c982c215644d5b23523c75e8f6cf2",
+          "read": 0,
+          "write": 0
+        },
+        {
+          "employeeid": "567803f071bb4ecdb8354e2f97b12322",
+          "stationid": "df8e33724ab04c84b8747cf29e10a834",
+          "read": 0,
+          "write": 0
+        },
+        {
+          "employeeid": "567803f071bb4ecdb8354e2f97b12322",
+          "stationid": "fd38e14d55534348b583f03f6b536c27",
+          "read": 0,
+          "write": 0
+        },
+        {
+          "employeeid": "567803f071bb4ecdb8354e2f97b12322",
+          "stationid": "feb7d53da9d848f5b3f920bf1eed35ea",
+          "read": 0,
+          "write": 0
+        }
+      ]
+    }
+  }
+}

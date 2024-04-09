@@ -1,0 +1,8 @@
+{
+  "POST": {
+    "/solution-svr/agms-verify/delVerifyEntity": {
+      "errorCode": 1,
+      "record": "delVerifyEntity success"
+    }
+  }
+}

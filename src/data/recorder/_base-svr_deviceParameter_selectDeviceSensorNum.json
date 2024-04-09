@@ -1,0 +1,33 @@
+{
+  "POST": {
+    "/base-svr/deviceParameter/selectDeviceSensorNum": {
+      "errorCode": 1,
+      "record": [
+        {
+          "proTypeName": "温度",
+          "proType": 5003,
+          "proTypeId": 32,
+          "subList": [
+            {
+              "subName": "温度#1",
+              "num": 1,
+              "hasSelected": false
+            }
+          ]
+        },
+        {
+          "proTypeName": "湿度",
+          "proType": 5004,
+          "proTypeId": 33,
+          "subList": [
+            {
+              "subName": "湿度#2",
+              "num": 2,
+              "hasSelected": false
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

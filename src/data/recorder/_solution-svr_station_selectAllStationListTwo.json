@@ -1,0 +1,79 @@
+{
+  "GET": {
+    "/solution-svr/station/selectAllStationListTwo": {
+      "errorCode": 1,
+      "record": [
+        {
+          "id": "02960a026af04525adbaf0e67973609e",
+          "name": "新健兴科技工业园",
+          "stationMeasureTypeId": "7a19360cdff54e08841523dd7a5e53a1",
+          "latitude": 22.772997,
+          "longitude": 113.922829
+        },
+        {
+          "id": "04927a30411c4902938032c41adf51ee",
+          "name": "坪洲站",
+          "stationMeasureTypeId": "7f8b8fc0596a4749b00503ef29f9592d",
+          "latitude": 22.568908,
+          "longitude": 113.870711
+        },
+        {
+          "id": "12bcf017c34646718db2a445d2861731",
+          "name": "西丽B站",
+          "stationMeasureTypeId": "384e5d1b90964466861e606a444a7d09",
+          "latitude": 22.580632,
+          "longitude": 113.954131
+        },
+        {
+          "id": "35e8d6551f244b3ebb16fcfc06834e37",
+          "name": "蛇口C站",
+          "stationMeasureTypeId": "4952accdede745a8acbe2c1ae29a728f",
+          "latitude": 22.476626,
+          "longitude": 113.912331
+        },
+        {
+          "id": "4342e9b9c7a64243b8596472a8644553",
+          "name": "第二职业技术学校",
+          "stationMeasureTypeId": "7a19360cdff54e08841523dd7a5e53a1",
+          "latitude": 22.776539,
+          "longitude": 113.948492
+        },
+        {
+          "id": "a918d4515f4047678b810584aee2de2c",
+          "name": "西丽A站",
+          "stationMeasureTypeId": "7a19360cdff54e08841523dd7a5e53a1",
+          "latitude": 22.580677,
+          "longitude": 113.954396
+        },
+        {
+          "id": "d57c982c215644d5b23523c75e8f6cf2",
+          "name": "光明中心站",
+          "stationMeasureTypeId": "4952accdede745a8acbe2c1ae29a728f",
+          "latitude": 22.762737,
+          "longitude": 113.944878
+        },
+        {
+          "id": "df8e33724ab04c84b8747cf29e10a834",
+          "name": "蛇口B站",
+          "stationMeasureTypeId": "4952accdede745a8acbe2c1ae29a728f",
+          "latitude": 22.476798,
+          "longitude": 113.91195
+        },
+        {
+          "id": "fd38e14d55534348b583f03f6b536c27",
+          "name": "蛇口A站",
+          "stationMeasureTypeId": "a7f9f889dbac4040a2d640af46728654",
+          "latitude": 22.476273,
+          "longitude": 113.911988
+        },
+        {
+          "id": "feb7d53da9d848f5b3f920bf1eed35ea",
+          "name": "光明火车站",
+          "stationMeasureTypeId": "4952accdede745a8acbe2c1ae29a728f",
+          "latitude": 22.531948,
+          "longitude": 114.117751
+        }
+      ]
+    }
+  }
+}

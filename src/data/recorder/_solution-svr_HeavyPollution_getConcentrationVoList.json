@@ -1,0 +1,8 @@
+{
+  "GET": {
+    "/solution-svr/HeavyPollution/getConcentrationVoList": {
+      "errorCode": 1,
+      "record": []
+    }
+  }
+}

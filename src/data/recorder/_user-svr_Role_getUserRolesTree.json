@@ -4,288 +4,106 @@
       "errorCode": 1,
       "record": [
         {
-          "id": "84a04c4da8d044479be000ff2001d541",
+          "id": "febee099e2214a4999e98e22d7742742",
           "pid": "000000",
           "prevId": null,
           "child": [
             {
-              "id": "cb0aad03cd9a41f29923ff3b43e65638",
-              "pid": "84a04c4da8d044479be000ff2001d541",
+              "id": "a5678086f170431897ceaf6ae5e863a3",
+              "pid": "febee099e2214a4999e98e22d7742742",
               "prevId": null,
               "child": [
                 {
-                  "id": "9168eb3e717a44bf93670810fec27198",
-                  "pid": "cb0aad03cd9a41f29923ff3b43e65638",
+                  "id": "8e7da1419f2b4eb087bdff4ae4efa3ee",
+                  "pid": "a5678086f170431897ceaf6ae5e863a3",
                   "prevId": null,
                   "child": [],
-                  "name": "人事行政部",
+                  "name": "工程师",
                   "hasSelected": 0
                 },
                 {
-                  "id": "2db93848beab443eb8e0da70c3763aea",
-                  "pid": "cb0aad03cd9a41f29923ff3b43e65638",
-                  "prevId": null,
-                  "child": [
-                    {
-                      "id": "272491e99a3a461a9aa940943ca90ed2",
-                      "pid": "2db93848beab443eb8e0da70c3763aea",
-                      "prevId": null,
-                      "child": [],
-                      "name": "生产主管",
-                      "hasSelected": 0
-                    },
-                    {
-                      "id": "9c89b1fef416416dbeea707a506ea768",
-                      "pid": "2db93848beab443eb8e0da70c3763aea",
-                      "prevId": null,
-                      "child": [],
-                      "name": "生产人员",
-                      "hasSelected": 0
-                    }
-                  ],
-                  "name": "生产部",
-                  "hasSelected": 0
-                },
-                {
-                  "id": "329ef58a9e3242b39a1338febc157e3a",
-                  "pid": "cb0aad03cd9a41f29923ff3b43e65638",
-                  "prevId": null,
-                  "child": [
-                    {
-                      "id": "84449af284634f37bde0275e6a6de401",
-                      "pid": "329ef58a9e3242b39a1338febc157e3a",
-                      "prevId": null,
-                      "child": [],
-                      "name": "测试主管",
-                      "hasSelected": 0
-                    },
-                    {
-                      "id": "b049f82b2ef54af897589ad3e2725906",
-                      "pid": "329ef58a9e3242b39a1338febc157e3a",
-                      "prevId": null,
-                      "child": [],
-                      "name": "测试人员",
-                      "hasSelected": 0
-                    },
-                    {
-                      "id": "ed66cd05c05941e5949a8b06d449f7d1",
-                      "pid": "329ef58a9e3242b39a1338febc157e3a",
-                      "prevId": null,
-                      "child": [],
-                      "name": "研发主管",
-                      "hasSelected": 0
-                    },
-                    {
-                      "id": "c3c16a1392f34a88821f9c771dbbec75",
-                      "pid": "329ef58a9e3242b39a1338febc157e3a",
-                      "prevId": null,
-                      "child": [],
-                      "name": "研发人员",
-                      "hasSelected": 0
-                    }
-                  ],
-                  "name": "研发部",
-                  "hasSelected": 0
-                },
-                {
-                  "id": "9b31eb3e7cf64c638186b2fda177101b",
-                  "pid": "cb0aad03cd9a41f29923ff3b43e65638",
+                  "id": "ca56b4f6ffc7426ab063d80df590745b",
+                  "pid": "a5678086f170431897ceaf6ae5e863a3",
                   "prevId": null,
                   "child": [],
-                  "name": "财务部",
+                  "name": "环境责任人",
                   "hasSelected": 0
                 },
                 {
-                  "id": "5c964c3edf9846f1ad45ff7c4df42cbc",
-                  "pid": "cb0aad03cd9a41f29923ff3b43e65638",
+                  "id": "0d3fe219e97b4e4693b3ef49f93281b2",
+                  "pid": "a5678086f170431897ceaf6ae5e863a3",
                   "prevId": null,
                   "child": [],
-                  "name": "采购部",
+                  "name": "站点责任人",
                   "hasSelected": 0
                 },
                 {
-                  "id": "44a7839b5b6f4e66bb8761a64c2838fa",
-                  "pid": "cb0aad03cd9a41f29923ff3b43e65638",
+                  "id": "d0a2f8dde5e54c06b33975204ff56398",
+                  "pid": "a5678086f170431897ceaf6ae5e863a3",
                   "prevId": null,
                   "child": [],
-                  "name": "销售部",
+                  "name": "网格责任人",
+                  "hasSelected": 0
+                },
+                {
+                  "id": "6517e174cd1d4d9f8bf710303648d706",
+                  "pid": "a5678086f170431897ceaf6ae5e863a3",
+                  "prevId": null,
+                  "child": [],
+                  "name": "财务",
                   "hasSelected": 0
                 }
               ],
-              "name": "公司主体",
+              "name": "岗位",
               "hasSelected": 0
             },
             {
-              "id": "df044a2061eb418686e76c574438eea2",
-              "pid": "84a04c4da8d044479be000ff2001d541",
+              "id": "9a6fe02af52b464aa9c8c5dcba46b42c",
+              "pid": "febee099e2214a4999e98e22d7742742",
               "prevId": null,
               "child": [],
-              "name": "测试员",
+              "name": "报警测试",
               "hasSelected": 0
             },
             {
-              "id": "f1ce4391a3d44a05a12cb95bd0e74786",
-              "pid": "84a04c4da8d044479be000ff2001d541",
+              "id": "9852f582161d42dcaa6f7fc89ca64578",
+              "pid": "febee099e2214a4999e98e22d7742742",
               "prevId": null,
               "child": [],
-              "name": "演示角色",
+              "name": "测试角色",
               "hasSelected": 0
             },
             {
-              "id": "45a7c98ea2e44bbebb7e58f39a35a4ca",
-              "pid": "84a04c4da8d044479be000ff2001d541",
+              "id": "03809e31b4f547e9ae1d933118c2b13f",
+              "pid": "febee099e2214a4999e98e22d7742742",
+              "prevId": null,
+              "child": [],
+              "name": "测试角色2",
+              "hasSelected": 0
+            },
+            {
+              "id": "04d10ff573634f1480f9e2e621239d89",
+              "pid": "febee099e2214a4999e98e22d7742742",
+              "prevId": null,
+              "child": [],
+              "name": "测试角色3",
+              "hasSelected": 0
+            },
+            {
+              "id": "0141b9ae3f244077872a4fa0c80a3a7f",
+              "pid": "febee099e2214a4999e98e22d7742742",
               "prevId": null,
               "child": [
                 {
-                  "id": "73a2a3c11af448b2a1bbcbedc18ae21d",
-                  "pid": "45a7c98ea2e44bbebb7e58f39a35a4ca",
-                  "prevId": null,
-                  "child": [
-                    {
-                      "id": "a5a32e8f0d5e48f999f31d100ae3a1af",
-                      "pid": "73a2a3c11af448b2a1bbcbedc18ae21d",
-                      "prevId": null,
-                      "child": [],
-                      "name": "水数据",
-                      "hasSelected": 0
-                    },
-                    {
-                      "id": "417563a8b402491cbb94b5bc7fc96b73",
-                      "pid": "73a2a3c11af448b2a1bbcbedc18ae21d",
-                      "prevId": null,
-                      "child": [],
-                      "name": "燃气数据",
-                      "hasSelected": 0
-                    },
-                    {
-                      "id": "bd2126e9a5fa423d87617ddeacc6319b",
-                      "pid": "73a2a3c11af448b2a1bbcbedc18ae21d",
-                      "prevId": null,
-                      "child": [],
-                      "name": "电数据",
-                      "hasSelected": 0
-                    }
-                  ],
-                  "name": "历史数据",
-                  "hasSelected": 0
-                },
-                {
-                  "id": "b4abe1add94c4098911ad73364470a78",
-                  "pid": "45a7c98ea2e44bbebb7e58f39a35a4ca",
-                  "prevId": null,
-                  "child": [
-                    {
-                      "id": "93339c5b5f1a4866953784f78b185fb7",
-                      "pid": "b4abe1add94c4098911ad73364470a78",
-                      "prevId": null,
-                      "child": [],
-                      "name": "水数据",
-                      "hasSelected": 0
-                    },
-                    {
-                      "id": "767e17e0531d42e99d528b8b83d99624",
-                      "pid": "b4abe1add94c4098911ad73364470a78",
-                      "prevId": null,
-                      "child": [],
-                      "name": "燃气数据",
-                      "hasSelected": 0
-                    },
-                    {
-                      "id": "7480266dd2494f3ca06625942a4979a3",
-                      "pid": "b4abe1add94c4098911ad73364470a78",
-                      "prevId": null,
-                      "child": [],
-                      "name": "电数据",
-                      "hasSelected": 0
-                    }
-                  ],
-                  "name": "实时数据",
-                  "hasSelected": 0
-                },
-                {
-                  "id": "d488e2d703b14da381748263e5061b2c",
-                  "pid": "45a7c98ea2e44bbebb7e58f39a35a4ca",
+                  "id": "21c04eb9546547f79f054c5e08ad79a8",
+                  "pid": "0141b9ae3f244077872a4fa0c80a3a7f",
                   "prevId": null,
                   "child": [],
-                  "name": "报警管理",
-                  "hasSelected": 0
-                },
-                {
-                  "id": "574bde6b90524a77b380cb6566c9cb48",
-                  "pid": "45a7c98ea2e44bbebb7e58f39a35a4ca",
-                  "prevId": null,
-                  "child": [],
-                  "name": "操作日志",
-                  "hasSelected": 0
-                },
-                {
-                  "id": "ffc7e3c5fa694f64b1d270f43406a9c9",
-                  "pid": "45a7c98ea2e44bbebb7e58f39a35a4ca",
-                  "prevId": null,
-                  "child": [
-                    {
-                      "id": "d518a7ad64d64b1cb18e93b64e428c04",
-                      "pid": "ffc7e3c5fa694f64b1d270f43406a9c9",
-                      "prevId": null,
-                      "child": [],
-                      "name": "区域分组",
-                      "hasSelected": 0
-                    },
-                    {
-                      "id": "ff6154c9ff1b4385be739cd99f0db3c7",
-                      "pid": "ffc7e3c5fa694f64b1d270f43406a9c9",
-                      "prevId": null,
-                      "child": [],
-                      "name": "成员管理",
-                      "hasSelected": 0
-                    }
-                  ],
-                  "name": "系统设置",
-                  "hasSelected": 0
-                },
-                {
-                  "id": "a72e047247634d9e8608e78fa0ddc345",
-                  "pid": "45a7c98ea2e44bbebb7e58f39a35a4ca",
-                  "prevId": null,
-                  "child": [
-                    {
-                      "id": "6f0d503d929948bf8042ace62a3cb72e",
-                      "pid": "a72e047247634d9e8608e78fa0ddc345",
-                      "prevId": null,
-                      "child": [],
-                      "name": "用气分析",
-                      "hasSelected": 0
-                    },
-                    {
-                      "id": "36671b200bd94e25a7f311211fe32021",
-                      "pid": "a72e047247634d9e8608e78fa0ddc345",
-                      "prevId": null,
-                      "child": [],
-                      "name": "用水分析",
-                      "hasSelected": 0
-                    },
-                    {
-                      "id": "3fd84fbe64454f43ad75a3335dad0c4d",
-                      "pid": "a72e047247634d9e8608e78fa0ddc345",
-                      "prevId": null,
-                      "child": [],
-                      "name": "用电分析",
-                      "hasSelected": 0
-                    }
-                  ],
-                  "name": "统计分析",
-                  "hasSelected": 0
-                },
-                {
-                  "id": "2ca553851e9344f0bdae996ca5c5cbcc",
-                  "pid": "45a7c98ea2e44bbebb7e58f39a35a4ca",
-                  "prevId": null,
-                  "child": [],
-                  "name": "设备管理",
+                  "name": "环境监测部",
                   "hasSelected": 0
                 }
               ],
-              "name": "系统人员",
+              "name": "部门",
               "hasSelected": 0
             }
           ],
