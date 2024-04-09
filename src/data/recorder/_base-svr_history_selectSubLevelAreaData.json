@@ -1,0 +1,362 @@
+{
+  "GET": {
+    "/base-svr/history/selectSubLevelAreaData": {
+      "errorCode": 1,
+      "record": {
+        "proTypeUnit": {
+          "id": 46,
+          "type": 5017,
+          "dataType": 1,
+          "name": "水量用量",
+          "unit": "m³",
+          "mark": "水量用量"
+        },
+        "data": [
+          {
+            "id": "EmsGtw001_05",
+            "areaId": "ee355a710bd9406f8bc05ac98664c744",
+            "name": "深圳市精优达科技有限公司",
+            "values": [
+              {
+                "date": {
+                  "year": 124,
+                  "month": 3,
+                  "date": 9,
+                  "day": 2,
+                  "hours": 0,
+                  "minutes": 0,
+                  "seconds": 0,
+                  "time": 1712592000000,
+                  "timezoneOffset": -480
+                },
+                "value": -28.35
+              },
+              {
+                "date": {
+                  "year": 124,
+                  "month": 3,
+                  "date": 9,
+                  "day": 2,
+                  "hours": 1,
+                  "minutes": 0,
+                  "seconds": 0,
+                  "time": 1712595600000,
+                  "timezoneOffset": -480
+                },
+                "value": -9.2
+              },
+              {
+                "date": {
+                  "year": 124,
+                  "month": 3,
+                  "date": 9,
+                  "day": 2,
+                  "hours": 2,
+                  "minutes": 0,
+                  "seconds": 0,
+                  "time": 1712599200000,
+                  "timezoneOffset": -480
+                },
+                "value": 34.55
+              },
+              {
+                "date": {
+                  "year": 124,
+                  "month": 3,
+                  "date": 9,
+                  "day": 2,
+                  "hours": 3,
+                  "minutes": 0,
+                  "seconds": 0,
+                  "time": 1712602800000,
+                  "timezoneOffset": -480
+                },
+                "value": 23.62
+              },
+              {
+                "date": {
+                  "year": 124,
+                  "month": 3,
+                  "date": 9,
+                  "day": 2,
+                  "hours": 4,
+                  "minutes": 0,
+                  "seconds": 0,
+                  "time": 1712606400000,
+                  "timezoneOffset": -480
+                },
+                "value": -20.56
+              },
+              {
+                "date": {
+                  "year": 124,
+                  "month": 3,
+                  "date": 9,
+                  "day": 2,
+                  "hours": 5,
+                  "minutes": 0,
+                  "seconds": 0,
+                  "time": 1712610000000,
+                  "timezoneOffset": -480
+                },
+                "value": 24.15
+              },
+              {
+                "date": {
+                  "year": 124,
+                  "month": 3,
+                  "date": 9,
+                  "day": 2,
+                  "hours": 6,
+                  "minutes": 0,
+                  "seconds": 0,
+                  "time": 1712613600000,
+                  "timezoneOffset": -480
+                },
+                "value": 3.08
+              },
+              {
+                "date": {
+                  "year": 124,
+                  "month": 3,
+                  "date": 9,
+                  "day": 2,
+                  "hours": 7,
+                  "minutes": 0,
+                  "seconds": 0,
+                  "time": 1712617200000,
+                  "timezoneOffset": -480
+                },
+                "value": -24.34
+              },
+              {
+                "date": {
+                  "year": 124,
+                  "month": 3,
+                  "date": 9,
+                  "day": 2,
+                  "hours": 8,
+                  "minutes": 0,
+                  "seconds": 0,
+                  "time": 1712620800000,
+                  "timezoneOffset": -480
+                },
+                "value": 22.03
+              },
+              {
+                "date": {
+                  "year": 124,
+                  "month": 3,
+                  "date": 9,
+                  "day": 2,
+                  "hours": 9,
+                  "minutes": 0,
+                  "seconds": 0,
+                  "time": 1712624400000,
+                  "timezoneOffset": -480
+                },
+                "value": -12.93
+              },
+              {
+                "date": {
+                  "year": 124,
+                  "month": 3,
+                  "date": 9,
+                  "day": 2,
+                  "hours": 10,
+                  "minutes": 0,
+                  "seconds": 0,
+                  "time": 1712628000000,
+                  "timezoneOffset": -480
+                },
+                "value": -17.96
+              },
+              {
+                "date": {
+                  "year": 124,
+                  "month": 3,
+                  "date": 9,
+                  "day": 2,
+                  "hours": 11,
+                  "minutes": 0,
+                  "seconds": 0,
+                  "time": 1712631600000,
+                  "timezoneOffset": -480
+                },
+                "value": 0
+              },
+              {
+                "date": {
+                  "year": 124,
+                  "month": 3,
+                  "date": 9,
+                  "day": 2,
+                  "hours": 12,
+                  "minutes": 0,
+                  "seconds": 0,
+                  "time": 1712635200000,
+                  "timezoneOffset": -480
+                },
+                "value": 0
+              },
+              {
+                "date": {
+                  "year": 124,
+                  "month": 3,
+                  "date": 9,
+                  "day": 2,
+                  "hours": 13,
+                  "minutes": 0,
+                  "seconds": 0,
+                  "time": 1712638800000,
+                  "timezoneOffset": -480
+                },
+                "value": 0
+              },
+              {
+                "date": {
+                  "year": 124,
+                  "month": 3,
+                  "date": 9,
+                  "day": 2,
+                  "hours": 14,
+                  "minutes": 0,
+                  "seconds": 0,
+                  "time": 1712642400000,
+                  "timezoneOffset": -480
+                },
+                "value": 0
+              },
+              {
+                "date": {
+                  "year": 124,
+                  "month": 3,
+                  "date": 9,
+                  "day": 2,
+                  "hours": 15,
+                  "minutes": 0,
+                  "seconds": 0,
+                  "time": 1712646000000,
+                  "timezoneOffset": -480
+                },
+                "value": 0
+              },
+              {
+                "date": {
+                  "year": 124,
+                  "month": 3,
+                  "date": 9,
+                  "day": 2,
+                  "hours": 16,
+                  "minutes": 0,
+                  "seconds": 0,
+                  "time": 1712649600000,
+                  "timezoneOffset": -480
+                },
+                "value": 0
+              },
+              {
+                "date": {
+                  "year": 124,
+                  "month": 3,
+                  "date": 9,
+                  "day": 2,
+                  "hours": 17,
+                  "minutes": 0,
+                  "seconds": 0,
+                  "time": 1712653200000,
+                  "timezoneOffset": -480
+                },
+                "value": 0
+              },
+              {
+                "date": {
+                  "year": 124,
+                  "month": 3,
+                  "date": 9,
+                  "day": 2,
+                  "hours": 18,
+                  "minutes": 0,
+                  "seconds": 0,
+                  "time": 1712656800000,
+                  "timezoneOffset": -480
+                },
+                "value": 0
+              },
+              {
+                "date": {
+                  "year": 124,
+                  "month": 3,
+                  "date": 9,
+                  "day": 2,
+                  "hours": 19,
+                  "minutes": 0,
+                  "seconds": 0,
+                  "time": 1712660400000,
+                  "timezoneOffset": -480
+                },
+                "value": 0
+              },
+              {
+                "date": {
+                  "year": 124,
+                  "month": 3,
+                  "date": 9,
+                  "day": 2,
+                  "hours": 20,
+                  "minutes": 0,
+                  "seconds": 0,
+                  "time": 1712664000000,
+                  "timezoneOffset": -480
+                },
+                "value": 0
+              },
+              {
+                "date": {
+                  "year": 124,
+                  "month": 3,
+                  "date": 9,
+                  "day": 2,
+                  "hours": 21,
+                  "minutes": 0,
+                  "seconds": 0,
+                  "time": 1712667600000,
+                  "timezoneOffset": -480
+                },
+                "value": 0
+              },
+              {
+                "date": {
+                  "year": 124,
+                  "month": 3,
+                  "date": 9,
+                  "day": 2,
+                  "hours": 22,
+                  "minutes": 0,
+                  "seconds": 0,
+                  "time": 1712671200000,
+                  "timezoneOffset": -480
+                },
+                "value": 0
+              },
+              {
+                "date": {
+                  "year": 124,
+                  "month": 3,
+                  "date": 9,
+                  "day": 2,
+                  "hours": 23,
+                  "minutes": 0,
+                  "seconds": 0,
+                  "time": 1712674800000,
+                  "timezoneOffset": -480
+                },
+                "value": 0
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

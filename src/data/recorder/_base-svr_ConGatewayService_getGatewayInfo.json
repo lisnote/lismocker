@@ -1,0 +1,49 @@
+{
+  "GET": {
+    "/base-svr/ConGatewayService/getGatewayInfo": {
+      "errorCode": 1,
+      "record": {
+        "code": 0,
+        "msg": "",
+        "count": 1,
+        "data": [
+          {
+            "id": "EmsGtw001",
+            "name": "EmsGtw001",
+            "type": 15000,
+            "macAddr": "",
+            "online": false,
+            "onlineTime": {
+              "year": 124,
+              "month": 2,
+              "date": 5,
+              "day": 2,
+              "hours": 19,
+              "minutes": 17,
+              "seconds": 58,
+              "time": 1709637478000,
+              "timezoneOffset": -480
+            },
+            "offlineTime": {
+              "year": 124,
+              "month": 2,
+              "date": 5,
+              "day": 2,
+              "hours": 19,
+              "minutes": 19,
+              "seconds": 45,
+              "time": 1709637585000,
+              "timezoneOffset": -480
+            },
+            "isDel": false,
+            "agencyId": "2827190358c84dbfbc64cd1298efb7fd",
+            "agencyName": "C区",
+            "cCount": 6,
+            "mark": "有线网关",
+            "connectLiftCount": null
+          }
+        ]
+      }
+    }
+  }
+}

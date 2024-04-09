@@ -4,52 +4,28 @@
       "errorCode": 1,
       "record": [
         {
-          "id": "36b1ec56c978458d8ef94d2b75f49225",
-          "agencyId": "7085d7e613734ac5b3826b6a11e1f0f2",
-          "proType": 5003,
-          "cause": "温度测试",
-          "suggestion": "温度测试",
-          "proTypeName": "温度"
+          "id": "ea2279fa6f2647a3b8c08dea87689337",
+          "agencyId": "ee355a710bd9406f8bc05ac98664c744",
+          "proType": 5001,
+          "cause": "1",
+          "suggestion": "1",
+          "proTypeName": "功率参数（高两位电压，低两位电流）"
         },
         {
-          "id": "3f198636c0de43ae970db309cd013711",
-          "agencyId": "7085d7e613734ac5b3826b6a11e1f0f2",
+          "id": "4111c8c2227449a9bdd9819becb4b818",
+          "agencyId": "ee355a710bd9406f8bc05ac98664c744",
+          "proType": 5002,
+          "cause": "1234",
+          "suggestion": "1223",
+          "proTypeName": "功率"
+        },
+        {
+          "id": "b28f45a8f8474adca7303725c22b08d1",
+          "agencyId": "ee355a710bd9406f8bc05ac98664c744",
           "proType": 5009,
-          "cause": "故障原因占位",
-          "suggestion": "处理建议占位",
+          "cause": "漏水",
+          "suggestion": "立即关闭输水设备",
           "proTypeName": "水漏"
-        },
-        {
-          "id": "10e05d38e2984b3e9213d39661a67e59",
-          "agencyId": "7085d7e613734ac5b3826b6a11e1f0f2",
-          "proType": 5050,
-          "cause": "信号强度过强",
-          "suggestion": "不建议处理",
-          "proTypeName": "信号强度"
-        },
-        {
-          "id": "271961f5d6f84892b8a79b11998611f8",
-          "agencyId": "7085d7e613734ac5b3826b6a11e1f0f2",
-          "proType": 5051,
-          "cause": "电池电压过小",
-          "suggestion": "更换电池",
-          "proTypeName": "电池电压"
-        },
-        {
-          "id": "7e067802cdcb4bc09a661511949498fd",
-          "agencyId": "7085d7e613734ac5b3826b6a11e1f0f2",
-          "proType": 5052,
-          "cause": "井盖发生倾斜",
-          "suggestion": "安排监测人员现场处理",
-          "proTypeName": "倾斜角度"
-        },
-        {
-          "id": "0d60ee6281ed4f9b9eb5d7b8fa460f8c",
-          "agencyId": "7085d7e613734ac5b3826b6a11e1f0f2",
-          "proType": 5056,
-          "cause": "开锁异常",
-          "suggestion": "人工现场检查",
-          "proTypeName": "布防状态"
         }
       ]
     }

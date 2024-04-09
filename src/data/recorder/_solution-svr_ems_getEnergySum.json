@@ -1,0 +1,11 @@
+{
+  "POST": {
+    "/solution-svr/ems/getEnergySum": {
+      "errorCode": 1,
+      "record": {
+        "oldTotal": 0,
+        "nowTotal": 0
+      }
+    }
+  }
+}

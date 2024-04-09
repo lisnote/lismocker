@@ -8,20 +8,20 @@
         "count": 2,
         "data": [
           {
-            "agencyId": "7085d7e613734ac5b3826b6a11e1f0f2",
-            "userId": "46fde51b467d4c7c95f39ab8728f7487",
-            "solutionType": "9",
-            "uname": "lisnsdfaaa",
-            "aname": "南宁轨道交通",
-            "phone": "18319135951"
+            "agencyId": "ee355a710bd9406f8bc05ac98664c744",
+            "userId": "49d828f411cc4c56abe9330cfd824c64",
+            "solutionType": "1",
+            "uname": "kyd_xjw",
+            "aname": "深圳市精优达科技有限公司",
+            "phone": "18888888888"
           },
           {
-            "agencyId": "7085d7e613734ac5b3826b6a11e1f0f2",
-            "userId": "49d828f411cc4c56abe9330cfd824c64",
-            "solutionType": "9",
-            "uname": "kyd_xjw",
-            "aname": "南宁轨道交通",
-            "phone": "18888888888"
+            "agencyId": "ee355a710bd9406f8bc05ac98664c744",
+            "userId": "7c847db0957d4e0da96ce5ca3764935b",
+            "solutionType": "1",
+            "uname": "test_person",
+            "aname": "深圳市精优达科技有限公司",
+            "phone": "13333333333"
           }
         ]
       }

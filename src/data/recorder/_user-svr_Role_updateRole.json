@@ -1,0 +1,8 @@
+{
+  "POST": {
+    "/user-svr/Role/updateRole": {
+      "errorCode": 1,
+      "record": "updateRole_success"
+    }
+  }
+}

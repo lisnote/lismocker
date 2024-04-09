@@ -1,0 +1,12 @@
+{
+  "POST": {
+    "/base-svr/ConDeviceService/getDeviceCount": {
+      "errorCode": 1,
+      "record": {
+        "count": 6,
+        "isOnline": 0,
+        "notOnline": 6
+      }
+    }
+  }
+}

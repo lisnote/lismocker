@@ -1,0 +1,67 @@
+{
+  "GET": {
+    "/solution-svr/ProvinceCityData/getRankDataList": {
+      "errorCode": 1,
+      "record": [
+        {
+          "yearMonthDay": "2024-04-09 13:55",
+          "sensorTime": {
+            "year": 124,
+            "month": 3,
+            "date": 9,
+            "day": 2,
+            "hours": 13,
+            "minutes": 55,
+            "seconds": 13,
+            "time": 1712642113000,
+            "timezoneOffset": -480
+          },
+          "agencyId": "b1f4322ad44444c7a374a501714f095f",
+          "agencyName": "蛇口",
+          "stationId": "35e8d6551f244b3ebb16fcfc06834e37",
+          "stationName": "蛇口C站",
+          "deviceId": "AgmsGtw001_002",
+          "longitude": 113.912331,
+          "latitude": 22.476626,
+          "pollution": "CO",
+          "value": 81,
+          "level": "2",
+          "stationType": "国/省/市控站",
+          "stationTypeId": "4952accdede745a8acbe2c1ae29a728f",
+          "temperature": 21,
+          "humidity": 49.1,
+          "winddirection": 0
+        },
+        {
+          "yearMonthDay": "2024-04-09 13:55",
+          "sensorTime": {
+            "year": 124,
+            "month": 3,
+            "date": 9,
+            "day": 2,
+            "hours": 13,
+            "minutes": 55,
+            "seconds": 13,
+            "time": 1712642113000,
+            "timezoneOffset": -480
+          },
+          "agencyId": "b1f4322ad44444c7a374a501714f095f",
+          "agencyName": "蛇口",
+          "stationId": "df8e33724ab04c84b8747cf29e10a834",
+          "stationName": "蛇口B站",
+          "deviceId": "AgmsGtw001_001",
+          "longitude": 113.91195,
+          "latitude": 22.476798,
+          "pollution": "SO2",
+          "value": 111.2,
+          "level": "3",
+          "stationType": "国/省/市控站",
+          "stationTypeId": "4952accdede745a8acbe2c1ae29a728f",
+          "temperature": 7,
+          "humidity": 6.9,
+          "winddirection": 0
+        }
+      ]
+    }
+  }
+}

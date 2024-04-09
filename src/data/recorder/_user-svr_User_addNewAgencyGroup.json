@@ -1,0 +1,8 @@
+{
+  "POST": {
+    "/user-svr/User/addNewAgencyGroup": {
+      "errorCode": 1,
+      "record": "add agencyGroup success"
+    }
+  }
+}

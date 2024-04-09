@@ -1,0 +1,545 @@
+{
+  "GET": {
+    "/base-svr/proType/selectAllProType": {
+      "errorCode": 1,
+      "record": [
+        {
+          "id": 29,
+          "type": 5000,
+          "dataType": 1,
+          "name": "面风速",
+          "unit": "--",
+          "mark": "面风速"
+        },
+        {
+          "id": 30,
+          "type": 5001,
+          "dataType": 1,
+          "name": "功率参数（高两位电压，低两位电流）",
+          "unit": "kw",
+          "mark": "功率参数（高两位电压，低两位电流）"
+        },
+        {
+          "id": 31,
+          "type": 5002,
+          "dataType": 1,
+          "name": "功率",
+          "unit": "kw",
+          "mark": "功率"
+        },
+        {
+          "id": 32,
+          "type": 5003,
+          "dataType": 1,
+          "name": "温度",
+          "unit": "℃",
+          "mark": "温度"
+        },
+        {
+          "id": 33,
+          "type": 5004,
+          "dataType": 1,
+          "name": "湿度",
+          "unit": "%RH",
+          "mark": "湿度"
+        },
+        {
+          "id": 34,
+          "type": 5005,
+          "dataType": 1,
+          "name": "CO2",
+          "unit": "mg/m³",
+          "mark": "CO2"
+        },
+        {
+          "id": 35,
+          "type": 5006,
+          "dataType": 1,
+          "name": "CO",
+          "unit": "mg/m³",
+          "mark": "CO"
+        },
+        {
+          "id": 36,
+          "type": 5007,
+          "dataType": 1,
+          "name": "TVOC",
+          "unit": "ppm",
+          "mark": "总挥发性有机物"
+        },
+        {
+          "id": 37,
+          "type": 5008,
+          "dataType": 1,
+          "name": "光照度",
+          "unit": "Lux",
+          "mark": "光照度"
+        },
+        {
+          "id": 38,
+          "type": 5009,
+          "dataType": 1,
+          "name": "水漏",
+          "unit": null,
+          "mark": "水漏"
+        },
+        {
+          "id": 39,
+          "type": 5010,
+          "dataType": 1,
+          "name": "PM2.5",
+          "unit": "ug/m³",
+          "mark": "PM2.5"
+        },
+        {
+          "id": 40,
+          "type": 5011,
+          "dataType": 1,
+          "name": "烟雾",
+          "unit": null,
+          "mark": "烟雾"
+        },
+        {
+          "id": 41,
+          "type": 5012,
+          "dataType": 1,
+          "name": "门磁窗磁感应",
+          "unit": null,
+          "mark": "门磁窗磁感应"
+        },
+        {
+          "id": 42,
+          "type": 5013,
+          "dataType": 1,
+          "name": "红外入侵",
+          "unit": null,
+          "mark": "红外入侵"
+        },
+        {
+          "id": 43,
+          "type": 5014,
+          "dataType": 1,
+          "name": "压差",
+          "unit": null,
+          "mark": "压差"
+        },
+        {
+          "id": 44,
+          "type": 5015,
+          "dataType": 1,
+          "name": "设备电量",
+          "unit": null,
+          "mark": "设备电量"
+        },
+        {
+          "id": 45,
+          "type": 5016,
+          "dataType": 1,
+          "name": "电量用量",
+          "unit": "kW·h",
+          "mark": "电量用量"
+        },
+        {
+          "id": 46,
+          "type": 5017,
+          "dataType": 1,
+          "name": "水量用量",
+          "unit": "m³",
+          "mark": "水量用量"
+        },
+        {
+          "id": 47,
+          "type": 5018,
+          "dataType": 1,
+          "name": "燃气用量",
+          "unit": "m³",
+          "mark": "燃气用量"
+        },
+        {
+          "id": 48,
+          "type": 5019,
+          "dataType": 1,
+          "name": "Ua",
+          "unit": "V",
+          "mark": "Ua"
+        },
+        {
+          "id": 49,
+          "type": 5020,
+          "dataType": 1,
+          "name": "Ub",
+          "unit": "V",
+          "mark": "Ub"
+        },
+        {
+          "id": 50,
+          "type": 5021,
+          "dataType": 1,
+          "name": "Uc",
+          "unit": "V",
+          "mark": "Uc"
+        },
+        {
+          "id": 51,
+          "type": 5022,
+          "dataType": 1,
+          "name": "Ia",
+          "unit": "A",
+          "mark": "Ia"
+        },
+        {
+          "id": 52,
+          "type": 5023,
+          "dataType": 1,
+          "name": "Ib",
+          "unit": "A",
+          "mark": "Ib"
+        },
+        {
+          "id": 53,
+          "type": 5024,
+          "dataType": 1,
+          "name": "Ic",
+          "unit": "A",
+          "mark": "Ic"
+        },
+        {
+          "id": 54,
+          "type": 5025,
+          "dataType": 1,
+          "name": "总功率",
+          "unit": "kw",
+          "mark": "总功率"
+        },
+        {
+          "id": 57,
+          "type": 5026,
+          "dataType": 1,
+          "name": "电压",
+          "unit": "V",
+          "mark": "U"
+        },
+        {
+          "id": 58,
+          "type": 5027,
+          "dataType": 1,
+          "name": "电流",
+          "unit": "A",
+          "mark": "I"
+        },
+        {
+          "id": 59,
+          "type": 5028,
+          "dataType": 1,
+          "name": "SO2",
+          "unit": null,
+          "mark": "SO2"
+        },
+        {
+          "id": 60,
+          "type": 5029,
+          "dataType": 1,
+          "name": "NO2",
+          "unit": null,
+          "mark": "NO2"
+        },
+        {
+          "id": 61,
+          "type": 5030,
+          "dataType": 1,
+          "name": "PM10",
+          "unit": "ug/m³",
+          "mark": "PM10"
+        },
+        {
+          "id": 62,
+          "type": 5031,
+          "dataType": 1,
+          "name": "O3",
+          "unit": null,
+          "mark": "O3"
+        },
+        {
+          "id": 63,
+          "type": 3000,
+          "dataType": 1,
+          "name": "风向",
+          "unit": "°",
+          "mark": "风向"
+        },
+        {
+          "id": 64,
+          "type": 4000,
+          "dataType": 1,
+          "name": "负氧离子",
+          "unit": null,
+          "mark": "负氧离子"
+        },
+        {
+          "id": 65,
+          "type": 3001,
+          "dataType": 1,
+          "name": "风速",
+          "unit": "m/s",
+          "mark": "风速"
+        },
+        {
+          "id": 66,
+          "type": 5099,
+          "dataType": 1,
+          "name": "大气压力",
+          "unit": "KPa",
+          "mark": "大气压力"
+        },
+        {
+          "id": 67,
+          "type": 6000,
+          "dataType": 1,
+          "name": "振动",
+          "unit": "mm/s",
+          "mark": "振动"
+        },
+        {
+          "id": 68,
+          "type": 6001,
+          "dataType": 1,
+          "name": "运行速度",
+          "unit": "m/s",
+          "mark": "运行速度"
+        },
+        {
+          "id": 69,
+          "type": 6002,
+          "dataType": 1,
+          "name": "客流",
+          "unit": "人次",
+          "mark": "客流"
+        },
+        {
+          "id": 70,
+          "type": 6003,
+          "dataType": 1,
+          "name": "扶梯能耗",
+          "unit": "kwh",
+          "mark": "扶梯能耗"
+        },
+        {
+          "id": 71,
+          "type": 5032,
+          "dataType": 1,
+          "name": "NH3",
+          "unit": "ppm",
+          "mark": "NH3"
+        },
+        {
+          "id": 72,
+          "type": 5033,
+          "dataType": 1,
+          "name": "噪声",
+          "unit": "db",
+          "mark": "噪声"
+        },
+        {
+          "id": 73,
+          "type": 5034,
+          "dataType": 1,
+          "name": "降雨量",
+          "unit": "mm/min",
+          "mark": "降雨量"
+        },
+        {
+          "id": 74,
+          "type": 5035,
+          "dataType": 1,
+          "name": "紫外线",
+          "unit": "μW/cm2",
+          "mark": "紫外线"
+        },
+        {
+          "id": 75,
+          "type": 5036,
+          "dataType": 1,
+          "name": "浊度",
+          "unit": "NTU",
+          "mark": "浊度"
+        },
+        {
+          "id": 76,
+          "type": 5037,
+          "dataType": 1,
+          "name": "余氯",
+          "unit": "mg/L",
+          "mark": "余氯"
+        },
+        {
+          "id": 77,
+          "type": 5038,
+          "dataType": 1,
+          "name": "PH值",
+          "unit": "PH",
+          "mark": "PH值"
+        },
+        {
+          "id": 78,
+          "type": 5039,
+          "dataType": 1,
+          "name": "电导率",
+          "unit": "uS/cm",
+          "mark": "电导率"
+        },
+        {
+          "id": 79,
+          "type": 5040,
+          "dataType": 1,
+          "name": "溶解氧",
+          "unit": "mg/L",
+          "mark": "溶解氧"
+        },
+        {
+          "id": 80,
+          "type": 5041,
+          "dataType": 1,
+          "name": "钙硬度",
+          "unit": "mg/L",
+          "mark": "钙硬度"
+        },
+        {
+          "id": 81,
+          "type": 5042,
+          "dataType": 1,
+          "name": "VOC",
+          "unit": "ppm",
+          "mark": "挥发性有机物"
+        },
+        {
+          "id": 83,
+          "type": 5043,
+          "dataType": 1,
+          "name": "CO",
+          "unit": "ppm",
+          "mark": "一氧化碳"
+        },
+        {
+          "id": 84,
+          "type": 5044,
+          "dataType": 1,
+          "name": "冷量用量",
+          "unit": "MWh",
+          "mark": "冷量用量"
+        },
+        {
+          "id": 85,
+          "type": 5045,
+          "dataType": 1,
+          "name": "热量用量",
+          "unit": "MWh",
+          "mark": "热量用量"
+        },
+        {
+          "id": 86,
+          "type": 5046,
+          "dataType": 1,
+          "name": "流量用量",
+          "unit": "m³",
+          "mark": "流量用量"
+        },
+        {
+          "id": 87,
+          "type": 5047,
+          "dataType": 1,
+          "name": "蒸汽流量瞬时值",
+          "unit": "T/h",
+          "mark": "蒸汽流量瞬时值"
+        },
+        {
+          "id": 88,
+          "type": 5048,
+          "dataType": 1,
+          "name": "蒸汽流量用量",
+          "unit": "m³",
+          "mark": "蒸汽流量用量"
+        },
+        {
+          "id": 89,
+          "type": 5049,
+          "dataType": 1,
+          "name": "甲醛",
+          "unit": "mg/m",
+          "mark": "甲醛"
+        },
+        {
+          "id": 90,
+          "type": 5050,
+          "dataType": 1,
+          "name": "信号强度",
+          "unit": "--",
+          "mark": "信号强度"
+        },
+        {
+          "id": 91,
+          "type": 5051,
+          "dataType": 1,
+          "name": "电池电压",
+          "unit": "mV",
+          "mark": "电池电压"
+        },
+        {
+          "id": 92,
+          "type": 5052,
+          "dataType": 1,
+          "name": "倾斜角度",
+          "unit": "°",
+          "mark": "倾斜角度"
+        },
+        {
+          "id": 93,
+          "type": 5053,
+          "dataType": 1,
+          "name": "经度",
+          "unit": "°",
+          "mark": "经度"
+        },
+        {
+          "id": 94,
+          "type": 5054,
+          "dataType": 1,
+          "name": "纬度",
+          "unit": "°",
+          "mark": "纬度"
+        },
+        {
+          "id": 95,
+          "type": 5055,
+          "dataType": 1,
+          "name": "定位结果",
+          "unit": "--",
+          "mark": "定位结果"
+        },
+        {
+          "id": 96,
+          "type": 5056,
+          "dataType": 1,
+          "name": "布防状态",
+          "unit": "--",
+          "mark": "布防状态"
+        },
+        {
+          "id": 97,
+          "type": 5057,
+          "dataType": 1,
+          "name": "液位状态",
+          "unit": "--",
+          "mark": "液位状态"
+        },
+        {
+          "id": 902,
+          "type": 5058,
+          "dataType": 1,
+          "name": "管道压力",
+          "unit": "mPa",
+          "mark": "mPa"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,321 @@
+{
+  "POST": {
+    "/solution-svr/ems/getTimeEnergySum": {
+      "errorCode": 1,
+      "record": [
+        {
+          "time": "2024-04-09 00",
+          "data": [
+            {
+              "proType": 5016,
+              "value": 2.69
+            },
+            {
+              "proType": 5017,
+              "value": -28.35
+            }
+          ]
+        },
+        {
+          "time": "2024-04-09 01",
+          "data": [
+            {
+              "proType": 5016,
+              "value": 2.6
+            },
+            {
+              "proType": 5017,
+              "value": -9.2
+            }
+          ]
+        },
+        {
+          "time": "2024-04-09 02",
+          "data": [
+            {
+              "proType": 5016,
+              "value": 2.76
+            },
+            {
+              "proType": 5017,
+              "value": 34.55
+            }
+          ]
+        },
+        {
+          "time": "2024-04-09 03",
+          "data": [
+            {
+              "proType": 5016,
+              "value": 3.06
+            },
+            {
+              "proType": 5017,
+              "value": 23.62
+            }
+          ]
+        },
+        {
+          "time": "2024-04-09 04",
+          "data": [
+            {
+              "proType": 5016,
+              "value": 2.75
+            },
+            {
+              "proType": 5017,
+              "value": -20.56
+            }
+          ]
+        },
+        {
+          "time": "2024-04-09 05",
+          "data": [
+            {
+              "proType": 5016,
+              "value": 2.7
+            },
+            {
+              "proType": 5017,
+              "value": 24.15
+            }
+          ]
+        },
+        {
+          "time": "2024-04-09 06",
+          "data": [
+            {
+              "proType": 5016,
+              "value": 2.94
+            },
+            {
+              "proType": 5017,
+              "value": 3.08
+            }
+          ]
+        },
+        {
+          "time": "2024-04-09 07",
+          "data": [
+            {
+              "proType": 5016,
+              "value": 3.04
+            },
+            {
+              "proType": 5017,
+              "value": -24.34
+            }
+          ]
+        },
+        {
+          "time": "2024-04-09 08",
+          "data": [
+            {
+              "proType": 5016,
+              "value": 2.97
+            },
+            {
+              "proType": 5017,
+              "value": 22.03
+            }
+          ]
+        },
+        {
+          "time": "2024-04-09 09",
+          "data": [
+            {
+              "proType": 5016,
+              "value": 2.75
+            },
+            {
+              "proType": 5017,
+              "value": -12.93
+            }
+          ]
+        },
+        {
+          "time": "2024-04-09 10",
+          "data": [
+            {
+              "proType": 5016,
+              "value": 2.21
+            },
+            {
+              "proType": 5017,
+              "value": -17.96
+            }
+          ]
+        },
+        {
+          "time": "2024-04-09 11",
+          "data": [
+            {
+              "proType": 5016,
+              "value": 0
+            },
+            {
+              "proType": 5017,
+              "value": 0
+            }
+          ]
+        },
+        {
+          "time": "2024-04-09 12",
+          "data": [
+            {
+              "proType": 5016,
+              "value": 0
+            },
+            {
+              "proType": 5017,
+              "value": 0
+            }
+          ]
+        },
+        {
+          "time": "2024-04-09 13",
+          "data": [
+            {
+              "proType": 5016,
+              "value": 0
+            },
+            {
+              "proType": 5017,
+              "value": 0
+            }
+          ]
+        },
+        {
+          "time": "2024-04-09 14",
+          "data": [
+            {
+              "proType": 5016,
+              "value": 0
+            },
+            {
+              "proType": 5017,
+              "value": 0
+            }
+          ]
+        },
+        {
+          "time": "2024-04-09 15",
+          "data": [
+            {
+              "proType": 5016,
+              "value": 0
+            },
+            {
+              "proType": 5017,
+              "value": 0
+            }
+          ]
+        },
+        {
+          "time": "2024-04-09 16",
+          "data": [
+            {
+              "proType": 5016,
+              "value": 0
+            },
+            {
+              "proType": 5017,
+              "value": 0
+            }
+          ]
+        },
+        {
+          "time": "2024-04-09 17",
+          "data": [
+            {
+              "proType": 5016,
+              "value": 0
+            },
+            {
+              "proType": 5017,
+              "value": 0
+            }
+          ]
+        },
+        {
+          "time": "2024-04-09 18",
+          "data": [
+            {
+              "proType": 5016,
+              "value": 0
+            },
+            {
+              "proType": 5017,
+              "value": 0
+            }
+          ]
+        },
+        {
+          "time": "2024-04-09 19",
+          "data": [
+            {
+              "proType": 5016,
+              "value": 0
+            },
+            {
+              "proType": 5017,
+              "value": 0
+            }
+          ]
+        },
+        {
+          "time": "2024-04-09 20",
+          "data": [
+            {
+              "proType": 5016,
+              "value": 0
+            },
+            {
+              "proType": 5017,
+              "value": 0
+            }
+          ]
+        },
+        {
+          "time": "2024-04-09 21",
+          "data": [
+            {
+              "proType": 5016,
+              "value": 0
+            },
+            {
+              "proType": 5017,
+              "value": 0
+            }
+          ]
+        },
+        {
+          "time": "2024-04-09 22",
+          "data": [
+            {
+              "proType": 5016,
+              "value": 0
+            },
+            {
+              "proType": 5017,
+              "value": 0
+            }
+          ]
+        },
+        {
+          "time": "2024-04-09 23",
+          "data": [
+            {
+              "proType": 5016,
+              "value": 0
+            },
+            {
+              "proType": 5017,
+              "value": 0
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

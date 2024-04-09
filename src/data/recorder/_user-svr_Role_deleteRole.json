@@ -1,0 +1,8 @@
+{
+  "GET": {
+    "/user-svr/Role/deleteRole": {
+      "errorCode": 1,
+      "record": "deleteRole_success"
+    }
+  }
+}

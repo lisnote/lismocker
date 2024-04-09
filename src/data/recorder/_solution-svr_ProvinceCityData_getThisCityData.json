@@ -1,0 +1,8 @@
+{
+  "GET": {
+    "/solution-svr/ProvinceCityData/getThisCityData": {
+      "errorCode": 0,
+      "record": "getThisCityData exception"
+    }
+  }
+}

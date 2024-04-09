@@ -1,12 +1,8 @@
-import type { Request, Response, NextFunction } from "express";
+import type { Request, Response, NextFunction } from 'express';
 export default function cors(req: Request, res: Response, next: NextFunction) {
-  [
-    "Access-Control-Allow-Origin",
-    "Access-Control-Allow-Methods",
-    "Access-Control-Allow-Headers",
-    "Access-Control-Expose-Headers",
-  ].forEach((v) => {
-    res.setHeader(v, "*");
-  });
+  res.setHeader('Access-Control-Allow-Origin', '*');
+  res.setHeader('Access-Control-Allow-Credentials', 'true');
+  res.setHeader('Access-Control-Allow-Methods', '*');
+  res.setHeader('Access-Control-Expose-Headers', '*');
   next();
 }

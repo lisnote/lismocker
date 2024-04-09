@@ -1,0 +1,81 @@
+{
+  "GET": {
+    "/solution-svr/ems/getProTypeListByMark": {
+      "errorCode": 1,
+      "record": [
+        {
+          "id": 57,
+          "type": 5026,
+          "dataType": null,
+          "name": null,
+          "unit": null,
+          "mark": "U"
+        },
+        {
+          "id": 58,
+          "type": 5027,
+          "dataType": null,
+          "name": null,
+          "unit": null,
+          "mark": "I"
+        },
+        {
+          "id": 48,
+          "type": 5019,
+          "dataType": null,
+          "name": null,
+          "unit": null,
+          "mark": "Ua"
+        },
+        {
+          "id": 49,
+          "type": 5020,
+          "dataType": null,
+          "name": null,
+          "unit": null,
+          "mark": "Ub"
+        },
+        {
+          "id": 50,
+          "type": 5021,
+          "dataType": null,
+          "name": null,
+          "unit": null,
+          "mark": "Uc"
+        },
+        {
+          "id": 51,
+          "type": 5022,
+          "dataType": null,
+          "name": null,
+          "unit": null,
+          "mark": "Ia"
+        },
+        {
+          "id": 52,
+          "type": 5023,
+          "dataType": null,
+          "name": null,
+          "unit": null,
+          "mark": "Ib"
+        },
+        {
+          "id": 53,
+          "type": 5024,
+          "dataType": null,
+          "name": null,
+          "unit": null,
+          "mark": "Ic"
+        },
+        {
+          "id": 54,
+          "type": 5025,
+          "dataType": null,
+          "name": null,
+          "unit": null,
+          "mark": "总功率"
+        }
+      ]
+    }
+  }
+}

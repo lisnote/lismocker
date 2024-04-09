@@ -4,16 +4,28 @@
       "errorCode": 1,
       "record": [
         {
-          "id": "a5ab4828eba84ace8d185003d8228875",
-          "rank": 2,
-          "name": "2级报警",
-          "agencyId": "7085d7e613734ac5b3826b6a11e1f0f2"
+          "id": "135c7c57277c4f45bef2509e5b4b7ade",
+          "rank": 5,
+          "name": "报警",
+          "agencyId": "ee355a710bd9406f8bc05ac98664c744"
         },
         {
-          "id": "8e5fcfacb97744d198bfb7e89eddc296",
+          "id": "01350047837d455bbbbe83d29514f596",
+          "rank": 4,
+          "name": "预警",
+          "agencyId": "ee355a710bd9406f8bc05ac98664c744"
+        },
+        {
+          "id": "291319e303724c27914ab57ee35b0771",
+          "rank": 3,
+          "name": "22221211",
+          "agencyId": "ee355a710bd9406f8bc05ac98664c744"
+        },
+        {
+          "id": "13331ca3bcc0422fbb0e8f8dd88d4cc8",
           "rank": 1,
-          "name": "1级",
-          "agencyId": "7085d7e613734ac5b3826b6a11e1f0f2"
+          "name": "1",
+          "agencyId": "ee355a710bd9406f8bc05ac98664c744"
         }
       ]
     }

@@ -1,0 +1,8 @@
+{
+  "POST": {
+    "/base-svr/ConDeviceService/insertVirtualDevice": {
+      "errorCode": 0,
+      "record": "\n### Error updating database.  Cause: java.sql.SQLException: Column count doesn't match value count at row 1\n### The error may exist in com/keenyoda/iot/consumer/basesvr/mapper/devicemapper/DeviceDao.xml\n### The error may involve com.keenyoda.iot.consumer.basesvr.mapper.devicemapper.DeviceDao.insertSelective-Inline\n### The error occurred while setting parameters\n### SQL: insert into device          ( id,                                           name,                                           mac_addr,                                           type,                                           gateway_id,                                                                                                                                                   is_virtual )           values ( ?,                                           ?,                                           ?,                                           ?,                                           ? )\n### Cause: java.sql.SQLException: Column count doesn't match value count at row 1\n; bad SQL grammar []; nested exception is java.sql.SQLException: Column count doesn't match value count at row 1"
+    }
+  }
+}

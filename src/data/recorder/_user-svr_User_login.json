@@ -4,8 +4,8 @@
       "errorCode": 1,
       "record": {
         "status": null,
-        "userJson": "{\"id\":\"46fde51b467d4c7c95f39ab8728f7487\",\"name\":\"lisnsdfaaa\",\"phone\":\"18319135951\",\"pwd\":\"7ka9e84e51n04ye6ob2db2a5218624b39448b5c46347ec86\",\"headUrl\":\"http://keenyoda-iot-bucket.oss-cn-shenzhen.aliyuncs.com/QiWuIOT/userHead/1072439d5d664c48919a4ee7a83641ce.jpg\",\"solutiontype\":null}",
-        "token": "46fde51b467d4c7c95f39ab8728f7487",
+        "userJson": "{\"id\":\"49d828f411cc4c56abe9330cfd824c64\",\"name\":\"kyd_xjw\",\"phone\":\"18888888888\",\"pwd\":\"7ka9e84e51n04ye6ob2db2a5218624b39448b5c46347ec86\",\"headUrl\":\"http://keenyoda-iot-bucket.oss-cn-shenzhen.aliyuncs.com/QiWuIOT/userHead/d3c6f777-e4b5-4d89-a8e3-dc43d3d03865.jpg\",\"solutiontype\":null}",
+        "token": "49d828f411cc4c56abe9330cfd824c64",
         "agencyId": null
       }
     }

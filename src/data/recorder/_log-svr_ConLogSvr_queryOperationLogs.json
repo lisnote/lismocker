@@ -1,0 +1,46 @@
+{
+  "GET": {
+    "/log-svr/ConLogSvr/queryOperationLogs": {
+      "errorCode": 1,
+      "record": {
+        "code": 0,
+        "msg": "",
+        "count": 4,
+        "data": [
+          {
+            "phone": "18888888888",
+            "optContent": "添加了非自动化设备 普通水表 失败",
+            "name": "kyd_xjw",
+            "id": "8bcdb0a5d0b84f3c9d34108e8d7ca9c7",
+            "optTime": "2024-04-09 11:25:14",
+            "userId": "49d828f411cc4c56abe9330cfd824c64"
+          },
+          {
+            "phone": "18888888888",
+            "optContent": "登录成功",
+            "name": "kyd_xjw",
+            "id": "12a6753034074a27bf1bdecff22ae835",
+            "optTime": "2024-04-09 11:23:58",
+            "userId": "49d828f411cc4c56abe9330cfd824c64"
+          },
+          {
+            "phone": "18888888888",
+            "optContent": "登录成功",
+            "name": "kyd_xjw",
+            "id": "66eceb48b9114f65b39d3856e8a943c0",
+            "optTime": "2024-04-09 11:23:26",
+            "userId": "49d828f411cc4c56abe9330cfd824c64"
+          },
+          {
+            "phone": "18888888888",
+            "optContent": "登录成功",
+            "name": "kyd_xjw",
+            "id": "0d31580b20bb4674a9cbc228d30ea8ff",
+            "optTime": "2024-04-09 11:17:57",
+            "userId": "49d828f411cc4c56abe9330cfd824c64"
+          }
+        ]
+      }
+    }
+  }
+}

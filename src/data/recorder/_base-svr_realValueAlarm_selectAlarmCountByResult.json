@@ -1,0 +1,17 @@
+{
+  "POST": {
+    "/base-svr/realValueAlarm/selectAlarmCountByResult": {
+      "errorCode": 1,
+      "record": [
+        {
+          "beDeal": 0,
+          "count": 11198
+        },
+        {
+          "beDeal": 1,
+          "count": 3
+        }
+      ]
+    }
+  }
+}

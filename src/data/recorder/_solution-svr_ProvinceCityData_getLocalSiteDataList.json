@@ -1,0 +1,187 @@
+{
+  "GET": {
+    "/solution-svr/ProvinceCityData/getLocalSiteDataList": {
+      "errorCode": 1,
+      "record": {
+        "countryData": [
+          {
+            "yearMonthDay": "2024-04-09 13:04",
+            "sensorTime": {
+              "year": 124,
+              "month": 3,
+              "date": 9,
+              "day": 2,
+              "hours": 13,
+              "minutes": 4,
+              "seconds": 59,
+              "time": 1712639099000,
+              "timezoneOffset": -480
+            },
+            "sensorValue": 119.2,
+            "level": "3"
+          },
+          {
+            "yearMonthDay": "2024-04-09 13:40",
+            "sensorTime": {
+              "year": 124,
+              "month": 3,
+              "date": 9,
+              "day": 2,
+              "hours": 13,
+              "minutes": 40,
+              "seconds": 9,
+              "time": 1712641209000,
+              "timezoneOffset": -480
+            },
+            "sensorValue": 118.6,
+            "level": "3"
+          },
+          {
+            "yearMonthDay": "2024-04-09 13:20",
+            "sensorTime": {
+              "year": 124,
+              "month": 3,
+              "date": 9,
+              "day": 2,
+              "hours": 13,
+              "minutes": 20,
+              "seconds": 4,
+              "time": 1712640004000,
+              "timezoneOffset": -480
+            },
+            "sensorValue": 101.8,
+            "level": "3"
+          },
+          {
+            "yearMonthDay": "2024-04-09 13:50",
+            "sensorTime": {
+              "year": 124,
+              "month": 3,
+              "date": 9,
+              "day": 2,
+              "hours": 13,
+              "minutes": 50,
+              "seconds": 12,
+              "time": 1712641812000,
+              "timezoneOffset": -480
+            },
+            "sensorValue": 102.4,
+            "level": "3"
+          },
+          {
+            "yearMonthDay": "2024-04-09 13:25",
+            "sensorTime": {
+              "year": 124,
+              "month": 3,
+              "date": 9,
+              "day": 2,
+              "hours": 13,
+              "minutes": 25,
+              "seconds": 5,
+              "time": 1712640305000,
+              "timezoneOffset": -480
+            },
+            "sensorValue": 88,
+            "level": "2"
+          },
+          {
+            "yearMonthDay": "2024-04-09 13:35",
+            "sensorTime": {
+              "year": 124,
+              "month": 3,
+              "date": 9,
+              "day": 2,
+              "hours": 13,
+              "minutes": 35,
+              "seconds": 8,
+              "time": 1712640908000,
+              "timezoneOffset": -480
+            },
+            "sensorValue": 102.6,
+            "level": "3"
+          },
+          {
+            "yearMonthDay": "2024-04-09 13:10",
+            "sensorTime": {
+              "year": 124,
+              "month": 3,
+              "date": 9,
+              "day": 2,
+              "hours": 13,
+              "minutes": 10,
+              "seconds": 1,
+              "time": 1712639401000,
+              "timezoneOffset": -480
+            },
+            "sensorValue": 103.4,
+            "level": "3"
+          },
+          {
+            "yearMonthDay": "2024-04-09 13:55",
+            "sensorTime": {
+              "year": 124,
+              "month": 3,
+              "date": 9,
+              "day": 2,
+              "hours": 13,
+              "minutes": 55,
+              "seconds": 13,
+              "time": 1712642113000,
+              "timezoneOffset": -480
+            },
+            "sensorValue": 87.875,
+            "level": "2"
+          },
+          {
+            "yearMonthDay": "2024-04-09 13:45",
+            "sensorTime": {
+              "year": 124,
+              "month": 3,
+              "date": 9,
+              "day": 2,
+              "hours": 13,
+              "minutes": 45,
+              "seconds": 10,
+              "time": 1712641510000,
+              "timezoneOffset": -480
+            },
+            "sensorValue": 115.875,
+            "level": "3"
+          },
+          {
+            "yearMonthDay": "2024-04-09 13:30",
+            "sensorTime": {
+              "year": 124,
+              "month": 3,
+              "date": 9,
+              "day": 2,
+              "hours": 13,
+              "minutes": 30,
+              "seconds": 6,
+              "time": 1712640606000,
+              "timezoneOffset": -480
+            },
+            "sensorValue": 111.4,
+            "level": "3"
+          },
+          {
+            "yearMonthDay": "2024-04-09 13:15",
+            "sensorTime": {
+              "year": 124,
+              "month": 3,
+              "date": 9,
+              "day": 2,
+              "hours": 13,
+              "minutes": 15,
+              "seconds": 2,
+              "time": 1712639702000,
+              "timezoneOffset": -480
+            },
+            "sensorValue": 119.4,
+            "level": "3"
+          }
+        ]
+      }
+    }
+  }
+}

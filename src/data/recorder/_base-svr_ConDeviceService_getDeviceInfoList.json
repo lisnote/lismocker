@@ -2,7 +2,74 @@
   "GET": {
     "/base-svr/ConDeviceService/getDeviceInfoList": {
       "errorCode": 1,
-      "record": "no data"
+      "record": [
+        {
+          "did": "EmsGtw001_01",
+          "name": "智能电表2",
+          "gatewayId": null,
+          "isFault": false,
+          "sensorProType": null,
+          "sensorValue": null,
+          "sensorTime": {
+            "year": 124,
+            "month": 3,
+            "date": 9,
+            "day": 2,
+            "hours": 11,
+            "minutes": 24,
+            "seconds": 18,
+            "time": 1712633058000,
+            "timezoneOffset": -480
+          },
+          "valueList": {
+            "U(V)": null,
+            "电量用量(kW·h)": 9802.68,
+            "Ub(V)": 18.57,
+            "Ic(A)": 12.63,
+            "Ua(V)": 16.17,
+            "Uc(V)": 15.54,
+            "Ib(A)": 13.79,
+            "I(A)": null,
+            "Ia(A)": 10.67,
+            "功率(kw)": 13.62
+          },
+          "status": 0,
+          "fault": false
+        },
+        {
+          "did": "EmsGtw001_02",
+          "name": "智能电表3",
+          "gatewayId": null,
+          "isFault": false,
+          "sensorProType": null,
+          "sensorValue": null,
+          "sensorTime": {
+            "year": 124,
+            "month": 3,
+            "date": 9,
+            "day": 2,
+            "hours": 11,
+            "minutes": 24,
+            "seconds": 18,
+            "time": 1712633058000,
+            "timezoneOffset": -480
+          },
+          "valueList": {
+            "U(V)": 144.54,
+            "电量用量(kW·h)": 9796.18,
+            "Ub(V)": null,
+            "Ic(A)": null,
+            "Ua(V)": null,
+            "Uc(V)": null,
+            "Ib(A)": null,
+            "I(A)": 139.61,
+            "Ia(A)": null,
+            "功率(kw)": 263.3
+          },
+          "status": 0,
+          "fault": false
+        }
+      ]
     }
   }
 }

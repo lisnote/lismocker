@@ -1,0 +1,19 @@
+{
+  "GET": {
+    "/solution-svr/Employee/selectEmployee": {
+      "errorCode": 1,
+      "record": {
+        "rootdepartmentid": null,
+        "rootagencyid": "22e9816793654e71ab081e7f0219b082",
+        "AgmsEmployeeEntity": {
+          "id": "49d828f411cc4c56abe9330cfd824c64",
+          "name": "kyd_xjw",
+          "phone": "18888888888",
+          "pwd": "7ka9e84e51n04ye6ob2db2a5218624b39448b5c46347ec86",
+          "headUrl": "http://keenyoda-iot-bucket.oss-cn-shenzhen.aliyuncs.com/QiWuIOT/userHead/d3c6f777-e4b5-4d89-a8e3-dc43d3d03865.jpg",
+          "solutiontype": "2"
+        }
+      }
+    }
+  }
+}
